@@ -1,0 +1,49 @@
+21_Two_Trains_1_Gangway
+ 
+Start of player turn 1
+Jen moved - from (-5, 27) to (-4, 27)
+Jen cast Static Blast on Reactor Tracker Sundermass - from (-4, 27) to (2, 25)
+Reactor Tracker Sundermass took 2 knockback
+Reactor Tracker Sundermass was defenestrated - from (2, 25) to (2, 25)
+Reactor Tracker Sundermass took 3 damage
+Reactor Tracker Sundermass passed out
+Jen used Broom Breach - from (-4, 27) to (2, 25)
+Jen moved - from (2, 25) to (2, 26)
+Jen used Use Laptop - from (2, 26) to (2, 27)
+Rion cast Impaling Vine on Reactor Heavy Gunner Starspelt - from (-5, 20) to (-1, 24)
+Reactor Heavy Gunner Starspelt armour blocked 1 damage
+Reactor Heavy Gunner Starspelt stability prevented 1 knockback
+Reactor Heavy Gunner Starspelt took 2 knockback
+Reactor Heavy Gunner Starspelt was defenestrated - from (-2, 23) to (-2, 23)
+Reactor Heavy Gunner Starspelt took 1 extra damage from Brittle, Brittle reduced to 0
+Reactor Heavy Gunner Starspelt is no longer Brittle
+Reactor Heavy Gunner Starspelt took 5 damage
+Reactor Heavy Gunner Starspelt passed out
+Jen used Broom Breach - from (2, 26) to (-7, 20)
+Rion used Spore Bomb - from (-5, 20) to (0, 22)
+Reactor Tracker Grounder took 3 damage
+Reactor Tracker Grounder passed out
+Reactor Heavy Gunner Spica armour blocked 1 damage
+Reactor Heavy Gunner Spica took 2 damage
+Rion cast Brittling Dart on Reactor Heavy Gunner Spica - from (-5, 20) to (0, 23)
+Jen threw a Gale Grenade Reactor Heavy Gunner Spica - from (-7, 20) to (0, 23)
+Rion bit on Reactor Heavy Gunner Spica - from (-1, 23) to (0, 23)
+Reactor Heavy Gunner Spica armour blocked 1 damage
+Rion cast Brittling Dart on Reactor Heavy Gunner Spica - from (-5, 20) to (0, 23)
+Rion bit on Reactor Heavy Gunner Spica - from (-1, 23) to (0, 23)
+Brittle: 1 armour lost (Reactor Heavy Gunner Spica)
+Reactor Heavy Gunner Spica took 1 extra damage from Brittle, Brittle reduced to 0
+Reactor Heavy Gunner Spica is no longer Brittle
+Reactor Heavy Gunner Spica took 1 damage
+Rion used Change Form - from (-1, 23) to (-1, 23)
+Rion moved - from (-1, 23) to (-5, 22)
+Rion took cover - from (-5, 22) to (-5, 22)
+Medil Militia Moon shot Reactor Heavy Gunner Spica - from (-5, 24) to (0, 23)
+Reactor Heavy Gunner Spica took 2 damage
+Reactor Heavy Gunner Spica passed out
+Player ended their turn, starting enemy turn 1
+End of enemy turn 1
+ 
+Start of player turn 2
+Rion moved - from (-5, 22) to (-5, 18)
+Jen moved - from (-7, 20) to (-6, 18)

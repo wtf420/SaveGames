@@ -1,0 +1,153 @@
+27_Finale_Vault_1_The_Gold_Vault
+ 
+Start of player turn 1
+Jen repositioned - from (-17, 52) to (-17, 54)
+Jen breached - from (-17, 54) to (-17, 53)
+Dall Swapped with Heavy Turret - from (-17, 52) to (-10, 48)
+Dall moved - from (-10, 48) to (-8, 51)
+Dall used Use Laptop - from (-8, 51) to (-7, 51)
+Jen moved - from (-17, 53) to (-15, 53)
+Jen cast Static Blast on Reactor Officer Vietzen - from (-15, 53) to (-14, 51)
+Reactor Officer Vietzen took 2 knockback
+Reactor Officer Vietzen hit a Electrified Wall
+Reactor Officer Vietzen armour blocked 1 damage
+Reactor Officer Vietzen took 1 damage
+Reactor Officer Vietzen is Stunned for 1 turn
+Reactor Officer Vietzen hit something with 2 knockback left
+Reactor Officer Vietzen took 2 damage
+Reactor Officer Vietzen passed out
+Dall Swapped with Jen - from (-8, 51) to (-15, 53)
+Dall used Charge - from (-15, 53) to (-15, 49)
+Reactor Officer Pleiades armour blocked 1 damage
+Reactor Officer Pleiades took 7 knockback
+Reactor Officer Pleiades hit something with 6 knockback left
+Reactor Officer Pleiades took 6 damage
+Reactor Officer Pleiades passed out
+Jen moved - from (-8, 51) to (-10, 53)
+Dall Swapped with Jen - from (-15, 49) to (-10, 53)
+Dall used Throw Riot Block - from (-10, 53) to (-10, 42)
+Dall used Throw Riot Block - from (-10, 53) to (-10, 41)
+Dall used Throw Riot Block - from (-10, 53) to (-10, 42)
+Dall used Charge - from (-10, 53) to (-10, 44)
+Heavy Turret armour blocked 1 damage
+Heavy Turret stability prevented 1 knockback
+Heavy Turret took 11 knockback
+Heavy Turret hit something with 11 knockback left
+Riot Block added 1 extra impact damage
+Heavy Turret took 12 damage
+Heavy Turret passed out
+Dall Swapped with Jen - from (-10, 44) to (-15, 49)
+Jen threw a Gale Grenade Heavy Turret - from (-10, 44) to (-4, 43)
+Air Canister took 1 knockback
+Heavy Turret armour blocked 1 damage
+Heavy Turret took 1 damage
+Air Canister hit something with 1 knockback left
+Air Canister took 1 damage
+Air Canister exploded
+Heavy Turret stability prevented 1 knockback
+Heavy Turret took 2 knockback
+Jen threw a Gale Grenade - from (-10, 44) to (-5, 43)
+Air Canister took 1 knockback
+Heavy Turret stability prevented 1 knockback
+Air Canister hit something with 1 knockback left
+Air Canister took 1 damage
+Air Canister exploded
+Heavy Turret stability prevented 1 knockback
+Heavy Turret took 2 knockback
+Dall Swapped with Jen - from (-15, 49) to (-10, 53)
+Dall used Throw Riot Block - from (-10, 53) to (-10, 42)
+Dall used Charge - from (-10, 53) to (-10, 44)
+Heavy Turret armour blocked 1 damage
+Heavy Turret stability prevented 1 knockback
+Heavy Turret took 11 knockback
+Heavy Turret hit something with 11 knockback left
+Riot Block added 1 extra impact damage
+Heavy Turret took 12 damage
+Heavy Turret passed out
+Dall Swapped with Jen - from (-10, 44) to (-15, 49)
+Dall used Charge - from (-10, 53) to (-10, 44)
+Heavy Turret armour blocked 1 damage
+Heavy Turret stability prevented 1 knockback
+Heavy Turret took 11 knockback
+Heavy Turret hit something with 11 knockback left
+Riot Block added 1 extra impact damage
+Heavy Turret took 12 damage
+Heavy Turret passed out
+Dall used Charge - from (-10, 44) to (-10, 43)
+Riot Block armour blocked 1 damage
+Riot Block took 1 knockback
+Dall used Charge - from (-10, 43) to (-5, 43)
+Heavy Turret armour blocked 1 damage
+Heavy Turret stability prevented 1 knockback
+Heavy Turret took 7 knockback
+Heavy Turret hit something with 6 knockback left
+Heavy Turret took 6 damage
+Heavy Turret passed out
+Dall used Charge - from (-10, 53) to (-10, 44)
+Heavy Turret armour blocked 1 damage
+Heavy Turret stability prevented 1 knockback
+Heavy Turret took 11 knockback
+Heavy Turret hit something with 11 knockback left
+Riot Block added 1 extra impact damage
+Heavy Turret took 12 damage
+Heavy Turret passed out
+Dall used Charge - from (-10, 44) to (-10, 43)
+Riot Block armour blocked 1 damage
+Riot Block took 1 knockback
+Dall used Charge - from (-10, 43) to (-5, 43)
+Heavy Turret armour blocked 1 damage
+Heavy Turret stability prevented 1 knockback
+Heavy Turret took 7 knockback
+Heavy Turret hit something with 6 knockback left
+Heavy Turret took 6 damage
+Heavy Turret passed out
+Dall Swapped with Jen - from (-5, 43) to (-15, 49)
+Jen threw a Gale Grenade - from (-5, 43) to (-6, 43)
+Jen took 1 knockback
+Air Canister took 1 knockback
+Air Canister hit something with 1 knockback left
+Air Canister took 1 damage
+Air Canister exploded
+Jen took 3 knockback
+Jen threw a Gale Grenade - from (-5, 43) to (-6, 42)
+Jen took 1 knockback
+Dall Swapped with Jen - from (-15, 49) to (-4, 44)
+Dall used Charge - from (-4, 44) to (-4, 38)
+Heavy Turret armour blocked 1 damage
+Heavy Turret stability prevented 1 knockback
+Heavy Turret took 8 knockback
+Heavy Turret hit something with 7 knockback left
+Heavy Turret took 7 damage
+Heavy Turret passed out
+Dall used Grab Intel - from (-4, 38) to (-3, 38)
+Dall used Charge - from (-4, 38) to (-6, 38)
+Dall used Grab Intel - from (-6, 38) to (-7, 38)
+Heavy Turret used Rocket Shot - from (-17, 52) to (-17, 53)
+Heavy Turret armour blocked 1 damage
+Heavy Turret stability prevented 1 knockback
+Player ended their turn, starting enemy turn 1
+End of enemy turn 1
+ 
+Start of player turn 2
+Jen moved - from (-15, 49) to (-10, 49)
+Jen cast Static Blast on - from (-10, 49) to (-10, 41)
+Riot Block took 2 knockback
+Riot Block hit something with 1 knockback left
+Riot Block added 1 extra impact damage
+Riot Block took 2 damage
+Jen moved - from (-10, 49) to (-10, 44)
+Dall Swapped with Jen - from (-6, 38) to (-10, 44)
+Dall used Charge - from (-10, 44) to (-10, 37)
+Player ended their turn, starting enemy turn 2
+End of enemy turn 2
+ 
+Start of player turn 3
+Jen moved - from (-6, 38) to (-2, 37)
+Dall used Charge - from (-10, 37) to (-3, 37)
+Jen took 1 damage
+Jen took 10 knockback
+Jen was defenestrated - from (0, 37) to (0, 37)
+Jen took 3 damage
+Jen passed out
+Jen moved - from (-6, 38) to (-2, 36)
+Dall used Charge - from (-10, 37) to (0, 37)

@@ -1,0 +1,2 @@
+[2022-10-25 20:38:24] [ngx::util::setLogFilename:203] Logging to requested file (C:/Users/Admin/AppData/Local/Sifu/Saved/Logs/NGX/NGX_2022.10.25-20.38.24_25977E774BAC8B88750ECF9F99CCA805/nvngx.log) enabled successfully
+[2022-10-25 20:38:24] [NGXCheckHardwareSupportUsingINF:212] error: unsupported hardware detected

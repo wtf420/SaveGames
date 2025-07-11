@@ -1,0 +1,77 @@
+08_The_Meet_1_Spectral_Skull
+ 
+Start of player turn 1
+Banks breached - from (15, 3) to (15, 2)
+Banks used Death's Door on Reactor Heavy Gunner Kreka - from (15, 2) to (25, 0)
+Banks used Spectral Skull - from (15, 2) to (21, 3)
+Reactor Tracker Circini took 2 damage
+Reactor Tracker Justice took 2 damage
+Reactor Tracker Justice took 2 damage
+Reactor Tracker Justice passed out
+Banks used Spectral Skull - from (15, 2) to (22, 3)
+Reactor Tracker Circini took 2 damage
+Reactor Tracker Justice took 2 damage
+Reactor Tracker Justice took 2 damage
+Reactor Tracker Justice passed out
+Reactor Tracker Concept took 2 damage
+Banks moved - from (15, 2) to (17, 3)
+Banks used Grab Intel - from (17, 3) to (18, 3)
+Zan moved - from (15, 1) to (17, 1)
+Zan used Time Boost on Banks - from (17, 1) to (17, 3)
+Zan used 3 Bolt Burst on Reactor Tracker Circini - from (17, 1) to (19, 2)
+Reactor Tracker Circini took 1 damage
+Reactor Tracker Circini passed out
+Reactor Tracker Circini took 1 knockback
+Banks used Sedative Cocktail on Reactor Tracker Concept - from (17, 3) to (22, 4)
+Reactor Tracker Concept took 1 knockback
+Reactor Tracker Concept is Sedated
+Reactor Tracker Concept hit something with 1 knockback left
+Reactor Tracker Concept took 1 damage
+Reactor Tracker Concept passed out
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Jen breached - from (16, -1) to (17, -1)
+Jen moved - from (17, -1) to (17, 4)
+Banks used Death's Door - from (17, 3) to (24, 0)
+Jen used Broom Breach - from (17, 4) to (25, 4)
+Jen cast Chain Bolt on Reactor Tracker Clawless, Reactor Heavy Gunner Kreka - from (25, 4) to (26, 4)
+Reactor Tracker Clawless took 2 knockback
+Reactor Heavy Gunner Kreka stability prevented 1 knockback
+Reactor Heavy Gunner Kreka took 3 knockback
+Reactor Heavy Gunner Kreka fell into Death's Door
+Reactor Heavy Gunner Kreka took 4 damage
+Reactor Heavy Gunner Kreka passed out
+Reactor Heavy Gunner Kreka hit something with 3 knockback left
+Reactor Tracker Clawless hit a Electrified Wall
+Reactor Tracker Clawless took 2 damage
+Reactor Tracker Clawless is Stunned for 1 turn
+Reactor Tracker Clawless hit something with 2 knockback left
+Reactor Tracker Clawless took 2 damage
+Reactor Tracker Clawless passed out
+Jen cast Chain Bolt on Reactor Tracker Marble, Reactor Tracker Clawless, Reactor Heavy Gunner Kreka - from (25, 4) to (20, 1)
+Reactor Tracker Marble took 2 knockback
+Reactor Tracker Clawless took 2 knockback
+Reactor Heavy Gunner Kreka stability prevented 1 knockback
+Reactor Heavy Gunner Kreka took 3 knockback
+Reactor Heavy Gunner Kreka fell into Death's Door
+Reactor Heavy Gunner Kreka took 4 damage
+Reactor Heavy Gunner Kreka passed out
+Reactor Heavy Gunner Kreka hit something with 3 knockback left
+Reactor Tracker Marble hit something with 2 knockback left
+Reactor Tracker Marble took 2 damage
+Reactor Tracker Clawless hit a Electrified Wall
+Reactor Tracker Clawless took 2 damage
+Reactor Tracker Clawless is Stunned for 1 turn
+Reactor Tracker Clawless hit something with 2 knockback left
+Reactor Tracker Clawless took 2 damage
+Reactor Tracker Clawless passed out
+Jen threw a Gale Grenade - from (25, 4) to (20, 2)
+Reactor Tracker Marble took 1 knockback
+Air Canister took 1 knockback
+Reactor Tracker Marble hit something with 1 knockback left
+Reactor Tracker Marble took 1 damage
+Reactor Tracker Marble passed out
+Air Canister hit something with 1 knockback left
+Air Canister took 1 damage
+Air Canister exploded
+Banks moved - from (17, 3) to (20, 3)
+Banks used Use Laptop - from (20, 3) to (21, 3)

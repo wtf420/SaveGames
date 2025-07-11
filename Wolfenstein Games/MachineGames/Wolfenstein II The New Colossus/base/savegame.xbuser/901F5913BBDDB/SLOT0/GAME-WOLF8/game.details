@@ -1,0 +1,12 @@
+checksum=1504236956
+completionRation=40%
+date=1644388017
+difficulty=3
+gamePlayTime=37231
+gameVersion=1145896965
+mapName=game/wolf/c09/c09p1
+mapNiceName=#str_chapter_c09_name
+matName=textures/guis/missionobj/c09p1/mission_c09p1_main_venus_obj_05_reachoberkommando
+missionName=#str_mission_c09p1_main_venus_name
+objectiveDesc=#str_mission_c09p1_main_venus_obj_05_reach_summary
+objectiveName=#str_mission_c09p1_main_venus_obj_05_reach_name

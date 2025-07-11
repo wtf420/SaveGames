@@ -1,0 +1,150 @@
+# UnlockProgress.txt
+# 2025-03-03 22:44:26 (+07:00)
+# v:2025-01-17-Mango
+
+<CharacterManager>
+  # Costumes
+  costumeWitchCop = Freelance
+  costumeNavySeer = 1B
+</CharacterManager>
+<ConfidencePointManager>
+  # Goals
+  CompletedGoals[] = Evidence Lockup|1 Lobby|Official|AllWizardsFullHealthGoal
+  CompletedGoals[] = Evidence Lockup|3 Corridors|Official|PredictiveShotGoal
+  CompletedGoals[] = Evidence Boss|1 The Traffic Warlock|Official|AllWizardsFullHealthGoal
+  CompletedGoals[] = Liboli Intro|2 Mainframe|Official|AllWizardsFullHealthGoal
+  CompletedGoals[] = Liboli Intro|4 The Cell|Official|FinishBeforeTurnGoal
+  CompletedGoals[] = Necro Intro|1 Intro|Official|DeathsDoorTotalGoal
+  CompletedGoals[] = Necro Intro|1 Intro|Official|FinishBeforeTurnGoal
+  CompletedGoals[] = Necro Intro|2 Lead Medicine|Official|FinishBeforeTurnGoal
+  CompletedGoals[] = Necro Intro|3 Broom Breach|Official|FinishBeforeTurnGoal
+  CompletedGoals[] = The Meet|1 Spectral Skull|Official|FinishBeforeTurnGoal
+  CompletedGoals[] = The Meet|1 Spectral Skull|Official|GhostShotHitGoal
+  CompletedGoals[] = The Meet|1 Spectral Skull|Official|AbilitiesInOneTurnGoal
+  CompletedGoals[] = The Meet|2 Officers|Official|ClearEnemiesByTurnGoal
+  CompletedGoals[] = The Meet|2 Officers|Official|GhostShotHitGoal
+  CompletedGoals[] = The Meet|3 Reaching The Meet|Official|FinishBeforeTurnGoal
+  CompletedGoals[] = Exit Strategy|1 Entry Strategy|Official|FinishBeforeTurnGoal
+  CompletedGoals[] = Exit Strategy|1 Entry Strategy|Official|AbilitiesInOneTurnGoal
+  CompletedGoals[] = Exit Strategy|2 Heavies|Official|FinishBeforeTurnGoal
+  CompletedGoals[] = Exit Strategy|2 Heavies|Official|UnsteadyKnockbackGoal
+  CompletedGoals[] = Exit Strategy|3 Neutralisers|Official|PreventReinforcementsGoal
+  CompletedGoals[] = Exit Strategy|4 Junction|Official|PreventReinforcementsGoal
+  CompletedGoals[] = The Pyromancer|1 The Less Lethal Pyromancer|Official|DeathsDoorWarlockGoal
+  CompletedGoals[] = The Pyromancer|1 The Less Lethal Pyromancer|Official|ResurrectAllyGoal
+  CompletedGoals[] = Lucid Dream - Jen|1 Backdoor|Official|DefenestrateInOneTurnGoal
+  CompletedGoals[] = Lucid Dream - Jen|2 No Problem|Official|DefenestratePercentageGoal
+  CompletedGoals[] = Lucid Dream - Jen|4 Another Steve|Official|WarlockKillWarlockGoal
+  CompletedGoals[] = Train|1 On Board|Official|AllWizardsFullHealthGoal
+  CompletedGoals[] = Train|1 On Board|Official|GhostShotHitGoal
+  CompletedGoals[] = Train|2 Sappers|Official|FinishBeforeTurnGoal
+  CompletedGoals[] = Train|3 The Shepherd|Official|AllWizardsFullHealthGoal
+  CompletedGoals[] = Train|3 The Shepherd|Official|UnsteadyKnockbackGoal
+  CompletedGoals[] = Train|4 Terminal|Official|DefenestrateInOneTurnGoal
+  CompletedGoals[] = Train|5 The Riot Priest|Official|DeathsDoorTotalGoal
+  CompletedGoals[] = Train|5 The Riot Priest|Official|AllWizardsAliveGoal
+  CompletedGoals[] = Streets|1 Downtown|Official|GhostShotHitGoal
+  CompletedGoals[] = Streets|1 Downtown|Official|FinishBeforeTurnGoal
+  CompletedGoals[] = Streets|1 Downtown|Official|NoEnemiesFireGoal
+  CompletedGoals[] = Streets|2 Curfew|Official|GhostShotHitGoal
+  CompletedGoals[] = Streets|2 Curfew|Official|DefenestrateInOneTurnGoal
+  CompletedGoals[] = Streets|3 Going To Ground|Official|PreventReinforcementsGoal
+  CompletedGoals[] = Streets|3 Going To Ground|Official|FinishBeforeTurnGoal
+  CompletedGoals[] = Streets|3 Going To Ground|Official|ChargeDamageGoal
+  CompletedGoals[] = The Recording|1 The Golden Arms|Official|DestroyMoreCachesGoal
+  CompletedGoals[] = The Recording|1 The Golden Arms|Official|ClearEnemiesByTurnGoal
+  CompletedGoals[] = The Recording|2 Protection Ring|Official|DefenestrateInOneTurnGoal
+  CompletedGoals[] = The Recording|2 Protection Ring|Official|AbilitiesInOneTurnGoal
+  CompletedGoals[] = The Recording|3 The Dead Drop|Official|DestroyCachesByTurnGoal
+  CompletedGoals[] = The Recording|4 The Stand|Official|SurviveTurnsConfidenceGoalNavySeer
+  CompletedGoals[] = The Recording|4 The Stand|Official|SurviveTurnsConfidenceGoalWitchCop
+  CompletedGoals[] = The Recording|4 The Stand|Official|SurviveTurnsConfidenceGoalNecroMedic
+  CompletedGoals[] = The Recording|4 The Stand|Official|SurviveTurnsConfidenceGoalRiotPriest
+  CompletedGoals[] = The Broadcast|1 Heavy Backup|Official|DestroyMoreCachesGoal
+  CompletedGoals[] = The Broadcast|2 Tipping Point|Official|ScapegoatDamageGoal
+  CompletedGoals[] = The Broadcast|2 Tipping Point|Official|WitchTotalKnockbackGoal
+  CompletedGoals[] = The Broadcast|3 Firewall|Official|PreventReinforcementsGoal
+  CompletedGoals[] = The Broadcast|4 Caught In Traffic|Official|FinishBeforeTurnGoal
+  CompletedGoals[] = The Broadcast|4 Caught In Traffic|Official|ScapegoatDamageGoal
+  CompletedGoals[] = The Broadcast|5 The Armoury|Official|AllWizardsAliveGoal
+  CompletedGoals[] = The Broadcast|5 The Armoury|Official|ClearEnemiesByTurnGoal
+  CompletedGoals[] = Siege Cleric|1 The Siege Cleric|Official|PreventReinforcementsGoal
+  CompletedGoals[] = Siege Cleric|2 The Other Three Siege Clerics|Official|ResurrectAllyGoal
+  CompletedGoals[] = Siege Cleric|2 The Other Three Siege Clerics|Official|TotalBrittleDamageGoal
+  CompletedGoals[] = Kalan Ambush|1 Tick Tock|Official|FinishBeforeTurnGoal
+  CompletedGoals[] = Kalan Ambush|1 Tick Tock|Official|OnlyDallTakeDamageGoal
+  CompletedGoals[] = Lucid Dream - Banks|3 The Kill Zone|Official|ScapegoatDamageGoal
+  CompletedGoals[] = Lucid Dream - Banks|4 Circle Of Death|Official|DefenestrateWithPullGoal
+  CompletedGoals[] = Two Trains|4 Sabotage|Official|PlantBombByEndOfTurnGoal
+  CompletedGoals[] = Two Trains|4 Sabotage|Official|ChargeDamageGoal
+  CompletedGoals[] = Lucid Dream - Dall|1 Blind Faith|Official|FinishBeforeTurnGoalPriest
+  CompletedGoals[] = Lucid Dream - Dall|2 The Hotspot|Official|SwapPanicShotGoal
+  CompletedGoals[] = Lucid Dream - Dall|4 Unstoppable Force|Official|DontSealDoorsGoal
+  CompletedGoals[] = Fort Osprey|1 Empty Coffins|Official|NoEnemiesFireGoal
+  CompletedGoals[] = Fort Osprey|1 Empty Coffins|Official|SporeBombDamageGoal
+  CompletedGoals[] = Fort Osprey|4 Fortified|Official|FinishBeforeTurnGoal
+  CompletedGoals[] = Fort Osprey|4 Fortified|Official|AbilitiesInOneTurnGoal
+  CompletedGoals[] = Fort Osprey|4 Fortified|Official|SporeBombDamageGoal
+  CompletedGoals[] = Lucid Dream - Rion|1 The Pit|Official|DefenestrateWithPullGoal
+  CompletedGoals[] = Lucid Dream - Rion|2 Arguably You Let The Dogs Out|Official|RabidDamageGoal
+  CompletedGoals[] = Villa Medil|1 Split Focus|Official|FinishBeforeTurnGoal
+  CompletedGoals[] = Villa Medil|1 Split Focus|Official|DefenestrateWithPullGoal
+  CompletedGoals[] = Villa Medil|2 Locked Out|Official|PreventReinforcementsGoal
+  CompletedGoals[] = Villa Medil|3 Desk Job|Official|ScapegoatDamageGoal
+  CompletedGoals[] = Villa Medil|3 Desk Job|Official|FinishBeforeTurnGoal
+  CompletedGoals[] = Villa Medil|4 Time Pressure|Official|DontSealDoorsGoal
+  CompletedGoals[] = Villa Medil|4 Time Pressure|Official|ClearEnemiesByTurnGoal
+  CompletedGoals[] = Villa Medil|5 The Stone Table|Official|SporeBombDamageGoal
+  CompletedGoals[] = Villa Medil|5 The Stone Table|Official|OnlyDallTakeDamageGoal
+  CompletedGoals[] = Lucid Dream - Zan|1 Unsupportive Fire|Official|AllWizardsFullHealthGoal
+  CompletedGoals[] = Lucid Dream - Zan|2 Beam Flower|Official|FinishBeforeTurnGoalSeer
+  CompletedGoals[] = Lucid Dream - Zan|4 Bad Zan|Official|PreventReinforcementsGoal
+  CompletedGoals[] = Finale - Vault|1 The Gold Vault|Official|FinishBeforeTurnGoal
+  CompletedGoals[] = Finale - Vault|1 The Gold Vault|Official|ChargeDamageGoal
+  CompletedGoals[] = Finale - Vault|2 The Drop|Official|DontKillWarlockGoal
+  CompletedGoals[] = Finale - Mines|1 Dust To Dust|Official|DeathsFloorDistanceGoal
+  CompletedGoals[] = Finale - Mines|1 Dust To Dust|Official|RabidBiteDistanceGoal
+  CompletedGoals[] = Finale - Mines|2 The Motherlode|Official|SaveAlliesBanksGoal
+  CompletedGoals[] = Finale - Mines|2 The Motherlode|Official|TotalBrittleDamageGoal
+  CompletedGoals[] = Finale - Roof|2 The Black Ops Chronomancer|Official|PredictiveShotFinaleGoal
+  CompletedGoals[] = Finale - Roof|2 The Black Ops Chronomancer|Official|ScapegoatFinaleGoal
+  CompletedGoals[] = Finale - Roof|2 The Black Ops Chronomancer|Official|SporeBombFinaleGoal
+  CompletedGoals[] = Finale - Roof|2 The Black Ops Chronomancer|Official|ChainShockFinaleGoal
+  # Points
+  RiotPriestConfidencePoints = 13
+  WitchCopConfidencePoints = 32
+  NavySeerConfidencePoints = 21
+  NecroMedicConfidencePoints = 19
+  DruidConfidencePoints = 11
+  # Costumes
+  NavySeerCostume[] = 1B
+  # Dreams
+</ConfidencePointManager>
+<GameTime>
+  totalTime = 60151
+  campaignTime = 60151
+  levelTime = 50192
+  lastSavedTime = Mon, 03 Mar 2025 22:44:26 GMT
+</GameTime>
+<RegretManager>
+  pointsSpent = 0
+</RegretManager>
+<TutorialPopupManager>
+  tutorialID[] = Controls
+  tutorialID[] = FreeMovement
+  tutorialID[] = ConfidenceGoals
+  tutorialID[] = SeerPoisoned
+  tutorialID[] = SaturatingFire
+  tutorialID[] = OfficerAlarmOutcome
+  tutorialID[] = NeutralisedWizard
+  tutorialID[] = OnMildfire
+  tutorialID[] = AnxietyDream
+  tutorialID[] = ManaDrainBomber
+  tutorialID[] = DallArrives
+  tutorialID[] = LivDeathClone
+  tutorialID[] = Chaser
+  tutorialID[] = DreamDallClassPanel
+  tutorialID[] = SwapForms
+  tutorialID[] = LivSwap
+</TutorialPopupManager>
+

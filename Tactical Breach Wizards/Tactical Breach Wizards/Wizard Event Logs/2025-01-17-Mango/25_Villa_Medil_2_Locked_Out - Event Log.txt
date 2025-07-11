@@ -1,0 +1,96 @@
+25_Villa_Medil_2_Locked_Out
+ 
+Start of player turn 1
+Rion repositioned - from (12, -8) to (14, -10)
+Rion is no longer Neutralised
+Rion breached - from (14, -10) to (15, -10)
+Rion cast Impaling Vine on - from (15, -10) to (13, -6)
+Neutraliser Field took 1 damage
+Neutraliser Field took 3 knockback
+Neutraliser Field hit something with 2 knockback left
+Neutraliser Field took 2 damage
+Rion moved - from (15, -10) to (18, -7)
+Rion repositioned - from (14, -10) to (10, -8)
+Zan is no longer Neutralised
+Zan breached - from (14, -10) to (15, -10)
+Zan used 3 Bolt Burst - from (15, -10) to (13, -6)
+Neutraliser Field took 2 damage
+Neutraliser Field took 1 knockback
+Neutraliser Field hit something with 1 knockback left
+Neutraliser Field took 1 damage
+Rion repositioned - from (12, -8) to (14, -10)
+Rion is no longer Neutralised
+Rion breached - from (14, -10) to (15, -10)
+Rion cast Impaling Vine on Reactor Shotgunner Schneid - from (15, -10) to (11, -2)
+Reactor Shotgunner Schneid took 1 damage
+Reactor Shotgunner Schneid took 3 knockback
+Reactor Shotgunner Schneid hit something with 2 knockback left
+Reactor Shotgunner Schneid took 1 extra damage from Brittle, Brittle reduced to 0
+Reactor Shotgunner Schneid is no longer Brittle
+Reactor Shotgunner Schneid took 3 damage
+Reactor Shotgunner Schneid passed out
+Rion moved - from (15, -10) to (18, -7)
+Rion moved - from (15, -10) to (14, -7)
+Rion is no longer Neutralised
+Rion took cover - from (14, -7) to (14, -7)
+Rion stood up - from (14, -7) to (14, -7)
+Rion stood up - from (14, -7) to (14, -7)
+Rion bit on Reactor Heavy Gunner Delphinus - from (16, -6) to (16, -5)
+Reactor Heavy Gunner Delphinus armour blocked 1 damage
+Rion repositioned - from (12, -8) to (14, -10)
+Rion is no longer Neutralised
+Rion breached - from (14, -10) to (15, -10)
+Rion moved - from (15, -10) to (13, -9)
+Rion is no longer Neutralised
+Rion moved - from (15, -10) to (18, -8)
+Rion moved - from (15, -10) to (18, -7)
+Rion cast Impaling Vine on - from (15, -10) to (13, -6)
+Neutraliser Field took 1 damage
+Neutraliser Field took 3 knockback
+Neutraliser Field hit something with 2 knockback left
+Neutraliser Field took 2 damage
+Rion moved - from (15, -10) to (15, -6)
+Rion moved - from (15, -10) to (16, -7)
+Rion used Spore Bomb - from (16, -7) to (15, -6)
+Neutraliser Field took 4 damage
+Rion gained 1 mana for destroying a Neutraliser Field
+Reactor Heavy Gunner Delphinus armour blocked 1 damage
+Reactor Heavy Gunner Delphinus took 3 damage
+Neutraliser Field destroyed
+Zan is no longer Neutralised
+Medil Militia Fairplay is no longer Neutralised
+Zan breached - from (10, -8) to (11, -8)
+Zan moved - from (11, -8) to (15, -6)
+Zan used 3 Bolt Burst on Reactor Shotgunner Schneid - from (11, -8) to (11, -2)
+Reactor Shotgunner Schneid took 2 damage
+Reactor Shotgunner Schneid took 1 knockback
+Reactor Shotgunner Schneid was defenestrated - from (11, -2) to (11, -2)
+Reactor Shotgunner Schneid took 2 damage
+Reactor Shotgunner Schneid passed out
+Zan moved - from (11, -8) to (14, -7)
+Zan used 3 Bolt Burst - from (14, -7) to (17, -2)
+Neutraliser Field took 2 damage
+Neutraliser Field took 1 knockback
+Rion is no longer Neutralised
+Reactor Heavy Gunner Delphinus is no longer Neutralised
+Neutraliser Field took 2 damage
+Zan gained 1 mana for destroying a Neutraliser Field
+Zan used Time Boost - from (14, -7) to (15, -7)
+Rion cast Impaling Vine on - from (16, -7) to (18, -7)
+Rion cast Impaling Vine on - from (16, -7) to (18, -7)
+Zan  - from (14, -7) to (18, -7)
+False Prophet sealed a hostile entry point - from (18, -7) to (18, -7)
+Rion cast Impaling Vine on Reactor Shotgunner Schneid - from (16, -7) to (11, -2)
+Reactor Shotgunner Schneid took 1 damage
+Reactor Shotgunner Schneid took 3 knockback
+Reactor Shotgunner Schneid hit something with 2 knockback left
+Reactor Shotgunner Schneid took 1 extra damage from Brittle, Brittle reduced to 0
+Reactor Shotgunner Schneid is no longer Brittle
+Reactor Shotgunner Schneid took 3 damage
+Reactor Shotgunner Schneid passed out
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Medil Militia Fairplay shot Reactor Heavy Gunner Delphinus - from (9, -5) to (16, -5)
+Reactor Heavy Gunner Delphinus armour blocked 1 damage
+Reactor Heavy Gunner Delphinus took 1 damage
+Reactor Heavy Gunner Delphinus passed out
+False Prophet vanished

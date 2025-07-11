@@ -1,0 +1,200 @@
+22_Lucid_Dream_Dall_4_Unstoppable_Force
+ 
+Start of player turn 1
+Chapel Siege Cleric used Launch Missiles - from (4, 39) to (-1, 32)
+Chapel Siege Cleric used Launch Missiles - from (4, 39) to (2, 36)
+Chapel Siege Cleric used Launch Missiles - from (4, 39) to (2, 34)
+Dream Dall Swapped with Chapel Siege Cleric - from (2, 31) to (4, 39)
+Dall used Charge - from (0, 31) to (1, 31)
+Chapel Siege Cleric armour blocked 1 damage
+Chapel Siege Cleric stability prevented 1 knockback
+Dall used Throw Riot Block - from (0, 31) to (-2, 31)
+Dall breached - from (0, 31) to (1, 31)
+Chapel Tracker Caulder took 1 damage
+Chapel Tracker Caulder took 2 knockback
+Chapel Tracker Caulder took 2 damage
+Chapel Tracker Caulder passed out
+Dream Dall Swapped with Chapel Siege Cleric - from (2, 31) to (4, 39)
+Dall breached - from (0, 31) to (1, 31)
+Chapel Tracker Caulder took 1 damage
+Chapel Tracker Caulder took 2 knockback
+Chapel Tracker Caulder took 2 damage
+Chapel Tracker Caulder passed out
+Dall Swapped with Chapel Siege Cleric - from (1, 31) to (2, 31)
+Dream Dall moved - from (4, 39) to (3, 39)
+Dream Dall used Grab Intel - from (3, 39) to (2, 39)
+Dream Dall Swapped with Dall - from (3, 39) to (2, 31)
+Dall moved - from (3, 39) to (1, 42)
+Dall used Charge - from (1, 42) to (1, 32)
+Dall armour blocked 1 damage
+Dall took 1 damage
+Dall gained 1 mana from incoming damage
+Chapel Siege Cleric armour blocked 1 damage
+Chapel Siege Cleric stability prevented 2 knockback
+Chapel Siege Cleric took 11 knockback
+Chapel Siege Cleric hit something with 11 knockback left
+Chapel Siege Cleric took 11 damage
+Chapel Siege Cleric is no longer Gasmasked
+Chapel Siege Cleric passed out
+Dream Dall Swapped with Dall - from (2, 31) to (1, 32)
+Dream Dall Swapped with Dall - from (1, 32) to (2, 31)
+Dall used Charge - from (1, 32) to (1, 42)
+Dream Dall Swapped with Dall - from (2, 31) to (1, 42)
+Dream Dall used Charge - from (1, 42) to (-2, 42)
+Player ended their turn, starting enemy turn 1
+Chapel Tracker Quigley moved - from (4, 32) to (0, 32)
+Chapel Riot Priest Outerbridge moved - from (7, 40) to (5, 42)
+Chapel Absolver Volantis moved - from (-2, 40) to (0, 40)
+End of enemy turn 1
+ 
+Start of player turn 2
+Dream Dall used Throw Riot Block - from (-2, 42) to (7, 42)
+Dream Dall used Charge - from (-2, 42) to (4, 42)
+Chapel Riot Priest Outerbridge stability prevented 1 knockback
+Chapel Riot Priest Outerbridge took 8 knockback
+Chapel Riot Priest Outerbridge hit something with 7 knockback left
+Riot Block added 1 extra impact damage
+Chapel Riot Priest Outerbridge is no longer Invincible
+Dream Dall moved - from (-2, 42) to (-2, 40)
+Dream Dall sealed a hostile entry point - from (-2, 40) to (-2, 40)
+Dream Dall moved - from (-2, 42) to (-2, 40)
+Dream Dall used Charge - from (-2, 40) to (-1, 40)
+Chapel Absolver Volantis took 1 damage
+Chapel Absolver Volantis took 1 knockback
+Chapel Riot Priest Outerbridge is no longer Invincible
+Dream Dall used Throw Riot Block - from (-2, 40) to (1, 40)
+Dream Dall used Charge - from (-2, 40) to (-1, 40)
+Chapel Absolver Volantis took 1 damage
+Chapel Absolver Volantis took 1 knockback
+Chapel Absolver Volantis hit something with 1 knockback left
+Riot Block added 1 extra impact damage
+Chapel Absolver Volantis took 2 damage
+Chapel Absolver Volantis passed out
+Chapel Riot Priest Outerbridge is no longer Invincible
+Dall moved - from (2, 31) to (1, 32)
+Dall moved - from (2, 31) to (2, 32)
+Dall used Charge - from (2, 32) to (1, 32)
+Chapel Tracker Quigley took 1 damage
+Chapel Tracker Quigley took 1 knockback
+Dream Dall Swapped with Dall - from (-1, 40) to (2, 32)
+Dream Dall used Charge - from (2, 32) to (1, 32)
+Chapel Tracker Quigley took 1 damage
+Chapel Tracker Quigley took 1 knockback
+Dream Dall used Charge - from (1, 32) to (0, 32)
+Chapel Tracker Quigley took 1 damage
+Chapel Tracker Quigley took 1 knockback
+Dream Dall used Charge - from (0, 32) to (-1, 32)
+Chapel Tracker Quigley took 1 damage
+Chapel Tracker Quigley passed out
+Chapel Tracker Quigley took 1 knockback
+Chapel Tracker Quigley hit something with 1 knockback left
+Dream Dall Swapped with Dall - from (-1, 32) to (-1, 40)
+Dall used Charge - from (-1, 32) to (-2, 32)
+Dream Dall used Charge - from (-1, 40) to (-2, 40)
+Player ended their turn, starting enemy turn 2
+Chapel Cleanser Costello moved - from (-2, 40) to (-1, 38)
+Chapel Cleanser Costello took cover - from (-1, 38) to (-1, 38)
+Chapel Riot Priest Outerbridge moved - from (5, 42) to (4, 42)
+End of enemy turn 2
+ 
+Start of player turn 3
+Dream Dall Swapped with Dall - from (-2, 40) to (-2, 32)
+Dall sealed a hostile entry point - from (-2, 40) to (-2, 40)
+Dall moved - from (-2, 40) to (-2, 42)
+Dall used Throw Riot Block - from (-2, 42) to (5, 42)
+Dall used Charge - from (-2, 42) to (3, 42)
+Chapel Riot Priest Outerbridge armour blocked 1 damage
+Chapel Riot Priest Outerbridge stability prevented 1 knockback
+Chapel Riot Priest Outerbridge took 7 knockback
+Chapel Riot Priest Outerbridge hit something with 7 knockback left
+Riot Block added 1 extra impact damage
+Chapel Riot Priest Outerbridge took 8 damage
+Chapel Riot Priest Outerbridge is no longer Gasmasked
+Chapel Riot Priest Outerbridge passed out
+Dall used Charge - from (3, 42) to (-2, 42)
+Dream Dall Swapped with Dall - from (-2, 32) to (-2, 42)
+Dream Dall moved - from (-2, 42) to (-2, 38)
+Dream Dall used Censer Slam on Chapel Cleanser Costello - from (-2, 38) to (-1, 38)
+Chapel Cleanser Costello took 5 damage
+Chapel Cleanser Costello passed out
+Chapel Cleanser Costello took 1 knockback
+Chapel Shepherd Vision shot Dream Dall - from (7, 39) to (-2, 38)
+Dream Dall armour blocked 1 damage
+Dream Dall stability prevented 1 knockback
+Dream Dall moved - from (-2, 40) to (-2, 42)
+Dream Dall Swapped with Dall - from (-2, 40) to (-2, 32)
+Dall moved - from (-2, 40) to (-2, 42)
+Dall used Throw Riot Block - from (-2, 42) to (5, 42)
+Dall used Throw Riot Block - from (-2, 42) to (6, 42)
+Dall used Charge - from (-2, 42) to (3, 42)
+Chapel Riot Priest Outerbridge armour blocked 1 damage
+Chapel Riot Priest Outerbridge stability prevented 1 knockback
+Chapel Riot Priest Outerbridge took 7 knockback
+Chapel Riot Priest Outerbridge hit something with 6 knockback left
+Riot Block added 1 extra impact damage
+Chapel Riot Priest Outerbridge took 7 damage
+Chapel Riot Priest Outerbridge is no longer Gasmasked
+Dall used Charge - from (3, 42) to (4, 42)
+Chapel Riot Priest Outerbridge armour blocked 1 damage
+Chapel Riot Priest Outerbridge stability prevented 1 knockback
+Dall used Charge - from (3, 42) to (4, 42)
+Chapel Riot Priest Outerbridge armour blocked 1 damage
+Chapel Riot Priest Outerbridge stability prevented 1 knockback
+Dall used Charge - from (-2, 42) to (3, 42)
+Chapel Riot Priest Outerbridge armour blocked 1 damage
+Chapel Riot Priest Outerbridge stability prevented 1 knockback
+Chapel Riot Priest Outerbridge took 7 knockback
+Chapel Riot Priest Outerbridge hit something with 4 knockback left
+Chapel Riot Priest Outerbridge took 4 damage
+Chapel Riot Priest Outerbridge is no longer Gasmasked
+Dall used Charge - from (3, 42) to (6, 42)
+Chapel Riot Priest Outerbridge armour blocked 1 damage
+Chapel Riot Priest Outerbridge stability prevented 1 knockback
+Chapel Riot Priest Outerbridge took 5 knockback
+Chapel Riot Priest Outerbridge hit something with 5 knockback left
+Chapel Riot Priest Outerbridge took 5 damage
+Chapel Riot Priest Outerbridge passed out
+Dream Dall Swapped with Dall - from (-2, 32) to (-2, 42)
+Dream Dall used Charge - from (-2, 42) to (3, 42)
+Chapel Riot Priest Outerbridge armour blocked 1 damage
+Chapel Riot Priest Outerbridge stability prevented 1 knockback
+Chapel Riot Priest Outerbridge took 7 knockback
+Chapel Riot Priest Outerbridge hit something with 4 knockback left
+Chapel Riot Priest Outerbridge took 4 damage
+Chapel Riot Priest Outerbridge is no longer Gasmasked
+Dream Dall used Charge - from (3, 42) to (6, 42)
+Chapel Riot Priest Outerbridge armour blocked 1 damage
+Chapel Riot Priest Outerbridge stability prevented 1 knockback
+Chapel Riot Priest Outerbridge took 5 knockback
+Chapel Riot Priest Outerbridge hit something with 5 knockback left
+Chapel Riot Priest Outerbridge took 5 damage
+Chapel Riot Priest Outerbridge passed out
+Dream Dall Swapped with Dall - from (6, 42) to (-2, 32)
+Dall used Charge - from (6, 42) to (-2, 42)
+Dream Dall Swapped with Dall - from (-2, 32) to (-2, 42)
+Dream Dall moved - from (-2, 42) to (-2, 38)
+Dream Dall used Censer Slam on Chapel Cleanser Costello - from (-2, 38) to (-1, 38)
+Chapel Cleanser Costello took 5 damage
+Chapel Cleanser Costello passed out
+Chapel Cleanser Costello took 1 knockback
+Chapel Shepherd Vision shot Dream Dall - from (7, 39) to (-2, 38)
+Dream Dall armour blocked 1 damage
+Dream Dall stability prevented 1 knockback
+Player ended their turn, starting enemy turn 3
+End of enemy turn 3
+ 
+Start of player turn 4
+Dall used Charge - from (-2, 32) to (2, 32)
+Chapel Tracker Cavness took 1 damage
+Chapel Tracker Cavness took 7 knockback
+Chapel Tracker Cavness hit something with 3 knockback left
+Chapel Tracker Cavness took 3 damage
+Chapel Tracker Cavness passed out
+Dall used Charge - from (2, 32) to (7, 32)
+Dream Dall Swapped with Dall - from (-2, 38) to (7, 32)
+Dream Dall used Charge - from (7, 32) to (7, 38)
+Chapel Shepherd Vision armour blocked 1 damage
+Chapel Shepherd Vision took 9 knockback
+Chapel Shepherd Vision hit something with 6 knockback left
+Chapel Shepherd Vision took 6 damage
+Chapel Shepherd Vision passed out

@@ -1,0 +1,324 @@
+25_Villa_Medil_5_The_Stone_Table
+ 
+Start of player turn 1
+Zan breached - from (37, 38) to (38, 38)
+Jen breached - from (27, 53) to (27, 52)
+Jen moved - from (27, 52) to (29, 53)
+Zan used 3 Bolt Burst on Reactor Shotgunner Quintana - from (38, 38) to (41, 45)
+Reactor Shotgunner Quintana shield soaked up 2 damage
+Reactor Shotgunner Quintana took 1 knockback
+Heavy Turret stability prevented 1 knockback
+Reactor Shotgunner Quintana hit something with 1 knockback left
+Reactor Shotgunner Quintana shield soaked up 1 damage
+Zan  - from (38, 38) to (40, 41)
+False Prophet used Deactivate Shield Generator - from (40, 41) to (41, 41)
+Dall breached - from (27, 47) to (27, 46)
+Dall moved - from (27, 46) to (29, 46)
+Dall moved - from (27, 46) to (29, 44)
+Dall used Deactivate Shield Generator - from (29, 44) to (29, 43)
+Jen moved - from (27, 52) to (29, 53)
+Jen used Broom Breach - from (29, 53) to (41, 53)
+Jen used Deactivate Shield Generator - from (41, 53) to (41, 52)
+Reactor Heavy Gunner Hightower is no longer Shielded
+Heavy Turret is no longer Shielded
+Reactor Tracker Phase is no longer Shielded
+Reactor Shotgunner Stonelock is no longer Shielded
+Reactor Shotgunner Quintana is no longer Shielded
+Dall used Charge - from (29, 44) to (36, 44)
+Reactor Tracker Phase took 1 damage
+Reactor Tracker Phase took 10 knockback
+Reactor Tracker Phase hit something with 6 knockback left
+Reactor Tracker Phase took 6 damage
+Reactor Tracker Phase passed out
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Dall Swapped with False Prophet - from (36, 44) to (40, 41)
+Dall used Charge - from (29, 44) to (36, 44)
+Reactor Tracker Phase took 1 damage
+Reactor Tracker Phase took 10 knockback
+Reactor Tracker Phase hit something with 6 knockback left
+Reactor Tracker Phase took 6 damage
+Reactor Tracker Phase passed out
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Jen cast Static Blast on Reactor Heavy Gunner Hightower - from (41, 53) to (37, 48)
+Reactor Heavy Gunner Hightower stability prevented 1 knockback
+Reactor Heavy Gunner Hightower took 1 knockback
+Reactor Heavy Gunner Hightower hit something with 1 knockback left
+Reactor Heavy Gunner Hightower took 1 damage
+Zan took a free shot at Reactor Heavy Gunner Hightower with Supporting Fire.
+Zan used 3 Bolt Burst on Reactor Heavy Gunner Hightower - from (38, 38) to (37, 48)
+Reactor Heavy Gunner Hightower armour blocked 1 damage
+Reactor Heavy Gunner Hightower took 1 damage
+Reactor Heavy Gunner Hightower stability prevented 1 knockback
+Rion moved - from (27, 45) to (29, 48)
+Rion used Turn Off Neutraliser Field - from (29, 48) to (29, 49)
+Rion cast Brittling Dart on Reactor Heavy Gunner Hightower - from (29, 48) to (37, 48)
+Jen cast Static Blast on Reactor Heavy Gunner Hightower - from (41, 53) to (37, 48)
+Reactor Heavy Gunner Hightower stability prevented 1 knockback
+Reactor Heavy Gunner Hightower took 1 knockback
+Reactor Heavy Gunner Hightower hit something with 1 knockback left
+Reactor Heavy Gunner Hightower took 1 extra damage from Brittle, Brittle reduced to 0
+Reactor Heavy Gunner Hightower is no longer Brittle
+Reactor Heavy Gunner Hightower took 2 damage
+Zan took a free shot at Reactor Heavy Gunner Hightower with Supporting Fire.
+Zan used 3 Bolt Burst on Reactor Heavy Gunner Hightower - from (38, 38) to (37, 48)
+Reactor Heavy Gunner Hightower armour blocked 1 damage
+Reactor Heavy Gunner Hightower took 1 damage
+Reactor Heavy Gunner Hightower stability prevented 1 knockback
+Rion bit on Reactor Shotgunner Quintana - from (40, 45) to (41, 45)
+Reactor Shotgunner Quintana took 1 damage
+Rion used Change Form - from (40, 45) to (40, 45)
+Rion cast Impaling Vine on Reactor Heavy Gunner Hightower - from (40, 45) to (37, 48)
+Reactor Heavy Gunner Hightower armour blocked 1 damage
+Reactor Heavy Gunner Hightower stability prevented 1 knockback
+Reactor Heavy Gunner Hightower took 2 knockback
+Reactor Heavy Gunner Hightower hit something with 2 knockback left
+Reactor Heavy Gunner Hightower took 1 extra damage from Brittle, Brittle reduced to 0
+Reactor Heavy Gunner Hightower is no longer Brittle
+Reactor Heavy Gunner Hightower took 3 damage
+Reactor Heavy Gunner Hightower passed out
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Dall used Charge - from (29, 44) to (36, 44)
+Reactor Tracker Phase took 1 damage
+Reactor Tracker Phase took 10 knockback
+Reactor Tracker Phase hit something with 6 knockback left
+Reactor Tracker Phase took 6 damage
+Reactor Tracker Phase passed out
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Banks used Transference on Heavy Turret - from (39, 38) to (41, 46)
+Dall used Charge - from (29, 44) to (36, 44)
+Reactor Tracker Phase took 1 damage
+Reactor Tracker Phase took 10 knockback
+Reactor Tracker Phase hit something with 6 knockback left
+Reactor Tracker Phase took 6 damage
+Reactor Tracker Phase passed out
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Dall Swapped with Jen - from (36, 44) to (41, 53)
+Jen moved - from (36, 44) to (31, 44)
+Dall Swapped with Jen - from (41, 53) to (31, 44)
+Dall Swapped with Zan - from (31, 44) to (38, 38)
+Zan used 3 Bolt Burst on Reactor Shotgunner Stonelock - from (31, 44) to (31, 53)
+Reactor Shotgunner Stonelock took 2 damage
+Reactor Shotgunner Stonelock took 1 knockback
+Reactor Shotgunner Stonelock was defenestrated - from (31, 53) to (31, 53)
+Reactor Shotgunner Stonelock took 2 damage
+Reactor Shotgunner Stonelock passed out
+Banks moved - from (39, 38) to (38, 42)
+Zan moved - from (31, 44) to (30, 48)
+Zan moved - from (31, 44) to (30, 46)
+Jen breached - from (27, 53) to (27, 52)
+Dall breached - from (27, 47) to (27, 46)
+Zan breached - from (37, 38) to (38, 38)
+Zan  - from (38, 38) to (40, 41)
+False Prophet used Deactivate Shield Generator - from (40, 41) to (41, 41)
+Rion moved - from (27, 45) to (29, 44)
+Rion used Deactivate Shield Generator - from (29, 44) to (29, 43)
+Jen moved - from (27, 52) to (29, 53)
+Jen used Broom Breach - from (29, 53) to (41, 53)
+Jen used Deactivate Shield Generator - from (41, 53) to (41, 52)
+Reactor Heavy Gunner Hightower is no longer Shielded
+Heavy Turret is no longer Shielded
+Reactor Tracker Phase is no longer Shielded
+Reactor Shotgunner Stonelock is no longer Shielded
+Reactor Shotgunner Quintana is no longer Shielded
+Dall Swapped with Rion - from (27, 46) to (29, 44)
+Dall used Charge - from (29, 44) to (36, 44)
+Reactor Tracker Phase took 1 damage
+Reactor Tracker Phase took 10 knockback
+Reactor Tracker Phase hit something with 6 knockback left
+Reactor Tracker Phase took 6 damage
+Reactor Tracker Phase passed out
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Dall Swapped with Jen - from (29, 44) to (41, 53)
+Dall Swapped with Jen - from (41, 53) to (29, 44)
+Dall Swapped with Zan - from (29, 44) to (38, 38)
+Zan  - from (29, 44) to (29, 48)
+False Prophet used Turn Off Neutraliser Field - from (29, 48) to (29, 49)
+Zan moved - from (29, 44) to (29, 48)
+Zan used Turn Off Neutraliser Field - from (29, 48) to (29, 49)
+Rion moved - from (27, 45) to (29, 48)
+Rion used Turn Off Neutraliser Field - from (29, 48) to (29, 49)
+Dall Swapped with Rion - from (27, 46) to (29, 48)
+Dall Swapped with Zan - from (29, 48) to (38, 38)
+Zan moved - from (29, 48) to (31, 48)
+Zan  - from (31, 48) to (35, 50)
+False Prophet sealed a hostile entry point - from (35, 50) to (35, 50)
+Zan used 3 Bolt Burst on Reactor Shotgunner Stonelock - from (31, 48) to (31, 53)
+Reactor Shotgunner Stonelock shield soaked up 2 damage
+Reactor Shotgunner Stonelock took 1 knockback
+Reactor Shotgunner Stonelock was defenestrated - from (31, 53) to (31, 53)
+Reactor Shotgunner Stonelock shield soaked up 2 damage
+Reactor Shotgunner Stonelock is no longer Shielded
+Reactor Shotgunner Stonelock took 2 damage
+Jen moved - from (27, 52) to (31, 53)
+Jen used Broom Breach - from (31, 53) to (41, 53)
+Jen used Deactivate Shield Generator - from (41, 53) to (41, 52)
+Zan  - from (31, 48) to (29, 44)
+False Prophet used Deactivate Shield Generator - from (29, 44) to (29, 43)
+Reactor Heavy Gunner Hightower is no longer Shielded
+Heavy Turret is no longer Shielded
+Reactor Tracker Phase is no longer Shielded
+Reactor Shotgunner Quintana is no longer Shielded
+Dall Swapped with False Prophet - from (38, 38) to (29, 44)
+Dall used Charge - from (29, 44) to (36, 44)
+Reactor Tracker Phase took 1 damage
+Reactor Tracker Phase took 10 knockback
+Reactor Tracker Phase hit something with 6 knockback left
+Reactor Tracker Phase took 6 damage
+Reactor Tracker Phase passed out
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Dall Swapped with Banks - from (36, 44) to (39, 38)
+Banks used Sedative Cocktail on Reactor Heavy Gunner Hightower - from (36, 44) to (37, 48)
+Reactor Heavy Gunner Hightower stability prevented 1 knockback
+Reactor Heavy Gunner Hightower is Sedated
+Zan took a free shot at Reactor Heavy Gunner Hightower with Supporting Fire.
+Zan used 3 Bolt Burst on Reactor Heavy Gunner Hightower - from (31, 48) to (37, 48)
+Reactor Heavy Gunner Hightower armour blocked 1 damage
+Reactor Heavy Gunner Hightower took 1 damage
+Reactor Heavy Gunner Hightower took 2 knockback
+Jen cast Static Blast on Reactor Heavy Gunner Hightower - from (41, 53) to (39, 48)
+Reactor Heavy Gunner Hightower took 3 knockback
+Zan took a free shot at Reactor Heavy Gunner Hightower with Supporting Fire.
+Zan used 3 Bolt Burst on Reactor Heavy Gunner Hightower - from (31, 48) to (39, 45)
+Reactor Heavy Gunner Hightower armour blocked 1 damage
+Reactor Heavy Gunner Hightower took 1 damage
+Reactor Heavy Gunner Hightower took 2 knockback
+Reactor Shotgunner Quintana took 1 knockback
+Reactor Heavy Gunner Hightower hit something with 1 knockback left
+Reactor Heavy Gunner Hightower took 1 damage
+Reactor Shotgunner Quintana hit something with 1 knockback left
+Reactor Shotgunner Quintana took 1 damage
+Rion used Spore Bomb on Heavy Turret - from (27, 46) to (41, 46)
+Reactor Heavy Gunner Hightower armour blocked 1 damage
+Reactor Heavy Gunner Hightower took 3 damage
+Reactor Heavy Gunner Hightower passed out
+Reactor Shotgunner Quintana took 4 damage
+Reactor Shotgunner Quintana passed out
+Heavy Turret armour blocked 1 damage
+Heavy Turret took 3 damage
+Dall Swapped with Banks - from (39, 38) to (36, 44)
+Dall moved - from (39, 38) to (38, 42)
+Dall Swapped with Rion - from (38, 42) to (27, 46)
+Dall Swapped with Banks - from (27, 46) to (36, 44)
+Banks moved - from (27, 46) to (31, 44)
+Jen moved - from (41, 53) to (38, 50)
+Jen threw a Gale Grenade Heavy Turret - from (38, 50) to (41, 46)
+Heavy Turret armour blocked 1 damage
+Heavy Turret took 1 damage
+Heavy Turret passed out
+Rion cast Impaling Vine on Heavy Turret - from (38, 42) to (41, 46)
+Heavy Turret armour blocked 1 damage
+Heavy Turret stability prevented 1 knockback
+Heavy Turret took 2 knockback
+Zan took a free shot at Heavy Turret with Supporting Fire.
+Zan used 3 Bolt Burst on Heavy Turret - from (31, 48) to (39, 44)
+Brittle: 1 armour lost (Heavy Turret)
+Heavy Turret took 1 extra damage from Brittle, Brittle reduced to 0
+Heavy Turret is no longer Brittle
+Heavy Turret took 2 damage
+Heavy Turret passed out
+Heavy Turret stability prevented 1 knockback
+False Prophet vanished
+False Prophet vanished
+False Prophet vanished
+Banks used Grab Intel - from (31, 44) to (31, 45)
+Rion cast Impaling Vine on Heavy Turret - from (38, 42) to (41, 46)
+Heavy Turret armour blocked 1 damage
+Heavy Turret stability prevented 1 knockback
+Heavy Turret took 2 knockback
+Zan took a free shot at Heavy Turret with Supporting Fire.
+Zan used 3 Bolt Burst on Heavy Turret - from (31, 48) to (39, 44)
+Brittle: 1 armour lost (Heavy Turret)
+Heavy Turret took 1 extra damage from Brittle, Brittle reduced to 0
+Heavy Turret is no longer Brittle
+Heavy Turret took 2 damage
+Heavy Turret passed out
+Heavy Turret stability prevented 1 knockback
+False Prophet vanished
+False Prophet vanished
+False Prophet vanished
+Player ended their turn, starting enemy turn 1
+Reactor Superheavy Barmash moved - from (42, 50) to (39, 49)
+Reactor Superheavy Barmash used Launch Missiles - from (39, 49) to (37, 43)
+Reactor Medic Pitri moved - from (42, 42) to (38, 41)
+Reactor Medic Pitri took cover - from (38, 41) to (38, 41)
+End of enemy turn 1
+ 
+Start of player turn 2
+Jen moved - from (38, 50) to (40, 47)
+Jen used Use Laptop - from (40, 47) to (41, 47)
+Rion cast Impaling Vine on Reactor Superheavy Barmash - from (38, 42) to (39, 49)
+Reactor Superheavy Barmash armour blocked 1 damage
+Reactor Superheavy Barmash stability prevented 2 knockback
+Reactor Superheavy Barmash took 1 knockback
+Zan shot Reactor Superheavy Barmash on overwatch
+Brittle: 2 armour lost (Reactor Superheavy Barmash)
+Reactor Superheavy Barmash took 1 extra damage from Brittle, Brittle reduced to 0
+Reactor Superheavy Barmash is no longer Brittle
+Reactor Superheavy Barmash took 3 damage
+Rion cast Brittling Dart on Reactor Superheavy Barmash - from (38, 42) to (39, 48)
+Banks used Sedative Cocktail on Reactor Superheavy Barmash - from (31, 44) to (39, 48)
+Reactor Superheavy Barmash stability prevented 1 knockback
+Reactor Superheavy Barmash is Sedated
+Zan took a free shot at Reactor Superheavy Barmash with Supporting Fire.
+Zan used 3 Bolt Burst on Reactor Superheavy Barmash - from (31, 48) to (39, 48)
+Reactor Superheavy Barmash took 1 extra damage from Brittle, Brittle reduced to 0
+Reactor Superheavy Barmash is no longer Brittle
+Reactor Superheavy Barmash took 3 damage
+Reactor Superheavy Barmash took 1 knockback
+Jen cast Static Blast on Reactor Superheavy Barmash - from (38, 50) to (40, 48)
+Reactor Superheavy Barmash took 2 knockback
+Reactor Superheavy Barmash hit something with 2 knockback left
+Reactor Superheavy Barmash took 2 damage
+Reactor Superheavy Barmash passed out
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Dall Swapped with Rion - from (36, 44) to (38, 42)
+Dall used Censer Slam on Reactor Medic Pitri - from (38, 42) to (38, 41)
+Reactor Medic Pitri took 3 damage
+Reactor Medic Pitri took 1 knockback
+Reactor Medic Pitri hit something with 1 knockback left
+Reactor Medic Pitri took 1 damage
+Zan moved - from (31, 48) to (36, 48)
+Dall Swapped with Zan - from (38, 42) to (36, 48)
+Zan used 3 Bolt Burst on Reactor Medic Pitri - from (38, 42) to (38, 41)
+Reactor Medic Pitri took 2 damage
+Reactor Medic Pitri passed out
+Reactor Medic Pitri took 1 knockback
+Reactor Medic Pitri hit something with 1 knockback left
+Dall Swapped with Rion - from (36, 48) to (36, 44)
+Dall Swapped with Banks - from (36, 44) to (31, 44)
+Dall Swapped with Banks - from (31, 44) to (36, 44)
+Dall Swapped with Jen - from (36, 44) to (38, 50)
+Dall Swapped with Rion - from (36, 44) to (36, 48)
+Player ended their turn, starting enemy turn 2
+End of enemy turn 2
+ 
+Start of player turn 3
+Zan used 3 Bolt Burst on Reactor Chaser Lemorgne - from (38, 42) to (41, 43)
+Reactor Chaser Lemorgne took 2 damage
+Reactor Chaser Lemorgne took 1 knockback
+Reactor Chaser Lemorgne hit something with 1 knockback left
+Reactor Chaser Lemorgne took 1 damage
+Jen cast Static Blast on Reactor Chaser Ajavon - from (38, 50) to (41, 50)
+Reactor Chaser Ajavon took 2 knockback
+Reactor Chaser Ajavon hit something with 1 knockback left
+Reactor Chaser Ajavon took 1 damage
+Zan took a free shot at Reactor Chaser Ajavon with Supporting Fire.
+Zan used 3 Bolt Burst on Reactor Chaser Ajavon - from (38, 42) to (42, 50)
+Reactor Chaser Ajavon took 2 damage
+Reactor Chaser Ajavon took 1 knockback
+Reactor Chaser Ajavon hit something with 1 knockback left
+Reactor Chaser Ajavon took 1 damage
+Reactor Chaser Ajavon passed out
+Zan used 3 Bolt Burst on Reactor Chaser Lemorgne - from (38, 42) to (40, 43)
+Reactor Chaser Lemorgne took 2 damage
+Reactor Chaser Lemorgne took 1 knockback
+Banks used Sedative Cocktail on Reactor Chaser Lemorgne - from (31, 44) to (40, 43)
+Reactor Chaser Lemorgne took 1 knockback
+Reactor Chaser Lemorgne is Sedated
+Zan took a free shot at Reactor Chaser Lemorgne with Supporting Fire.
+Zan used 3 Bolt Burst on Reactor Chaser Lemorgne - from (38, 42) to (41, 43)
+Reactor Chaser Lemorgne took 2 damage
+Reactor Chaser Lemorgne took 3 knockback
+Reactor Chaser Lemorgne hit something with 3 knockback left
+Reactor Chaser Lemorgne took 3 damage
+Reactor Chaser Lemorgne passed out

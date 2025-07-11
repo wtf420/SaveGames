@@ -1,0 +1,702 @@
+26_Lucid_Dream_Zan_4_Bad_Zan
+ 
+Start of player turn 1
+Jen breached - from (-15, 8) to (-16, 8)
+Jen cast Static Blast on Navy Seer - from (-16, 8) to (-16, 2)
+Navy Seer took 2 knockback
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Navy Seer shot Jen - from (-16, 0) to (-16, 8)
+Jen took 4 damage
+Jen passed out
+Jen took 2 knockback
+Jen hit something with 2 knockback left
+Jen cast Chain Bolt on Hostile Thought, Mental Guard, Mental Guard - from (-16, 8) to (-13, 1)
+Hostile Thought took 2 knockback
+Mental Guard took 2 knockback
+Mental Guard took 2 knockback
+Navy Seer took 1 knockback
+Mental Guard hit something with 2 knockback left
+Mental Guard took 2 damage
+Mental Guard shot Mental Guard on overwatch
+Mental Guard took 4 damage
+Mental Guard passed out
+Mental Guard shot Navy Seer on overwatch
+Navy Seer took 4 damage
+Navy Seer shot Mental Guard - from (-17, 3) to (-17, 1)
+Mental Guard took 4 damage
+Mental Guard passed out
+Mental Guard took 2 knockback
+Mental Guard hit something with 1 knockback left
+Jen cast Chain Bolt on Hostile Thought, Navy Seer, Mental Guard - from (-16, 8) to (-20, 2)
+Hostile Thought took 2 knockback
+Navy Seer took 2 knockback
+Mental Guard took 2 knockback
+Mental Guard took 1 knockback
+Mental Guard hit something with 2 knockback left
+Mental Guard took 2 damage
+Hostile Thought was defenestrated - from (-20, 2) to (-20, 2)
+Mental Guard hit something with 1 knockback left
+Mental Guard took 1 damage
+Mental Guard shot Navy Seer on overwatch
+Navy Seer took 4 damage
+Mental Guard shot Navy Seer on overwatch
+Navy Seer took 4 damage
+Hostile Thought took 3 damage
+Hostile Thought passed out
+Navy Seer shot Jen - from (-14, 2) to (-16, 8)
+Jen took 4 damage
+Jen passed out
+Jen took 2 knockback
+Jen hit something with 2 knockback left
+Jen cast Chain Bolt on Hostile Thought, Navy Seer, Hostile Thought - from (-16, 8) to (-13, 1)
+Hostile Thought took 2 knockback
+Navy Seer took 2 knockback
+Hostile Thought took 2 knockback
+Hostile Thought was defenestrated - from (-20, 2) to (-20, 2)
+Mental Guard shot Navy Seer on overwatch
+Navy Seer took 4 damage
+Mental Guard shot Navy Seer on overwatch
+Navy Seer took 4 damage
+Hostile Thought took 3 damage
+Hostile Thought passed out
+Navy Seer shot Jen - from (-18, 2) to (-16, 8)
+Jen took 4 damage
+Jen passed out
+Jen took 2 knockback
+Jen hit something with 2 knockback left
+Jen cast Chain Bolt on Hostile Thought, Mental Guard, Mental Guard - from (-16, 8) to (-13, 1)
+Hostile Thought took 2 knockback
+Mental Guard took 2 knockback
+Mental Guard took 2 knockback
+Navy Seer took 1 knockback
+Mental Guard hit something with 2 knockback left
+Mental Guard took 2 damage
+Mental Guard shot Mental Guard on overwatch
+Mental Guard took 4 damage
+Mental Guard passed out
+Mental Guard shot Navy Seer on overwatch
+Navy Seer took 4 damage
+Navy Seer shot Mental Guard - from (-17, 3) to (-17, 1)
+Mental Guard took 4 damage
+Mental Guard passed out
+Mental Guard took 2 knockback
+Mental Guard hit something with 1 knockback left
+Jen breached - from (-15, 8) to (-16, 8)
+Jen threw a Gale Grenade Mental Guard - from (-16, 8) to (-14, 0)
+Mental Guard took 1 knockback
+Mental Guard took 2 damage
+Hostile Thought took 1 knockback
+Navy Seer took 1 knockback
+Mental Guard hit something with 1 knockback left
+Mental Guard took 1 damage
+Hostile Thought hit something with 1 knockback left
+Hostile Thought took 1 damage
+Mental Guard shot Navy Seer on overwatch
+Navy Seer took 4 damage
+Navy Seer shot Mental Guard - from (-17, 3) to (-17, 1)
+Mental Guard took 4 damage
+Mental Guard passed out
+Mental Guard took 2 knockback
+Mental Guard hit something with 1 knockback left
+Jen cast Static Blast on Navy Seer - from (-16, 8) to (-17, 3)
+Navy Seer took 2 knockback
+Jen cast Chain Bolt on Hostile Thought, Navy Seer, Hostile Thought - from (-16, 8) to (-13, 1)
+Hostile Thought took 2 knockback
+Navy Seer took 2 knockback
+Hostile Thought took 2 knockback
+Hostile Thought was defenestrated - from (-20, 2) to (-20, 2)
+Mental Guard shot Navy Seer on overwatch
+Navy Seer took 4 damage
+Navy Seer hit something with 1 knockback left
+Navy Seer took 1 damage
+Hostile Thought took 3 damage
+Hostile Thought passed out
+Navy Seer shot Jen - from (-18, 4) to (-16, 8)
+Jen took 4 damage
+Jen passed out
+Jen took 2 knockback
+Jen hit something with 2 knockback left
+Jen cast Chain Bolt on Hostile Thought, Mental Guard, Navy Seer - from (-16, 8) to (-13, 1)
+Hostile Thought took 2 knockback
+Mental Guard took 2 knockback
+Navy Seer took 2 knockback
+Mental Guard shot Navy Seer on overwatch
+Navy Seer took 4 damage
+Mental Guard shot Jen on overwatch
+Jen took 4 damage
+Jen passed out
+Navy Seer hit something with 1 knockback left
+Navy Seer took 1 damage
+Navy Seer shot Mental Guard - from (-18, 4) to (-18, 0)
+Mental Guard took 4 damage
+Mental Guard passed out
+Mental Guard took 2 knockback
+Mental Guard hit something with 2 knockback left
+Jen cast Chain Bolt on Hostile Thought, Mental Guard, Navy Seer - from (-16, 8) to (-13, 1)
+Hostile Thought took 2 knockback
+Mental Guard took 2 knockback
+Navy Seer took 2 knockback
+Mental Guard shot Navy Seer on overwatch
+Navy Seer took 4 damage
+Mental Guard shot Jen on overwatch
+Jen took 4 damage
+Jen passed out
+Navy Seer hit something with 1 knockback left
+Navy Seer took 1 damage
+Jen cast Chain Bolt on Mental Guard, Mental Guard, Navy Seer - from (-16, 8) to (-14, 0)
+Mental Guard took 2 knockback
+Mental Guard took 2 knockback
+Navy Seer took 2 knockback
+Mental Guard shot Navy Seer on overwatch
+Navy Seer took 4 damage
+Mental Guard shot Jen on overwatch
+Jen took 4 damage
+Jen passed out
+Mental Guard hit something with 1 knockback left
+Mental Guard took 1 damage
+Mental Guard passed out
+Navy Seer hit something with 1 knockback left
+Navy Seer took 1 damage
+Jen cast Chain Bolt on Hostile Thought, Navy Seer, Mental Guard - from (-16, 8) to (-20, 2)
+Hostile Thought took 2 knockback
+Navy Seer took 2 knockback
+Mental Guard took 2 knockback
+Mental Guard took 1 knockback
+Mental Guard hit something with 2 knockback left
+Mental Guard took 2 damage
+Mental Guard passed out
+Hostile Thought was defenestrated - from (-20, 2) to (-20, 2)
+Mental Guard shot Hostile Thought on overwatch
+Hostile Thought took 4 damage
+Hostile Thought passed out
+Hostile Thought took 3 damage
+Hostile Thought passed out
+Navy Seer shot Jen - from (-15, 3) to (-16, 8)
+Jen took 4 damage
+Jen passed out
+Jen took 2 knockback
+Jen hit something with 2 knockback left
+Jen breached - from (-15, 8) to (-16, 8)
+Jen cast Chain Bolt on Hostile Thought, Navy Seer, Hostile Thought - from (-16, 8) to (-13, 1)
+Hostile Thought took 2 knockback
+Navy Seer took 2 knockback
+Hostile Thought took 2 knockback
+Hostile Thought was defenestrated - from (-20, 2) to (-20, 2)
+Mental Guard shot Navy Seer on overwatch
+Navy Seer took 4 damage
+Mental Guard shot Navy Seer on overwatch
+Navy Seer took 4 damage
+Hostile Thought took 3 damage
+Hostile Thought passed out
+Navy Seer shot Jen - from (-18, 2) to (-16, 8)
+Jen took 4 damage
+Jen passed out
+Jen took 2 knockback
+Jen hit something with 2 knockback left
+Jen cast Chain Bolt on Hostile Thought, Navy Seer, Hostile Thought - from (-16, 8) to (-13, 1)
+Hostile Thought took 2 knockback
+Navy Seer took 2 knockback
+Hostile Thought took 2 knockback
+Hostile Thought was defenestrated - from (-20, 2) to (-20, 2)
+Mental Guard shot Navy Seer on overwatch
+Navy Seer took 4 damage
+Mental Guard shot Navy Seer on overwatch
+Navy Seer took 4 damage
+Hostile Thought took 3 damage
+Hostile Thought passed out
+Navy Seer shot Jen - from (-18, 2) to (-16, 8)
+Jen took 4 damage
+Jen passed out
+Jen took 2 knockback
+Jen hit something with 2 knockback left
+Jen cast Chain Bolt on Hostile Thought, Mental Guard, Mental Guard - from (-16, 8) to (-13, 1)
+Hostile Thought took 2 knockback
+Mental Guard took 2 knockback
+Mental Guard took 2 knockback
+Navy Seer took 1 knockback
+Mental Guard hit something with 2 knockback left
+Mental Guard took 2 damage
+Mental Guard shot Mental Guard on overwatch
+Mental Guard took 4 damage
+Mental Guard passed out
+Mental Guard shot Navy Seer on overwatch
+Navy Seer took 4 damage
+Navy Seer shot Mental Guard - from (-17, 3) to (-17, 1)
+Mental Guard took 4 damage
+Mental Guard passed out
+Mental Guard took 2 knockback
+Mental Guard hit something with 1 knockback left
+Jen moved - from (-16, 8) to (-15, 5)
+Jen took cover - from (-15, 5) to (-15, 5)
+Jen stood up - from (-15, 5) to (-15, 5)
+Jen threw a Gale Grenade Mental Guard - from (-16, 8) to (-14, 0)
+Mental Guard took 1 knockback
+Mental Guard took 2 damage
+Hostile Thought took 1 knockback
+Navy Seer took 1 knockback
+Mental Guard hit something with 1 knockback left
+Mental Guard took 1 damage
+Hostile Thought hit something with 1 knockback left
+Hostile Thought took 1 damage
+Mental Guard shot Navy Seer on overwatch
+Navy Seer took 4 damage
+Navy Seer shot Mental Guard - from (-17, 3) to (-17, 1)
+Mental Guard took 4 damage
+Mental Guard passed out
+Mental Guard took 2 knockback
+Mental Guard hit something with 1 knockback left
+Jen cast Chain Bolt on Hostile Thought, Navy Seer, Mental Guard - from (-16, 8) to (-20, 2)
+Hostile Thought took 2 knockback
+Navy Seer took 2 knockback
+Mental Guard took 2 knockback
+Mental Guard hit something with 2 knockback left
+Mental Guard took 2 damage
+Hostile Thought was defenestrated - from (-20, 2) to (-20, 2)
+Mental Guard shot Navy Seer on overwatch
+Navy Seer took 4 damage
+Hostile Thought took 3 damage
+Hostile Thought passed out
+Navy Seer shot Jen - from (-15, 3) to (-16, 8)
+Jen took 4 damage
+Jen passed out
+Jen took 2 knockback
+Jen hit something with 2 knockback left
+Jen threw a Gale Grenade Mental Guard - from (-16, 8) to (-18, 0)
+Mental Guard took 2 damage
+Mental Guard took 1 knockback
+Navy Seer took 1 knockback
+Mental Guard hit something with 1 knockback left
+Mental Guard took 1 damage
+Mental Guard shot Navy Seer on overwatch
+Navy Seer took 4 damage
+Navy Seer shot Mental Guard - from (-15, 3) to (-15, 1)
+Mental Guard took 4 damage
+Mental Guard passed out
+Mental Guard took 2 knockback
+Jen moved - from (-16, 8) to (-16, 5)
+Jen cast Static Blast on Navy Seer - from (-16, 5) to (-15, 3)
+Navy Seer took 2 knockback
+Mental Guard shot Navy Seer on overwatch
+Navy Seer took 4 damage
+Navy Seer hit something with 1 knockback left
+Navy Seer took 1 damage
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Navy Seer shot Jen - from (-14, 2) to (-16, 5)
+Jen took 4 damage
+Jen passed out
+Jen took 2 knockback
+Jen threw a Gale Grenade Mental Guard - from (-16, 8) to (-14, 0)
+Mental Guard took 1 knockback
+Mental Guard took 2 damage
+Hostile Thought took 1 knockback
+Navy Seer took 1 knockback
+Mental Guard hit something with 1 knockback left
+Mental Guard took 1 damage
+Hostile Thought hit something with 1 knockback left
+Hostile Thought took 1 damage
+Mental Guard shot Navy Seer on overwatch
+Navy Seer took 4 damage
+Navy Seer shot Mental Guard - from (-17, 3) to (-17, 1)
+Mental Guard took 4 damage
+Mental Guard passed out
+Mental Guard took 2 knockback
+Mental Guard hit something with 1 knockback left
+Jen moved - from (-16, 8) to (-16, 5)
+Jen took cover - from (-16, 5) to (-16, 5)
+Zan moved - from (-17, 8) to (-15, 5)
+Mental Guard shot Zan on overwatch
+Zan took 4 damage
+Zan passed out
+Zan moved - from (-17, 8) to (-17, 4)
+Jen cast Chain Bolt on Hostile Thought, Mental Guard, Mental Guard - from (-16, 8) to (-13, 1)
+Hostile Thought took 2 knockback
+Mental Guard took 2 knockback
+Mental Guard took 2 knockback
+Navy Seer took 1 knockback
+Mental Guard hit something with 2 knockback left
+Mental Guard took 2 damage
+Mental Guard shot Mental Guard on overwatch
+Mental Guard took 4 damage
+Mental Guard passed out
+Mental Guard shot Navy Seer on overwatch
+Navy Seer took 4 damage
+Navy Seer shot Mental Guard - from (-17, 3) to (-17, 1)
+Mental Guard took 4 damage
+Mental Guard passed out
+Mental Guard took 2 knockback
+Mental Guard hit something with 1 knockback left
+Jen moved - from (-16, 8) to (-14, 4)
+Jen took cover - from (-14, 4) to (-14, 4)
+Jen threw a Gale Grenade Mental Guard - from (-16, 8) to (-15, 1)
+Navy Seer took 1 knockback
+Mental Guard took 2 damage
+Mental Guard took 1 knockback
+Mental Guard shot Hostile Thought on overwatch
+Hostile Thought took 4 damage
+Hostile Thought passed out
+Mental Guard shot Navy Seer on overwatch
+Navy Seer took 4 damage
+Navy Seer shot Jen - from (-17, 3) to (-16, 8)
+Jen took 4 damage
+Jen passed out
+Jen took 2 knockback
+Jen hit something with 2 knockback left
+Jen threw a Gale Grenade Mental Guard - from (-16, 8) to (-18, 0)
+Mental Guard took 2 damage
+Mental Guard took 1 knockback
+Navy Seer took 1 knockback
+Mental Guard hit something with 1 knockback left
+Mental Guard took 1 damage
+Mental Guard shot Navy Seer on overwatch
+Navy Seer took 4 damage
+Navy Seer shot Mental Guard - from (-15, 3) to (-15, 1)
+Mental Guard took 4 damage
+Mental Guard passed out
+Mental Guard took 2 knockback
+Jen cast Chain Bolt on Mental Guard, Mental Guard, Hostile Thought - from (-16, 8) to (-18, 0)
+Mental Guard took 2 knockback
+Mental Guard took 2 knockback
+Hostile Thought took 2 knockback
+Mental Guard hit something with 2 knockback left
+Mental Guard took 2 damage
+Mental Guard passed out
+Hostile Thought was defenestrated - from (-20, 2) to (-20, 2)
+Mental Guard shot Jen on overwatch
+Jen took 4 damage
+Jen passed out
+Navy Seer took 1 knockback
+Mental Guard hit something with 1 knockback left
+Mental Guard took 1 damage
+Navy Seer hit something with 1 knockback left
+Navy Seer took 1 damage
+Hostile Thought took 3 damage
+Hostile Thought passed out
+Jen cast Chain Bolt on Hostile Thought, Mental Guard, Mental Guard - from (-16, 8) to (-20, 2)
+Hostile Thought took 2 knockback
+Mental Guard took 2 knockback
+Mental Guard took 2 knockback
+Mental Guard hit something with 2 knockback left
+Mental Guard took 2 damage
+Mental Guard passed out
+Hostile Thought was defenestrated - from (-20, 2) to (-20, 2)
+Mental Guard shot Jen on overwatch
+Jen took 4 damage
+Jen passed out
+Navy Seer took 1 knockback
+Mental Guard hit something with 1 knockback left
+Mental Guard took 1 damage
+Navy Seer hit something with 1 knockback left
+Navy Seer took 1 damage
+Jen moved - from (-16, 8) to (-15, 5)
+Jen cast Chain Bolt on Hostile Thought - from (-15, 5) to (-20, 2)
+Jen cast Chain Bolt on Hostile Thought, Mental Guard, Mental Guard - from (-15, 5) to (-20, 2)
+Hostile Thought took 2 knockback
+Mental Guard took 2 knockback
+Mental Guard took 2 knockback
+Mental Guard hit something with 2 knockback left
+Mental Guard took 2 damage
+Mental Guard passed out
+Hostile Thought was defenestrated - from (-20, 2) to (-20, 2)
+Navy Seer took 1 knockback
+Mental Guard hit something with 1 knockback left
+Mental Guard took 1 damage
+Navy Seer hit something with 1 knockback left
+Navy Seer took 1 damage
+Hostile Thought took 3 damage
+Hostile Thought passed out
+Jen cast Chain Bolt on Hostile Thought, Mental Guard, Mental Guard - from (-15, 5) to (-20, 2)
+Hostile Thought took 2 knockback
+Mental Guard took 2 knockback
+Mental Guard took 2 knockback
+Mental Guard hit something with 2 knockback left
+Mental Guard took 2 damage
+Mental Guard passed out
+Hostile Thought was defenestrated - from (-20, 2) to (-20, 2)
+Mental Guard shot Navy Seer on overwatch
+Navy Seer took 4 damage
+Hostile Thought took 3 damage
+Hostile Thought passed out
+Navy Seer shot Mental Guard - from (-15, 3) to (-15, 1)
+Mental Guard took 4 damage
+Mental Guard passed out
+Mental Guard took 2 knockback
+Zan moved - from (-17, 8) to (-19, 6)
+Zan used 3 Bolt Burst on Navy Seer - from (-19, 6) to (-15, 3)
+Navy Seer took 2 damage
+Navy Seer took 1 knockback
+Mental Guard shot Navy Seer on overwatch
+Navy Seer took 4 damage
+Navy Seer shot Zan - from (-14, 2) to (-19, 6)
+Zan took 4 damage
+Zan passed out
+Zan took 2 knockback
+Zan hit something with 2 knockback left
+Zan moved - from (-17, 8) to (-16, 5)
+Jen cast Chain Bolt on Hostile Thought, Mental Guard, Mental Guard - from (-15, 5) to (-20, 2)
+Hostile Thought took 2 knockback
+Mental Guard took 2 knockback
+Mental Guard took 2 knockback
+Mental Guard hit something with 2 knockback left
+Mental Guard took 2 damage
+Mental Guard passed out
+Hostile Thought was defenestrated - from (-20, 2) to (-20, 2)
+Mental Guard shot Zan on overwatch
+Zan took 4 damage
+Zan passed out
+Hostile Thought took 3 damage
+Hostile Thought passed out
+Jen moved - from (-16, 8) to (-15, 5)
+Jen cast Chain Bolt on Hostile Thought, Mental Guard, Mental Guard - from (-15, 5) to (-20, 2)
+Hostile Thought took 2 knockback
+Mental Guard took 2 knockback
+Mental Guard took 2 knockback
+Mental Guard hit something with 2 knockback left
+Mental Guard took 2 damage
+Mental Guard passed out
+Hostile Thought was defenestrated - from (-20, 2) to (-20, 2)
+Navy Seer took 1 knockback
+Mental Guard hit something with 1 knockback left
+Mental Guard took 1 damage
+Navy Seer hit something with 1 knockback left
+Navy Seer took 1 damage
+Jen cast Chain Bolt on Hostile Thought, Mental Guard, Mental Guard - from (-15, 5) to (-20, 2)
+Hostile Thought took 2 knockback
+Mental Guard took 2 knockback
+Mental Guard took 2 knockback
+Mental Guard hit something with 2 knockback left
+Mental Guard took 2 damage
+Mental Guard passed out
+Hostile Thought was defenestrated - from (-20, 2) to (-20, 2)
+Mental Guard shot Navy Seer on overwatch
+Navy Seer took 4 damage
+Hostile Thought took 3 damage
+Hostile Thought passed out
+Navy Seer shot Mental Guard - from (-15, 3) to (-15, 1)
+Mental Guard took 4 damage
+Mental Guard passed out
+Mental Guard took 2 knockback
+Jen cast Chain Bolt on Hostile Thought, Mental Guard, Mental Guard - from (-15, 5) to (-20, 2)
+Hostile Thought took 2 knockback
+Mental Guard took 2 knockback
+Mental Guard took 2 knockback
+Mental Guard hit something with 2 knockback left
+Mental Guard took 2 damage
+Mental Guard passed out
+Hostile Thought was defenestrated - from (-20, 2) to (-20, 2)
+Mental Guard shot Navy Seer on overwatch
+Navy Seer took 4 damage
+Hostile Thought took 3 damage
+Hostile Thought passed out
+Navy Seer shot Mental Guard - from (-15, 3) to (-15, 1)
+Mental Guard took 4 damage
+Mental Guard passed out
+Mental Guard took 2 knockback
+Zan moved - from (-17, 8) to (-19, 6)
+Zan used 3 Bolt Burst on Navy Seer - from (-19, 6) to (-15, 3)
+Navy Seer took 2 damage
+Navy Seer took 1 knockback
+Mental Guard shot Navy Seer on overwatch
+Navy Seer took 4 damage
+Navy Seer shot Zan - from (-14, 2) to (-19, 6)
+Zan took 4 damage
+Zan passed out
+Zan took 2 knockback
+Zan hit something with 2 knockback left
+Jen threw a Gale Grenade Mental Guard - from (-16, 8) to (-14, 0)
+Mental Guard took 1 knockback
+Mental Guard took 2 damage
+Hostile Thought took 1 knockback
+Navy Seer took 1 knockback
+Mental Guard hit something with 1 knockback left
+Mental Guard took 1 damage
+Hostile Thought hit something with 1 knockback left
+Hostile Thought took 1 damage
+Mental Guard shot Navy Seer on overwatch
+Navy Seer took 4 damage
+Navy Seer shot Mental Guard - from (-17, 3) to (-17, 1)
+Mental Guard took 4 damage
+Mental Guard passed out
+Mental Guard took 2 knockback
+Mental Guard hit something with 1 knockback left
+Jen threw a Gale Grenade Mental Guard - from (-16, 8) to (-15, 1)
+Navy Seer took 1 knockback
+Mental Guard took 2 damage
+Mental Guard took 1 knockback
+Mental Guard shot Hostile Thought on overwatch
+Hostile Thought took 4 damage
+Hostile Thought passed out
+Mental Guard shot Navy Seer on overwatch
+Navy Seer took 4 damage
+Navy Seer shot Jen - from (-17, 3) to (-16, 8)
+Jen took 4 damage
+Jen passed out
+Jen took 2 knockback
+Jen hit something with 2 knockback left
+Jen threw a Gale Grenade Mental Guard - from (-16, 8) to (-17, 1)
+Mental Guard took 1 knockback
+Mental Guard took 2 damage
+Navy Seer took 1 knockback
+Mental Guard hit something with 1 knockback left
+Mental Guard took 1 damage
+Mental Guard shot Navy Seer on overwatch
+Navy Seer took 4 damage
+Navy Seer shot Jen - from (-15, 3) to (-16, 8)
+Jen took 4 damage
+Jen passed out
+Jen took 2 knockback
+Jen hit something with 2 knockback left
+Jen threw a Gale Grenade Mental Guard - from (-16, 8) to (-18, 0)
+Mental Guard took 2 damage
+Mental Guard took 1 knockback
+Navy Seer took 1 knockback
+Mental Guard hit something with 1 knockback left
+Mental Guard took 1 damage
+Mental Guard shot Navy Seer on overwatch
+Navy Seer took 4 damage
+Navy Seer shot Mental Guard - from (-15, 3) to (-15, 1)
+Mental Guard took 4 damage
+Mental Guard passed out
+Mental Guard took 2 knockback
+Jen threw a Gale Grenade - from (-16, 8) to (-14, 1)
+Mental Guard took 1 knockback
+Mental Guard took 1 knockback
+Hostile Thought took 1 knockback
+Mental Guard shot Navy Seer on overwatch
+Navy Seer took 4 damage
+Navy Seer shot Mental Guard - from (-16, 2) to (-16, 1)
+Mental Guard took 4 damage
+Mental Guard passed out
+Mental Guard took 2 knockback
+Zan moved - from (-17, 8) to (-15, 5)
+Jen cast Chain Bolt on Hostile Thought, Mental Guard, Mental Guard - from (-16, 8) to (-20, 2)
+Hostile Thought took 2 knockback
+Mental Guard took 2 knockback
+Mental Guard took 2 knockback
+Mental Guard hit something with 2 knockback left
+Mental Guard took 2 damage
+Hostile Thought was defenestrated - from (-20, 2) to (-20, 2)
+Mental Guard shot Navy Seer on overwatch
+Navy Seer took 4 damage
+Zan shot Mental Guard on overwatch
+Mental Guard took 4 damage
+Mental Guard passed out
+Hostile Thought took 3 damage
+Hostile Thought passed out
+Jen cast Chain Bolt on Hostile Thought, Mental Guard, Mental Guard - from (-16, 8) to (-20, 2)
+Hostile Thought took 2 knockback
+Mental Guard took 2 knockback
+Mental Guard took 2 knockback
+Mental Guard hit something with 2 knockback left
+Mental Guard took 2 damage
+Hostile Thought was defenestrated - from (-20, 2) to (-20, 2)
+Mental Guard shot Navy Seer on overwatch
+Navy Seer took 4 damage
+Hostile Thought took 3 damage
+Hostile Thought passed out
+Navy Seer shot Mental Guard - from (-16, 2) to (-15, 1)
+Mental Guard took 4 damage
+Mental Guard passed out
+Mental Guard took 2 knockback
+Jen moved - from (-16, 8) to (-17, 4)
+Jen moved - from (-16, 8) to (-17, 4)
+Zan used Time Boost on Jen - from (-15, 5) to (-17, 4)
+Jen cast Static Blast on Navy Seer - from (-17, 4) to (-16, 2)
+Navy Seer took 2 knockback
+Mental Guard shot Navy Seer on overwatch
+Navy Seer took 4 damage
+Zan took a free shot at Navy Seer with Supporting Fire.
+Zan used 3 Bolt Burst on Navy Seer - from (-15, 5) to (-14, 0)
+Navy Seer took 2 damage
+Navy Seer took 1 knockback
+Mental Guard took 1 knockback
+Navy Seer hit something with 1 knockback left
+Navy Seer took 1 damage
+Mental Guard hit something with 1 knockback left
+Mental Guard took 1 damage
+Navy Seer shot Jen - from (-14, 0) to (-17, 4)
+Jen took 4 damage
+Jen passed out
+Jen took 2 knockback
+Jen hit something with 1 knockback left
+Jen cast Static Blast on Navy Seer - from (-17, 4) to (-16, 2)
+Navy Seer took 2 knockback
+Zan shot Navy Seer on overwatch
+Navy Seer took 4 damage
+Mental Guard shot Navy Seer on overwatch
+Navy Seer took 4 damage
+Navy Seer passed out
+Jen moved - from (-17, 4) to (-16, 0)
+Zan used 3 Bolt Burst on Hostile Thought - from (-15, 5) to (-12, 1)
+Hostile Thought took 2 damage
+Hostile Thought took 1 knockback
+Hostile Thought was defenestrated - from (-12, 1) to (-12, 1)
+Hostile Thought took 1 damage
+Hostile Thought passed out
+Zan moved - from (-17, 8) to (-15, 5)
+Jen cast Chain Bolt on Hostile Thought, Mental Guard, Mental Guard - from (-16, 8) to (-20, 2)
+Hostile Thought took 2 knockback
+Mental Guard took 2 knockback
+Mental Guard took 2 knockback
+Mental Guard hit something with 2 knockback left
+Mental Guard took 2 damage
+Hostile Thought was defenestrated - from (-20, 2) to (-20, 2)
+Mental Guard shot Navy Seer on overwatch
+Navy Seer took 4 damage
+Hostile Thought took 3 damage
+Hostile Thought passed out
+Navy Seer shot Mental Guard - from (-16, 2) to (-15, 1)
+Mental Guard took 4 damage
+Mental Guard passed out
+Mental Guard took 2 knockback
+Jen moved - from (-16, 8) to (-17, 4)
+Jen moved - from (-16, 8) to (-17, 4)
+Zan used Time Boost - from (-15, 5) to (-16, 4)
+Jen cast Static Blast on Navy Seer - from (-17, 4) to (-16, 2)
+Navy Seer took 2 knockback
+Zan shot Navy Seer on overwatch
+Navy Seer took 4 damage
+Mental Guard shot Navy Seer on overwatch
+Navy Seer took 4 damage
+Navy Seer passed out
+Zan used 3 Bolt Burst on Hostile Thought - from (-15, 5) to (-12, 1)
+Hostile Thought took 2 damage
+Hostile Thought took 1 knockback
+Hostile Thought was defenestrated - from (-12, 1) to (-12, 1)
+Hostile Thought took 1 damage
+Hostile Thought passed out
+Player ended their turn, starting enemy turn 1
+End of enemy turn 1
+ 
+Start of player turn 2
+Jen moved - from (-17, 4) to (-16, 0)
+Jen cast Static Blast on Mental Guard - from (-16, 0) to (-14, -1)
+Mental Guard took 2 knockback
+Mental Guard hit something with 2 knockback left
+Mental Guard took 2 damage
+Zan took a free shot at Mental Guard with Supporting Fire.
+Zan used 3 Bolt Burst on Mental Guard - from (-15, 5) to (-14, -1)
+Mental Guard took 2 damage
+Mental Guard passed out
+Mental Guard took 1 knockback
+Mental Guard hit something with 1 knockback left
+Jen moved - from (-16, 0) to (-16, -2)
+Jen sealed a hostile entry point - from (-16, -2) to (-16, -2)
+Zan used 3 Bolt Burst on Hostile Thought - from (-15, 5) to (-15, -2)
+Hostile Thought took 2 damage
+Hostile Thought took 1 knockback
+Hostile Thought hit something with 1 knockback left
+Hostile Thought took 1 damage
+Hostile Thought passed out
+Zan moved - from (-15, 5) to (-15, 1)
+Player ended their turn, starting enemy turn 2
+End of enemy turn 2
+ 
+Start of player turn 3
+Jen cast Static Blast on Mental Guard - from (-16, -2) to (-18, 0)
+Mental Guard took 2 knockback
+Zan took a free shot at Mental Guard with Supporting Fire.
+Zan used 3 Bolt Burst on Mental Guard - from (-15, 1) to (-20, 2)
+Mental Guard took 2 damage
+Mental Guard passed out
+Mental Guard took 1 knockback
+Mental Guard was defenestrated - from (-20, 2) to (-20, 2)

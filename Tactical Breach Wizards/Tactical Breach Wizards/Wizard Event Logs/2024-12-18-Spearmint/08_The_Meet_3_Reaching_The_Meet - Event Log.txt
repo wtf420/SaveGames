@@ -1,0 +1,157 @@
+08_The_Meet_3_Reaching_The_Meet
+ 
+Start of player turn 1
+Banks repositioned - from (17, -2) to (19, -6)
+Banks breached - from (19, -6) to (19, -5)
+Banks moved - from (19, -5) to (18, -9)
+Jen breached - from (17, -2) to (16, -2)
+Jen moved - from (16, -2) to (12, -4)
+Jen cast Chain Bolt on Reactor Heavy Gunner Spica, Reactor Officer Jones, Reactor Heavy Gunner Averlant - from (12, -4) to (11, -7)
+Reactor Heavy Gunner Spica stability prevented 1 knockback
+Reactor Heavy Gunner Spica took 1 knockback
+Reactor Officer Jones took 2 knockback
+Reactor Heavy Gunner Averlant stability prevented 1 knockback
+Reactor Heavy Gunner Averlant took 3 knockback
+Reactor Officer Jones hit something with 2 knockback left
+Reactor Officer Jones took 2 damage
+Reactor Heavy Gunner Spica hit something with 1 knockback left
+Reactor Heavy Gunner Spica took 1 damage
+Reactor Heavy Gunner Averlant hit something with 3 knockback left
+Reactor Heavy Gunner Averlant took 3 damage
+Zan moved - from (15, -2) to (13, -5)
+Banks used Death's Door - from (18, -9) to (16, -10)
+Jen moved - from (16, -2) to (12, -4)
+Jen cast Chain Bolt on Explosive Barrel, Reactor Heavy Gunner Spica - from (12, -4) to (10, -6)
+Explosive Barrel took 2 knockback
+Reactor Heavy Gunner Spica stability prevented 1 knockback
+Reactor Heavy Gunner Spica took 3 knockback
+Reactor Heavy Gunner Spica hit something with 3 knockback left
+Reactor Heavy Gunner Spica took 3 damage
+Explosive Barrel hit something with 2 knockback left
+Explosive Barrel took 2 damage
+Explosive Barrel exploded
+Reactor Heavy Gunner Spica armour blocked 1 damage
+Reactor Heavy Gunner Spica took 3 damage
+Reactor Heavy Gunner Spica passed out
+Reactor Heavy Gunner Spica stability prevented 1 knockback
+Jen cast Static Blast on - from (12, -4) to (10, -6)
+Explosive Barrel took 2 knockback
+Explosive Barrel hit something with 2 knockback left
+Explosive Barrel took 2 damage
+Explosive Barrel exploded
+Reactor Heavy Gunner Spica armour blocked 1 damage
+Reactor Heavy Gunner Spica took 3 damage
+Reactor Heavy Gunner Spica stability prevented 1 knockback
+Jen cast Chain Bolt on Reactor Heavy Gunner Averlant, Reactor Officer Jones, Reactor Heavy Gunner Spica - from (16, -2) to (16, -9)
+Reactor Heavy Gunner Averlant stability prevented 1 knockback
+Reactor Heavy Gunner Averlant took 1 knockback
+Reactor Officer Jones took 2 knockback
+Reactor Heavy Gunner Spica stability prevented 1 knockback
+Reactor Heavy Gunner Spica took 3 knockback
+Reactor Officer Jones hit something with 2 knockback left
+Reactor Officer Jones took 2 damage
+Explosive Barrel took 1 knockback
+Reactor Heavy Gunner Spica hit something with 3 knockback left
+Reactor Heavy Gunner Spica took 3 damage
+Reactor Heavy Gunner Averlant fell into Death's Door
+Reactor Heavy Gunner Averlant took 4 damage
+Reactor Heavy Gunner Averlant passed out
+Explosive Barrel hit something with 1 knockback left
+Explosive Barrel took 1 damage
+Explosive Barrel exploded
+Reactor Heavy Gunner Spica armour blocked 1 damage
+Reactor Heavy Gunner Spica took 3 damage
+Reactor Heavy Gunner Spica passed out
+Reactor Heavy Gunner Spica stability prevented 1 knockback
+Jen moved - from (16, -2) to (12, -4)
+Jen cast Chain Bolt on Reactor Heavy Gunner Averlant, Reactor Officer Jones, Reactor Heavy Gunner Spica - from (16, -2) to (16, -9)
+Reactor Heavy Gunner Averlant stability prevented 1 knockback
+Reactor Heavy Gunner Averlant took 1 knockback
+Reactor Officer Jones took 2 knockback
+Reactor Heavy Gunner Spica stability prevented 1 knockback
+Reactor Heavy Gunner Spica took 3 knockback
+Reactor Officer Jones hit something with 2 knockback left
+Reactor Officer Jones took 2 damage
+Explosive Barrel took 1 knockback
+Reactor Heavy Gunner Spica hit something with 3 knockback left
+Reactor Heavy Gunner Spica took 3 damage
+Reactor Heavy Gunner Averlant fell into Death's Door
+Reactor Heavy Gunner Averlant took 4 damage
+Reactor Heavy Gunner Averlant passed out
+Explosive Barrel hit something with 1 knockback left
+Explosive Barrel took 1 damage
+Explosive Barrel exploded
+Reactor Heavy Gunner Spica armour blocked 1 damage
+Reactor Heavy Gunner Spica took 3 damage
+Reactor Heavy Gunner Spica passed out
+Reactor Heavy Gunner Spica stability prevented 1 knockback
+Jen moved - from (16, -2) to (12, -4)
+Zan moved - from (15, -2) to (13, -5)
+Zan  - from (13, -5) to (13, -2)
+False Prophet used Hack Turret - from (13, -2) to (12, -2)
+Turret shot Reactor Officer Jones - from (14, -9) to (13, -8)
+Reactor Officer Jones armour blocked 1 damage
+Reactor Officer Jones took 2 damage
+Reactor Officer Jones passed out
+Reactor Officer Jones took 1 knockback
+Reactor Officer Jones hit something with 1 knockback left
+Zan shot Reactor Officer Singye on overwatch
+Reactor Officer Singye armour blocked 1 damage
+Reactor Officer Singye took 3 damage
+Reactor Officer Singye passed out
+False Prophet vanished
+Player ended their turn, starting enemy turn 1
+End of enemy turn 1
+ 
+Start of player turn 2
+Jen moved - from (12, -4) to (10, -3)
+Jen sealed a hostile entry point - from (10, -3) to (10, -3)
+Zan moved - from (13, -5) to (10, -7)
+Zan sealed a hostile entry point - from (10, -7) to (10, -7)
+Banks moved - from (18, -9) to (17, -10)
+Banks sealed a hostile entry point - from (17, -10) to (17, -10)
+Jen cast Static Blast on Reactor Tracker Auriga - from (10, -3) to (11, -3)
+Reactor Tracker Auriga took 2 knockback
+Reactor Tracker Auriga hit something with 2 knockback left
+Reactor Tracker Auriga took 2 damage
+Jen cast Chain Bolt on Reactor Officer Justice - from (10, -3) to (11, -7)
+Reactor Officer Justice took 4 knockback
+Reactor Officer Justice hit something with 1 knockback left
+Reactor Officer Justice took 1 damage
+Jen cast Chain Bolt on Reactor Tracker Auriga, Reactor Officer Justice - from (10, -3) to (11, -3)
+Reactor Tracker Auriga took 2 knockback
+Reactor Officer Justice took 4 knockback
+Reactor Tracker Auriga hit something with 2 knockback left
+Reactor Tracker Auriga took 2 damage
+Reactor Officer Justice hit something with 1 knockback left
+Reactor Officer Justice took 1 damage
+Jen cast Static Blast on Reactor Tracker Auriga - from (10, -3) to (11, -3)
+Reactor Tracker Auriga took 2 knockback
+Reactor Tracker Auriga hit something with 2 knockback left
+Reactor Tracker Auriga took 2 damage
+Jen cast Chain Bolt on Reactor Tracker Auriga, Reactor Officer Justice, Turret - from (10, -3) to (11, -3)
+Reactor Tracker Auriga took 2 knockback
+Reactor Officer Justice took 2 knockback
+Turret stability prevented 1 knockback
+Turret took 3 knockback
+Reactor Tracker Auriga hit something with 2 knockback left
+Reactor Tracker Auriga took 2 damage
+Turret was defenestrated - from (15, -10) to (15, -10)
+Turret took 4 damage
+Turret passed out
+Jen cast Chain Bolt on Reactor Tracker Auriga, Reactor Officer Justice - from (10, -3) to (11, -3)
+Reactor Tracker Auriga took 2 knockback
+Reactor Officer Justice took 4 knockback
+Reactor Tracker Auriga hit something with 2 knockback left
+Reactor Tracker Auriga took 2 damage
+Reactor Officer Justice hit something with 1 knockback left
+Reactor Officer Justice took 1 damage
+Zan used 3 Bolt Burst on Reactor Tracker Auriga - from (10, -7) to (11, -3)
+Reactor Tracker Auriga took 1 damage
+Reactor Tracker Auriga passed out
+Reactor Tracker Auriga took 1 knockback
+Turret shot Reactor Officer Justice - from (14, -9) to (11, -10)
+Reactor Officer Justice armour blocked 1 damage
+Reactor Officer Justice took 2 damage
+Reactor Officer Justice passed out
+Reactor Officer Justice took 1 knockback

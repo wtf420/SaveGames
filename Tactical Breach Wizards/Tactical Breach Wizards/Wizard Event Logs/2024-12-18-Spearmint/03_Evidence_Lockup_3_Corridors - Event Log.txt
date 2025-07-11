@@ -1,0 +1,174 @@
+03_Evidence_Lockup_3_Corridors
+ 
+Start of player turn 1
+Zan breached - from (25, 6) to (25, 5)
+Zan used 3 Bolt Burst on RPD Sharpshooter Vega - from (25, 5) to (27, 6)
+RPD Sharpshooter Vega took 1 damage
+RPD Sharpshooter Vega took 1 knockback
+RPD Sharpshooter Vega was defenestrated - from (27, 6) to (27, 6)
+RPD Sharpshooter Vega took 1 damage
+RPD Sharpshooter Vega passed out
+Jen breached - from (26, -1) to (26, -2)
+Jen moved - from (26, -2) to (28, -2)
+Jen used Use Laptop - from (28, -2) to (28, -3)
+Zan shot RPD Enforcer Nocturn on overwatch
+RPD Enforcer Nocturn armour blocked 1 damage
+RPD Enforcer Nocturn took 3 damage
+RPD Enforcer Nocturn passed out
+Zan moved - from (25, 5) to (30, 5)
+Zan used Time Boost on Jen - from (30, 5) to (28, -2)
+Player ended their turn, starting enemy turn 1
+End of enemy turn 1
+ 
+Start of player turn 2
+Jen moved - from (28, -2) to (29, -1)
+Zan moved - from (30, 5) to (31, 6)
+Zan breached - from (31, 6) to (31, 5)
+Jen moved - from (28, -2) to (29, -1)
+Jen breached - from (29, -1) to (29, -2)
+Zan shot RPD Enforcer Craze on overwatch
+RPD Enforcer Craze armour blocked 1 damage
+RPD Enforcer Craze took 3 damage
+RPD Enforcer Craze passed out
+Zan shot RPD Enforcer Craze on overwatch
+RPD Enforcer Craze armour blocked 1 damage
+RPD Enforcer Craze took 3 damage
+RPD Enforcer Craze passed out
+Player ended their turn, starting enemy turn 2
+End of enemy turn 2
+ 
+Start of player turn 3
+Jen moved - from (29, -2) to (32, -1)
+Zan moved - from (30, 5) to (31, 6)
+Player ended their turn, starting enemy turn 3
+End of enemy turn 3
+ 
+Start of player turn 4
+Zan breached - from (31, 6) to (31, 5)
+Jen cast Chain Bolt on RPD Enforcer Justice, RPD Enforcer Gyasi - from (32, -1) to (34, 5)
+RPD Enforcer Justice took 2 knockback
+RPD Enforcer Gyasi took 4 knockback
+RPD Enforcer Gyasi was defenestrated - from (34, 6) to (34, 6)
+RPD Enforcer Gyasi took 1 knockback
+RPD Enforcer Justice hit something with 2 knockback left
+RPD Enforcer Justice took 2 damage
+RPD Enforcer Gyasi was defenestrated - from (34, 6) to (34, 6)
+RPD Enforcer Gyasi took 3 damage
+RPD Enforcer Gyasi passed out
+Zan used 3 Bolt Burst on RPD Enforcer Justice - from (31, 5) to (34, 5)
+RPD Enforcer Justice armour blocked 1 damage
+RPD Enforcer Justice took 1 knockback
+Jen cast Chain Bolt on RPD Enforcer Justice, RPD Enforcer Gyasi - from (32, -1) to (34, 5)
+RPD Enforcer Justice took 2 knockback
+RPD Enforcer Gyasi took 4 knockback
+RPD Enforcer Gyasi was defenestrated - from (34, 6) to (34, 6)
+RPD Enforcer Gyasi took 1 knockback
+RPD Enforcer Justice hit something with 2 knockback left
+RPD Enforcer Justice took 2 damage
+RPD Enforcer Gyasi was defenestrated - from (34, 6) to (34, 6)
+RPD Enforcer Gyasi took 3 damage
+RPD Enforcer Gyasi passed out
+Zan moved - from (31, 6) to (31, 5)
+Zan breached - from (31, 6) to (31, 5)
+Zan moved - from (31, 5) to (31, 6)
+Jen took cover - from (32, -1) to (32, -1)
+Jen stood up - from (32, -1) to (32, -1)
+Jen used Grab Intel - from (32, -1) to (31, -1)
+Jen threw a Gale Grenade - from (32, -1) to (34, 4)
+RPD Enforcer Justice took 1 knockback
+Jen threw a Gale Grenade - from (32, -1) to (34, 4)
+RPD Enforcer Justice took 1 knockback
+RPD Enforcer Gyasi took 1 knockback
+RPD Enforcer Justice hit something with 1 knockback left
+RPD Enforcer Justice took 1 damage
+RPD Enforcer Gyasi was defenestrated - from (34, 6) to (34, 6)
+RPD Enforcer Gyasi took 3 damage
+RPD Enforcer Gyasi passed out
+Jen used Grab Intel - from (32, -1) to (31, -1)
+Jen cast Static Blast on RPD Enforcer Justice - from (32, -1) to (34, 5)
+RPD Enforcer Justice took 2 knockback
+RPD Enforcer Justice was defenestrated - from (34, 6) to (34, 6)
+RPD Enforcer Justice took 2 damage
+RPD Enforcer Justice passed out
+Jen breached - from (32, -1) to (32, -2)
+Jen moved - from (32, -2) to (32, -3)
+Zan breached - from (31, 6) to (31, 5)
+Zan moved - from (31, 5) to (32, 5)
+Zan moved - from (31, 5) to (36, 5)
+Zan moved - from (31, 5) to (35, 5)
+Zan took cover - from (35, 5) to (35, 5)
+Zan stood up - from (35, 5) to (35, 5)
+Zan used 3 Bolt Burst on RPD Tracker Eycleshimer - from (35, 5) to (34, -3)
+RPD Tracker Eycleshimer took 1 damage
+RPD Tracker Eycleshimer took 1 knockback
+RPD Tracker Eycleshimer hit something with 1 knockback left
+RPD Tracker Eycleshimer took 1 damage
+RPD Tracker Eycleshimer passed out
+Zan took cover - from (35, 5) to (35, 5)
+Player ended their turn, starting enemy turn 4
+End of enemy turn 4
+ 
+Start of player turn 5
+Jen moved - from (32, -3) to (34, -2)
+Jen cast Chain Bolt on RPD Tracker Plaza, RPD Tracker Manifold - from (34, -2) to (36, -3)
+RPD Tracker Plaza took 2 knockback
+RPD Tracker Manifold took 4 knockback
+RPD Tracker Manifold was defenestrated - from (36, -1) to (36, -1)
+RPD Tracker Plaza hit something with 2 knockback left
+RPD Tracker Plaza took 2 damage
+RPD Tracker Plaza passed out
+RPD Tracker Manifold took 2 damage
+RPD Tracker Manifold passed out
+Zan moved - from (35, 5) to (36, 6)
+Player ended their turn, starting enemy turn 5
+End of enemy turn 5
+ 
+Start of player turn 6
+Jen moved - from (34, -2) to (36, -1)
+Jen breached - from (36, -1) to (36, -2)
+Jen cast Chain Bolt on RPD Tracker Columba, RPD Sharpshooter Quintana - from (36, -2) to (40, -2)
+RPD Tracker Columba took 2 knockback
+RPD Sharpshooter Quintana took 4 knockback
+RPD Sharpshooter Quintana hit something with 4 knockback left
+RPD Sharpshooter Quintana took 4 damage
+RPD Sharpshooter Quintana passed out
+RPD Tracker Columba hit something with 2 knockback left
+RPD Tracker Columba took 2 damage
+RPD Tracker Columba passed out
+Zan breached - from (36, 6) to (36, 5)
+Zan moved - from (36, 5) to (39, 5)
+Zan used 3 Bolt Burst on RPD Tracker Jounce - from (39, 5) to (40, 6)
+RPD Tracker Jounce took 1 damage
+RPD Tracker Jounce took 1 knockback
+RPD Tracker Jounce was defenestrated - from (40, 6) to (40, 6)
+RPD Tracker Jounce took 1 damage
+RPD Tracker Jounce passed out
+Zan used Use Laptop - from (39, 5) to (39, 6)
+Player ended their turn, starting enemy turn 6
+End of enemy turn 6
+ 
+Start of player turn 7
+Jen moved - from (36, -2) to (40, 0)
+Jen cast Static Blast on RPD Tracker Ancona - from (40, 0) to (40, 2)
+RPD Tracker Ancona took 2 knockback
+RPD Tracker Ancona hit something with 2 knockback left
+RPD Tracker Ancona took 2 damage
+RPD Tracker Ancona passed out
+Zan used Time Boost on Jen - from (39, 5) to (40, 0)
+Jen cast Static Blast on RPD Tracker Ancona - from (40, 0) to (40, 2)
+RPD Tracker Ancona took 2 knockback
+RPD Tracker Ancona hit something with 2 knockback left
+RPD Tracker Ancona took 2 damage
+RPD Tracker Ancona passed out
+Zan moved - from (39, 5) to (40, 2)
+Player ended their turn, starting enemy turn 7
+Zan shot RPD Tracker Benichou on overwatch
+RPD Tracker Benichou took 4 damage
+RPD Tracker Benichou passed out
+End of enemy turn 7
+ 
+Start of player turn 8
+Zan moved - from (40, 2) to (40, 1)
+Zan sealed a hostile entry point - from (40, 1) to (40, 1)
+Jen moved - from (40, 0) to (33, 6)
+Jen used Grab Intel - from (33, 6) to (32, 6)

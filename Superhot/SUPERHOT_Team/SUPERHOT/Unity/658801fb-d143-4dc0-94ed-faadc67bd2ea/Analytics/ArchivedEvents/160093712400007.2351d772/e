@@ -1,0 +1,5 @@
+(s)|{"appid":"658801fb-d143-4dc0-94ed-faadc67bd2ea","userid":"b6de1e891338c024395b2336cb669719","sessionid":3239981143083482384,"platform":"WindowsPlayer","platformid":2,"sdk_ver":"u2019.2.9f1","session_count":5,"localprojectid":"35bbecda288ae43138837a737ca90803","build_guid":"e840dcb93d024ca46ae8db1084647a46","deviceid":"f0cca80c7e52064a128bc59bf502138dcb284257"}
+(g)|2
+{"type":"analytics.custom.v1","msg":{"custom_params":{"UserID":"f0cca80c7e52064a128bc59bf502138dcb284257","AttemptGametime":5.321747,"AttemptRealtime":17.91638,"AttemptNumber":0,"AttemptSuccessful":false,"FPSAverage":0.0,"FinishedBefore":false,"LevelName":"TheBridge2_","Challenge":"","ActionList":"tss2k2kTss3kT"},"ts":1600937124801,"t_since_start":1589553153,"name":"LevelPlaythrough"}}
+{"type":"analytics.appRunning.v1","msg":{"duration":1598,"local_time_offset":-25200000,"ts":1600937135958,"t_since_start":1600710494}}
+(1){"type":"analytics.appStop.v1","msg":{"ts":1600937135963,"t_since_start":1600715031}}

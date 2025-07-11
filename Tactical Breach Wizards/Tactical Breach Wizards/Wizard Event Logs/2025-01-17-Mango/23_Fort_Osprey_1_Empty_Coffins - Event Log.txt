@@ -1,0 +1,82 @@
+23_Fort_Osprey_1_Empty_Coffins
+ 
+Start of player turn 1
+Zan breached - from (-19, 11) to (-20, 11)
+Rion bit on Reactor Tracker Fiasco - from (-22, 7) to (-22, 6)
+Reactor Tracker Fiasco took 1 damage
+Rion used Change Form - from (-22, 7) to (-22, 7)
+Rion bit on Reactor Shotgunner Grounder - from (-19, 7) to (-18, 7)
+Reactor Shotgunner Grounder took 1 damage
+Rion moved - from (-19, 7) to (-17, 4)
+Rion used Change Form - from (-17, 4) to (-17, 4)
+Rion used Use Laptop - from (-17, 4) to (-17, 3)
+Rion cast Impaling Vine on Reactor Tracker Psalm - from (-17, 4) to (-16, 8)
+Reactor Tracker Psalm took 1 damage
+Reactor Tracker Psalm took 3 knockback
+Reactor Tracker Psalm hit something with 1 knockback left
+Reactor Tracker Psalm took 1 extra damage from Brittle, Brittle reduced to 0
+Reactor Tracker Psalm is no longer Brittle
+Reactor Tracker Psalm took 2 damage
+Reactor Tracker Psalm passed out
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Zan used 3 Bolt Burst on Reactor Tracker Fiasco - from (-20, 11) to (-22, 6)
+Reactor Tracker Fiasco took 2 damage
+Reactor Tracker Fiasco took 1 knockback
+Rion used Change Form - from (-17, 4) to (-17, 4)
+Rion used Use Laptop - from (-17, 4) to (-17, 3)
+Rion cast Impaling Vine on Reactor Shotgunner Dulcie - from (-17, 4) to (-21, 4)
+Reactor Shotgunner Dulcie took 1 damage
+Reactor Shotgunner Dulcie took 3 knockback
+Reactor Shotgunner Dulcie hit something with 1 knockback left
+Reactor Shotgunner Dulcie took 1 extra damage from Brittle, Brittle reduced to 0
+Reactor Shotgunner Dulcie is no longer Brittle
+Reactor Shotgunner Dulcie took 2 damage
+Zan took a free shot at Reactor Shotgunner Dulcie with Supporting Fire.
+Zan used 3 Bolt Burst on Reactor Shotgunner Dulcie - from (-20, 11) to (-19, 4)
+Reactor Shotgunner Dulcie took 2 damage
+Reactor Shotgunner Dulcie passed out
+Reactor Shotgunner Dulcie took 1 knockback
+Zan breached - from (-19, 11) to (-20, 11)
+Zan moved - from (-20, 11) to (-18, 10)
+Zan used 3 Bolt Burst on Reactor Tracker Fiasco - from (-18, 10) to (-22, 6)
+Reactor Tracker Fiasco took 2 damage
+Reactor Tracker Fiasco took 1 knockback
+Reactor Tracker Fiasco hit a Electrified Wall
+Reactor Tracker Fiasco took 2 damage
+Reactor Tracker Fiasco passed out
+Reactor Tracker Fiasco hit something with 1 knockback left
+Rion bit on Reactor Shotgunner Grounder - from (-19, 7) to (-18, 7)
+Reactor Shotgunner Grounder took 1 damage
+Rion moved - from (-19, 7) to (-17, 4)
+Rion used Change Form - from (-17, 4) to (-17, 4)
+Rion used Use Laptop - from (-17, 4) to (-17, 3)
+Rion bit on Reactor Shotgunner Grounder - from (-19, 7) to (-18, 7)
+Reactor Shotgunner Grounder took 1 damage
+Rion moved - from (-19, 7) to (-17, 4)
+Rion used Change Form - from (-17, 4) to (-17, 4)
+Rion used Use Laptop - from (-17, 4) to (-17, 3)
+Rion cast Impaling Vine on Reactor Shotgunner Dulcie - from (-17, 4) to (-21, 4)
+Reactor Shotgunner Dulcie took 1 damage
+Reactor Shotgunner Dulcie took 3 knockback
+Zan shot Reactor Shotgunner Dulcie on overwatch
+Reactor Shotgunner Dulcie took 1 extra damage from Brittle, Brittle reduced to 0
+Reactor Shotgunner Dulcie is no longer Brittle
+Reactor Shotgunner Dulcie took 5 damage
+Reactor Shotgunner Dulcie passed out
+Reactor Shotgunner Dulcie hit something with 1 knockback left
+Rion used Spore Bomb - from (-17, 4) to (-17, 7)
+Reactor Shotgunner Grounder took 5 damage
+Reactor Shotgunner Grounder passed out
+Craft Coffin took 5 damage
+Rion gained 1 mana for destroying a Craft Coffin
+Reactor Tracker Psalm took 5 damage
+Reactor Tracker Psalm passed out
+Craft Coffin exploded
+Zan moved - from (-20, 11) to (-18, 7)
+Zan used 3 Bolt Burst on Reactor Tracker Fiasco - from (-18, 7) to (-22, 6)
+Reactor Tracker Fiasco took 2 damage
+Reactor Tracker Fiasco took 1 knockback
+Reactor Tracker Fiasco hit a Electrified Wall
+Reactor Tracker Fiasco took 2 damage
+Reactor Tracker Fiasco passed out
+Reactor Tracker Fiasco hit something with 1 knockback left

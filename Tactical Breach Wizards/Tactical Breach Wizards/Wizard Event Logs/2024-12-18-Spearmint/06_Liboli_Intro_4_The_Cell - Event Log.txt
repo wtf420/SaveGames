@@ -1,0 +1,196 @@
+06_Liboli_Intro_4_The_Cell
+Zan is Poisoned
+ 
+Start of player turn 1
+Jen breached - from (25, -2) to (24, -2)
+Jen moved - from (24, -2) to (22, -6)
+Zan moved - from (23, -2) to (24, -3)
+Zan used 3 Bolt Burst on Reactor Tracker Waybright - from (24, -3) to (23, -8)
+Reactor Tracker Waybright took 1 damage
+Reactor Tracker Waybright took 1 knockback
+Reactor Sniper Boden shot Reactor Tracker Waybright on overwatch
+Reactor Tracker Waybright took 4 damage
+Reactor Tracker Waybright passed out
+Jen cast Static Blast on - from (22, -6) to (23, -10)
+Explosive Barrel took 2 knockback
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Jen cast Static Blast on - from (22, -6) to (25, -13)
+Air Canister took 2 knockback
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Jen took cover - from (22, -6) to (22, -6)
+Zan took cover - from (24, -3) to (24, -3)
+Zan took 1 damage
+Player ended their turn, starting enemy turn 1
+Reactor Heavy Gunner Cherry moved - from (26, -15) to (23, -13)
+Reactor Heavy Gunner Cherry launched a grenade - from (23, -13) to (22, -7)
+End of enemy turn 1
+ 
+Start of player turn 2
+Jen cast Static Blast on - from (22, -6) to (23, -10)
+Explosive Barrel took 2 knockback
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Zan used 3 Bolt Burst - from (24, -3) to (23, -12)
+Explosive Barrel took 1 damage
+Explosive Barrel took 1 knockback
+Reactor Heavy Gunner Cherry stability prevented 1 knockback
+Explosive Barrel hit something with 1 knockback left
+Explosive Barrel took 1 damage
+Explosive Barrel exploded
+Reactor Heavy Gunner Cherry armour blocked 1 damage
+Reactor Heavy Gunner Cherry took 3 damage
+Reactor Heavy Gunner Cherry stability prevented 1 knockback
+Jen cast Static Blast on - from (22, -6) to (23, -10)
+Explosive Barrel took 2 knockback
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Zan used Time Boost on Jen - from (24, -3) to (22, -6)
+Jen cast Chain Bolt on Explosive Barrel, Reactor Sniper Boden - from (22, -6) to (23, -12)
+Explosive Barrel took 2 knockback
+Reactor Sniper Boden took 4 knockback
+Reactor Sniper Boden was defenestrated - from (28, -9) to (28, -9)
+Reactor Heavy Gunner Cherry stability prevented 1 knockback
+Explosive Barrel hit something with 2 knockback left
+Explosive Barrel took 2 damage
+Explosive Barrel exploded
+Reactor Heavy Gunner Cherry armour blocked 1 damage
+Reactor Heavy Gunner Cherry took 3 damage
+Reactor Heavy Gunner Cherry stability prevented 1 knockback
+Reactor Sniper Boden took 3 damage
+Reactor Sniper Boden passed out
+Jen used Grab Intel - from (22, -6) to (23, -6)
+Zan used 3 Bolt Burst on Reactor Tracker Averlant - from (24, -3) to (26, -6)
+Reactor Tracker Averlant took 1 damage
+Reactor Tracker Averlant took 1 knockback
+Reactor Tracker Averlant hit something with 1 knockback left
+Reactor Tracker Averlant took 1 damage
+Jen moved - from (22, -6) to (25, -9)
+Jen took cover - from (25, -9) to (25, -9)
+Jen cast Static Blast on - from (22, -6) to (23, -10)
+Explosive Barrel took 2 knockback
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Zan used Time Boost on Jen - from (24, -3) to (22, -6)
+Jen cast Chain Bolt on Explosive Barrel, Reactor Sniper Boden - from (22, -6) to (23, -12)
+Explosive Barrel took 2 knockback
+Reactor Sniper Boden took 4 knockback
+Reactor Sniper Boden was defenestrated - from (28, -9) to (28, -9)
+Reactor Heavy Gunner Cherry stability prevented 1 knockback
+Explosive Barrel hit something with 2 knockback left
+Explosive Barrel took 2 damage
+Explosive Barrel exploded
+Reactor Heavy Gunner Cherry armour blocked 1 damage
+Reactor Heavy Gunner Cherry took 3 damage
+Reactor Heavy Gunner Cherry stability prevented 1 knockback
+Reactor Sniper Boden took 3 damage
+Reactor Sniper Boden passed out
+Jen used Grab Intel - from (22, -6) to (23, -6)
+Jen threw a Gale Grenade - from (22, -6) to (26, -7)
+Reactor Tracker Averlant took 1 knockback
+Explosive Barrel took 1 knockback
+Reactor Tracker Averlant hit something with 1 knockback left
+Reactor Tracker Averlant took 1 damage
+Jen moved - from (22, -6) to (25, -9)
+Jen used Grab Intel - from (25, -9) to (26, -9)
+Zan used 3 Bolt Burst on Reactor Tracker Averlant - from (24, -3) to (26, -6)
+Reactor Tracker Averlant took 1 damage
+Reactor Tracker Averlant took 1 knockback
+Reactor Tracker Averlant hit something with 1 knockback left
+Reactor Tracker Averlant took 1 damage
+Reactor Tracker Averlant passed out
+Zan took cover - from (24, -3) to (24, -3)
+Jen took cover - from (25, -9) to (25, -9)
+Jen cast Static Blast on - from (22, -6) to (23, -10)
+Explosive Barrel took 2 knockback
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Zan used Time Boost on Jen - from (24, -3) to (22, -6)
+Jen cast Chain Bolt on Explosive Barrel, Reactor Sniper Boden - from (22, -6) to (23, -12)
+Explosive Barrel took 2 knockback
+Reactor Sniper Boden took 4 knockback
+Reactor Sniper Boden was defenestrated - from (28, -9) to (28, -9)
+Reactor Heavy Gunner Cherry stability prevented 1 knockback
+Explosive Barrel hit something with 2 knockback left
+Explosive Barrel took 2 damage
+Explosive Barrel exploded
+Reactor Heavy Gunner Cherry armour blocked 1 damage
+Reactor Heavy Gunner Cherry took 3 damage
+Reactor Heavy Gunner Cherry stability prevented 1 knockback
+Reactor Sniper Boden took 3 damage
+Reactor Sniper Boden passed out
+Jen cast Chain Bolt on Reactor Heavy Gunner Cherry, Reactor Tracker Averlant - from (22, -6) to (23, -13)
+Reactor Heavy Gunner Cherry stability prevented 1 knockback
+Reactor Heavy Gunner Cherry took 1 knockback
+Reactor Tracker Averlant took 4 knockback
+Reactor Tracker Averlant hit something with 4 knockback left
+Reactor Tracker Averlant took 4 damage
+Reactor Tracker Averlant passed out
+Jen cast Chain Bolt on Explosive Barrel, Reactor Tracker Averlant - from (22, -6) to (23, -12)
+Explosive Barrel took 2 knockback
+Reactor Tracker Averlant took 4 knockback
+Reactor Tracker Averlant hit something with 4 knockback left
+Reactor Tracker Averlant took 4 damage
+Reactor Tracker Averlant passed out
+Reactor Heavy Gunner Cherry stability prevented 1 knockback
+Explosive Barrel hit something with 2 knockback left
+Explosive Barrel took 2 damage
+Explosive Barrel exploded
+Reactor Heavy Gunner Cherry armour blocked 1 damage
+Reactor Heavy Gunner Cherry took 3 damage
+Reactor Heavy Gunner Cherry stability prevented 1 knockback
+Zan moved - from (24, -3) to (25, -3)
+Zan used 3 Bolt Burst on Turret - from (25, -3) to (26, -12)
+Turret armour blocked 1 damage
+Turret stability prevented 1 knockback
+Zan took cover - from (25, -3) to (25, -3)
+Jen moved - from (22, -6) to (23, -5)
+Jen took cover - from (23, -5) to (23, -5)
+Jen stood up - from (23, -5) to (23, -5)
+Jen threw a Gale Grenade - from (22, -6) to (27, -9)
+Reactor Sniper Boden took 1 knockback
+Reactor Sniper Boden was defenestrated - from (28, -9) to (28, -9)
+Reactor Sniper Boden took 3 damage
+Reactor Sniper Boden passed out
+Jen moved - from (22, -6) to (25, -9)
+Jen used Grab Intel - from (25, -9) to (26, -9)
+Jen took cover - from (25, -9) to (25, -9)
+Reactor Heavy Gunner Cherry used Saturating Fire on Zan - from (23, -13) to (25, -3)
+Zan took 1 damage
+Zan passed out
+Player ended their turn, starting enemy turn 2
+Reactor Heavy Gunner Cherry moved - from (23, -13) to (23, -11)
+Reactor Heavy Gunner Cherry launched a grenade - from (23, -11) to (24, -9)
+End of enemy turn 2
+ 
+Start of player turn 3
+Jen took 2 damage
+Jen took 1 knockback
+Jen hit something with 1 knockback left
+Jen took 1 damage
+Turret shot Jen - from (26, -12) to (25, -9)
+Jen took 3 damage
+Jen passed out
+Jen took 1 knockback
+Jen cast Chain Bolt on Reactor Heavy Gunner Cherry, Reactor Tracker Gordo - from (25, -9) to (23, -11)
+Reactor Heavy Gunner Cherry stability prevented 1 knockback
+Reactor Heavy Gunner Cherry took 1 knockback
+Reactor Tracker Gordo took 4 knockback
+Reactor Heavy Gunner Cherry hit something with 1 knockback left
+Reactor Heavy Gunner Cherry took 1 damage
+Reactor Heavy Gunner Cherry passed out
+Reactor Tracker Gordo hit a Electrified Wall
+Reactor Tracker Gordo took 2 damage
+Reactor Tracker Gordo is Stunned for 1 turn
+Reactor Tracker Gordo hit something with 4 knockback left
+Reactor Tracker Gordo took 4 damage
+Reactor Tracker Gordo passed out
+Jen moved - from (25, -9) to (23, -12)
+Jen used Grab Intel - from (23, -12) to (24, -12)
+Jen moved - from (25, -9) to (22, -11)
+Jen used Grab Intel - from (22, -11) to (22, -10)
+Jen used Hack Turret - from (22, -11) to (22, -12)
+Player ended their turn, starting enemy turn 3
+End of enemy turn 3
+ 
+Start of player turn 4
+Jen moved - from (22, -11) to (25, -14)
+Turret shot Reactor Tracker Cassiopeia - from (26, -12) to (25, -8)
+Reactor Tracker Cassiopeia took 3 damage
+Reactor Tracker Cassiopeia passed out
+Reactor Tracker Cassiopeia took 1 knockback

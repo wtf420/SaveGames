@@ -1,0 +1,140 @@
+# CreditsChoices.txt
+# 2025-03-03 22:43:47 (+07:00)
+# v:2025-01-17-Mango
+
+<AdviseInKalan>
+  visible = True
+  localPosition = 17.73:-6.38:0
+  localScale = 0.0066:0.0066:0.0066
+  detailsRead = True
+  groupName = 
+</AdviseInKalan>
+<Agency>
+  visible = False
+  localPosition = -4.43:-15.89:0
+  localScale = 0.0066:0.0066:0.0066
+  detailsRead = True
+  levelsAdded = 2
+  groupName = 
+</Agency>
+<DeathInc>
+  visible = True
+  localPosition = 16.82:-20.52:0
+  localScale = 0.0066:0.0066:0.0066
+  detailsRead = True
+  groupName = 
+</DeathInc>
+<Druid>
+  visible = True
+  localPosition = 6.360002:0.440001:0
+  localScale = 0.0066:0.0066:0.0066
+  detailsRead = True
+  groupName = 
+  DruidConnection0 = 
+  DruidConnection0name = DECAPITATE REACTOR connection
+  DruidConnection0labelText = DECAPITATE REACTOR
+  DruidConnection0destinationMapItem = ReactorCEO
+  DruidConnection0hidden = False
+  DruidConnection0type = PreSet
+  DruidConnection0correctDestinationName = ReactorCEO
+</Druid>
+<FirstChaplain>
+  visible = False
+  localPosition = 17.64:0.92:0
+  localScale = 0.0066:0.0066:0.0066
+  detailsRead = True
+  groupName = 
+</FirstChaplain>
+<JenInMedil>
+  visible = True
+  localPosition = 18.3898354:-11.91318:0
+  localScale = 0.0066:0.0066:0.0066
+  detailsRead = True
+  groupName = 
+</JenInMedil>
+<KalanFrontlines>
+  visible = True
+  localPosition = 17.81:8.02:0
+  localScale = 0.0066:0.0066:0.0066
+  detailsRead = True
+  groupName = 
+</KalanFrontlines>
+<KalanLeader>
+  visible = False
+  localPosition = -5.06:10.07:0
+  localScale = 0.0066:0.0066:0.0066
+  detailsRead = True
+  groupName = 
+</KalanLeader>
+<Necro>
+  visible = True
+  localPosition = 6.28664255:-20.4633:0
+  localScale = 0.0066:0.0066:0.0066
+  detailsRead = True
+  levelsAdded = 1
+  groupName = 
+  NecroConnection0 = 
+  NecroConnection0name = START A BUSINESS connection
+  NecroConnection0labelText = START A BUSINESS
+  NecroConnection0destinationMapItem = DeathInc
+  NecroConnection0hidden = False
+  NecroConnection0type = PreSet
+  NecroConnection0correctDestinationName = DeathInc
+</Necro>
+<Priest>
+  visible = True
+  localPosition = 6.060003:7.530001:0
+  localScale = 0.0066:0.0066:0.0066
+  detailsRead = True
+  groupName = 
+  PriestConnection0 = 
+  PriestConnection0name = LEAD THE CHARGE connection
+  PriestConnection0labelText = LEAD THE CHARGE
+  PriestConnection0destinationMapItem = KalanFrontlines
+  PriestConnection0hidden = False
+  PriestConnection0type = PreSet
+  PriestConnection0correctDestinationName = KalanFrontlines
+</Priest>
+<ReactorCEO>
+  visible = True
+  localPosition = -5.18:2.59:0
+  localScale = 0.0066:0.0066:0.0066
+  detailsRead = True
+  groupName = 
+</ReactorCEO>
+<RetireToLiboli>
+  visible = True
+  localPosition = -4.63:-6.21:0
+  localScale = 0.0066:0.0066:0.0066
+  detailsRead = True
+  groupName = 
+</RetireToLiboli>
+<Seer>
+  visible = True
+  localPosition = 6.450002:-6.30999851:0
+  localScale = 0.0066:0.0066:0.0066
+  detailsRead = True
+  groupName = 
+  SeerConnection0 = 
+  SeerConnection0name = RETIRE connection
+  SeerConnection0labelText = RETIRE
+  SeerConnection0destinationMapItem = RetireToLiboli
+  SeerConnection0hidden = False
+  SeerConnection0type = PreSet
+  SeerConnection0correctDestinationName = RetireToLiboli
+</Seer>
+<Witch>
+  visible = True
+  localPosition = 6.512863:-15.0055838:0
+  localScale = 0.0066:0.0066:0.0066
+  detailsRead = True
+  groupName = 
+  WitchConnection0 = 
+  WitchConnection0name = HELP OUT MEDIL connection
+  WitchConnection0labelText = HELP OUT MEDIL
+  WitchConnection0destinationMapItem = JenInMedil
+  WitchConnection0hidden = False
+  WitchConnection0type = PreSet
+  WitchConnection0correctDestinationName = JenInMedil
+</Witch>
+

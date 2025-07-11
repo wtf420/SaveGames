@@ -1,0 +1,141 @@
+27_Finale_Vault_2_The_Drop
+Barrier Drone Operator Pitri launched a Barrier drone - from (1, 9) to (1, 9)
+ 
+Start of player turn 1
+Dall breached - from (-6, -3) to (-6, -4)
+Dall Swapped with Reactor Tracker Caron - from (-6, -4) to (7, -3)
+Reactor Tracker Caron is no longer Neutralised
+Dall used Grab Intel - from (7, -3) to (6, -3)
+Dall moved - from (7, -3) to (9, -4)
+Dall is no longer Neutralised
+Dall sealed a hostile entry point - from (9, -4) to (9, -4)
+Dall used Charge - from (7, -3) to (7, 8)
+Dall is no longer Neutralised
+Turret armour blocked 1 damage
+Turret stability prevented 1 knockback
+Turret took 13 knockback
+Turret hit something with 13 knockback left
+Turret took 13 damage
+Turret passed out
+Dall used Charge - from (7, -3) to (7, 8)
+Dall is no longer Neutralised
+Turret armour blocked 1 damage
+Turret stability prevented 1 knockback
+Turret took 13 knockback
+Turret hit something with 13 knockback left
+Turret took 13 damage
+Turret passed out
+Dall moved - from (7, 8) to (9, 7)
+Dall sealed a hostile entry point - from (9, 7) to (9, 7)
+Dall used Charge - from (9, 7) to (-5, 7)
+Dall Swapped with Jen - from (-5, 7) to (-6, -5)
+Jen moved - from (-5, 7) to (-4, 9)
+Jen sealed a hostile entry point - from (-4, 9) to (-4, 9)
+Dall Swapped with Jen - from (-6, -5) to (-4, 9)
+Jen cast Static Blast on Reactor Tracker Caron - from (-6, -5) to (-6, -4)
+Reactor Tracker Caron took 4 knockback
+Reactor Tracker Caron hit something with 3 knockback left
+Reactor Tracker Caron took 3 damage
+Reactor Tracker Caron passed out
+Dall Swapped with Jen - from (-4, 9) to (-6, -5)
+Jen moved - from (-4, 9) to (-4, 6)
+Jen used Use Laptop - from (-4, 6) to (-5, 6)
+Dall Swapped with - from (-6, -5) to (5, 1)
+Traffic Warlock used Crush Hour - from (2, 9) to (2, 8)
+Dall moved - from (7, -3) to (9, -4)
+Dall is no longer Neutralised
+Dall sealed a hostile entry point - from (9, -4) to (9, -4)
+Dall Swapped with Jen - from (9, -4) to (-6, -5)
+Jen moved - from (9, -4) to (7, -3)
+Dall Swapped with Jen - from (-6, -5) to (7, -3)
+Jen is no longer Neutralised
+Jen cast Static Blast on Reactor Tracker Caron - from (-6, -5) to (-6, -4)
+Reactor Tracker Caron took 4 knockback
+Reactor Tracker Caron hit something with 3 knockback left
+Reactor Tracker Caron took 3 damage
+Reactor Tracker Caron passed out
+Dall used Charge - from (7, -3) to (7, 8)
+Dall is no longer Neutralised
+Turret armour blocked 1 damage
+Turret stability prevented 1 knockback
+Turret took 13 knockback
+Turret hit something with 13 knockback left
+Turret took 13 damage
+Turret passed out
+Dall Swapped with Jen - from (7, 8) to (-6, -5)
+Jen moved - from (7, 8) to (9, 7)
+Jen sealed a hostile entry point - from (9, 7) to (9, 7)
+Dall Swapped with Jen - from (-6, -5) to (9, 7)
+Dall used Charge - from (9, 7) to (-5, 7)
+Dall Swapped with - from (-6, -5) to (5, 1)
+Traffic Warlock used Crush Hour - from (2, 9) to (2, 8)
+Player ended their turn, starting enemy turn 1
+Barrier Drone Operator Pitri moved - from (1, 9) to (1, 8)
+Barrier Drone Operator Pitri launched a Barrier drone Traffic Warlock - from (1, 8) to (2, 9)
+Traffic Warlock moved - from (2, 9) to (4, 11)
+End of enemy turn 1
+ 
+Start of player turn 2
+Dall Swapped with Jen - from (5, 1) to (9, 7)
+Dall used Charge - from (9, 7) to (-5, 7)
+Dall moved - from (-5, 7) to (-2, 4)
+Dall Swapped with Jen - from (-2, 4) to (5, 1)
+Jen used Place Breach Glyph - from (-2, 4) to (-2, 4)
+Jen moved - from (-2, 4) to (-4, 6)
+Jen used Use Laptop - from (-4, 6) to (-5, 6)
+Jen cast Static Blast on Barrier Drone Operator Pitri - from (-4, 6) to (1, 8)
+Barrier Drone Operator Pitri took 2 knockback
+Dall Swapped with Jen - from (5, 1) to (-4, 6)
+Jen moved - from (-4, 6) to (-4, 9)
+Jen sealed a hostile entry point - from (-4, 9) to (-4, 9)
+Dall Swapped with Jen - from (5, 1) to (-4, 9)
+Jen threw a Gale Grenade - from (5, 1) to (4, 1)
+Jen took 1 knockback
+Traffic Warlock used Crush Hour - from (4, 11) to (4, 10)
+Barrier Drone Operator Pitri took 2 damage
+Barrier Drone Operator Pitri took 1 knockback
+Barrier Drone Operator Pitri hit something with 1 knockback left
+Barrier Drone Operator Pitri took 1 damage
+Player ended their turn, starting enemy turn 2
+Barrier Drone Operator Pitri moved - from (3, 8) to (3, 10)
+Barrier Drone Operator Pitri launched a Barrier drone Traffic Warlock - from (3, 10) to (4, 11)
+Traffic Warlock moved - from (4, 11) to (4, 8)
+End of enemy turn 2
+ 
+Start of player turn 3
+Jen moved - from (6, 1) to (4, 4)
+Jen used Place Breach Glyph - from (4, 4) to (4, 4)
+Dall Swapped with Jen - from (-4, 9) to (4, 4)
+Jen cast Static Blast on Barrier Drone Operator Pitri - from (-4, 9) to (3, 10)
+Barrier Drone Operator Pitri took 2 knockback
+Barrier Drone Operator Pitri hit something with 2 knockback left
+Barrier Drone Operator Pitri took 2 damage
+Barrier Drone Operator Pitri passed out
+Dall Swapped with Jen - from (4, 4) to (-4, 9)
+Jen moved - from (4, 4) to (4, -1)
+Dall used Charge - from (-4, 9) to (-4, 3)
+Dall Swapped with Jen - from (-4, 3) to (4, -1)
+Dall moved - from (4, -1) to (4, -2)
+Dall Swapped with Jen - from (4, -2) to (-4, 3)
+Jen used Place Breach Glyph - from (4, -2) to (4, -2)
+Dall Swapped with Jen - from (-4, 3) to (4, -2)
+Dall used Throw Riot Block - from (4, -2) to (-3, -2)
+Dall Swapped with Jen - from (4, -2) to (-4, 3)
+Traffic Warlock used Crush Hour - from (4, 8) to (3, 8)
+Player ended their turn, starting enemy turn 3
+Traffic Warlock moved - from (4, 8) to (4, 11)
+End of enemy turn 3
+ 
+Start of player turn 4
+Dall Swapped with Jen - from (-4, 3) to (4, -2)
+Dall used Charge - from (4, -2) to (-2, -2)
+Riot Block armour blocked 1 damage
+Riot Block took 9 knockback
+Riot Block hit something with 7 knockback left
+Riot Block added 1 extra impact damage
+Riot Block took 8 damage
+Dall Swapped with Jen - from (-2, -2) to (-4, 3)
+Jen used Place Breach Glyph - from (-2, -2) to (-2, -2)
+Jen moved - from (-2, -2) to (-1, -1)
+Dall moved - from (-4, 3) to (-1, 3)
+Jen used Blow the Vault Floor - from (-1, -1) to (0, 0)

@@ -1,0 +1,144 @@
+12_Train_4_Terminal
+ 
+Start of player turn 1
+Jen cast Chain Bolt on Chapel Tracker Dust, Chapel Shepherd Waybright, Chapel Tracker Fornacis - from (1, -38) to (-1, -33)
+Chapel Tracker Dust took 2 knockback
+Chapel Shepherd Waybright took 2 knockback
+Chapel Tracker Fornacis took 2 knockback
+Chapel Tracker Fornacis was defenestrated - from (2, -32) to (2, -32)
+Chapel Tracker Dust was defenestrated - from (-1, -33) to (-1, -33)
+Stun Barrel took 1 knockback
+Chapel Shepherd Waybright hit something with 2 knockback left
+Chapel Shepherd Waybright took 2 damage
+Stun Barrel hit something with 1 knockback left
+Stun Barrel took 1 damage
+Stun Barrel exploded
+Chapel Shepherd Waybright is Stunned for 1 turn
+Chapel Tracker Fornacis took 3 damage
+Chapel Tracker Fornacis passed out
+Chapel Tracker Dust took 3 damage
+Chapel Tracker Dust passed out
+Jen moved - from (1, -38) to (2, -36)
+Jen used Broom Breach - from (2, -36) to (-1, -32)
+Jen used Use Laptop - from (-1, -32) to (0, -32)
+Player ended their turn, starting enemy turn 1
+Chapel Tracker Wakefield moved - from (1, -26) to (2, -27)
+Chapel Shepherd Waybright is no longer Stunned
+End of enemy turn 1
+ 
+Start of player turn 2
+Jen moved - from (-1, -32) to (2, -31)
+Jen cast Chain Bolt on Chapel Tracker Wakefield, Jen, Chapel Shepherd Waybright - from (2, -31) to (2, -27)
+Chapel Tracker Wakefield took 2 knockback
+Jen took 2 knockback
+Chapel Shepherd Waybright took 2 knockback
+Stun Barrel took 1 knockback
+Chapel Tracker Wakefield hit something with 2 knockback left
+Chapel Tracker Wakefield took 2 damage
+Stun Barrel hit something with 1 knockback left
+Stun Barrel took 1 damage
+Stun Barrel exploded
+Chapel Tracker Wakefield is Stunned for 1 turn
+Chapel Shepherd Waybright hit something with 1 knockback left
+Chapel Shepherd Waybright took 1 damage
+Chapel Shepherd Waybright shot Jen - from (-1, -31) to (2, -33)
+Jen took 1 damage
+Jen took 1 knockback
+Jen was defenestrated - from (2, -33) to (2, -33)
+Jen took 3 damage
+Jen passed out
+Jen moved - from (-1, -32) to (2, -32)
+Jen cast Chain Bolt on Chapel Tracker Wakefield, Jen, Chapel Shepherd Waybright - from (2, -32) to (2, -27)
+Chapel Tracker Wakefield took 2 knockback
+Jen took 2 knockback
+Chapel Shepherd Waybright took 2 knockback
+Stun Barrel took 1 knockback
+Chapel Tracker Wakefield hit something with 2 knockback left
+Chapel Tracker Wakefield took 2 damage
+Stun Barrel hit something with 1 knockback left
+Stun Barrel took 1 damage
+Stun Barrel exploded
+Chapel Tracker Wakefield is Stunned for 1 turn
+Chapel Shepherd Waybright was defenestrated - from (-1, -30) to (-1, -30)
+Chapel Shepherd Waybright took 3 damage
+Chapel Shepherd Waybright passed out
+Jen cast Static Blast on Chapel Tracker Wakefield - from (2, -34) to (2, -27)
+Chapel Tracker Wakefield took 2 knockback
+Chapel Tracker Wakefield hit something with 1 knockback left
+Chapel Tracker Wakefield took 1 damage
+Chapel Tracker Wakefield passed out
+Jen used Broom Breach - from (-1, -32) to (2, -32)
+Jen moved - from (-1, -32) to (2, -32)
+Jen cast Chain Bolt on Chapel Tracker Wakefield, Jen, Chapel Shepherd Waybright - from (2, -32) to (2, -27)
+Chapel Tracker Wakefield took 2 knockback
+Jen took 2 knockback
+Chapel Shepherd Waybright took 2 knockback
+Stun Barrel took 1 knockback
+Chapel Tracker Wakefield hit something with 2 knockback left
+Chapel Tracker Wakefield took 2 damage
+Stun Barrel hit something with 1 knockback left
+Stun Barrel took 1 damage
+Stun Barrel exploded
+Chapel Tracker Wakefield is Stunned for 1 turn
+Chapel Shepherd Waybright was defenestrated - from (-1, -30) to (-1, -30)
+Chapel Shepherd Waybright took 3 damage
+Chapel Shepherd Waybright passed out
+Jen cast Static Blast on Chapel Tracker Wakefield - from (2, -34) to (2, -27)
+Chapel Tracker Wakefield took 2 knockback
+Chapel Tracker Wakefield hit something with 1 knockback left
+Chapel Tracker Wakefield took 1 damage
+Chapel Tracker Wakefield passed out
+Jen moved - from (-1, -32) to (2, -30)
+Jen cast Chain Bolt on Chapel Tracker Wakefield, Jen, Chapel Shepherd Waybright - from (2, -30) to (2, -27)
+Chapel Tracker Wakefield took 2 knockback
+Jen took 2 knockback
+Chapel Shepherd Waybright took 2 knockback
+Stun Barrel took 1 knockback
+Chapel Tracker Wakefield hit something with 2 knockback left
+Chapel Tracker Wakefield took 2 damage
+Chapel Shepherd Waybright hit something with 2 knockback left
+Chapel Shepherd Waybright took 2 damage
+Stun Barrel hit something with 1 knockback left
+Stun Barrel took 1 damage
+Stun Barrel exploded
+Chapel Tracker Wakefield is Stunned for 1 turn
+Chapel Shepherd Waybright shot Jen - from (0, -31) to (2, -32)
+Jen took 1 damage
+Jen took 1 knockback
+Jen was defenestrated - from (2, -32) to (2, -32)
+Jen took 3 damage
+Jen passed out
+Jen moved - from (-1, -32) to (2, -30)
+Jen moved - from (-1, -32) to (2, -31)
+Jen moved - from (-1, -32) to (2, -32)
+Jen cast Chain Bolt on Chapel Tracker Wakefield, Jen, Chapel Shepherd Waybright - from (2, -32) to (2, -27)
+Chapel Tracker Wakefield took 2 knockback
+Jen took 2 knockback
+Chapel Shepherd Waybright took 2 knockback
+Stun Barrel took 1 knockback
+Chapel Tracker Wakefield hit something with 2 knockback left
+Chapel Tracker Wakefield took 2 damage
+Stun Barrel hit something with 1 knockback left
+Stun Barrel took 1 damage
+Stun Barrel exploded
+Chapel Tracker Wakefield is Stunned for 1 turn
+Chapel Shepherd Waybright was defenestrated - from (-1, -30) to (-1, -30)
+Chapel Shepherd Waybright took 3 damage
+Chapel Shepherd Waybright passed out
+Jen cast Static Blast on Chapel Tracker Wakefield - from (2, -34) to (2, -27)
+Chapel Tracker Wakefield took 2 knockback
+Chapel Tracker Wakefield hit something with 1 knockback left
+Chapel Tracker Wakefield took 1 damage
+Chapel Tracker Wakefield passed out
+Player ended their turn, starting enemy turn 2
+End of enemy turn 2
+ 
+Start of player turn 3
+Jen moved - from (2, -34) to (-1, -32)
+Jen took cover - from (-1, -32) to (-1, -32)
+Player ended their turn, starting enemy turn 3
+End of enemy turn 3
+ 
+Start of player turn 4
+Jen used Broom Breach - from (-1, -32) to (2, -29)
+Jen moved - from (2, -29) to (1, -26)

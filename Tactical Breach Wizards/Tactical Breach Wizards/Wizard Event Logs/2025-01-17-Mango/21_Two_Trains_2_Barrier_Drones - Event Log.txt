@@ -1,0 +1,120 @@
+21_Two_Trains_2_Barrier_Drones
+Barrier Drone Operator Hookswood launched a Barrier drone - from (1, 13) to (1, 13)
+ 
+Start of player turn 1
+Rion moved - from (-5, 16) to (-5, 14)
+Rion used Use Laptop - from (-5, 14) to (-4, 14)
+Jen moved - from (-6, 16) to (-7, 13)
+Jen cast Static Blast on - from (-7, 13) to (1, 10)
+Stun Barrel took 2 knockback
+Stun Barrel hit something with 2 knockback left
+Stun Barrel took 2 damage
+Stun Barrel exploded
+Reactor Tracker Sitwala is Stunned for 1 turn
+Reactor Medic Fornacis is Stunned for 1 turn
+Jen used Broom Breach - from (-7, 13) to (2, 14)
+Jen threw a Gale Grenade - from (2, 14) to (1, 12)
+Barrier Drone Operator Hookswood took 1 knockback
+Reactor Tracker Barmash took 1 knockback
+Reactor Tracker Barmash hit something with 1 knockback left
+Reactor Tracker Barmash took 1 damage
+Rion cast Impaling Vine on Reactor Tracker Sitwala - from (-5, 14) to (0, 10)
+Reactor Tracker Sitwala took 1 damage
+Reactor Tracker Sitwala took 3 knockback
+Reactor Tracker Sitwala was defenestrated - from (-1, 11) to (-1, 11)
+Reactor Tracker Sitwala took 1 extra damage from Brittle, Brittle reduced to 0
+Reactor Tracker Sitwala is no longer Brittle
+Reactor Tracker Sitwala took 3 damage
+Reactor Tracker Sitwala passed out
+Medil Militia Pharo shot Reactor Tracker Barmash - from (-4, 10) to (2, 12)
+Reactor Tracker Barmash took 2 damage
+Reactor Tracker Barmash passed out
+Player ended their turn, starting enemy turn 1
+Barrier Drone Operator Hookswood moved - from (1, 14) to (2, 16)
+Barrier Drone Operator Hookswood launched a Barrier drone Reactor Medic Fornacis - from (2, 16) to (2, 9)
+Reactor Medic Fornacis is no longer Stunned
+End of enemy turn 1
+ 
+Start of player turn 2
+Jen moved - from (2, 14) to (1, 10)
+Jen cast Static Blast on Reactor Medic Fornacis - from (1, 10) to (2, 9)
+Reactor Medic Fornacis took 4 knockback
+Reactor Medic Fornacis was defenestrated - from (2, 9) to (2, 9)
+Reactor Medic Fornacis took 6 damage
+Reactor Medic Fornacis passed out
+Unset took 1 damage
+Rion cast Impaling Vine on Reactor Tracker Forest - from (-5, 14) to (-6, 6)
+Reactor Tracker Forest took 1 damage
+Reactor Tracker Forest took 3 knockback
+Reactor Tracker Forest hit something with 3 knockback left
+Reactor Tracker Forest took 1 extra damage from Brittle, Brittle reduced to 0
+Reactor Tracker Forest is no longer Brittle
+Reactor Tracker Forest took 4 damage
+Reactor Tracker Forest passed out
+Jen moved - from (1, 10) to (1, 7)
+Rion moved - from (-5, 14) to (-5, 9)
+Jen moved - from (1, 10) to (-1, 9)
+Rion moved - from (-5, 14) to (-5, 9)
+Medil Militia Pharo shot Barrier Drone Operator Hookswood - from (-4, 10) to (2, 16)
+Barrier Drone Operator Hookswood took 2 damage
+Jen moved - from (2, 14) to (1, 10)
+Jen cast Chain Bolt on Reactor Medic Fornacis, Barrier Drone Operator Hookswood, Reactor Tracker Forest - from (1, 10) to (2, 9)
+Reactor Medic Fornacis took 2 knockback
+Barrier Drone Operator Hookswood took 2 knockback
+Reactor Tracker Forest took 2 knockback
+Reactor Medic Fornacis was defenestrated - from (2, 9) to (2, 9)
+Barrier Drone Operator Hookswood hit something with 2 knockback left
+Barrier Drone Operator Hookswood took 2 damage
+Reactor Tracker Forest hit something with 2 knockback left
+Reactor Tracker Forest took 2 damage
+Reactor Medic Fornacis took 6 damage
+Reactor Medic Fornacis passed out
+Unset took 1 damage
+Jen cast Static Blast on Reactor Medic Fornacis - from (1, 10) to (2, 9)
+Reactor Medic Fornacis took 4 knockback
+Reactor Medic Fornacis was defenestrated - from (2, 9) to (2, 9)
+Reactor Medic Fornacis took 6 damage
+Reactor Medic Fornacis passed out
+Unset took 1 damage
+Jen moved - from (1, 10) to (1, 7)
+Jen cast Chain Bolt on Reactor Medic Fornacis, Barrier Drone Operator Hookswood, Reactor Tracker Forest - from (1, 10) to (2, 9)
+Reactor Medic Fornacis took 2 knockback
+Barrier Drone Operator Hookswood took 2 knockback
+Reactor Tracker Forest took 2 knockback
+Reactor Medic Fornacis was defenestrated - from (2, 9) to (2, 9)
+Barrier Drone Operator Hookswood hit something with 2 knockback left
+Barrier Drone Operator Hookswood took 2 damage
+Reactor Tracker Forest hit something with 2 knockback left
+Reactor Tracker Forest took 2 damage
+Reactor Medic Fornacis took 6 damage
+Reactor Medic Fornacis passed out
+Unset took 1 damage
+Rion moved - from (-5, 14) to (-5, 9)
+Rion moved - from (-5, 14) to (-6, 10)
+Rion cast Impaling Vine on Barrier Drone Operator Hookswood - from (-6, 10) to (2, 16)
+Barrier Drone Operator Hookswood took 1 damage
+Barrier Drone Operator Hookswood took 3 knockback
+Barrier Drone Operator Hookswood hit something with 3 knockback left
+Barrier Drone Operator Hookswood took 1 extra damage from Brittle, Brittle reduced to 0
+Barrier Drone Operator Hookswood is no longer Brittle
+Barrier Drone Operator Hookswood took 4 damage
+Barrier Drone Operator Hookswood passed out
+Medil Militia Pharo shot Reactor Tracker Forest - from (-4, 10) to (-6, 6)
+Reactor Tracker Forest took 2 damage
+Reactor Tracker Forest passed out
+Player ended their turn, starting enemy turn 2
+Reactor Heavy Gunner Nocturn moved - from (1, 7) to (1, 9)
+Reactor Heavy Gunner Nocturn launched a grenade - from (1, 9) to (-5, 11)
+Medil Militia Pharo moved - from (-4, 10) to (-4, 9)
+End of enemy turn 2
+ 
+Start of player turn 3
+Jen moved - from (1, 10) to (2, 9)
+Jen cast Static Blast on Reactor Heavy Gunner Nocturn - from (2, 9) to (1, 9)
+Reactor Heavy Gunner Nocturn stability prevented 1 knockback
+Reactor Heavy Gunner Nocturn took 3 knockback
+Reactor Heavy Gunner Nocturn was defenestrated - from (-1, 9) to (-1, 9)
+Reactor Heavy Gunner Nocturn took 4 damage
+Reactor Heavy Gunner Nocturn passed out
+Jen moved - from (2, 9) to (1, 7)
+Rion moved - from (-6, 10) to (-6, 5)

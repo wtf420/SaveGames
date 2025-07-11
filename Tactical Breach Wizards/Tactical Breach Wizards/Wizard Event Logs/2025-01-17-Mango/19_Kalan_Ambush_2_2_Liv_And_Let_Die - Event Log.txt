@@ -1,0 +1,289 @@
+19_Kalan_Ambush_2_2_Liv_And_Let_Die
+ 
+Start of player turn 1
+Dall used Throw Riot Block - from (-17, -10) to (-16, -9)
+Liv Kennedy shot Dall - from (-15, -9) to (-17, -10)
+Dall armour blocked 1 damage
+Dall took 1 damage
+Dall gained 1 mana from incoming damage
+Dall stability prevented 1 knockback
+Banks used Sedative Cocktail on Liv Kennedy - from (-19, -9) to (-15, -9)
+Liv Kennedy took 1 knockback
+Liv Kennedy is Sedated
+Liv Kennedy hit something with 1 knockback left
+Liv Kennedy took 1 damage
+Liv Kennedy shot Banks - from (-15, -9) to (-19, -9)
+Banks took 2 damage
+Banks took 1 knockback
+Banks moved - from (-20, -9) to (-21, -8)
+Liv Kennedy shot Banks - from (-15, -9) to (-21, -8)
+Banks took 2 damage
+Banks passed out
+Banks took 1 knockback
+Liv Kennedy is no longer Attacks Remaining
+Banks moved - from (-20, -9) to (-21, -7)
+Liv Kennedy shot Dall - from (-15, -9) to (-17, -10)
+Dall armour blocked 1 damage
+Dall took 1 damage
+Dall gained 1 mana from incoming damage
+Dall stability prevented 1 knockback
+Liv Kennedy is no longer Attacks Remaining
+Rion cast Impaling Vine on Liv Kennedy - from (-18, -8) to (-15, -9)
+Liv Kennedy took 1 damage
+Liv Kennedy passed out
+Dead Liv Kennedy 1 created a clone (?!) to cheat death
+Liv Kennedy 2 moved - from (-15, -9) to (-18, -9)
+Liv Kennedy 2 is no longer Attacks Remaining
+Jen cast Static Blast on Liv Kennedy 2 - from (-19, -10) to (-18, -9)
+Liv Kennedy 2 took 4 knockback
+Liv Kennedy 2 hit something with 3 knockback left
+Liv Kennedy 2 took 3 damage
+Liv Kennedy 2 passed out
+Dead Liv Kennedy 2 created a clone (?!) to cheat death
+Liv Kennedy 3 moved - from (-17, -8) to (-20, -9)
+Liv Kennedy 3 is no longer Attacks Remaining
+Jen moved - from (-19, -10) to (-20, -12)
+Rion bit on Liv Kennedy 3 - from (-19, -9) to (-20, -9)
+Liv Kennedy 3 took 1 damage
+Dall moved - from (-17, -10) to (-20, -10)
+Dall used Censer Slam on Liv Kennedy 3 - from (-20, -10) to (-20, -9)
+Liv Kennedy 3 took 5 damage
+Liv Kennedy 3 passed out
+Dead Liv Kennedy 3 created a clone (?!) to cheat death
+Liv Kennedy 4 moved - from (-20, -9) to (-22, -11)
+Liv Kennedy 4 is no longer Attacks Remaining
+Dead Liv Kennedy 3 took 1 knockback
+Dead Liv Kennedy 3 hit something with 1 knockback left
+Jen moved - from (-19, -10) to (-18, -9)
+Liv Kennedy shot Jen - from (-15, -9) to (-18, -9)
+Jen took 2 damage
+Jen took 1 knockback
+Banks took 1 knockback
+Jen hit something with 1 knockback left
+Jen took 1 damage
+Jen cast Static Blast on Banks - from (-18, -9) to (-20, -9)
+Banks took 2 knockback
+Liv Kennedy shot Jen - from (-15, -9) to (-18, -9)
+Jen took 2 damage
+Jen passed out
+Jen took 1 knockback
+Dall moved - from (-17, -10) to (-16, -9)
+Liv Kennedy shot Dall - from (-15, -9) to (-16, -9)
+Dall armour blocked 1 damage
+Dall took 1 damage
+Dall gained 1 mana from incoming damage
+Dall stability prevented 1 knockback
+Dall used Censer Slam on Liv Kennedy - from (-16, -9) to (-15, -9)
+Liv Kennedy took 5 damage
+Liv Kennedy passed out
+Dead Liv Kennedy 1 created a clone (?!) to cheat death
+Liv Kennedy 2 moved - from (-15, -9) to (-18, -9)
+Dead Liv Kennedy 1 took 1 knockback
+Dead Liv Kennedy 1 hit something with 1 knockback left
+Jen cast Static Blast on Banks - from (-19, -10) to (-19, -9)
+Banks took 4 knockback
+Banks hit something with 1 knockback left
+Banks took 1 damage
+Liv Kennedy 2 shot Jen - from (-18, -9) to (-19, -10)
+Jen took 2 damage
+Jen took 1 knockback
+Liv Kennedy 2 is no longer Attacks Remaining
+Jen hit something with 1 knockback left
+Jen took 1 damage
+Rion cast Impaling Vine on Liv Kennedy 2 - from (-18, -8) to (-18, -9)
+Liv Kennedy 2 took 1 damage
+Liv Kennedy 2 took 3 knockback
+Rion took 1 knockback
+Liv Kennedy 2 hit something with 3 knockback left
+Liv Kennedy 2 took 1 extra damage from Brittle, Brittle reduced to 0
+Liv Kennedy 2 is no longer Brittle
+Liv Kennedy 2 took 4 damage
+Liv Kennedy 2 passed out
+Dead Liv Kennedy 2 created a clone (?!) to cheat death
+Liv Kennedy 3 moved - from (-18, -9) to (-16, -10)
+Liv Kennedy 3 is no longer Attacks Remaining
+Banks used Death's Door - from (-19, -9) to (-19, -6)
+Liv Kennedy shot Banks - from (-15, -9) to (-19, -9)
+Banks took 2 damage
+Banks took 1 knockback
+Dall used Throw Riot Block - from (-17, -10) to (-16, -9)
+Liv Kennedy shot Dall - from (-15, -9) to (-17, -10)
+Dall armour blocked 1 damage
+Dall took 1 damage
+Dall gained 1 mana from incoming damage
+Dall stability prevented 1 knockback
+Banks used Death's Door - from (-19, -9) to (-19, -6)
+Liv Kennedy shot Banks - from (-15, -9) to (-19, -9)
+Banks took 2 damage
+Banks took 1 knockback
+Dall moved - from (-17, -10) to (-15, -10)
+Liv Kennedy shot Dall - from (-15, -9) to (-15, -10)
+Dall armour blocked 1 damage
+Dall took 1 damage
+Dall gained 1 mana from incoming damage
+Dall stability prevented 1 knockback
+Banks used Death's Door - from (-19, -9) to (-19, -6)
+Liv Kennedy shot Banks - from (-15, -9) to (-19, -9)
+Banks took 2 damage
+Banks took 1 knockback
+Liv Kennedy is no longer Attacks Remaining
+Banks used Death's Door - from (-19, -9) to (-22, -9)
+Liv Kennedy shot Banks - from (-15, -9) to (-19, -9)
+Banks took 2 damage
+Banks took 1 knockback
+Liv Kennedy is no longer Attacks Remaining
+Jen moved - from (-19, -10) to (-19, -9)
+Jen cast Static Blast on Banks - from (-19, -9) to (-20, -9)
+Banks took 4 knockback
+Banks fell into Death's Door
+Banks took 2 damage
+Banks passed out
+Jen threw a Gale Grenade Liv Kennedy - from (-19, -9) to (-15, -9)
+Riot Block took 1 knockback
+Dall stability prevented 1 knockback
+Rion cast Impaling Vine on Liv Kennedy - from (-18, -8) to (-15, -9)
+Liv Kennedy took 1 damage
+Liv Kennedy took 3 knockback
+Liv Kennedy hit something with 3 knockback left
+Riot Block added 1 extra impact damage
+Liv Kennedy took 1 extra damage from Brittle, Brittle reduced to 0
+Liv Kennedy is no longer Brittle
+Liv Kennedy took 5 damage
+Liv Kennedy passed out
+Dead Liv Kennedy 1 created a clone (?!) to cheat death
+Liv Kennedy 2 moved - from (-15, -9) to (-17, -8)
+Liv Kennedy 2 is no longer Attacks Remaining
+Dall Swapped with Liv Kennedy 2 - from (-15, -10) to (-17, -8)
+Jen threw a Gale Grenade - from (-19, -9) to (-16, -10)
+Riot Block took 1 knockback
+Liv Kennedy 2 took 1 knockback
+Liv Kennedy 2 hit something with 1 knockback left
+Liv Kennedy 2 took 1 damage
+Rion bit on Liv Kennedy 2 - from (-16, -9) to (-15, -10)
+Liv Kennedy 2 took 1 damage
+Dall used Pick Up Riot Block - from (-17, -8) to (-16, -8)
+Dall used Throw Riot Block - from (-17, -8) to (-16, -10)
+Player ended their turn, starting enemy turn 1
+Liv Kennedy 2 moved - from (-15, -10) to (-17, -9)
+End of enemy turn 1
+ 
+Start of player turn 2
+Dall used Censer Slam on Liv Kennedy 2 - from (-17, -8) to (-17, -9)
+Liv Kennedy 2 took 5 damage
+Liv Kennedy 2 passed out
+Dead Liv Kennedy 2 created a clone (?!) to cheat death
+Liv Kennedy 3 moved - from (-17, -9) to (-19, -8)
+Dead Liv Kennedy 2 took 1 knockback
+Jen moved - from (-19, -9) to (-18, -8)
+Liv Kennedy 3 shot Jen - from (-19, -8) to (-18, -8)
+Jen took 2 damage
+Jen took 1 knockback
+Dall stability prevented 1 knockback
+Jen hit something with 1 knockback left
+Jen took 1 damage
+Jen cast Static Blast on Liv Kennedy 3 - from (-18, -8) to (-19, -8)
+Liv Kennedy 3 took 4 knockback
+Liv Kennedy 3 hit something with 4 knockback left
+Liv Kennedy 3 took 4 damage
+Liv Kennedy 3 passed out
+Dead Liv Kennedy 3 created a clone (?!) to cheat death
+Liv Kennedy 4 moved - from (-19, -8) to (-17, -9)
+Liv Kennedy 4 is no longer Attacks Remaining
+Rion cast Impaling Vine on Liv Kennedy 4 - from (-16, -9) to (-17, -9)
+Liv Kennedy 4 took 1 damage
+Liv Kennedy 4 took 3 knockback
+Rion took 1 knockback
+Liv Kennedy 4 hit something with 3 knockback left
+Liv Kennedy 4 took 1 extra damage from Brittle, Brittle reduced to 0
+Liv Kennedy 4 is no longer Brittle
+Liv Kennedy 4 took 4 damage
+Liv Kennedy 4 passed out
+Dead Liv Kennedy 4 created a clone (?!) to cheat death
+Liv Kennedy 5 moved - from (-17, -9) to (-19, -10)
+Liv Kennedy 5 is no longer Attacks Remaining
+Player ended their turn, starting enemy turn 2
+Liv Kennedy 5 moved - from (-19, -10) to (-17, -9)
+End of enemy turn 2
+ 
+Start of player turn 3
+Dall used Censer Slam on Liv Kennedy 5 - from (-17, -8) to (-17, -9)
+Liv Kennedy 5 took 5 damage
+Liv Kennedy 5 took 1 knockback
+Liv Kennedy 5 shot Dall - from (-17, -10) to (-17, -8)
+Dall armour blocked 1 damage
+Dall took 1 damage
+Dall gained 1 mana from incoming damage
+Dall stability prevented 1 knockback
+Jen cast Static Blast on Liv Kennedy 5 - from (-18, -8) to (-17, -10)
+Liv Kennedy 5 took 2 knockback
+Liv Kennedy 5 hit something with 2 knockback left
+Liv Kennedy 5 took 2 damage
+Liv Kennedy 5 passed out
+Dead Liv Kennedy 5 created a clone (?!) to cheat death
+Liv Kennedy 6 moved - from (-17, -10) to (-19, -9)
+Rion cast Impaling Vine on Liv Kennedy 6 - from (-15, -9) to (-19, -9)
+Liv Kennedy 6 took 1 damage
+Liv Kennedy 6 took 3 knockback
+Liv Kennedy 6 shot Rion - from (-16, -9) to (-15, -9)
+Rion took 2 damage
+Rion took 1 knockback
+Liv Kennedy 6 is no longer Attacks Remaining
+Rion hit something with 1 knockback left
+Rion took 1 damage
+Player ended their turn, starting enemy turn 3
+Liv Kennedy 6 moved - from (-16, -9) to (-19, -9)
+End of enemy turn 3
+ 
+Start of player turn 4
+Dall Swapped with Liv Kennedy 6 - from (-17, -8) to (-19, -9)
+Liv Kennedy 6 shot Dall - from (-17, -8) to (-19, -9)
+Dall armour blocked 1 damage
+Dall took 1 damage
+Dall passed out
+Dall gained 1 mana from incoming damage
+Dall stability prevented 1 knockback
+Rion cast Impaling Vine on Liv Kennedy 6 - from (-15, -9) to (-17, -8)
+Liv Kennedy 6 took 1 extra damage from Brittle, Brittle reduced to 0
+Liv Kennedy 6 is no longer Brittle
+Liv Kennedy 6 took 2 damage
+Liv Kennedy 6 took 3 knockback
+Liv Kennedy 6 hit something with 2 knockback left
+Riot Block added 1 extra impact damage
+Liv Kennedy 6 took 1 extra damage from Brittle, Brittle reduced to 0
+Liv Kennedy 6 is no longer Brittle
+Liv Kennedy 6 took 4 damage
+Liv Kennedy 6 passed out
+Dead Liv Kennedy 6 created a clone (?!) to cheat death
+Liv Kennedy 7 moved - from (-16, -9) to (-19, -7)
+Jen cast Static Blast on Liv Kennedy 7 - from (-18, -8) to (-19, -7)
+Liv Kennedy 7 took 4 knockback
+Liv Kennedy 7 hit something with 4 knockback left
+Liv Kennedy 7 took 4 damage
+Liv Kennedy 7 shot Jen - from (-19, -7) to (-18, -8)
+Jen took 2 damage
+Jen passed out
+Jen took 1 knockback
+Liv Kennedy 7 is no longer Attacks Remaining
+Rion moved - from (-15, -9) to (-19, -8)
+Rion cast Brittling Dart on Liv Kennedy 7 - from (-19, -8) to (-19, -7)
+Player ended their turn, starting enemy turn 4
+Liv Kennedy 7 moved - from (-19, -7) to (-18, -9)
+End of enemy turn 4
+ 
+Start of player turn 5
+Rion cast Impaling Vine on Liv Kennedy 7 - from (-19, -8) to (-18, -9)
+Liv Kennedy 7 took 1 extra damage from Brittle, Brittle reduced to 0
+Liv Kennedy 7 is no longer Brittle
+Liv Kennedy 7 took 2 damage
+Liv Kennedy 7 took 3 knockback
+Rion took 1 knockback
+Liv Kennedy 7 hit something with 3 knockback left
+Liv Kennedy 7 took 1 extra damage from Brittle, Brittle reduced to 0
+Liv Kennedy 7 is no longer Brittle
+Liv Kennedy 7 took 4 damage
+Liv Kennedy 7 passed out
+Dead Liv Kennedy 7 created a clone (?!) to cheat death
+Liv Kennedy 8 moved - from (-18, -9) to (-19, -7)
+Rion hit something with 1 knockback left
+Rion took 1 damage
+Rion passed out

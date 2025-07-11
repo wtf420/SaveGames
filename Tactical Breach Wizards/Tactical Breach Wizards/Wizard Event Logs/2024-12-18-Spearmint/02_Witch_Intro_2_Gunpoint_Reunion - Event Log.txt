@@ -1,0 +1,21 @@
+02_Witch_Intro_2_Gunpoint_Reunion
+ 
+Start of player turn 1
+Jen moved - from (-2, 1) to (-3, 1)
+Jen cast Chain Bolt on RPD Tracker Delphinus, RPD Tracker Regor - from (-3, 1) to (-5, 1)
+RPD Tracker Delphinus took 2 knockback
+RPD Tracker Regor took 2 knockback
+Zan used 3 Bolt Burst on RPD Tracker Horizon - from (-4, 0) to (-3, -2)
+RPD Tracker Delphinus was defenestrated - from (-6, 1) to (-6, 1)
+RPD Tracker Regor was defenestrated - from (-5, -2) to (-5, -2)
+RPD Tracker Horizon took 1 damage
+RPD Tracker Horizon took 1 knockback
+RPD Tracker Horizon hit something with 1 knockback left
+RPD Tracker Horizon took 1 damage
+RPD Tracker Horizon passed out
+RPD Tracker Delphinus took 2 damage
+RPD Tracker Delphinus passed out
+RPD Tracker Regor took 2 damage
+RPD Tracker Regor passed out
+Jen moved - from (-3, 1) to (-5, 0)
+Jen used Use Laptop - from (-5, 0) to (-6, 0)

@@ -1,0 +1,395 @@
+16_Siege_Cleric_1_The_Siege_Cleric
+ 
+Start of player turn 1
+Chapel Siege Cleric used Launch Missiles - from (11, -3) to (3, -2)
+Chapel Siege Cleric used Launch Missiles - from (11, -3) to (7, -3)
+Chapel Siege Cleric used Launch Missiles - from (11, -3) to (9, -3)
+Zan repositioned - from (2, -1) to (2, 1)
+Zan breached - from (2, 1) to (2, 0)
+Jen breached - from (2, 5) to (2, 4)
+Jen moved - from (2, 4) to (6, 6)
+Jen cast Static Blast on Chapel Tracker Necessity - from (6, 6) to (6, 4)
+Chapel Tracker Necessity took 2 knockback
+Zan took a free shot at Chapel Tracker Necessity with Supporting Fire.
+Zan used 3 Bolt Burst on Chapel Tracker Necessity - from (2, 0) to (6, 2)
+Chapel Tracker Necessity took 1 damage
+Chapel Tracker Necessity took 1 knockback
+Jen sealed a hostile entry point - from (6, 6) to (6, 6)
+Dall moved - from (2, 3) to (6, 3)
+Dall used Censer Slam on Chapel Tracker Necessity - from (6, 3) to (7, 3)
+Chapel Tracker Necessity took 3 damage
+Chapel Tracker Necessity passed out
+Chapel Tracker Necessity took 1 knockback
+Zan moved - from (2, 0) to (4, 0)
+Zan used 3 Bolt Burst on Chapel Tracker Desforge - from (4, 0) to (5, -4)
+Chapel Tracker Desforge took 1 damage
+Chapel Tracker Desforge took 1 knockback
+Banks moved - from (2, -1) to (6, -2)
+Banks used Sedative Cocktail on Chapel Tracker Desforge - from (6, -2) to (5, -5)
+Chapel Tracker Desforge took 1 knockback
+Chapel Tracker Desforge is Sedated
+Zan took a free shot at Chapel Tracker Desforge with Supporting Fire.
+Zan used 3 Bolt Burst on Chapel Tracker Desforge - from (4, 0) to (5, -6)
+Chapel Tracker Desforge took 1 damage
+Chapel Tracker Desforge took 2 knockback
+Chapel Tracker Desforge hit something with 2 knockback left
+Chapel Tracker Desforge took 2 damage
+Chapel Tracker Desforge passed out
+Chapel Riot Priest Phase slammed Dall - from (7, 3) to (6, 3)
+Dall armour blocked 1 damage
+Dall took 2 damage
+Dall gained 1 mana from incoming damage
+Dall stability prevented 1 knockback
+Player ended their turn, starting enemy turn 1
+Chapel Absolver Barmash moved - from (13, 4) to (10, 4)
+Chapel Siege Cleric moved - from (11, -3) to (12, -5)
+Chapel Siege Cleric used Launch Missiles - from (12, -5) to (3, -1)
+Chapel Siege Cleric used Launch Missiles - from (12, -5) to (7, -3)
+Chapel Siege Cleric used Launch Missiles - from (12, -5) to (9, -3)
+End of enemy turn 1
+ 
+Start of player turn 2
+Banks used Resurrect - from (6, -2) to (6, -1)
+Jen moved - from (6, 6) to (9, 5)
+Jen cast Static Blast on Chapel Absolver Barmash - from (9, 5) to (10, 4)
+Chapel Absolver Barmash took 4 knockback
+Chapel Absolver Barmash hit something with 3 knockback left
+Chapel Absolver Barmash took 3 damage
+Chapel Absolver Barmash passed out
+Chapel Riot Priest Phase is no longer Invincible
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Jen moved - from (9, 5) to (10, 6)
+Jen sealed a hostile entry point - from (10, 6) to (10, 6)
+Zan moved - from (4, 0) to (4, -5)
+Zan took 2 damage
+Banks used Sedative Cocktail on Chapel Tracker Moon - from (6, -2) to (13, -5)
+Gasmasked prevented Chapel Siege Cleric from gaining Sedated
+Gasmasked prevented Chapel Siege Cleric from gaining Unsteady
+Chapel Tracker Moon took 1 knockback
+Chapel Tracker Moon is Sedated
+Chapel Tracker Moon hit something with 1 knockback left
+Chapel Tracker Moon took 1 damage
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Dall moved - from (6, 3) to (8, 3)
+Dall used Throw Riot Block - from (8, 3) to (6, 3)
+Rion moved - from (6, -1) to (4, 0)
+Rion cast Impaling Vine on Chapel Riot Priest Phase - from (4, 0) to (7, 3)
+Chapel Riot Priest Phase armour blocked 1 damage
+Chapel Riot Priest Phase stability prevented 1 knockback
+Chapel Riot Priest Phase took 2 knockback
+Chapel Riot Priest Phase hit something with 2 knockback left
+Riot Block added 1 extra impact damage
+Chapel Riot Priest Phase took 3 damage
+Chapel Riot Priest Phase is no longer Gasmasked
+Zan took a free shot at Chapel Riot Priest Phase with Supporting Fire.
+Zan used 3 Bolt Burst on Chapel Riot Priest Phase - from (4, -5) to (7, 3)
+Chapel Riot Priest Phase armour blocked 1 damage
+Chapel Riot Priest Phase stability prevented 1 knockback
+Zan used 3 Bolt Burst on Chapel Siege Cleric - from (4, -5) to (12, -5)
+Chapel Siege Cleric armour blocked 1 damage
+Chapel Siege Cleric stability prevented 1 knockback
+Zan used Time Boost - from (4, -5) to (5, -1)
+Banks used Sedative Cocktail - from (6, -2) to (6, 2)
+Chapel Riot Priest Phase is Sedated
+Dall used Censer Slam on Chapel Riot Priest Phase - from (8, 3) to (7, 3)
+Chapel Riot Priest Phase armour blocked 1 damage
+Chapel Riot Priest Phase took 2 damage
+Chapel Riot Priest Phase took 1 knockback
+Chapel Riot Priest Phase hit something with 1 knockback left
+Riot Block added 1 extra impact damage
+Chapel Riot Priest Phase took 2 damage
+Jen threw a Gale Grenade - from (10, 6) to (12, -4)
+Chapel Siege Cleric stability prevented 1 knockback
+Chapel Tracker Moon took 2 knockback
+Chapel Tracker Moon hit something with 2 knockback left
+Chapel Tracker Moon took 2 damage
+Chapel Tracker Moon passed out
+Banks used Transference on Chapel Riot Priest Phase - from (6, -2) to (7, 3)
+Chapel Riot Priest Phase slammed Dall - from (7, 3) to (8, 3)
+3 damage and 1 knockback to Dall was transferred to Chapel Riot Priest Phase
+Chapel Riot Priest Phase armour blocked 1 damage
+Chapel Riot Priest Phase took 2 damage
+Chapel Riot Priest Phase passed out
+Chapel Riot Priest Phase took 1 knockback
+Dall stability prevented 1 knockback
+Chapel Riot Priest Phase hit something with 1 knockback left
+Player ended their turn, starting enemy turn 2
+Chapel Cleanser Rabasse moved - from (13, 4) to (12, 3)
+Chapel Cleanser Rabasse took cover - from (12, 3) to (12, 3)
+Chapel Siege Cleric moved - from (12, -5) to (13, -5)
+Chapel Siege Cleric used Launch Missiles - from (13, -5) to (3, -1)
+Chapel Siege Cleric used Launch Missiles - from (13, -5) to (5, -4)
+Chapel Siege Cleric used Launch Missiles - from (13, -5) to (7, -3)
+End of enemy turn 2
+ 
+Start of player turn 3
+Jen moved - from (10, 6) to (13, 4)
+Jen sealed a hostile entry point - from (13, 4) to (13, 4)
+Jen cast Chain Bolt on Weapons Cache, Chapel Cleanser Rabasse - from (13, 4) to (13, 6)
+Weapons Cache took 2 knockback
+Chapel Cleanser Rabasse took 2 knockback
+Chapel Cleanser Rabasse hit something with 2 knockback left
+Chapel Cleanser Rabasse took 2 damage
+Weapons Cache hit something with 2 knockback left
+Weapons Cache took 2 damage
+Jen gained 1 mana for destroying a Weapons Cache
+Weapons Cache exploded
+Jen cast Static Blast on Chapel Cleanser Rabasse - from (13, 4) to (12, 3)
+Chapel Cleanser Rabasse took 4 knockback
+Chapel Cleanser Rabasse hit something with 4 knockback left
+Chapel Cleanser Rabasse took 4 damage
+Chapel Cleanser Rabasse passed out
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Jen moved - from (13, 4) to (8, 4)
+Banks used Sedative Cocktail - from (6, -2) to (11, -6)
+Weapons Cache took 1 knockback
+Weapons Cache hit something with 1 knockback left
+Weapons Cache took 1 damage
+Banks gained 1 mana for destroying a Weapons Cache
+Weapons Cache exploded
+Zan moved - from (4, -5) to (5, -6)
+Zan sealed a hostile entry point - from (5, -6) to (5, -6)
+Zan  - from (5, -6) to (7, -4)
+False Prophet took 2 damage
+False Prophet passed out
+Jen moved - from (10, 6) to (13, 4)
+Jen sealed a hostile entry point - from (13, 4) to (13, 4)
+Jen cast Static Blast on Chapel Cleanser Rabasse - from (13, 4) to (12, 3)
+Chapel Cleanser Rabasse took 4 knockback
+Chapel Cleanser Rabasse hit something with 4 knockback left
+Chapel Cleanser Rabasse took 4 damage
+Chapel Cleanser Rabasse passed out
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Jen moved - from (13, 4) to (10, 2)
+Jen used Broom Breach - from (10, 2) to (10, -2)
+Banks used Sedative Cocktail - from (6, -2) to (11, -6)
+Weapons Cache took 1 knockback
+Weapons Cache hit something with 1 knockback left
+Weapons Cache took 1 damage
+Banks gained 1 mana for destroying a Weapons Cache
+Weapons Cache exploded
+Zan moved - from (4, -5) to (5, -6)
+Zan sealed a hostile entry point - from (5, -6) to (5, -6)
+Dall moved - from (8, 3) to (7, -1)
+Zan moved - from (4, -5) to (5, -6)
+Zan sealed a hostile entry point - from (5, -6) to (5, -6)
+Rion used Defuse Mine - from (4, 0) to (3, -1)
+Rion moved - from (4, 0) to (4, -3)
+Rion used Grab Intel - from (4, -3) to (5, -3)
+Banks moved - from (6, -2) to (10, -4)
+Banks took 2 damage
+Player ended their turn, starting enemy turn 3
+Chapel Cleanser Warding took cover - from (12, -5) to (12, -5)
+Chapel Siege Cleric moved - from (13, -5) to (11, -3)
+Chapel Siege Cleric used Launch Missiles - from (11, -3) to (5, -4)
+Chapel Siege Cleric used Launch Missiles - from (11, -3) to (3, -2)
+Chapel Siege Cleric used Launch Missiles - from (11, -3) to (6, -5)
+End of enemy turn 3
+ 
+Start of player turn 4
+Banks moved - from (10, -4) to (13, -4)
+Banks sealed a hostile entry point - from (13, -4) to (13, -4)
+Banks used Sedative Cocktail on Chapel Cleanser Warding - from (13, -4) to (12, -5)
+Chapel Cleanser Warding took 1 knockback
+Chapel Cleanser Warding is Sedated
+Banks is Sedated
+Chapel Cleanser Warding hit something with 1 knockback left
+Chapel Cleanser Warding took 1 damage
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Banks used Spectral Skull - from (13, -4) to (12, -7)
+Chapel Cleanser Warding took 2 damage
+Chapel Siege Cleric armour blocked 2 damage
+Gasmasked prevented Chapel Siege Cleric from gaining Unsteady
+Jen cast Chain Bolt on Weapons Cache, Chapel Cleanser Warding, Chapel Siege Cleric - from (10, -2) to (13, -2)
+Weapons Cache took 2 knockback
+Chapel Cleanser Warding took 3 knockback
+Chapel Siege Cleric stability prevented 2 knockback
+Chapel Cleanser Warding hit something with 3 knockback left
+Chapel Cleanser Warding took 3 damage
+Chapel Cleanser Warding passed out
+Weapons Cache hit something with 2 knockback left
+Weapons Cache took 2 damage
+Jen gained 1 mana for destroying a Weapons Cache
+Weapons Cache exploded
+Rion cast Brittling Dart on Chapel Siege Cleric - from (4, -3) to (11, -3)
+Jen cast Chain Bolt on Chapel Siege Cleric, Weapons Cache, Chapel Cleanser Warding - from (10, -2) to (11, -3)
+Chapel Siege Cleric stability prevented 2 knockback
+Weapons Cache took 2 knockback
+Chapel Cleanser Warding took 3 knockback
+Chapel Cleanser Warding hit something with 3 knockback left
+Chapel Cleanser Warding took 3 damage
+Chapel Cleanser Warding passed out
+Weapons Cache hit something with 2 knockback left
+Weapons Cache took 2 damage
+Jen gained 1 mana for destroying a Weapons Cache
+Weapons Cache exploded
+Dall moved - from (7, -1) to (10, -3)
+Dall used Censer Slam on Chapel Siege Cleric - from (10, -3) to (11, -3)
+Brittle: 4 armour lost (Chapel Siege Cleric)
+Chapel Siege Cleric took 1 extra damage from Brittle, Brittle reduced to 0
+Chapel Siege Cleric is no longer Brittle
+Chapel Siege Cleric stability prevented 1 knockback
+Rion cast Impaling Vine on Chapel Siege Cleric - from (4, -3) to (11, -3)
+Brittle: 2 armour lost (Chapel Siege Cleric)
+Chapel Siege Cleric took 1 extra damage from Brittle, Brittle reduced to 0
+Chapel Siege Cleric is no longer Brittle
+Chapel Siege Cleric stability prevented 2 knockback
+Chapel Siege Cleric took 1 knockback
+Zan took a free shot at Chapel Siege Cleric with Supporting Fire.
+Zan used 3 Bolt Burst on Chapel Siege Cleric - from (5, -6) to (10, -3)
+Chapel Siege Cleric armour blocked 1 damage
+Chapel Siege Cleric stability prevented 1 knockback
+Dall moved - from (7, -1) to (9, -3)
+Dall used Censer Slam on Chapel Siege Cleric - from (9, -3) to (10, -3)
+Chapel Siege Cleric armour blocked 3 damage
+Chapel Siege Cleric stability prevented 1 knockback
+Dall moved - from (7, -1) to (7, -3)
+Dall used Charge - from (7, -3) to (9, -3)
+Chapel Siege Cleric armour blocked 1 damage
+Chapel Siege Cleric stability prevented 2 knockback
+Zan took a free shot at Chapel Siege Cleric with Supporting Fire.
+Zan used 3 Bolt Burst on Chapel Siege Cleric - from (5, -6) to (10, -3)
+Chapel Siege Cleric armour blocked 1 damage
+Chapel Siege Cleric stability prevented 1 knockback
+Rion cast Impaling Vine on Chapel Siege Cleric - from (4, -3) to (11, -3)
+Brittle: 2 armour lost (Chapel Siege Cleric)
+Chapel Siege Cleric took 1 extra damage from Brittle, Brittle reduced to 0
+Chapel Siege Cleric is no longer Brittle
+Chapel Siege Cleric stability prevented 2 knockback
+Chapel Siege Cleric took 1 knockback
+Zan took a free shot at Chapel Siege Cleric with Supporting Fire.
+Zan used 3 Bolt Burst on Chapel Siege Cleric - from (5, -6) to (10, -3)
+Chapel Siege Cleric armour blocked 1 damage
+Chapel Siege Cleric stability prevented 1 knockback
+Rion cast Brittling Dart on Chapel Siege Cleric - from (4, -3) to (10, -3)
+Dall moved - from (7, -1) to (9, -3)
+Dall used Censer Slam on Chapel Siege Cleric - from (9, -3) to (10, -3)
+Brittle: 3 armour lost (Chapel Siege Cleric)
+Chapel Siege Cleric took 1 extra damage from Brittle, Brittle reduced to 0
+Chapel Siege Cleric is no longer Brittle
+Chapel Siege Cleric took 1 damage
+Chapel Siege Cleric stability prevented 1 knockback
+Zan used 3 Bolt Burst on Chapel Siege Cleric - from (5, -6) to (10, -3)
+Brittle: 2 armour lost (Chapel Siege Cleric)
+Chapel Siege Cleric took 1 extra damage from Brittle, Brittle reduced to 0
+Chapel Siege Cleric is no longer Brittle
+Chapel Siege Cleric stability prevented 1 knockback
+Dall moved - from (7, -1) to (7, -3)
+Dall used Charge - from (7, -3) to (9, -3)
+Chapel Siege Cleric armour blocked 1 damage
+Chapel Siege Cleric stability prevented 2 knockback
+Zan took a free shot at Chapel Siege Cleric with Supporting Fire.
+Zan used 3 Bolt Burst on Chapel Siege Cleric - from (5, -6) to (10, -3)
+Chapel Siege Cleric armour blocked 1 damage
+Chapel Siege Cleric stability prevented 1 knockback
+Chapel Siege Cleric used Sweeping Smash - from (10, -3) to (9, -3)
+Player ended their turn, starting enemy turn 4
+Chapel Siege Cleric moved - from (10, -3) to (13, -5)
+Chapel Siege Cleric used Launch Missiles - from (13, -5) to (5, -2)
+Chapel Siege Cleric used Launch Missiles - from (13, -5) to (5, -4)
+Chapel Siege Cleric used Launch Missiles - from (13, -5) to (3, -2)
+End of enemy turn 4
+ 
+Start of player turn 5
+Banks moved - from (13, -4) to (13, -2)
+Zan moved - from (5, -6) to (9, -4)
+Zan used 3 Bolt Burst on Chapel Siege Cleric - from (9, -4) to (13, -5)
+Chapel Siege Cleric armour blocked 1 damage
+Chapel Siege Cleric stability prevented 1 knockback
+Rion used Steal Mana on Dall - from (4, -3) to (7, -3)
+Rion used Steal Mana on Dall - from (4, -3) to (7, -3)
+Rion cast Brittling Dart on Chapel Siege Cleric - from (4, -3) to (13, -5)
+Banks moved - from (13, -4) to (13, -2)
+Zan moved - from (5, -6) to (8, -3)
+Zan used 3 Bolt Burst on Chapel Siege Cleric - from (8, -3) to (13, -5)
+Brittle: 1 armour lost (Chapel Siege Cleric)
+Chapel Siege Cleric took 1 extra damage from Brittle, Brittle reduced to 0
+Chapel Siege Cleric is no longer Brittle
+Chapel Siege Cleric took 1 damage
+Chapel Siege Cleric stability prevented 1 knockback
+Banks used Sedative Cocktail on Chapel Siege Cleric - from (13, -2) to (13, -5)
+Chapel Siege Cleric stability prevented 1 knockback
+Gasmasked prevented Chapel Siege Cleric from gaining Sedated
+Gasmasked prevented Chapel Siege Cleric from gaining Unsteady
+Zan took a free shot at Chapel Siege Cleric with Supporting Fire.
+Zan used 3 Bolt Burst on Chapel Siege Cleric - from (8, -3) to (13, -5)
+Chapel Siege Cleric took 1 damage
+Chapel Siege Cleric is no longer Gasmasked
+Chapel Siege Cleric stability prevented 1 knockback
+Dall moved - from (7, -3) to (11, -5)
+Dall moved - from (7, -3) to (9, -5)
+Dall used Charge - from (9, -5) to (12, -5)
+Chapel Siege Cleric took 1 damage
+Chapel Siege Cleric stability prevented 2 knockback
+Chapel Siege Cleric took 1 knockback
+Chapel Siege Cleric hit something with 1 knockback left
+Chapel Siege Cleric took 1 damage
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Dall used Charge - from (9, -5) to (12, -5)
+Chapel Siege Cleric took 1 damage
+Chapel Siege Cleric stability prevented 2 knockback
+Chapel Siege Cleric took 1 knockback
+Chapel Siege Cleric hit something with 1 knockback left
+Chapel Siege Cleric took 1 damage
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Rion cast Impaling Vine on Chapel Siege Cleric - from (4, -3) to (13, -5)
+Chapel Siege Cleric took 1 damage
+Chapel Siege Cleric stability prevented 2 knockback
+Chapel Siege Cleric took 1 knockback
+Zan took a free shot at Chapel Siege Cleric with Supporting Fire.
+Zan used 3 Bolt Burst on Chapel Siege Cleric - from (8, -3) to (12, -5)
+Chapel Siege Cleric took 1 damage
+Chapel Siege Cleric stability prevented 1 knockback
+Jen cast Chain Bolt on Chapel Siege Cleric - from (10, -2) to (12, -5)
+Chapel Siege Cleric stability prevented 2 knockback
+Dall used Charge - from (9, -5) to (11, -5)
+Chapel Siege Cleric took 1 damage
+Chapel Siege Cleric stability prevented 2 knockback
+Zan took a free shot at Chapel Siege Cleric with Supporting Fire.
+Zan used 3 Bolt Burst on Chapel Siege Cleric - from (8, -3) to (12, -5)
+Chapel Siege Cleric took 1 damage
+Chapel Siege Cleric stability prevented 1 knockback
+Chapel Siege Cleric used Sweeping Smash - from (12, -5) to (12, -4)
+Player ended their turn, starting enemy turn 5
+Chapel Siege Cleric moved - from (12, -5) to (13, -5)
+Chapel Siege Cleric used Launch Missiles - from (13, -5) to (5, -2)
+Chapel Siege Cleric used Launch Missiles - from (13, -5) to (5, -4)
+Chapel Siege Cleric used Launch Missiles - from (13, -5) to (3, -2)
+End of enemy turn 5
+ 
+Start of player turn 6
+Banks used Sedative Cocktail on Chapel Siege Cleric - from (13, -2) to (13, -5)
+Chapel Siege Cleric stability prevented 1 knockback
+Chapel Siege Cleric is Sedated
+Zan took a free shot at Chapel Siege Cleric with Supporting Fire.
+Zan used 3 Bolt Burst on Chapel Siege Cleric - from (8, -3) to (13, -5)
+Chapel Siege Cleric took 1 damage
+Chapel Siege Cleric stability prevented 1 knockback
+Dall used Charge - from (11, -5) to (12, -5)
+Chapel Siege Cleric took 1 damage
+Chapel Siege Cleric passed out
+Chapel Siege Cleric stability prevented 1 knockback
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Jen cast Static Blast on - from (10, -2) to (13, 6)
+Weapons Cache took 2 knockback
+Weapons Cache hit something with 2 knockback left
+Weapons Cache took 2 damage
+Jen gained 1 mana for destroying a Weapons Cache
+Weapons Cache exploded
+Rion used Defuse Mine - from (4, -3) to (5, -2)
+Zan  - from (8, -3) to (5, -5)
+False Prophet took 2 damage
+False Prophet passed out
+Rion moved - from (4, -3) to (6, -5)
+Zan used 3 Bolt Burst - from (8, -3) to (3, -4)
+Weapons Cache took 1 damage
+Zan gained 1 mana for destroying a Weapons Cache
+Weapons Cache took 1 knockback
+Weapons Cache hit something with 1 knockback left
+Weapons Cache took 1 damage
+Weapons Cache exploded
+Jen moved - from (10, -2) to (4, -1)
+Dall moved - from (12, -5) to (4, -2)
+Dall armour blocked 1 damage
+Dall took 1 damage
+Dall gained 1 mana from incoming damage

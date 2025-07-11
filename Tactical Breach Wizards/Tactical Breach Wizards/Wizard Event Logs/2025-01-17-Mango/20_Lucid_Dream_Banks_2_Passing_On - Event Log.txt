@@ -1,0 +1,165 @@
+20_Lucid_Dream_Banks_2_Passing_On
+ 
+Start of player turn 1
+Banks breached - from (-24, -20) to (-24, -21)
+Banks used Resurrect - from (-24, -21) to (-21, -21)
+Banks moved - from (-21, -21) to (-20, -17)
+Banks used Resurrect - from (-20, -17) to (-17, -17)
+Banks used Sedative Cocktail - from (-20, -17) to (-10, -11)
+Banks moved - from (-17, -17) to (-13, -15)
+Banks used Resurrect - from (-13, -15) to (-12, -15)
+Banks moved - from (-12, -15) to (-10, -11)
+Banks used Resurrect - from (-10, -11) to (-10, -8)
+Banks used Sedative Cocktail - from (-10, -11) to (-10, -5)
+Banks moved - from (-17, -17) to (-13, -15)
+Banks used Resurrect - from (-13, -15) to (-12, -15)
+Banks used Sedative Cocktail - from (-13, -15) to (-10, -11)
+Banks moved - from (-12, -15) to (-10, -11)
+Banks used Sedative Cocktail - from (-10, -11) to (-10, -8)
+Banks used Resurrect - from (-10, -11) to (-10, -8)
+Banks moved - from (-10, -8) to (-9, -5)
+Banks used Resurrect - from (-9, -5) to (-9, -2)
+Banks used Resurrect - from (-9, -2) to (-11, -1)
+Zan used 3 Bolt Burst on Reactor Tracker Singye - from (-11, -1) to (-17, 1)
+Reactor Tracker Singye took 2 damage
+Reactor Tracker Singye took 1 knockback
+Banks used Sedative Cocktail on Reactor Tracker Singye - from (-9, -2) to (-17, 1)
+Reactor Tracker Singye took 1 knockback
+Reactor Tracker Singye is Sedated
+Zan took a free shot at Reactor Tracker Singye with Supporting Fire.
+Zan used 3 Bolt Burst on Reactor Tracker Singye - from (-11, -1) to (-18, 1)
+Reactor Tracker Singye took 2 damage
+Reactor Tracker Singye took 2 knockback
+Reactor Tracker Singye hit something with 2 knockback left
+Reactor Tracker Singye took 2 damage
+Reactor Tracker Singye passed out
+Zan moved - from (-11, -1) to (-10, 3)
+Zan sealed a hostile entry point - from (-10, 3) to (-10, 3)
+Zan  - from (-10, 3) to (-12, 3)
+False Prophet sealed a hostile entry point - from (-12, 3) to (-12, 3)
+Zan moved - from (-11, -1) to (-10, 3)
+Zan sealed a hostile entry point - from (-10, 3) to (-10, 3)
+Zan  - from (-10, 3) to (-14, 3)
+False Prophet sealed a hostile entry point - from (-14, 3) to (-14, 3)
+Banks used Death's Door - from (-9, -5) to (-11, 3)
+Banks used Death's Door - from (-9, -2) to (-17, 3)
+False Prophet vanished
+Player ended their turn, starting enemy turn 1
+Zan shot Reactor Heavy Gunner Schneid on overwatch
+Reactor Heavy Gunner Schneid armour blocked 1 damage
+Reactor Heavy Gunner Schneid took 3 damage
+Reactor Heavy Gunner Schneid moved - from (-16, 3) to (-14, 2)
+Reactor Heavy Gunner Schneid launched a grenade - from (-14, 2) to (-9, -1)
+Reactor Heavy Gunner Smilla moved - from (-12, 3) to (-11, 3)
+Reactor Heavy Gunner Smilla launched a grenade - from (-11, 3) to (-10, -2)
+End of enemy turn 1
+ 
+Start of player turn 2
+Zan used 3 Bolt Burst on Reactor Heavy Gunner Smilla - from (-10, 3) to (-11, 3)
+Reactor Heavy Gunner Smilla armour blocked 1 damage
+Reactor Heavy Gunner Smilla took 1 damage
+Reactor Heavy Gunner Smilla stability prevented 1 knockback
+Banks used Sedative Cocktail on Reactor Heavy Gunner Smilla - from (-9, -2) to (-11, 3)
+Reactor Heavy Gunner Smilla stability prevented 1 knockback
+Reactor Heavy Gunner Smilla is Sedated
+Zan is Sedated
+Zan took a free shot at Reactor Heavy Gunner Smilla with Supporting Fire.
+Zan used 3 Bolt Burst on Reactor Heavy Gunner Smilla - from (-10, 3) to (-11, 3)
+Reactor Heavy Gunner Smilla armour blocked 1 damage
+Reactor Heavy Gunner Smilla took 1 damage
+Reactor Heavy Gunner Smilla took 1 knockback
+Banks used Sedative Cocktail on Reactor Heavy Gunner Smilla - from (-9, -2) to (-11, 3)
+Reactor Heavy Gunner Smilla stability prevented 1 knockback
+Reactor Heavy Gunner Smilla is Sedated
+Zan is Sedated
+Zan took a free shot at Reactor Heavy Gunner Smilla with Supporting Fire.
+Zan used 3 Bolt Burst on Reactor Heavy Gunner Smilla - from (-10, 3) to (-11, 3)
+Reactor Heavy Gunner Smilla armour blocked 1 damage
+Reactor Heavy Gunner Smilla took 1 damage
+Reactor Heavy Gunner Smilla took 1 knockback
+Zan moved - from (-10, 3) to (-12, 3)
+Zan  - from (-12, 3) to (-16, 3)
+False Prophet sealed a hostile entry point - from (-16, 3) to (-16, 3)
+Zan sealed a hostile entry point - from (-12, 3) to (-12, 3)
+Zan used 3 Bolt Burst on Reactor Heavy Gunner Schneid - from (-12, 3) to (-14, 2)
+Reactor Heavy Gunner Schneid armour blocked 1 damage
+Reactor Heavy Gunner Schneid took 1 damage
+Reactor Heavy Gunner Schneid passed out
+Reactor Heavy Gunner Schneid stability prevented 1 knockback
+Banks used Sedative Cocktail on Reactor Heavy Gunner Smilla - from (-9, -2) to (-11, 3)
+Zan is Sedated
+Reactor Heavy Gunner Smilla stability prevented 1 knockback
+Reactor Heavy Gunner Smilla is Sedated
+Zan took a free shot at Reactor Heavy Gunner Smilla with Supporting Fire.
+Zan used 3 Bolt Burst on Reactor Heavy Gunner Smilla - from (-12, 3) to (-11, 3)
+Reactor Heavy Gunner Smilla armour blocked 1 damage
+Reactor Heavy Gunner Smilla took 1 damage
+Reactor Heavy Gunner Smilla took 1 knockback
+Banks moved - from (-9, -2) to (-9, 3)
+Banks used Sedative Cocktail on Reactor Heavy Gunner Smilla - from (-9, 3) to (-11, 3)
+Zan is Sedated
+Reactor Heavy Gunner Smilla stability prevented 1 knockback
+Reactor Heavy Gunner Smilla is Sedated
+Zan took a free shot at Reactor Heavy Gunner Smilla with Supporting Fire.
+Zan used 3 Bolt Burst on Reactor Heavy Gunner Smilla - from (-12, 3) to (-11, 3)
+Reactor Heavy Gunner Smilla armour blocked 1 damage
+Reactor Heavy Gunner Smilla took 1 damage
+Reactor Heavy Gunner Smilla took 1 knockback
+Reactor Heavy Gunner Smilla used Saturating Fire on Banks - from (-10, 3) to (-9, 3)
+Banks took 4 damage
+Banks passed out
+Reactor Heavy Gunner Smilla took 1 damage
+Zan took 1 damage
+False Prophet vanished
+Banks used Sedative Cocktail on Reactor Heavy Gunner Schneid - from (-9, -2) to (-14, 2)
+Reactor Heavy Gunner Schneid stability prevented 1 knockback
+Reactor Heavy Gunner Schneid is Sedated
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Zan moved - from (-10, 3) to (-11, 1)
+Zan took cover - from (-11, 1) to (-11, 1)
+Banks took 2 damage
+Banks took 1 knockback
+Banks was defenestrated - from (-9, -2) to (-9, -2)
+Banks took 2 damage
+Banks passed out
+Reactor Heavy Gunner Schneid used Saturating Fire on Zan - from (-14, 2) to (-11, 1)
+Zan took 4 damage
+Zan passed out
+Zan moved - from (-10, 3) to (-12, 3)
+Zan sealed a hostile entry point - from (-12, 3) to (-12, 3)
+Zan  - from (-12, 3) to (-16, 3)
+False Prophet sealed a hostile entry point - from (-16, 3) to (-16, 3)
+Zan used 3 Bolt Burst on Reactor Heavy Gunner Smilla - from (-12, 3) to (-11, 3)
+Reactor Heavy Gunner Smilla armour blocked 1 damage
+Reactor Heavy Gunner Smilla took 1 damage
+Reactor Heavy Gunner Smilla stability prevented 1 knockback
+Zan  - from (-12, 3) to (-16, 3)
+False Prophet sealed a hostile entry point - from (-16, 3) to (-16, 3)
+Zan  - from (-12, 3) to (-12, 1)
+Zan moved - from (-10, 3) to (-12, 1)
+Zan  - from (-12, 1) to (-16, 3)
+False Prophet sealed a hostile entry point - from (-16, 3) to (-16, 3)
+Zan  - from (-12, 1) to (-12, 3)
+False Prophet sealed a hostile entry point - from (-12, 3) to (-12, 3)
+Zan used 3 Bolt Burst on Reactor Heavy Gunner Schneid - from (-12, 1) to (-14, 2)
+Reactor Heavy Gunner Schneid armour blocked 1 damage
+Reactor Heavy Gunner Schneid took 1 damage
+Reactor Heavy Gunner Schneid passed out
+Reactor Heavy Gunner Schneid stability prevented 1 knockback
+Banks moved - from (-9, -2) to (-11, 1)
+Banks used Sedative Cocktail on Reactor Heavy Gunner Smilla - from (-11, 1) to (-11, 3)
+False Prophet is Sedated
+Reactor Heavy Gunner Smilla stability prevented 1 knockback
+Reactor Heavy Gunner Smilla is Sedated
+Zan took a free shot at Reactor Heavy Gunner Smilla with Supporting Fire.
+Zan used 3 Bolt Burst on Reactor Heavy Gunner Smilla - from (-12, 1) to (-11, 3)
+Reactor Heavy Gunner Smilla armour blocked 1 damage
+Reactor Heavy Gunner Smilla took 1 damage
+Reactor Heavy Gunner Smilla took 1 knockback
+Reactor Heavy Gunner Smilla fell into Death's Door
+Reactor Heavy Gunner Smilla took 3 damage
+Reactor Heavy Gunner Smilla passed out
+Reactor Heavy Gunner Smilla hit something with 1 knockback left
+False Prophet took 1 damage
+False Prophet passed out
+False Prophet vanished

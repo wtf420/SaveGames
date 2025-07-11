@@ -1,0 +1,347 @@
+13_Streets_2_Curfew
+ 
+Start of player turn 1
+Banks moved - from (9, 8) to (13, 6)
+Banks used Spectral Skull on Chapel Riot Priest Oakhurst - from (13, 6) to (18, 8)
+Chapel Cleanser Jones took 2 damage
+Chapel Riot Priest Oakhurst armour blocked 1 damage
+Chapel Riot Priest Oakhurst took 1 damage
+Gasmasked prevented Chapel Riot Priest Oakhurst from gaining Unsteady
+Chapel Riot Priest Parabola armour blocked 1 damage
+Chapel Riot Priest Parabola took 1 damage
+Gasmasked prevented Chapel Riot Priest Parabola from gaining Unsteady
+Chapel Riot Priest Davis armour blocked 1 damage
+Chapel Riot Priest Davis took 1 damage
+Gasmasked prevented Chapel Riot Priest Davis from gaining Unsteady
+Chapel Riot Priest Andromeda armour blocked 1 damage
+Chapel Riot Priest Andromeda took 1 damage
+Gasmasked prevented Chapel Riot Priest Andromeda from gaining Unsteady
+Jen moved - from (9, 9) to (12, 10)
+Jen moved - from (9, 9) to (12, 11)
+Jen cast Chain Bolt on Chapel Cleanser Jones, Banks, Chapel Tracker Havill - from (12, 11) to (16, 7)
+Chapel Cleanser Jones took 3 knockback
+Banks took 2 knockback
+Chapel Tracker Havill took 2 knockback
+Chapel Cleanser Jones was defenestrated - from (16, 7) to (16, 7)
+Zan used 3 Bolt Burst on Chapel Tracker Havill - from (9, 10) to (16, 10)
+Chapel Tracker Havill took 1 damage
+Chapel Tracker Havill took 1 knockback
+Jen cast Chain Bolt on Chapel Cleanser Jones, Banks, Chapel Tracker Havill - from (12, 11) to (16, 7)
+Chapel Cleanser Jones took 3 knockback
+Banks took 2 knockback
+Chapel Tracker Havill took 2 knockback
+Chapel Tracker Havill was defenestrated - from (17, 10) to (17, 10)
+Chapel Cleanser Jones was defenestrated - from (16, 7) to (16, 7)
+Chapel Tracker Havill took 2 damage
+Chapel Tracker Havill passed out
+Chapel Cleanser Jones took 1 damage
+Chapel Cleanser Jones passed out
+Zan moved - from (9, 10) to (12, 9)
+Player ended their turn, starting enemy turn 1
+Zan shot Chapel Riot Priest Ajavon on overwatch
+Chapel Riot Priest Ajavon armour blocked 1 damage
+Chapel Riot Priest Ajavon took 3 damage
+Chapel Riot Priest Ajavon is no longer Gasmasked
+Chapel Riot Priest Ajavon moved - from (22, 9) to (19, 8)
+Chapel Riot Priest Davis moved - from (21, 10) to (18, 10)
+Chapel Riot Priest Andromeda moved - from (19, 10) to (17, 11)
+Chapel Riot Priest Parabola moved - from (20, 8) to (17, 8)
+Chapel Riot Priest Oakhurst moved - from (18, 8) to (15, 8)
+End of enemy turn 1
+ 
+Start of player turn 2
+Jen used Grab Intel - from (12, 11) to (13, 11)
+Jen cast Chain Bolt on Chapel Riot Priest Andromeda, Zan, Chapel Riot Priest Oakhurst - from (12, 11) to (17, 11)
+Chapel Riot Priest Andromeda stability prevented 1 knockback
+Chapel Riot Priest Andromeda took 1 knockback
+Zan took 2 knockback
+Chapel Riot Priest Oakhurst stability prevented 1 knockback
+Chapel Riot Priest Oakhurst took 1 knockback
+Zan hit something with 2 knockback left
+Zan took 2 damage
+Chapel Riot Priest Andromeda was defenestrated - from (17, 11) to (17, 11)
+Chapel Riot Priest Andromeda took 7 damage
+Chapel Riot Priest Andromeda is no longer Gasmasked
+Chapel Riot Priest Andromeda passed out
+Zan  - from (12, 9) to (16, 9)
+Jen used Grab Intel - from (12, 11) to (13, 11)
+Jen moved - from (12, 11) to (12, 8)
+Jen cast Static Blast on Chapel Riot Priest Oakhurst - from (12, 8) to (15, 8)
+Chapel Riot Priest Oakhurst stability prevented 1 knockback
+Chapel Riot Priest Oakhurst took 1 knockback
+Zan took a free shot at Chapel Riot Priest Oakhurst with Supporting Fire.
+Zan used 3 Bolt Burst on Chapel Riot Priest Oakhurst - from (12, 9) to (16, 8)
+Chapel Riot Priest Oakhurst armour blocked 1 damage
+Chapel Riot Priest Oakhurst stability prevented 1 knockback
+Dall moved - from (15, 14) to (16, 15)
+Jen used Grab Intel - from (12, 11) to (13, 11)
+Jen cast Static Blast on Chapel Riot Priest Oakhurst - from (12, 11) to (15, 8)
+Chapel Riot Priest Oakhurst stability prevented 1 knockback
+Chapel Riot Priest Oakhurst took 1 knockback
+Zan took a free shot at Chapel Riot Priest Oakhurst with Supporting Fire.
+Zan used 3 Bolt Burst on Chapel Riot Priest Oakhurst - from (12, 9) to (16, 7)
+Chapel Riot Priest Oakhurst armour blocked 1 damage
+Chapel Riot Priest Oakhurst stability prevented 1 knockback
+Zan used Time Boost on Jen - from (12, 9) to (12, 11)
+Dall used Charge - from (16, 15) to (16, 8)
+Chapel Riot Priest Oakhurst armour blocked 1 damage
+Chapel Riot Priest Oakhurst stability prevented 1 knockback
+Chapel Riot Priest Oakhurst took 6 knockback
+Chapel Riot Priest Oakhurst was defenestrated - from (16, 7) to (16, 7)
+Chapel Riot Priest Oakhurst hit something with 5 knockback left
+Chapel Riot Priest Oakhurst took 5 damage
+Chapel Riot Priest Oakhurst is no longer Gasmasked
+Chapel Riot Priest Oakhurst took 2 damage
+Chapel Riot Priest Oakhurst passed out
+Zan moved - from (12, 9) to (12, 7)
+Zan used Grab Intel - from (12, 7) to (13, 7)
+Jen cast Static Blast on Chapel Riot Priest Oakhurst - from (12, 11) to (15, 8)
+Chapel Riot Priest Oakhurst stability prevented 1 knockback
+Chapel Riot Priest Oakhurst took 1 knockback
+Zan took a free shot at Chapel Riot Priest Oakhurst with Supporting Fire.
+Zan used 3 Bolt Burst on Chapel Riot Priest Oakhurst - from (12, 9) to (16, 7)
+Chapel Riot Priest Oakhurst armour blocked 1 damage
+Chapel Riot Priest Oakhurst stability prevented 1 knockback
+Jen used Grab Intel - from (12, 11) to (13, 11)
+Jen cast Chain Bolt on Chapel Riot Priest Oakhurst, Jen, Chapel Riot Priest Andromeda - from (12, 11) to (15, 8)
+Chapel Riot Priest Oakhurst stability prevented 1 knockback
+Chapel Riot Priest Oakhurst took 1 knockback
+Jen took 2 knockback
+Chapel Riot Priest Andromeda stability prevented 1 knockback
+Chapel Riot Priest Andromeda took 1 knockback
+Chapel Riot Priest Andromeda was defenestrated - from (17, 11) to (17, 11)
+Chapel Riot Priest Andromeda took 7 damage
+Chapel Riot Priest Andromeda is no longer Gasmasked
+Chapel Riot Priest Andromeda passed out
+Dall moved - from (15, 14) to (16, 14)
+Dall used Charge - from (16, 14) to (16, 8)
+Chapel Riot Priest Oakhurst armour blocked 1 damage
+Chapel Riot Priest Oakhurst stability prevented 1 knockback
+Chapel Riot Priest Oakhurst took 5 knockback
+Chapel Riot Priest Oakhurst was defenestrated - from (16, 7) to (16, 7)
+Chapel Riot Priest Oakhurst hit something with 4 knockback left
+Chapel Riot Priest Oakhurst took 4 damage
+Chapel Riot Priest Oakhurst is no longer Gasmasked
+Chapel Riot Priest Oakhurst took 3 damage
+Chapel Riot Priest Oakhurst passed out
+Jen cast Static Blast on Chapel Riot Priest Oakhurst - from (12, 11) to (15, 8)
+Chapel Riot Priest Oakhurst stability prevented 1 knockback
+Chapel Riot Priest Oakhurst took 1 knockback
+Zan took a free shot at Chapel Riot Priest Oakhurst with Supporting Fire.
+Zan used 3 Bolt Burst on Chapel Riot Priest Oakhurst - from (12, 9) to (16, 7)
+Chapel Riot Priest Oakhurst armour blocked 1 damage
+Chapel Riot Priest Oakhurst stability prevented 1 knockback
+Zan used Time Boost on Jen - from (12, 9) to (12, 11)
+Banks used Sedative Cocktail - from (11, 6) to (18, 9)
+Gasmasked prevented Chapel Riot Priest Parabola from gaining Sedated
+Gasmasked prevented Chapel Riot Priest Parabola from gaining Unsteady
+Gasmasked prevented Chapel Riot Priest Davis from gaining Sedated
+Gasmasked prevented Chapel Riot Priest Davis from gaining Unsteady
+Chapel Riot Priest Ajavon is Sedated
+Banks moved - from (11, 6) to (12, 7)
+Banks used Grab Intel - from (12, 7) to (13, 7)
+Banks used Sedative Cocktail on Chapel Riot Priest Davis - from (11, 6) to (18, 10)
+Gasmasked prevented Chapel Riot Priest Andromeda from gaining Sedated
+Gasmasked prevented Chapel Riot Priest Andromeda from gaining Unsteady
+Chapel Riot Priest Davis stability prevented 1 knockback
+Gasmasked prevented Chapel Riot Priest Davis from gaining Sedated
+Gasmasked prevented Chapel Riot Priest Davis from gaining Unsteady
+Zan took a free shot at Chapel Riot Priest Davis with Supporting Fire.
+Zan used 3 Bolt Burst on Chapel Riot Priest Davis - from (12, 9) to (18, 10)
+Chapel Riot Priest Davis armour blocked 1 damage
+Chapel Riot Priest Davis stability prevented 1 knockback
+Banks used Sedative Cocktail - from (11, 6) to (16, 8)
+Gasmasked prevented Chapel Riot Priest Oakhurst from gaining Sedated
+Gasmasked prevented Chapel Riot Priest Oakhurst from gaining Unsteady
+Gasmasked prevented Chapel Riot Priest Parabola from gaining Sedated
+Gasmasked prevented Chapel Riot Priest Parabola from gaining Unsteady
+Jen cast Static Blast on Chapel Riot Priest Oakhurst - from (12, 11) to (15, 8)
+Chapel Riot Priest Oakhurst stability prevented 1 knockback
+Chapel Riot Priest Oakhurst took 1 knockback
+Zan took a free shot at Chapel Riot Priest Oakhurst with Supporting Fire.
+Zan used 3 Bolt Burst on Chapel Riot Priest Oakhurst - from (12, 9) to (16, 7)
+Chapel Riot Priest Oakhurst armour blocked 1 damage
+Chapel Riot Priest Oakhurst stability prevented 1 knockback
+Zan used Time Boost on Jen - from (12, 9) to (12, 11)
+Jen used Grab Intel - from (12, 11) to (13, 11)
+Jen cast Chain Bolt on Chapel Riot Priest Andromeda, Chapel Riot Priest Parabola, Chapel Riot Priest Oakhurst - from (12, 11) to (17, 11)
+Chapel Riot Priest Andromeda stability prevented 1 knockback
+Chapel Riot Priest Andromeda took 1 knockback
+Chapel Riot Priest Parabola stability prevented 1 knockback
+Chapel Riot Priest Parabola took 1 knockback
+Chapel Riot Priest Oakhurst stability prevented 1 knockback
+Chapel Riot Priest Oakhurst took 1 knockback
+Chapel Riot Priest Andromeda was defenestrated - from (17, 11) to (17, 11)
+Chapel Riot Priest Andromeda took 7 damage
+Chapel Riot Priest Andromeda is no longer Gasmasked
+Chapel Riot Priest Andromeda passed out
+Jen moved - from (12, 11) to (16, 11)
+Jen cast Chain Bolt on Chapel Riot Priest Oakhurst, Jen, Chapel Riot Priest Andromeda - from (12, 11) to (16, 7)
+Chapel Riot Priest Oakhurst stability prevented 1 knockback
+Chapel Riot Priest Oakhurst took 1 knockback
+Jen took 2 knockback
+Chapel Riot Priest Andromeda stability prevented 1 knockback
+Chapel Riot Priest Andromeda took 1 knockback
+Chapel Riot Priest Andromeda was defenestrated - from (17, 11) to (17, 11)
+Chapel Riot Priest Oakhurst was defenestrated - from (16, 7) to (16, 7)
+Chapel Riot Priest Andromeda took 7 damage
+Chapel Riot Priest Andromeda is no longer Gasmasked
+Chapel Riot Priest Andromeda passed out
+Chapel Riot Priest Oakhurst took 7 damage
+Chapel Riot Priest Oakhurst is no longer Gasmasked
+Chapel Riot Priest Oakhurst passed out
+Jen cast Static Blast on Chapel Riot Priest Davis - from (10, 13) to (18, 10)
+Chapel Riot Priest Davis stability prevented 1 knockback
+Chapel Riot Priest Davis took 1 knockback
+Zan took a free shot at Chapel Riot Priest Davis with Supporting Fire.
+Zan used 3 Bolt Burst on Chapel Riot Priest Davis - from (12, 9) to (19, 10)
+Chapel Riot Priest Davis armour blocked 1 damage
+Chapel Riot Priest Davis stability prevented 1 knockback
+Dall moved - from (15, 14) to (17, 14)
+Dall used Charge - from (17, 14) to (17, 9)
+Chapel Riot Priest Parabola armour blocked 1 damage
+Chapel Riot Priest Parabola stability prevented 1 knockback
+Chapel Riot Priest Parabola took 4 knockback
+Chapel Riot Priest Parabola was defenestrated - from (17, 7) to (17, 7)
+Jen used Grab Intel - from (12, 11) to (13, 11)
+Jen cast Chain Bolt on Chapel Riot Priest Oakhurst, Jen, Chapel Riot Priest Andromeda - from (12, 11) to (15, 8)
+Chapel Riot Priest Oakhurst stability prevented 1 knockback
+Chapel Riot Priest Oakhurst took 1 knockback
+Jen took 2 knockback
+Chapel Riot Priest Andromeda stability prevented 1 knockback
+Chapel Riot Priest Andromeda took 1 knockback
+Chapel Riot Priest Andromeda was defenestrated - from (17, 11) to (17, 11)
+Chapel Riot Priest Andromeda took 7 damage
+Chapel Riot Priest Andromeda is no longer Gasmasked
+Chapel Riot Priest Andromeda passed out
+Jen cast Static Blast on Chapel Riot Priest Parabola - from (10, 13) to (17, 8)
+Chapel Riot Priest Parabola stability prevented 1 knockback
+Chapel Riot Priest Parabola took 1 knockback
+Zan took a free shot at Chapel Riot Priest Parabola with Supporting Fire.
+Zan used 3 Bolt Burst on Chapel Riot Priest Parabola - from (12, 9) to (18, 7)
+Chapel Riot Priest Parabola armour blocked 1 damage
+Chapel Riot Priest Parabola stability prevented 1 knockback
+Dall moved - from (15, 14) to (16, 14)
+Dall used Charge - from (16, 14) to (16, 8)
+Chapel Riot Priest Oakhurst armour blocked 1 damage
+Chapel Riot Priest Oakhurst stability prevented 1 knockback
+Chapel Riot Priest Oakhurst took 5 knockback
+Chapel Riot Priest Oakhurst was defenestrated - from (16, 7) to (16, 7)
+Chapel Riot Priest Oakhurst hit something with 4 knockback left
+Chapel Riot Priest Oakhurst took 4 damage
+Chapel Riot Priest Oakhurst is no longer Gasmasked
+Chapel Riot Priest Oakhurst took 3 damage
+Chapel Riot Priest Oakhurst passed out
+Banks used Sedative Cocktail - from (11, 6) to (12, 7)
+Banks is Sedated
+Banks moved - from (11, 6) to (12, 7)
+Banks moved - from (11, 6) to (13, 6)
+Banks used Grab Intel - from (13, 6) to (13, 7)
+Banks used Spectral Skull on Chapel Riot Priest Parabola - from (13, 6) to (18, 7)
+Chapel Riot Priest Parabola armour blocked 1 damage
+Chapel Riot Priest Parabola took 1 damage
+Chapel Riot Priest Parabola is no longer Gasmasked
+Chapel Riot Priest Ajavon armour blocked 1 damage
+Chapel Riot Priest Ajavon took 1 damage
+Chapel Riot Priest Davis armour blocked 1 damage
+Chapel Riot Priest Davis took 1 damage
+Chapel Riot Priest Davis is no longer Gasmasked
+Banks used Transference on Chapel Riot Priest Parabola - from (13, 6) to (18, 7)
+Zan shot Chapel Riot Priest Davis on overwatch
+Chapel Riot Priest Davis armour blocked 1 damage
+Chapel Riot Priest Davis took 3 damage
+Chapel Riot Priest Davis slammed Dall - from (17, 9) to (16, 8)
+3 damage and 1 knockback to Dall was transferred to Chapel Riot Priest Parabola
+Chapel Riot Priest Parabola armour blocked 1 damage
+Chapel Riot Priest Parabola took 2 damage
+Chapel Riot Priest Parabola took 1 knockback
+Chapel Riot Priest Parabola was defenestrated - from (18, 7) to (18, 7)
+Chapel Riot Priest Parabola took 4 damage
+Chapel Riot Priest Parabola passed out
+Chapel Riot Priest Ajavon slammed Dall - from (17, 8) to (16, 8)
+Dall armour blocked 1 damage
+Dall took 2 damage
+Dall gained 1 mana from incoming damage
+Dall stability prevented 1 knockback
+Jen moved - from (10, 13) to (15, 13)
+Zan shot Chapel Riot Priest Davis on overwatch
+Chapel Riot Priest Davis armour blocked 1 damage
+Chapel Riot Priest Davis took 3 damage
+Chapel Riot Priest Davis slammed Dall - from (17, 9) to (16, 8)
+Dall armour blocked 1 damage
+Dall took 2 damage
+Dall gained 1 mana from incoming damage
+Dall stability prevented 1 knockback
+Chapel Riot Priest Parabola slammed Dall - from (17, 7) to (16, 8)
+Dall armour blocked 1 damage
+Dall took 2 damage
+Dall passed out
+Dall gained 1 mana from incoming damage
+Dall stability prevented 1 knockback
+Banks used Transference on Chapel Riot Priest Ajavon - from (13, 6) to (19, 8)
+Zan shot Chapel Riot Priest Davis on overwatch
+Chapel Riot Priest Davis armour blocked 1 damage
+Chapel Riot Priest Davis took 3 damage
+Chapel Riot Priest Davis slammed Dall - from (17, 9) to (16, 8)
+3 damage and 1 knockback to Dall was transferred to Chapel Riot Priest Ajavon
+Chapel Riot Priest Ajavon armour blocked 1 damage
+Chapel Riot Priest Ajavon took 2 damage
+Chapel Riot Priest Ajavon took 1 knockback
+Chapel Riot Priest Parabola took 1 knockback
+Chapel Riot Priest Ajavon hit something with 1 knockback left
+Chapel Riot Priest Ajavon took 1 damage
+Chapel Riot Priest Parabola was defenestrated - from (18, 7) to (18, 7)
+Chapel Riot Priest Parabola took 6 damage
+Chapel Riot Priest Parabola passed out
+Chapel Riot Priest Ajavon slammed Dall - from (17, 8) to (16, 8)
+Dall armour blocked 1 damage
+Dall took 2 damage
+Dall gained 1 mana from incoming damage
+Dall stability prevented 1 knockback
+Player ended their turn, starting enemy turn 2
+End of enemy turn 2
+ 
+Start of player turn 3
+Banks used Sedative Cocktail - from (13, 6) to (18, 9)
+Chapel Riot Priest Ajavon is Sedated
+Chapel Riot Priest Davis is Sedated
+Jen moved - from (15, 13) to (17, 13)
+Jen cast Static Blast on Chapel Riot Priest Davis - from (17, 13) to (17, 9)
+Chapel Riot Priest Davis took 2 knockback
+Chapel Riot Priest Ajavon took 1 knockback
+Chapel Riot Priest Davis hit something with 2 knockback left
+Chapel Riot Priest Davis took 2 damage
+Zan took a free shot at Chapel Riot Priest Davis with Supporting Fire.
+Zan used 3 Bolt Burst on Chapel Riot Priest Davis - from (12, 9) to (17, 9)
+Chapel Riot Priest Davis armour blocked 1 damage
+Chapel Riot Priest Davis took 1 knockback
+Dall used Censer Slam on Chapel Riot Priest Ajavon - from (16, 8) to (17, 8)
+Chapel Riot Priest Ajavon armour blocked 1 damage
+Chapel Riot Priest Ajavon took 2 damage
+Chapel Riot Priest Ajavon passed out
+Chapel Riot Priest Ajavon took 1 knockback
+Zan used Time Boost on Dall - from (12, 9) to (16, 8)
+Dall used Censer Slam on Chapel Riot Priest Davis - from (16, 8) to (17, 9)
+Chapel Riot Priest Davis armour blocked 1 damage
+Chapel Riot Priest Davis took 2 damage
+Chapel Riot Priest Davis took 1 knockback
+Dall used Throw Riot Block - from (16, 8) to (18, 10)
+Dall used Censer Slam on Chapel Riot Priest Davis - from (16, 8) to (17, 9)
+Chapel Riot Priest Davis armour blocked 1 damage
+Chapel Riot Priest Davis took 2 damage
+Chapel Riot Priest Davis took 1 knockback
+Chapel Riot Priest Davis hit something with 1 knockback left
+Riot Block added 1 extra impact damage
+Chapel Riot Priest Davis took 2 damage
+Chapel Riot Priest Davis passed out
+Jen cast Static Blast on Chapel Tracker Bonetto - from (15, 13) to (21, 9)
+Chapel Tracker Bonetto took 2 knockback
+Chapel Tracker Bonetto hit something with 1 knockback left
+Chapel Tracker Bonetto took 1 damage
+Zan took a free shot at Chapel Tracker Bonetto with Supporting Fire.
+Zan used 3 Bolt Burst on Chapel Tracker Bonetto - from (12, 9) to (22, 8)
+Chapel Tracker Bonetto took 1 damage
+Chapel Tracker Bonetto took 1 knockback
+Chapel Tracker Bonetto hit something with 1 knockback left
+Chapel Tracker Bonetto took 1 damage
+Chapel Tracker Bonetto passed out

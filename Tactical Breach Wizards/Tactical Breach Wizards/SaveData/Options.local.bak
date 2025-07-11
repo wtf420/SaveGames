@@ -1,0 +1,31 @@
+# Options.local
+# 2025-01-11 01:20:56 (+07:00)
+# v:2024-12-18-Spearmint
+
+<InputMapping>
+  endTurnConfirm = True
+  skipDialogConfirm = True
+  controlOverride[] = Select:<Mouse>/leftButton
+  controlOverride[] = IssueOrder:<Mouse>/leftButton
+  controlOverride[] = Deselect:<Mouse>/rightButton
+</InputMapping>
+<Options>
+  saveSlot = 1
+</Options>
+<SoundManager>
+  masterVolume = 0.396296263
+  effectVolume = 1
+  ambientVolume = 1
+  dialogueVolume = 1
+  musicVolume = 0.6
+  commentaryVolume = 1
+</SoundManager>
+<Video Settings>
+  width = 1920
+  height = 1080
+  fullscreen = FullScreenWindow
+  vsync = 1
+  frameLimit = -1
+  quality = 5
+</Video Settings>
+

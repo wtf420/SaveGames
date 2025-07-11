@@ -1,0 +1,919 @@
+29_Finale_Roof_2_The_Black_Ops_Chronomancer
+ 
+Start of player turn 1
+Zan  - from (-12, -2) to (-11, -4)
+False Prophet used Extinguish Signal Flare - from (-11, -4) to (-11, -4)
+Zan  - from (-12, -2) to (-13, 1)
+False Prophet used Extinguish Signal Flare - from (-13, 1) to (-13, 1)
+Zan moved - from (-12, -2) to (-10, 2)
+Zan  - from (-10, 2) to (-10, 5)
+False Prophet used Extinguish Signal Flare - from (-10, 5) to (-10, 5)
+Liv Kennedy Swapped with False Prophet - from (-3, -2) to (-11, -4)
+Zan used 3 Bolt Burst on False Prophet - from (-10, 2) to (-3, -2)
+False Prophet took 2 damage
+False Prophet passed out
+False Prophet took 4 knockback
+False Prophet hit something with 3 knockback left
+Zan moved - from (-12, -2) to (-9, -1)
+Zan moved - from (-12, -2) to (-8, 0)
+Zan  - from (-8, 0) to (-4, 2)
+False Prophet used Extinguish Signal Flare - from (-4, 2) to (-4, 2)
+Zan moved - from (-12, -2) to (-9, -1)
+Zan moved - from (-12, -2) to (-10, 2)
+Zan  - from (-10, 2) to (-10, 5)
+False Prophet used Extinguish Signal Flare - from (-10, 5) to (-10, 5)
+Zan moved - from (-12, -2) to (-12, 2)
+Zan  - from (-12, 2) to (-13, 6)
+False Prophet used Extinguish Signal Flare - from (-13, 6) to (-13, 6)
+Zan  - from (-12, 2) to (-10, 5)
+False Prophet used Extinguish Signal Flare - from (-10, 5) to (-10, 5)
+Liv Kennedy Swapped with False Prophet - from (-3, -2) to (-11, -4)
+Zan used 3 Bolt Burst on False Prophet - from (-12, 2) to (-3, -2)
+False Prophet took 2 damage
+False Prophet passed out
+False Prophet took 4 knockback
+False Prophet hit something with 3 knockback left
+Liv Kennedy used Superior Chain Shock on Zan - from (-11, -4) to (-12, 2)
+Zan took 3 knockback
+False Prophet took 3 knockback
+Zan hit something with 3 knockback left
+Zan took 3 damage
+False Prophet was defenestrated - from (-14, 0) to (-14, 0)
+False Prophet took 1 damage
+False Prophet passed out
+False Prophet vanished
+False Prophet vanished
+Zan moved - from (-12, -2) to (-13, 0)
+Zan took cover - from (-13, 0) to (-13, 0)
+Liv Kennedy used Superior Chain Shock on False Prophet - from (-3, -2) to (-11, -4)
+False Prophet took 3 knockback
+False Prophet took 3 knockback
+False Prophet vanished
+False Prophet vanished
+Zan stood up - from (-13, 0) to (-13, 0)
+Liv Kennedy Swapped with False Prophet - from (-3, -2) to (-11, -4)
+Zan used 3 Bolt Burst on False Prophet - from (-13, 0) to (-3, -2)
+False Prophet took 2 damage
+False Prophet passed out
+False Prophet took 4 knockback
+False Prophet hit something with 1 knockback left
+Zan took cover - from (-13, 0) to (-13, 0)
+Liv Kennedy used Superior Chain Shock on False Prophet - from (-3, -2) to (-11, -4)
+False Prophet took 3 knockback
+False Prophet took 3 knockback
+False Prophet vanished
+False Prophet vanished
+Player ended their turn, starting enemy turn 1
+Liv Kennedy moved - from (-3, -2) to (-4, 1)
+End of enemy turn 1
+ 
+Start of player turn 2
+Banks used Transference on Liv Kennedy - from (-5, 3) to (-4, 1)
+Banks moved - from (-5, 3) to (-8, 3)
+Banks used Sedative Cocktail on Reactor Tracker Dust - from (-8, 3) to (-3, -8)
+Reactor Tracker Dust took 1 damage
+Reactor Tracker Dust took 1 knockback
+Reactor Tracker Dust is Sedated
+Zan took a free shot at Reactor Tracker Dust with Supporting Fire.
+Zan used 3 Bolt Burst on Reactor Tracker Dust - from (-13, 0) to (-2, -9)
+Reactor Tracker Dust took 2 damage
+Reactor Tracker Dust passed out
+Reactor Tracker Dust took 6 knockback
+Reactor Tracker Dust was defenestrated - from (-2, -9) to (-2, -9)
+Zan moved - from (-13, 0) to (-12, -4)
+Banks took cover - from (-8, 3) to (-8, 3)
+Banks moved - from (-5, 3) to (-8, 3)
+Liv Kennedy Swapped with Zan - from (-4, 1) to (-13, 0)
+Banks used Sedative Cocktail on Zan - from (-8, 3) to (-4, 1)
+Zan took 1 damage
+Zan took 1 knockback
+Zan is Sedated
+Zan hit something with 1 knockback left
+Zan took 1 damage
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Banks used Sedative Cocktail on Reactor Tracker Dust - from (-8, 3) to (-3, -8)
+Reactor Tracker Dust took 1 damage
+Reactor Tracker Dust took 1 knockback
+Reactor Tracker Dust is Sedated
+Zan took a free shot at Reactor Tracker Dust with Supporting Fire.
+Zan used 3 Bolt Burst on Reactor Tracker Dust - from (-13, 0) to (-2, -9)
+Reactor Tracker Dust took 2 damage
+Reactor Tracker Dust passed out
+Reactor Tracker Dust took 6 knockback
+Reactor Tracker Dust was defenestrated - from (-2, -9) to (-2, -9)
+Zan moved - from (-13, 0) to (-13, 3)
+Zan  - from (-13, 3) to (-13, 6)
+False Prophet used Extinguish Signal Flare - from (-13, 6) to (-13, 6)
+Zan  - from (-13, 3) to (-10, 5)
+False Prophet used Extinguish Signal Flare - from (-10, 5) to (-10, 5)
+Banks took cover - from (-8, 3) to (-8, 3)
+Zan took cover - from (-13, 3) to (-13, 3)
+Zan stood up - from (-13, 3) to (-13, 3)
+Zan used 3 Bolt Burst on False Prophet - from (-13, 3) to (-13, 6)
+False Prophet took 2 damage
+False Prophet passed out
+False Prophet took 4 knockback
+False Prophet hit something with 4 knockback left
+Zan took cover - from (-13, 3) to (-13, 3)
+Banks stood up - from (-8, 3) to (-8, 3)
+Zan took cover - from (-13, 3) to (-13, 3)
+Banks stood up - from (-8, 3) to (-8, 3)
+Zan stood up - from (-13, 3) to (-13, 3)
+Liv Kennedy Swapped with Banks - from (-4, 1) to (-8, 3)
+Zan used 3 Bolt Burst on Banks - from (-13, 3) to (-4, 1)
+Banks took 2 damage
+Banks took 4 knockback
+Banks hit something with 4 knockback left
+Banks took 4 damage
+Banks passed out
+Zan used 3 Bolt Burst on False Prophet - from (-13, 3) to (-13, 6)
+False Prophet took 2 damage
+False Prophet passed out
+False Prophet took 4 knockback
+False Prophet hit something with 4 knockback left
+Zan took cover - from (-13, 3) to (-13, 3)
+Liv Kennedy used Superior Chain Shock on False Prophet - from (-4, 1) to (-10, 5)
+False Prophet took 3 knockback
+Banks took 3 knockback
+False Prophet hit something with 3 knockback left
+False Prophet took 3 damage
+False Prophet passed out
+Banks hit something with 3 knockback left
+Banks took 3 damage
+Banks took cover - from (-8, 3) to (-8, 3)
+Liv Kennedy used Superior Chain Shock on False Prophet - from (-4, 1) to (-10, 5)
+False Prophet took 3 knockback
+Banks took 3 knockback
+False Prophet hit something with 3 knockback left
+False Prophet took 3 damage
+False Prophet passed out
+Banks hit something with 3 knockback left
+Banks took 3 damage
+Zan moved - from (-13, 0) to (-13, 3)
+Zan  - from (-13, 3) to (-10, 5)
+False Prophet used Extinguish Signal Flare - from (-10, 5) to (-10, 5)
+Zan  - from (-13, 3) to (-13, 6)
+False Prophet used Extinguish Signal Flare - from (-13, 6) to (-13, 6)
+Banks moved - from (-5, 3) to (0, 3)
+Banks used Extinguish Signal Flare - from (0, 3) to (0, 3)
+Zan took cover - from (-13, 3) to (-13, 3)
+Zan  - from (-13, 3) to (-13, 6)
+False Prophet used Extinguish Signal Flare - from (-13, 6) to (-13, 6)
+Zan moved - from (-13, 0) to (-10, 1)
+Zan  - from (-10, 1) to (-10, 5)
+False Prophet used Extinguish Signal Flare - from (-10, 5) to (-10, 5)
+Zan  - from (-10, 1) to (-7, 4)
+Zan  - from (-10, 1) to (-10, 3)
+Banks moved - from (-5, 3) to (-1, 1)
+Zan  - from (-10, 1) to (-6, 1)
+Banks moved - from (-5, 3) to (0, 3)
+Banks used Extinguish Signal Flare - from (0, 3) to (0, 3)
+Liv Kennedy Swapped with False Prophet - from (-4, 1) to (-6, 1)
+Banks used Sedative Cocktail on False Prophet - from (0, 3) to (-4, 1)
+Zan shot Liv Kennedy on overwatch
+Liv Kennedy took 4 damage
+Liv Kennedy passed out
+Dead Liv Kennedy 1 created a clone (?!) to cheat death
+Liv Kennedy 2 moved - from (-4, 1) to (-2, 0)
+Predictive Bolt use refunded by Conviction perk, for knocking someone out.
+False Prophet took 1 damage
+False Prophet passed out
+False Prophet took 1 knockback
+Liv Kennedy 2 took cover - from (-2, 0) to (-2, 0)
+Zan used 3 Bolt Burst on Reactor Tracker Dust - from (-10, 1) to (-3, -8)
+Reactor Tracker Dust took 2 damage
+Reactor Tracker Dust took 4 knockback
+Reactor Tracker Dust was defenestrated - from (-2, -9) to (-2, -9)
+Reactor Tracker Dust took 1 damage
+Reactor Tracker Dust passed out
+False Prophet vanished
+Player ended their turn, starting enemy turn 2
+Liv Kennedy 2 moved - from (-2, 0) to (-1, 2)
+Reactor Heavy Gunner Eycleshimer moved - from (-8, -4) to (-9, -2)
+Reactor Heavy Gunner Eycleshimer launched a grenade - from (-9, -2) to (-7, 3)
+End of enemy turn 2
+ 
+Start of player turn 3
+Zan moved - from (-10, 1) to (-13, 3)
+Zan used 3 Bolt Burst on Reactor Heavy Gunner Eycleshimer - from (-13, 3) to (-9, -2)
+Reactor Heavy Gunner Eycleshimer armour blocked 1 damage
+Reactor Heavy Gunner Eycleshimer took 1 damage
+Reactor Heavy Gunner Eycleshimer stability prevented 1 knockback
+Reactor Heavy Gunner Eycleshimer took 3 knockback
+Reactor Heavy Gunner Eycleshimer hit something with 3 knockback left
+Reactor Heavy Gunner Eycleshimer took 3 damage
+Reactor Heavy Gunner Eycleshimer passed out
+Zan  - from (-13, 3) to (-13, 6)
+False Prophet used Extinguish Signal Flare - from (-13, 6) to (-13, 6)
+Banks used Transference on Liv Kennedy 2 - from (0, 3) to (-1, 2)
+Banks moved - from (0, 3) to (0, -2)
+Liv Kennedy 2 Swapped with Jen - from (-1, 2) to (-6, 3)
+Banks used Sedative Cocktail on Jen - from (0, -2) to (-1, 2)
+1 damage and 1 knockback to Jen was transferred to Liv Kennedy 2
+Liv Kennedy 2 took 1 damage
+Liv Kennedy 2 took 1 knockback
+Jen is Sedated
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Banks moved - from (0, 3) to (0, -2)
+Liv Kennedy 2 Swapped with Jen - from (-1, 2) to (-6, 3)
+Banks used Sedative Cocktail on Jen - from (0, -2) to (-1, 2)
+Zan shot Liv Kennedy 2 on overwatch
+Liv Kennedy 2 took 4 damage
+Jen took 1 damage
+Jen took 1 knockback
+Jen is Sedated
+Liv Kennedy 2 Swapped with Zan - from (-6, 3) to (-13, 3)
+Jen cast Static Blast on Zan - from (-1, 3) to (-6, 3)
+Zan took 2 knockback
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Liv Kennedy 2 Swapped with Zan - from (-6, 3) to (-13, 3)
+Jen cast Chain Bolt on Zan, Liv Kennedy 2 - from (-1, 3) to (-6, 3)
+Zan took 2 knockback
+Liv Kennedy 2 took 2 knockback
+Liv Kennedy 2 was defenestrated - from (-14, 3) to (-14, 3)
+Dead Liv Kennedy 2 created a clone (?!) to cheat death
+Liv Kennedy 3 moved - from (-14, 3) to (-14, 7)
+Liv Kennedy 2 Swapped with Zan - from (-6, 3) to (-13, 3)
+Jen cast Chain Bolt on Zan, Liv Kennedy 2, False Prophet - from (-1, 3) to (-6, 3)
+Zan took 2 knockback
+Liv Kennedy 2 took 2 knockback
+False Prophet took 2 knockback
+False Prophet hit something with 2 knockback left
+False Prophet took 2 damage
+False Prophet passed out
+Liv Kennedy 2 was defenestrated - from (-14, 3) to (-14, 3)
+Dead Liv Kennedy 2 created a clone (?!) to cheat death
+Liv Kennedy 3 moved - from (-14, 3) to (-14, 7)
+Dead Liv Kennedy 2 took 1 damage
+Dead Liv Kennedy 2 passed out
+Liv Kennedy 3 took cover - from (-14, 7) to (-14, 7)
+Jen moved - from (-1, 3) to (-4, 2)
+Jen used Extinguish Signal Flare - from (-4, 2) to (-4, 2)
+Jen used Extinguish Signal Flare - from (-4, 2) to (-4, 2)
+Jen cast Static Blast on - from (-4, 2) to (-9, 2)
+Air Canister took 2 knockback
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Jen moved - from (-4, 2) to (-2, -2)
+Banks used Resurrect on Jen - from (0, -2) to (-2, -2)
+Jen took 4 damage
+Jen passed out
+Jen moved - from (-4, 2) to (-4, -3)
+Zan took 2 damage
+Zan took 1 knockback
+Jen took 2 damage
+Jen cast Static Blast on Zan - from (-4, 2) to (-8, 3)
+Zan took 2 knockback
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Jen moved - from (-4, 2) to (-2, -2)
+Zan used 3 Bolt Burst on Reactor Heavy Gunner Eycleshimer - from (-10, 1) to (-9, -2)
+Reactor Heavy Gunner Eycleshimer armour blocked 1 damage
+Reactor Heavy Gunner Eycleshimer took 1 damage
+Reactor Heavy Gunner Eycleshimer stability prevented 1 knockback
+Reactor Heavy Gunner Eycleshimer took 3 knockback
+Zan moved - from (-10, 1) to (-13, 0)
+Zan used 3 Bolt Burst on Reactor Heavy Gunner Eycleshimer - from (-13, 0) to (-9, -2)
+Reactor Heavy Gunner Eycleshimer armour blocked 1 damage
+Reactor Heavy Gunner Eycleshimer took 1 damage
+Reactor Heavy Gunner Eycleshimer stability prevented 1 knockback
+Reactor Heavy Gunner Eycleshimer took 3 knockback
+Reactor Heavy Gunner Eycleshimer hit something with 3 knockback left
+Reactor Heavy Gunner Eycleshimer took 3 damage
+Reactor Heavy Gunner Eycleshimer passed out
+Banks moved - from (0, 3) to (0, -2)
+Liv Kennedy 2 Swapped with Jen - from (-1, 2) to (-6, 3)
+Banks used Sedative Cocktail on Jen - from (0, -2) to (-1, 2)
+Jen took 1 damage
+Jen took 1 knockback
+Jen is Sedated
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Jen moved - from (-6, 3) to (-6, -2)
+Liv Kennedy 2 Swapped with Banks - from (-1, 2) to (0, -2)
+Jen cast Chain Bolt on Banks, Liv Kennedy 2 - from (-6, -2) to (-1, 2)
+Banks took 2 knockback
+Liv Kennedy 2 took 2 knockback
+Banks hit something with 1 knockback left
+Banks took 1 damage
+Banks moved - from (0, 3) to (0, 1)
+Jen moved - from (-6, 3) to (-6, -1)
+Liv Kennedy 2 Swapped with Banks - from (-1, 2) to (0, 1)
+Jen cast Chain Bolt on Banks, Liv Kennedy 2 - from (-6, -1) to (-1, 2)
+Banks took 2 knockback
+Liv Kennedy 2 took 2 knockback
+Liv Kennedy 2 hit something with 2 knockback left
+Liv Kennedy 2 took 2 damage
+Banks hit something with 1 knockback left
+Banks took 1 damage
+Zan moved - from (-10, 1) to (-13, 3)
+Zan  - from (-13, 3) to (-13, 6)
+False Prophet used Extinguish Signal Flare - from (-13, 6) to (-13, 6)
+Jen moved - from (-6, 3) to (-4, 2)
+Jen used Extinguish Signal Flare - from (-4, 2) to (-4, 2)
+Banks moved - from (0, 3) to (-2, -1)
+Jen cast Static Blast on Reactor Heavy Gunner Eycleshimer - from (-4, 2) to (-9, -2)
+Reactor Heavy Gunner Eycleshimer stability prevented 1 knockback
+Reactor Heavy Gunner Eycleshimer took 1 knockback
+Zan took a free shot at Reactor Heavy Gunner Eycleshimer with Supporting Fire.
+Zan used 3 Bolt Burst on Reactor Heavy Gunner Eycleshimer - from (-13, 3) to (-10, -3)
+Reactor Heavy Gunner Eycleshimer armour blocked 1 damage
+Reactor Heavy Gunner Eycleshimer took 1 damage
+Reactor Heavy Gunner Eycleshimer stability prevented 1 knockback
+Reactor Heavy Gunner Eycleshimer took 3 knockback
+Stun Barrel took 1 knockback
+Reactor Heavy Gunner Eycleshimer hit something with 1 knockback left
+Reactor Heavy Gunner Eycleshimer took 1 damage
+Stun Barrel hit something with 1 knockback left
+Stun Barrel took 1 damage
+Stun Barrel exploded
+Reactor Heavy Gunner Eycleshimer is Stunned for 1 turn
+Jen moved - from (-6, 3) to (-4, -1)
+Jen cast Static Blast on Reactor Heavy Gunner Eycleshimer - from (-4, -1) to (-9, -2)
+Reactor Heavy Gunner Eycleshimer stability prevented 1 knockback
+Reactor Heavy Gunner Eycleshimer took 1 knockback
+Zan took a free shot at Reactor Heavy Gunner Eycleshimer with Supporting Fire.
+Zan used 3 Bolt Burst on Reactor Heavy Gunner Eycleshimer - from (-10, 1) to (-10, -2)
+Reactor Heavy Gunner Eycleshimer armour blocked 1 damage
+Reactor Heavy Gunner Eycleshimer took 1 damage
+Reactor Heavy Gunner Eycleshimer stability prevented 1 knockback
+Reactor Heavy Gunner Eycleshimer took 3 knockback
+Zan moved - from (-10, 1) to (-13, 3)
+Jen moved - from (-6, 3) to (-6, -2)
+Jen cast Static Blast on Reactor Heavy Gunner Eycleshimer - from (-6, -2) to (-9, -2)
+Reactor Heavy Gunner Eycleshimer stability prevented 1 knockback
+Reactor Heavy Gunner Eycleshimer took 1 knockback
+Zan took a free shot at Reactor Heavy Gunner Eycleshimer with Supporting Fire.
+Zan used 3 Bolt Burst on Reactor Heavy Gunner Eycleshimer - from (-13, 3) to (-10, -2)
+Reactor Heavy Gunner Eycleshimer armour blocked 1 damage
+Reactor Heavy Gunner Eycleshimer took 1 damage
+Reactor Heavy Gunner Eycleshimer stability prevented 1 knockback
+Reactor Heavy Gunner Eycleshimer took 3 knockback
+Stun Barrel took 1 knockback
+Reactor Heavy Gunner Eycleshimer hit something with 1 knockback left
+Reactor Heavy Gunner Eycleshimer took 1 damage
+Stun Barrel hit something with 1 knockback left
+Stun Barrel took 1 damage
+Stun Barrel exploded
+Reactor Heavy Gunner Eycleshimer is Stunned for 1 turn
+Jen moved - from (-6, 3) to (-4, 2)
+Jen cast Static Blast on Reactor Heavy Gunner Eycleshimer - from (-4, 2) to (-9, -2)
+Reactor Heavy Gunner Eycleshimer stability prevented 1 knockback
+Reactor Heavy Gunner Eycleshimer took 1 knockback
+Zan took a free shot at Reactor Heavy Gunner Eycleshimer with Supporting Fire.
+Zan used 3 Bolt Burst on Reactor Heavy Gunner Eycleshimer - from (-13, 3) to (-10, -3)
+Reactor Heavy Gunner Eycleshimer armour blocked 1 damage
+Reactor Heavy Gunner Eycleshimer took 1 damage
+Reactor Heavy Gunner Eycleshimer stability prevented 1 knockback
+Reactor Heavy Gunner Eycleshimer took 3 knockback
+Stun Barrel took 1 knockback
+Reactor Heavy Gunner Eycleshimer hit something with 1 knockback left
+Reactor Heavy Gunner Eycleshimer took 1 damage
+Stun Barrel hit something with 1 knockback left
+Stun Barrel took 1 damage
+Stun Barrel exploded
+Reactor Heavy Gunner Eycleshimer is Stunned for 1 turn
+Zan used 3 Bolt Burst on Reactor Heavy Gunner Eycleshimer - from (-10, 1) to (-9, -2)
+Reactor Heavy Gunner Eycleshimer armour blocked 1 damage
+Reactor Heavy Gunner Eycleshimer took 1 damage
+Reactor Heavy Gunner Eycleshimer stability prevented 1 knockback
+Reactor Heavy Gunner Eycleshimer took 3 knockback
+Zan moved - from (-10, 1) to (-13, 3)
+Zan used 3 Bolt Burst on Reactor Heavy Gunner Eycleshimer - from (-13, 3) to (-9, -2)
+Reactor Heavy Gunner Eycleshimer armour blocked 1 damage
+Reactor Heavy Gunner Eycleshimer took 1 damage
+Reactor Heavy Gunner Eycleshimer stability prevented 1 knockback
+Reactor Heavy Gunner Eycleshimer took 3 knockback
+Reactor Heavy Gunner Eycleshimer hit something with 3 knockback left
+Reactor Heavy Gunner Eycleshimer took 3 damage
+Reactor Heavy Gunner Eycleshimer passed out
+Zan  - from (-13, 3) to (-13, 6)
+False Prophet used Extinguish Signal Flare - from (-13, 6) to (-13, 6)
+Jen moved - from (-6, 3) to (-4, 2)
+Jen used Extinguish Signal Flare - from (-4, 2) to (-4, 2)
+Banks moved - from (0, 3) to (-3, 0)
+Jen moved - from (-6, 3) to (-7, 0)
+Banks moved - from (0, 3) to (0, -2)
+Liv Kennedy 2 Swapped with Jen - from (-1, 2) to (-7, 0)
+Banks used Sedative Cocktail on Jen - from (0, -2) to (-1, 2)
+Jen took 1 damage
+Jen took 1 knockback
+Jen is Sedated
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Banks moved - from (0, 3) to (-2, -1)
+Jen moved - from (-6, 3) to (-5, 2)
+Jen moved - from (-6, 3) to (-4, 2)
+Jen used Extinguish Signal Flare - from (-4, 2) to (-4, 2)
+Banks moved - from (0, 3) to (0, -2)
+Jen moved - from (-6, 3) to (-3, 0)
+Banks moved - from (0, 3) to (0, -2)
+Liv Kennedy 2 Swapped with Jen - from (-1, 2) to (-3, 0)
+Banks used Sedative Cocktail - from (0, -2) to (0, 2)
+Jen took 1 damage
+Jen is Sedated
+Liv Kennedy 2 Swapped with Banks - from (-3, 0) to (0, -2)
+Jen cast Chain Bolt on Banks, Liv Kennedy 2 - from (-1, 2) to (-3, 0)
+Banks took 2 knockback
+Liv Kennedy 2 took 2 knockback
+Liv Kennedy 2 hit something with 2 knockback left
+Liv Kennedy 2 took 2 damage
+Jen moved - from (-6, 3) to (-4, 2)
+Jen used Extinguish Signal Flare - from (-4, 2) to (-4, 2)
+Banks moved - from (0, 3) to (0, -2)
+Liv Kennedy 2 Swapped with Jen - from (-1, 2) to (-4, 2)
+Banks used Sedative Cocktail on Jen - from (0, -2) to (-1, 2)
+Jen took 1 damage
+Jen took 1 knockback
+Jen is Sedated
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Banks moved - from (0, 3) to (0, -2)
+Zan  - from (-13, 3) to (-9, 1)
+Liv Kennedy 2 Swapped with Jen - from (-1, 2) to (-4, 2)
+Banks used Sedative Cocktail on Jen - from (0, -2) to (-1, 2)
+Jen took 1 damage
+Jen took 1 knockback
+Jen is Sedated
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Liv Kennedy 2 Swapped with False Prophet - from (-4, 2) to (-9, 1)
+Jen cast Chain Bolt on False Prophet, Liv Kennedy 2 - from (-1, 3) to (-4, 2)
+False Prophet took 2 knockback
+Liv Kennedy 2 took 2 knockback
+Zan moved - from (-10, 1) to (-13, 3)
+Zan  - from (-13, 3) to (-13, 6)
+False Prophet used Extinguish Signal Flare - from (-13, 6) to (-13, 6)
+Zan used 3 Bolt Burst on Reactor Heavy Gunner Eycleshimer - from (-13, 3) to (-9, -2)
+Reactor Heavy Gunner Eycleshimer armour blocked 1 damage
+Reactor Heavy Gunner Eycleshimer took 1 damage
+Reactor Heavy Gunner Eycleshimer stability prevented 1 knockback
+Reactor Heavy Gunner Eycleshimer took 3 knockback
+Reactor Heavy Gunner Eycleshimer hit something with 3 knockback left
+Reactor Heavy Gunner Eycleshimer took 3 damage
+Reactor Heavy Gunner Eycleshimer passed out
+Banks moved - from (0, 3) to (0, -2)
+Liv Kennedy 2 Swapped with Jen - from (-1, 2) to (-6, 3)
+Banks used Sedative Cocktail on Jen - from (0, -2) to (-1, 2)
+Jen took 1 damage
+Jen took 1 knockback
+Jen is Sedated
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Liv Kennedy 2 Swapped with Zan - from (-6, 3) to (-13, 3)
+Jen cast Chain Bolt on Zan, Liv Kennedy 2 - from (-1, 3) to (-6, 3)
+Zan took 2 knockback
+Liv Kennedy 2 took 2 knockback
+Liv Kennedy 2 was defenestrated - from (-14, 3) to (-14, 3)
+Dead Liv Kennedy 2 created a clone (?!) to cheat death
+Liv Kennedy 3 moved - from (-14, 3) to (-14, 7)
+Dead Liv Kennedy 2 took 5 damage
+Dead Liv Kennedy 2 passed out
+Liv Kennedy 3 took cover - from (-14, 7) to (-14, 7)
+Jen moved - from (-1, 3) to (-3, 0)
+Zan  - from (-8, 3) to (-4, 2)
+False Prophet used Extinguish Signal Flare - from (-4, 2) to (-4, 2)
+Jen cast Static Blast on Zan - from (-3, 0) to (-8, 3)
+Zan took 2 knockback
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Jen moved - from (-3, 0) to (-3, -3)
+Jen took 2 damage
+False Prophet vanished
+False Prophet vanished
+Player ended their turn, starting enemy turn 3
+Liv Kennedy 3 moved - from (-14, 7) to (-11, 5)
+Reactor Heavy Gunner Havill moved - from (-7, 0) to (-7, 2)
+Reactor Heavy Gunner Havill launched a grenade - from (-7, 2) to (-6, 4)
+End of enemy turn 3
+ 
+Start of player turn 4
+Banks used Resurrect on Jen - from (0, -2) to (-3, -3)
+Jen took 4 damage
+Jen passed out
+Banks moved - from (0, -2) to (2, -4)
+Banks used Extinguish Signal Flare - from (2, -4) to (2, -4)
+Zan moved - from (-10, 5) to (-10, 0)
+Zan moved - from (-10, 5) to (-7, 3)
+Rion moved - from (-6, 3) to (-3, 2)
+Rion used Spore Bomb on Zan - from (-3, 2) to (-7, 3)
+Liv Kennedy 3 Swapped with Zan - from (-11, 5) to (-7, 3)
+Rion cast Impaling Vine on Zan - from (-3, 2) to (-11, 5)
+Zan took 3 knockback
+Zan hit something with 1 knockback left
+Zan took 1 damage
+Rion moved - from (-6, 3) to (-9, 3)
+Zan moved - from (-10, 5) to (-9, 3)
+Zan moved - from (-10, 5) to (-10, 0)
+Zan  - from (-10, 0) to (-9, 4)
+Zan  - from (-10, 0) to (-11, 3)
+Liv Kennedy 3 Swapped with False Prophet - from (-11, 5) to (-11, 3)
+Rion cast Impaling Vine on False Prophet - from (-6, 3) to (-11, 5)
+False Prophet took 3 knockback
+False Prophet hit something with 1 knockback left
+False Prophet took 1 damage
+False Prophet passed out
+Zan  - from (-10, 0) to (-10, 4)
+Liv Kennedy 3 Swapped with False Prophet - from (-11, 5) to (-10, 4)
+Rion cast Impaling Vine on False Prophet - from (-6, 3) to (-11, 5)
+Zan shot Liv Kennedy 3 on overwatch
+Liv Kennedy 3 took 4 damage
+False Prophet took 3 knockback
+False Prophet hit something with 1 knockback left
+False Prophet took 1 damage
+False Prophet passed out
+Liv Kennedy 3 Swapped with Zan - from (-10, 4) to (-10, 0)
+Jen threw a Gale Grenade Zan - from (-3, -3) to (-10, 4)
+Zan  - from (-10, 0) to (-9, 4)
+Liv Kennedy 3 Swapped with False Prophet - from (-10, 4) to (-9, 4)
+Liv Kennedy 3 Swapped with - from (-9, 4) to (-9, 4)
+Rion used Spore Bomb on Liv Kennedy 3 - from (-6, 3) to (-9, 4)
+Liv Kennedy 3 took 3 damage
+Liv Kennedy 3 passed out
+Dead Liv Kennedy 2 created a clone (?!) to cheat death
+Liv Kennedy 3 moved - from (-9, 4) to (-10, 7)
+Liv Kennedy 3 took cover - from (-10, 7) to (-10, 7)
+Rion moved - from (-6, 3) to (-6, -2)
+Zan moved - from (-10, 5) to (-10, 0)
+Zan moved - from (-10, 5) to (-9, 1)
+Liv Kennedy 3 Swapped with Zan - from (-11, 5) to (-9, 1)
+Jen cast Static Blast on Zan - from (-3, -3) to (-11, 5)
+Zan took 2 knockback
+Zan hit something with 2 knockback left
+Zan took 2 damage
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Zan used 3 Bolt Burst on Reactor Heavy Gunner Havill - from (-9, 1) to (-7, 2)
+Reactor Heavy Gunner Havill armour blocked 1 damage
+Reactor Heavy Gunner Havill took 1 damage
+Reactor Heavy Gunner Havill stability prevented 1 knockback
+Reactor Heavy Gunner Havill took 3 knockback
+Rion took 1 knockback
+Reactor Heavy Gunner Havill hit something with 3 knockback left
+Reactor Heavy Gunner Havill took 3 damage
+Reactor Heavy Gunner Havill passed out
+Zan moved - from (-10, 5) to (-10, 0)
+Zan used 3 Bolt Burst on Reactor Heavy Gunner Havill - from (-10, 0) to (-7, 2)
+Reactor Heavy Gunner Havill armour blocked 1 damage
+Reactor Heavy Gunner Havill took 1 damage
+Reactor Heavy Gunner Havill stability prevented 1 knockback
+Reactor Heavy Gunner Havill took 3 knockback
+Rion took 1 knockback
+Reactor Heavy Gunner Havill hit something with 3 knockback left
+Reactor Heavy Gunner Havill took 3 damage
+Reactor Heavy Gunner Havill passed out
+Liv Kennedy 3 Swapped with Zan - from (-11, 5) to (-10, 0)
+Banks used Sedative Cocktail - from (2, -4) to (-10, 5)
+Zan took 1 damage
+Zan is Sedated
+Banks used Extinguish Signal Flare - from (2, -4) to (2, -4)
+Jen cast Static Blast on Zan - from (-3, -3) to (-10, 0)
+Zan took 2 knockback
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Zan moved - from (-10, 5) to (-10, 1)
+Zan used 3 Bolt Burst on Reactor Heavy Gunner Havill - from (-10, 1) to (-7, 2)
+Reactor Heavy Gunner Havill armour blocked 1 damage
+Reactor Heavy Gunner Havill took 1 damage
+Reactor Heavy Gunner Havill stability prevented 1 knockback
+Reactor Heavy Gunner Havill took 3 knockback
+Jen cast Static Blast on Zan - from (-3, -3) to (-10, 1)
+Zan took 2 knockback
+Zan hit something with 1 knockback left
+Zan took 1 damage
+Zan moved - from (-10, 5) to (-10, 0)
+Zan used 3 Bolt Burst on Reactor Heavy Gunner Havill - from (-10, 0) to (-7, 2)
+Reactor Heavy Gunner Havill armour blocked 1 damage
+Reactor Heavy Gunner Havill took 1 damage
+Reactor Heavy Gunner Havill stability prevented 1 knockback
+Reactor Heavy Gunner Havill took 3 knockback
+Rion took 1 knockback
+Reactor Heavy Gunner Havill hit something with 3 knockback left
+Reactor Heavy Gunner Havill took 3 damage
+Reactor Heavy Gunner Havill passed out
+Jen moved - from (-3, -3) to (-6, -1)
+Jen moved - from (-3, -3) to (-1, 1)
+Liv Kennedy 3 Swapped with Zan - from (-11, 5) to (-10, 0)
+Jen cast Static Blast on Zan - from (-1, 1) to (-11, 5)
+Zan took 2 knockback
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Jen moved - from (-3, -3) to (-7, -3)
+Jen used Extinguish Signal Flare - from (-7, -3) to (-7, -3)
+Rion moved - from (-5, 4) to (-8, 1)
+Zan moved - from (-10, 5) to (-10, 0)
+Zan used 3 Bolt Burst on Reactor Heavy Gunner Havill - from (-10, 0) to (-7, 2)
+Reactor Heavy Gunner Havill armour blocked 1 damage
+Reactor Heavy Gunner Havill took 1 damage
+Reactor Heavy Gunner Havill stability prevented 1 knockback
+Reactor Heavy Gunner Havill took 3 knockback
+Rion took 1 knockback
+Reactor Heavy Gunner Havill hit something with 3 knockback left
+Reactor Heavy Gunner Havill took 3 damage
+Reactor Heavy Gunner Havill passed out
+Zan moved - from (-10, 5) to (-9, 7)
+Liv Kennedy 3 Swapped with Rion - from (-11, 5) to (-6, 3)
+Zan used 3 Bolt Burst on Rion - from (-9, 7) to (-11, 5)
+Rion took 2 damage
+Rion took 4 knockback
+Rion hit something with 3 knockback left
+Rion took 3 damage
+Rion passed out
+Zan moved - from (-10, 5) to (-10, 0)
+Zan used 3 Bolt Burst on Reactor Heavy Gunner Havill - from (-10, 0) to (-7, 2)
+Reactor Heavy Gunner Havill armour blocked 1 damage
+Reactor Heavy Gunner Havill took 1 damage
+Reactor Heavy Gunner Havill stability prevented 1 knockback
+Reactor Heavy Gunner Havill took 3 knockback
+Rion took 1 knockback
+Reactor Heavy Gunner Havill hit something with 3 knockback left
+Reactor Heavy Gunner Havill took 3 damage
+Reactor Heavy Gunner Havill passed out
+Rion moved - from (-5, 4) to (-7, 2)
+Liv Kennedy 3 Swapped with Zan - from (-11, 5) to (-10, 0)
+Rion cast Impaling Vine on Zan - from (-7, 2) to (-11, 5)
+Zan took 3 knockback
+Zan hit something with 1 knockback left
+Zan took 1 damage
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Liv Kennedy 3 Swapped with Zan - from (-11, 5) to (-10, 0)
+Jen threw a Gale Grenade Zan - from (-3, -3) to (-11, 5)
+Zan used 3 Bolt Burst on Reactor Heavy Gunner Havill - from (-10, 0) to (-7, 2)
+Reactor Heavy Gunner Havill armour blocked 1 damage
+Reactor Heavy Gunner Havill took 1 damage
+Reactor Heavy Gunner Havill stability prevented 1 knockback
+Reactor Heavy Gunner Havill took 3 knockback
+Rion took 1 knockback
+Reactor Heavy Gunner Havill hit something with 3 knockback left
+Reactor Heavy Gunner Havill took 3 damage
+Reactor Heavy Gunner Havill passed out
+Liv Kennedy 3 Swapped with Zan - from (-11, 5) to (-10, 0)
+Jen cast Chain Bolt on Liv Kennedy 3, Zan - from (-3, -3) to (-10, 0)
+Liv Kennedy 3 took 2 knockback
+Zan took 2 knockback
+Zan hit something with 2 knockback left
+Zan took 2 damage
+Liv Kennedy 3 Swapped with Zan - from (-11, 5) to (-10, 0)
+Jen cast Chain Bolt on Zan, Liv Kennedy 3 - from (-3, -3) to (-11, 5)
+Zan took 2 knockback
+Liv Kennedy 3 took 2 knockback
+Zan hit something with 2 knockback left
+Zan took 2 damage
+Zan  - from (-10, 0) to (-10, 4)
+Liv Kennedy 3 Swapped with False Prophet - from (-11, 5) to (-10, 4)
+Liv Kennedy 3 Swapped with - from (-10, 4) to (-10, 4)
+Rion used Spore Bomb - from (-5, 4) to (-11, 4)
+Liv Kennedy 3 took 3 damage
+Liv Kennedy 3 Swapped with False Prophet - from (-10, 4) to (-11, 5)
+Jen cast Chain Bolt on False Prophet, Liv Kennedy 3 - from (-3, -3) to (-10, 4)
+False Prophet took 2 knockback
+Liv Kennedy 3 took 2 knockback
+Liv Kennedy 3 took 1 knockback
+False Prophet hit something with 2 knockback left
+False Prophet took 2 damage
+False Prophet passed out
+Liv Kennedy 3 hit something with 3 knockback left
+Liv Kennedy 3 took 3 damage
+Liv Kennedy 3 passed out
+Dead Liv Kennedy 2 created a clone (?!) to cheat death
+Liv Kennedy 3 moved - from (-11, 5) to (-10, 7)
+Liv Kennedy 3 took cover - from (-10, 7) to (-10, 7)
+Jen cast Static Blast on - from (-3, -3) to (-9, 2)
+Air Canister took 2 knockback
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Banks used Sedative Cocktail - from (2, -4) to (-3, -5)
+Explosive Barrel took 1 damage
+Explosive Barrel exploded
+Rion took 2 damage
+Rion took 1 knockback
+Rion moved - from (-5, 4) to (-1, 2)
+Player ended their turn, starting enemy turn 4
+Zan shot Reactor Superheavy Boden on overwatch
+Reactor Superheavy Boden armour blocked 2 damage
+Reactor Superheavy Boden took 2 damage
+Liv Kennedy 3 moved - from (-10, 7) to (-10, 4)
+Reactor Superheavy Boden moved - from (-3, 0) to (-3, -2)
+Reactor Superheavy Boden used Launch Missiles - from (-3, -2) to (-2, 3)
+End of enemy turn 4
+ 
+Start of player turn 5
+Zan moved - from (-10, 0) to (-11, 0)
+Banks used Transference on Liv Kennedy 3 - from (2, -4) to (-10, 4)
+Liv Kennedy 3 Swapped with Zan - from (-10, 4) to (-11, 0)
+Jen cast Static Blast on Zan - from (-3, -3) to (-10, 4)
+0 damage and 2 knockback to Zan was transferred to Liv Kennedy 3
+Liv Kennedy 3 took 2 knockback
+Liv Kennedy 3 hit something with 2 knockback left
+Liv Kennedy 3 took 2 damage
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Liv Kennedy 3 Swapped with Zan - from (-10, 4) to (-10, 0)
+Rion cast Impaling Vine on Zan - from (-1, 2) to (-10, 4)
+Zan took 3 knockback
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Banks used Transference on Liv Kennedy 3 - from (2, -4) to (-10, 0)
+Liv Kennedy 3 Swapped with Dall - from (-10, 0) to (-4, 4)
+Zan used 3 Bolt Burst on Dall - from (-7, 4) to (-10, 0)
+2 damage and 4 knockback to Dall was transferred to Liv Kennedy 3
+Liv Kennedy 3 took 2 damage
+Liv Kennedy 3 took 4 knockback
+Zan moved - from (-10, 0) to (-14, -2)
+Zan moved - from (-10, 0) to (-14, 1)
+Banks used Transference on Liv Kennedy 3 - from (2, -4) to (-10, 4)
+Jen cast Static Blast on Zan - from (-3, -3) to (-14, 1)
+0 damage and 2 knockback to Zan was transferred to Liv Kennedy 3
+Liv Kennedy 3 took 2 knockback
+Air Canister took 1 knockback
+Liv Kennedy 3 hit something with 2 knockback left
+Liv Kennedy 3 took 2 damage
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Liv Kennedy 3 Swapped with Zan - from (-10, 4) to (-14, 1)
+Jen cast Static Blast on Zan - from (-3, -3) to (-10, 4)
+0 damage and 2 knockback to Zan was transferred to Liv Kennedy 3
+Liv Kennedy 3 took 2 knockback
+Liv Kennedy 3 was defenestrated - from (-14, 1) to (-14, 1)
+Dead Liv Kennedy 3 created a clone (?!) to cheat death
+Liv Kennedy 4 moved - from (-14, 1) to (-13, 3)
+Dead Liv Kennedy 3 took 7 damage
+Dead Liv Kennedy 3 passed out
+Liv Kennedy 4 took cover - from (-13, 3) to (-13, 3)
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Jen moved - from (-3, -3) to (-3, -5)
+Jen used Extinguish Signal Flare - from (-3, -5) to (-3, -5)
+Rion cast Brittling Dart on Reactor Superheavy Boden - from (-1, 2) to (-3, -2)
+Dall Swapped with Zan - from (-4, 4) to (-10, 4)
+Liv Kennedy 4 Swapped with Zan - from (-13, 3) to (-10, 4)
+Dall Swapped with Zan - from (-4, 4) to (-13, 3)
+Liv Kennedy 4 Swapped with Zan - from (-13, 3) to (-10, 4)
+Dall Swapped with Zan - from (-4, 4) to (-13, 3)
+Zan used 3 Bolt Burst on Reactor Superheavy Boden - from (-10, 4) to (-3, -2)
+Reactor Superheavy Boden armour blocked 2 damage
+Reactor Superheavy Boden stability prevented 2 knockback
+Reactor Superheavy Boden took 2 knockback
+Reactor Superheavy Boden hit something with 1 knockback left
+Reactor Superheavy Boden took 1 damage
+Rion cast Impaling Vine on Reactor Superheavy Boden - from (-1, 2) to (-3, -2)
+Reactor Superheavy Boden armour blocked 1 damage
+Reactor Superheavy Boden stability prevented 2 knockback
+Reactor Superheavy Boden took 1 knockback
+Zan took a free shot at Reactor Superheavy Boden with Supporting Fire.
+Zan used 3 Bolt Burst on Reactor Superheavy Boden - from (-10, 4) to (-2, -1)
+Brittle: 2 armour lost (Reactor Superheavy Boden)
+Reactor Superheavy Boden took 1 extra damage from Brittle, Brittle reduced to 0
+Reactor Superheavy Boden is no longer Brittle
+Reactor Superheavy Boden took 1 damage
+Reactor Superheavy Boden stability prevented 2 knockback
+Reactor Superheavy Boden took 2 knockback
+Banks used Sedative Cocktail on Reactor Superheavy Boden - from (2, -4) to (0, -3)
+Reactor Superheavy Boden took 1 damage
+Reactor Superheavy Boden stability prevented 1 knockback
+Reactor Superheavy Boden is Sedated
+Zan took a free shot at Reactor Superheavy Boden with Supporting Fire.
+Zan used 3 Bolt Burst on Reactor Superheavy Boden - from (-10, 4) to (0, -3)
+Reactor Superheavy Boden took 2 damage
+Reactor Superheavy Boden took 4 knockback
+Reactor Superheavy Boden hit something with 2 knockback left
+Reactor Superheavy Boden took 2 damage
+Reactor Superheavy Boden passed out
+Banks moved - from (2, -4) to (-1, -5)
+Rion moved - from (-1, 2) to (-4, 1)
+Rion took 2 damage
+Rion moved - from (-1, 2) to (-4, 0)
+Dall moved - from (-4, 4) to (-7, 2)
+Player ended their turn, starting enemy turn 5
+Reactor Superheavy Vine moved - from (0, 2) to (-2, 0)
+Reactor Superheavy Vine used Launch Missiles - from (-2, 0) to (-3, -1)
+Liv Kennedy 4 moved - from (-13, 3) to (-11, 2)
+Reactor Heavy Gunner Eycleshimer moved - from (-7, 0) to (-7, 1)
+Reactor Heavy Gunner Eycleshimer launched a grenade - from (-7, 1) to (-5, -1)
+Reactor Superheavy Bonetto used Launch Missiles - from (-1, 0) to (-4, -4)
+End of enemy turn 5
+ 
+Start of player turn 6
+Rion cast Impaling Vine on Reactor Superheavy Vine - from (-4, 0) to (-2, 0)
+Reactor Superheavy Vine armour blocked 1 damage
+Reactor Superheavy Vine stability prevented 2 knockback
+Reactor Superheavy Vine took 1 knockback
+Brittle: 2 armour lost (Reactor Superheavy Vine)
+Reactor Superheavy Vine took 1 extra damage from Brittle, Brittle reduced to 0
+Reactor Superheavy Vine is no longer Brittle
+Reactor Superheavy Vine took 1 damage
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Rion cast Impaling Vine on Reactor Heavy Gunner Eycleshimer - from (-4, 0) to (-7, 1)
+Reactor Heavy Gunner Eycleshimer armour blocked 1 damage
+Reactor Heavy Gunner Eycleshimer stability prevented 1 knockback
+Reactor Heavy Gunner Eycleshimer took 2 knockback
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Banks used Sedative Cocktail on Reactor Superheavy Bonetto - from (-1, -5) to (-1, 0)
+Reactor Superheavy Vine armour blocked 1 damage
+Reactor Superheavy Vine is Sedated
+Reactor Superheavy Bonetto armour blocked 1 damage
+Reactor Superheavy Bonetto stability prevented 1 knockback
+Reactor Superheavy Bonetto is Sedated
+Zan took a free shot at Reactor Superheavy Bonetto with Supporting Fire.
+Zan used 3 Bolt Burst on Reactor Superheavy Bonetto - from (-10, 4) to (-1, 0)
+Reactor Superheavy Bonetto armour blocked 2 damage
+Reactor Superheavy Bonetto took 4 knockback
+Reactor Superheavy Bonetto hit something with 3 knockback left
+Reactor Superheavy Bonetto took 3 damage
+Rion cast Impaling Vine on Reactor Superheavy Vine - from (-4, 0) to (-2, 0)
+Reactor Superheavy Vine armour blocked 1 damage
+Reactor Superheavy Vine stability prevented 1 knockback
+Reactor Superheavy Vine took 2 knockback
+Brittle: 2 armour lost (Reactor Superheavy Vine)
+Reactor Superheavy Vine took 1 extra damage from Brittle, Brittle reduced to 0
+Reactor Superheavy Vine is no longer Brittle
+Reactor Superheavy Vine took 1 damage
+Rion took 1 knockback
+Reactor Superheavy Vine hit something with 1 knockback left
+Reactor Superheavy Vine took 1 damage
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Zan moved - from (-10, 4) to (-7, 3)
+Liv Kennedy 4 Swapped with Zan - from (-11, 2) to (-7, 3)
+Dall Swapped with Zan - from (-7, 2) to (-11, 2)
+Zan shot Reactor Heavy Gunner Eycleshimer on overwatch
+Reactor Heavy Gunner Eycleshimer armour blocked 1 damage
+Reactor Heavy Gunner Eycleshimer took 3 damage
+Liv Kennedy 4 Swapped with Dall - from (-11, 2) to (-7, 2)
+Rion cast Brittling Dart on Dall - from (-5, 0) to (-11, 2)
+Zan shot Liv Kennedy 4 on overwatch
+Liv Kennedy 4 took 4 damage
+Liv Kennedy 4 Swapped with Dall - from (-11, 2) to (-7, 2)
+Jen cast Static Blast on Dall - from (-3, -5) to (-11, 2)
+Zan shot Liv Kennedy 4 on overwatch
+Liv Kennedy 4 took 4 damage
+Dall stability prevented 1 knockback
+Dall took 1 knockback
+Dall hit something with 1 knockback left
+Dall took 1 damage
+Dall gained 1 mana from incoming damage
+Banks used Sedative Cocktail on Reactor Superheavy Vine - from (-1, -5) to (-2, 0)
+Reactor Superheavy Vine armour blocked 1 damage
+Reactor Superheavy Vine stability prevented 1 knockback
+Reactor Superheavy Vine is Sedated
+Reactor Superheavy Bonetto armour blocked 1 damage
+Reactor Superheavy Bonetto is Sedated
+Zan took a free shot at Reactor Superheavy Vine with Supporting Fire.
+Zan used 3 Bolt Burst on Reactor Superheavy Vine - from (-10, 4) to (-2, 0)
+Reactor Superheavy Vine armour blocked 2 damage
+Reactor Superheavy Vine took 4 knockback
+Reactor Superheavy Vine armour blocked 2 damage
+Reactor Superheavy Vine hit something with 2 knockback left
+Reactor Superheavy Vine took 2 damage
+Banks used Sedative Cocktail on Reactor Superheavy Bonetto - from (-1, -5) to (-1, 0)
+Reactor Superheavy Vine armour blocked 1 damage
+Reactor Superheavy Vine is Sedated
+Reactor Superheavy Bonetto armour blocked 1 damage
+Reactor Superheavy Bonetto stability prevented 1 knockback
+Reactor Superheavy Bonetto is Sedated
+Zan took a free shot at Reactor Superheavy Bonetto with Supporting Fire.
+Zan used 3 Bolt Burst on Reactor Superheavy Bonetto - from (-10, 4) to (-1, 0)
+Reactor Superheavy Bonetto armour blocked 2 damage
+Reactor Superheavy Bonetto took 4 knockback
+Reactor Superheavy Bonetto hit something with 3 knockback left
+Reactor Superheavy Bonetto took 3 damage
+Rion cast Impaling Vine on Reactor Superheavy Vine - from (-4, 0) to (-2, 0)
+Reactor Superheavy Vine armour blocked 1 damage
+Reactor Superheavy Vine stability prevented 1 knockback
+Reactor Superheavy Vine took 2 knockback
+Brittle: 2 armour lost (Reactor Superheavy Vine)
+Reactor Superheavy Vine took 1 extra damage from Brittle, Brittle reduced to 0
+Reactor Superheavy Vine is no longer Brittle
+Reactor Superheavy Vine took 1 damage
+Rion took 1 knockback
+Reactor Superheavy Vine hit something with 1 knockback left
+Reactor Superheavy Vine took 1 damage
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Rion bit on Reactor Heavy Gunner Eycleshimer - from (-6, 1) to (-7, 1)
+Reactor Heavy Gunner Eycleshimer armour blocked 1 damage
+Zan moved - from (-10, 4) to (-11, 5)
+Zan used 3 Bolt Burst - from (-11, 5) to (-11, 4)
+Air Canister took 2 damage
+Air Canister took 4 knockback
+Liv Kennedy 4 took 1 knockback
+Air Canister hit something with 3 knockback left
+Air Canister took 3 damage
+Air Canister exploded
+Liv Kennedy 4 took 3 knockback
+Liv Kennedy 4 hit something with 1 knockback left
+Liv Kennedy 4 took 1 damage
+Dall used Throw Riot Block - from (-7, 2) to (-11, 1)
+Zan used 3 Bolt Burst - from (-11, 5) to (-11, 4)
+Air Canister took 2 damage
+Air Canister took 4 knockback
+Liv Kennedy 4 took 1 knockback
+Air Canister hit something with 3 knockback left
+Air Canister took 3 damage
+Air Canister exploded
+Liv Kennedy 4 took 3 knockback
+Liv Kennedy 4 hit something with 4 knockback left
+Riot Block added 1 extra impact damage
+Liv Kennedy 4 took 5 damage
+Liv Kennedy 4 Swapped with Zan - from (-11, 2) to (-11, 5)
+Dall Swapped with Zan - from (-7, 2) to (-11, 2)
+Liv Kennedy 4 Swapped with Zan - from (-11, 2) to (-11, 5)
+Dall Swapped with Zan - from (-7, 2) to (-11, 2)
+Liv Kennedy 4 Swapped with Zan - from (-11, 2) to (-11, 5)
+Dall Swapped with Zan - from (-7, 2) to (-11, 2)
+Liv Kennedy 4 Swapped with Zan - from (-11, 2) to (-11, 5)
+Dall Swapped with Zan - from (-7, 2) to (-11, 2)
+Dall used Pick Up Riot Block - from (-11, 2) to (-11, 1)
+Liv Kennedy 4 Swapped with Zan - from (-11, 5) to (-7, 2)
+Dall Swapped with Zan - from (-11, 2) to (-11, 5)
+Rion used Change Form - from (-6, 1) to (-6, 1)
+Liv Kennedy 4 Swapped with Zan - from (-7, 2) to (-11, 2)
+Rion used Spore Bomb on Reactor Heavy Gunner Eycleshimer - from (-6, 1) to (-7, 1)
+Zan shot Liv Kennedy 4 on overwatch
+Liv Kennedy 4 took 4 damage
+Liv Kennedy 4 passed out
+Predictive Bolt use refunded by Conviction perk, for knocking someone out.
+Reactor Heavy Gunner Eycleshimer armour blocked 1 damage
+Reactor Heavy Gunner Eycleshimer took 3 damage

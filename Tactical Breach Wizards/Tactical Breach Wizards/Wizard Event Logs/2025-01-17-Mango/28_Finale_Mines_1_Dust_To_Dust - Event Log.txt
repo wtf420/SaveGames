@@ -1,0 +1,81 @@
+28_Finale_Mines_1_Dust_To_Dust
+Reactor Medic Caron took cover - from (5, -20) to (5, -20)
+ 
+Start of player turn 1
+Rion breached - from (0, -31) to (1, -31)
+Rion bit on Reactor Superheavy Psalm - from (2, -23) to (1, -23)
+Reactor Superheavy Psalm armour blocked 1 damage
+Rion bit on Reactor Medic Caron - from (4, -20) to (5, -20)
+Reactor Medic Caron took 1 damage
+Rion used Change Form - from (4, -20) to (4, -20)
+Rion moved - from (4, -20) to (4, -23)
+Rion used Hack Turret - from (4, -23) to (5, -23)
+Banks moved - from (2, -31) to (0, -28)
+Banks used Death's Door - from (0, -28) to (3, -21)
+Rion cast Impaling Vine on - from (4, -23) to (4, -20)
+Reactor Chaser Gyasi used Shock Hammer on Turret - from (-2, -20) to (-2, -21)
+Turret armour blocked 1 damage
+Turret took 1 damage
+Turret stability prevented 1 knockback
+Turret took 1 knockback
+Turret hit something with 1 knockback left
+Turret took 1 damage
+Banks used Death's Door - from (0, -28) to (2, -12)
+Banks used Death's Floor on Rion - from (0, -28) to (4, -23)
+Reactor Chaser Gyasi used Shock Hammer on Turret - from (-2, -20) to (-2, -21)
+Turret armour blocked 1 damage
+Turret took 1 damage
+Turret stability prevented 1 knockback
+Turret took 1 knockback
+Turret hit something with 1 knockback left
+Turret took 1 damage
+Banks used Death's Floor on Rion - from (0, -28) to (4, -23)
+Reactor Chaser Gyasi used Shock Hammer on Turret - from (-2, -20) to (-2, -21)
+Turret armour blocked 1 damage
+Turret took 1 damage
+Turret stability prevented 1 knockback
+Turret took 1 knockback
+Turret hit something with 1 knockback left
+Turret took 1 damage
+Banks used Death's Door - from (0, -28) to (1, -12)
+Banks used Death's Floor - from (0, -28) to (0, -28)
+Banks took cover - from (1, -12) to (1, -12)
+Banks stood up - from (1, -12) to (1, -12)
+Banks used Transference on Reactor Medic Caron - from (1, -12) to (5, -20)
+Banks breached - from (1, -12) to (2, -12)
+Banks used Transference on Reactor Medic Caron - from (2, -12) to (5, -20)
+Rion cast Impaling Vine on Reactor Superheavy Psalm - from (3, -12) to (1, -23)
+Reactor Superheavy Psalm armour blocked 1 damage
+Reactor Superheavy Psalm stability prevented 2 knockback
+Reactor Superheavy Psalm took 1 knockback
+Turret shot Reactor Chaser Gyasi - from (-2, -21) to (-2, -20)
+Reactor Chaser Gyasi took 3 damage
+Reactor Chaser Gyasi took 1 knockback
+Reactor Superheavy Psalm used Saturating Fire on Banks - from (1, -22) to (2, -12)
+Damage to Banks was transferred to Reactor Medic Caron
+Reactor Medic Caron took 4 damage
+Reactor Medic Caron zapped Reactor Superheavy Psalm - from (2, -21) to (1, -22)
+Brittle: 2 armour lost (Reactor Superheavy Psalm)
+Reactor Superheavy Psalm took 1 extra damage from Brittle, Brittle reduced to 0
+Reactor Superheavy Psalm is no longer Brittle
+Reactor Superheavy Psalm stability prevented 1 knockback
+Player ended their turn, starting enemy turn 1
+Reactor Superheavy Psalm used Launch Missiles - from (1, -22) to (2, -17)
+Reactor Medic Caron moved - from (2, -21) to (2, -23)
+Reactor Medic Caron took cover - from (2, -23) to (2, -23)
+End of enemy turn 1
+ 
+Start of player turn 2
+Banks moved - from (2, -12) to (1, -11)
+Rion moved - from (3, -12) to (3, -11)
+Reactor Chaser Gyasi used Shock Hammer on Turret - from (-2, -20) to (-2, -21)
+Turret armour blocked 1 damage
+Turret took 1 damage
+Turret stability prevented 1 knockback
+Turret took 1 knockback
+Turret hit something with 1 knockback left
+Turret took 1 damage
+Turret passed out
+Reactor Medic Caron zapped Reactor Superheavy Psalm - from (2, -23) to (1, -22)
+Reactor Superheavy Psalm took 1 damage
+Reactor Superheavy Psalm stability prevented 1 knockback

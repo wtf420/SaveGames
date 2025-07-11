@@ -1,0 +1,128 @@
+24_Lucid_Dream_Rion_2_Arguably_You_Let_The_Dogs_Out
+ 
+Start of player turn 1
+Dream Rion breached - from (2, -5) to (2, -6)
+Dream Rion moved - from (2, -6) to (3, -4)
+Dream Rion used Grab Intel - from (3, -4) to (3, -5)
+Dream Rion breached - from (3, -4) to (4, -4)
+Dream Rion bit on Chapel Absolver Voidborn - from (8, -2) to (8, -1)
+Chapel Absolver Voidborn took 1 damage
+Chapel Shepherd Costello is no longer Invincible
+Dream Rion used Swap Forms - from (8, -2) to (8, -2)
+Dream Rion cast Impaling Vine on Chapel Shepherd Costello - from (8, -2) to (5, -3)
+Chapel Shepherd Costello armour blocked 1 damage
+Chapel Shepherd Costello took 3 knockback
+Rion moved - from (2, -7) to (6, -5)
+Rion used Swap Forms - from (6, -5) to (6, -5)
+Rion breached - from (6, -5) to (6, -6)
+Rion bit on Chapel Riot Priest Esteban - from (8, -9) to (8, -10)
+Chapel Riot Priest Esteban armour blocked 1 damage
+Rion used Swap Forms - from (8, -9) to (8, -9)
+Rion cast Impaling Vine on - from (8, -9) to (8, -6)
+Rion took cover - from (8, -6) to (8, -6)
+Chapel Riot Priest Esteban slammed Chapel Tracker Clapet - from (8, -8) to (9, -7)
+Chapel Tracker Clapet took 3 damage
+Chapel Tracker Clapet passed out
+Chapel Tracker Clapet took 1 knockback
+Player ended their turn, starting enemy turn 1
+Chapel Tracker Clawless moved - from (6, -1) to (4, -5)
+Chapel Riot Priest Esteban moved - from (8, -8) to (8, -7)
+Chapel Shepherd Costello moved - from (8, -3) to (9, -3)
+Chapel Tracker Prince moved - from (5, -9) to (6, -10)
+Chapel Absolver Voidborn moved - from (8, -1) to (7, -3)
+End of enemy turn 1
+ 
+Start of player turn 2
+Rion cast Impaling Vine on Chapel Tracker Clawless - from (8, -6) to (4, -5)
+Chapel Tracker Clawless took 1 damage
+Chapel Tracker Clawless took 3 knockback
+Chapel Tracker Clawless hit something with 3 knockback left
+Chapel Tracker Clawless took 1 extra damage from Brittle, Brittle reduced to 0
+Chapel Tracker Clawless is no longer Brittle
+Chapel Tracker Clawless took 4 damage
+Chapel Tracker Clawless passed out
+Dream Rion moved - from (8, -2) to (4, -2)
+Dream Rion used Swap Forms - from (4, -2) to (4, -2)
+Dream Rion used Grab Intel - from (4, -2) to (4, -1)
+Dream Rion cast Impaling Vine on Chapel Shepherd Costello - from (4, -2) to (9, -3)
+Brittle: 1 armour lost (Chapel Shepherd Costello)
+Chapel Shepherd Costello took 1 extra damage from Brittle, Brittle reduced to 0
+Chapel Shepherd Costello is no longer Brittle
+Chapel Shepherd Costello took 1 damage
+Chapel Shepherd Costello took 3 knockback
+Chapel Absolver Voidborn took 1 knockback
+Chapel Shepherd Costello hit something with 2 knockback left
+Chapel Shepherd Costello took 1 extra damage from Brittle, Brittle reduced to 0
+Chapel Shepherd Costello is no longer Brittle
+Chapel Shepherd Costello took 3 damage
+Rion used Swap Forms - from (8, -6) to (8, -6)
+Rion moved - from (8, -6) to (4, -5)
+Dream Rion used Swap Forms - from (4, -2) to (4, -2)
+Dream Rion used Spore Bomb - from (4, -2) to (7, -2)
+Chapel Absolver Voidborn took 3 damage
+Chapel Absolver Voidborn passed out
+Chapel Shepherd Costello took 3 damage
+Chapel Shepherd Costello passed out
+Chapel Riot Priest Esteban slammed Chapel Tracker Prince - from (7, -9) to (6, -10)
+Chapel Tracker Prince took 3 damage
+Chapel Tracker Prince passed out
+Chapel Tracker Prince took 1 knockback
+Player ended their turn, starting enemy turn 2
+Chapel Riot Priest Esteban moved - from (7, -9) to (8, -8)
+End of enemy turn 2
+ 
+Start of player turn 3
+Rion used Swap Forms - from (4, -5) to (4, -5)
+Rion moved - from (4, -5) to (7, -5)
+Rion moved - from (4, -5) to (6, -4)
+Rion moved - from (4, -5) to (4, -4)
+Rion moved - from (4, -5) to (7, -3)
+Dream Rion moved - from (4, -2) to (8, -3)
+Dream Rion used Swap Forms - from (8, -3) to (8, -3)
+Dream Rion cast Impaling Vine on - from (8, -3) to (9, -3)
+Rion used Swap Forms - from (7, -3) to (7, -3)
+Player ended their turn, starting enemy turn 3
+Chapel Riot Priest Esteban moved - from (8, -8) to (9, -6)
+End of enemy turn 3
+ 
+Start of player turn 4
+Dream Rion moved - from (9, -3) to (6, -6)
+Dream Rion used Swap Forms - from (6, -6) to (6, -6)
+Dream Rion cast Impaling Vine on - from (6, -6) to (10, -4)
+Explosive Barrel took 1 damage
+Explosive Barrel exploded
+Dream Rion cast Impaling Vine on Chapel Riot Priest Esteban - from (6, -6) to (9, -6)
+Chapel Riot Priest Esteban armour blocked 1 damage
+Chapel Riot Priest Esteban stability prevented 1 knockback
+Chapel Riot Priest Esteban took 2 knockback
+Dream Rion used Swap Forms - from (9, -3) to (9, -3)
+Dream Rion moved - from (9, -3) to (8, -2)
+Dream Rion moved - from (9, -3) to (6, -1)
+Rion moved - from (7, -3) to (6, -2)
+Player ended their turn, starting enemy turn 4
+Chapel Riot Priest Esteban moved - from (9, -6) to (9, -3)
+End of enemy turn 4
+ 
+Start of player turn 5
+Dream Rion cast Brittling Dart on Chapel Riot Priest Esteban - from (6, -1) to (9, -3)
+Dream Rion cast Impaling Vine on Chapel Riot Priest Esteban - from (6, -1) to (9, -3)
+Brittle: 1 armour lost (Chapel Riot Priest Esteban)
+Chapel Riot Priest Esteban took 1 extra damage from Brittle, Brittle reduced to 0
+Chapel Riot Priest Esteban is no longer Brittle
+Chapel Riot Priest Esteban took 1 damage
+Chapel Riot Priest Esteban stability prevented 1 knockback
+Chapel Riot Priest Esteban took 2 knockback
+Chapel Riot Priest Esteban hit something with 1 knockback left
+Chapel Riot Priest Esteban took 1 extra damage from Brittle, Brittle reduced to 0
+Chapel Riot Priest Esteban is no longer Brittle
+Chapel Riot Priest Esteban took 2 damage
+Rion used Swap Forms - from (6, -2) to (6, -2)
+Rion cast Brittling Dart on Chapel Riot Priest Esteban - from (6, -2) to (8, -2)
+Rion cast Impaling Vine on - from (6, -2) to (9, -1)
+Explosive Barrel took 1 damage
+Explosive Barrel exploded
+Chapel Riot Priest Esteban took 1 extra damage from Brittle, Brittle reduced to 0
+Chapel Riot Priest Esteban is no longer Brittle
+Chapel Riot Priest Esteban took 5 damage
+Chapel Riot Priest Esteban passed out
+Chapel Riot Priest Esteban stability prevented 1 knockback

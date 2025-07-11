@@ -1,0 +1,114 @@
+24_Lucid_Dream_Rion_1_The_Pit
+ 
+Start of player turn 1
+Dream Rion breached - from (-12, -6) to (-12, -7)
+Dream Rion cast Impaling Vine on Chapel Shepherd Whiteblood - from (-12, -7) to (-2, -8)
+Chapel Shepherd Whiteblood took 3 knockback
+Chapel Shepherd Whiteblood was defenestrated - from (-3, -8) to (-3, -8)
+Rion bit on Chapel Cleanser Sundermass - from (-9, -10) to (-8, -11)
+Chapel Cleanser Sundermass took 1 damage
+Rion used Swap Forms - from (-9, -10) to (-9, -10)
+Rion cast Impaling Vine on Chapel Riot Priest Coget - from (-9, -10) to (-4, -3)
+Chapel Riot Priest Coget stability prevented 1 knockback
+Chapel Riot Priest Coget took 2 knockback
+Chapel Riot Priest Coget was defenestrated - from (-4, -3) to (-4, -3)
+Dream Rion breached - from (-12, -6) to (-12, -7)
+Dream Rion cast Impaling Vine on Chapel Shepherd Whiteblood - from (-12, -7) to (-2, -8)
+Chapel Shepherd Whiteblood took 3 knockback
+Chapel Shepherd Whiteblood was defenestrated - from (-3, -8) to (-3, -8)
+Dream Rion bit on Chapel Cleanser Sundermass - from (-9, -10) to (-8, -11)
+Chapel Cleanser Sundermass took 1 damage
+Rion moved - from (-12, -8) to (-9, -7)
+Rion took cover - from (-9, -7) to (-9, -7)
+Rion stood up - from (-9, -7) to (-9, -7)
+Rion cast Impaling Vine on Chapel Tracker Asante - from (-9, -7) to (-4, -10)
+Chapel Tracker Asante took 1 damage
+Chapel Tracker Asante took 3 knockback
+Chapel Tracker Asante was defenestrated - from (-4, -10) to (-4, -10)
+Chapel Tracker Asante took 1 extra damage from Brittle, Brittle reduced to 0
+Chapel Tracker Asante is no longer Brittle
+Chapel Tracker Asante took 3 damage
+Chapel Tracker Asante passed out
+Rion took cover - from (-9, -7) to (-9, -7)
+Dream Rion used Swap Forms - from (-9, -10) to (-9, -10)
+Dream Rion used Swap Forms - from (-9, -10) to (-9, -10)
+Rion stood up - from (-9, -7) to (-9, -7)
+Rion took cover - from (-9, -7) to (-9, -7)
+Dream Rion moved - from (-9, -10) to (-5, -11)
+Dream Rion moved - from (-12, -7) to (-9, -7)
+Rion bit on Chapel Tracker Columba - from (-10, -4) to (-9, -4)
+Chapel Tracker Columba took 1 damage
+Rion used Swap Forms - from (-10, -4) to (-10, -4)
+Rion cast Impaling Vine on Chapel Cleanser Sundermass - from (-10, -4) to (-8, -11)
+Chapel Cleanser Sundermass took 1 damage
+Chapel Cleanser Sundermass took 3 knockback
+Chapel Cleanser Sundermass was defenestrated - from (-8, -10) to (-8, -10)
+Chapel Cleanser Sundermass took 1 extra damage from Brittle, Brittle reduced to 0
+Chapel Cleanser Sundermass is no longer Brittle
+Chapel Cleanser Sundermass took 3 damage
+Chapel Cleanser Sundermass passed out
+Rion moved - from (-10, -4) to (-7, -1)
+Rion used Grab Intel - from (-7, -1) to (-8, -1)
+Rion moved - from (-10, -4) to (-8, -2)
+Rion used Grab Intel - from (-8, -2) to (-8, -1)
+Dream Rion moved - from (-12, -7) to (-9, -7)
+Dream Rion bit on Chapel Tracker Asante - from (-4, -11) to (-4, -10)
+Chapel Tracker Asante took 1 damage
+Dream Rion used Swap Forms - from (-4, -11) to (-4, -11)
+Chapel Tracker Columba shot Chapel Absolver Necessity - from (-9, -4) to (-2, -6)
+Chapel Absolver Necessity took 2 damage
+Chapel Absolver Necessity passed out
+Chapel Riot Priest Coget is no longer Invincible
+Chapel Tracker Asante shot Chapel Tracker Columba - from (-4, -10) to (-9, -4)
+Chapel Tracker Columba took 2 damage
+Chapel Tracker Columba passed out
+Player ended their turn, starting enemy turn 1
+Chapel Riot Priest Coget moved - from (-4, -3) to (-2, -5)
+End of enemy turn 1
+ 
+Start of player turn 2
+Rion used Swap Forms - from (-8, -2) to (-8, -2)
+Rion cast Impaling Vine on - from (-8, -2) to (-10, -4)
+Rion moved - from (-8, -2) to (-9, -4)
+Rion cast Impaling Vine on Chapel Riot Priest Coget - from (-9, -4) to (-2, -5)
+Chapel Riot Priest Coget armour blocked 1 damage
+Chapel Riot Priest Coget stability prevented 1 knockback
+Chapel Riot Priest Coget took 2 knockback
+Chapel Riot Priest Coget was defenestrated - from (-3, -5) to (-3, -5)
+Chapel Riot Priest Coget took 1 extra damage from Brittle, Brittle reduced to 0
+Chapel Riot Priest Coget is no longer Brittle
+Chapel Riot Priest Coget took 9 damage
+Chapel Riot Priest Coget is no longer Gasmasked
+Chapel Riot Priest Coget passed out
+Rion used Swap Forms - from (-8, -2) to (-8, -2)
+Rion cast Impaling Vine on Chapel Tracker Asante - from (-8, -2) to (-4, -10)
+Chapel Tracker Asante took 1 damage
+Chapel Tracker Asante took 3 knockback
+Chapel Tracker Asante was defenestrated - from (-4, -10) to (-4, -10)
+Chapel Tracker Asante took 1 extra damage from Brittle, Brittle reduced to 0
+Chapel Tracker Asante is no longer Brittle
+Chapel Tracker Asante took 2 damage
+Chapel Tracker Asante passed out
+Rion moved - from (-8, -2) to (-10, -6)
+Rion cast Impaling Vine on Chapel Riot Priest Coget - from (-10, -6) to (-2, -5)
+Chapel Riot Priest Coget armour blocked 1 damage
+Chapel Riot Priest Coget stability prevented 1 knockback
+Chapel Riot Priest Coget took 2 knockback
+Chapel Riot Priest Coget was defenestrated - from (-3, -5) to (-3, -5)
+Chapel Riot Priest Coget took 1 extra damage from Brittle, Brittle reduced to 0
+Chapel Riot Priest Coget is no longer Brittle
+Chapel Riot Priest Coget took 9 damage
+Chapel Riot Priest Coget is no longer Gasmasked
+Chapel Riot Priest Coget passed out
+Dream Rion used Swap Forms - from (-4, -11) to (-4, -11)
+Dream Rion cast Impaling Vine on Chapel Tracker Asante - from (-4, -11) to (-4, -10)
+Chapel Tracker Asante took 1 damage
+Chapel Tracker Asante took 3 knockback
+Dream Rion took 1 knockback
+Chapel Tracker Asante hit something with 3 knockback left
+Chapel Tracker Asante took 1 extra damage from Brittle, Brittle reduced to 0
+Chapel Tracker Asante is no longer Brittle
+Chapel Tracker Asante took 4 damage
+Chapel Tracker Asante passed out
+Dream Rion moved - from (-4, -12) to (0, -7)
+Rion moved - from (-10, -6) to (0, -6)

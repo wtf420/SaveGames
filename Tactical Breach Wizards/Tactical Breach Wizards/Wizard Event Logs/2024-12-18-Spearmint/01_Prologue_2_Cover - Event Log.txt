@@ -1,0 +1,36 @@
+01_Prologue_2_Cover
+ 
+Start of player turn 1
+Zan breached - from (1, 2) to (2, 2)
+Liv Kennedy cast Execute on Mafia Sprig Coldstar - from (3, 5) to (3, 7)
+Mafia Sprig Coldstar took 10 damage
+Mafia Sprig Coldstar passed out
+Mafia Sprig Coldstar took 2 knockback
+Mafia Sprig Coldstar hit something with 2 knockback left
+Liv Kennedy cast Execute on Mafia Shrublord Kreka - from (3, 5) to (1, 7)
+Mafia Shrublord Kreka took 10 damage
+Mafia Shrublord Kreka passed out
+Mafia Shrublord Kreka took 2 knockback
+Mafia Shrublord Kreka hit something with 2 knockback left
+Liv Kennedy took cover - from (3, 5) to (3, 5)
+Zan moved - from (2, 2) to (1, 4)
+Zan used 3 Bolt Burst on Mafia Sprig Borealis - from (1, 4) to (-1, 4)
+Mafia Sprig Borealis took 1 damage
+Mafia Sprig Borealis took 1 knockback
+Mafia Sprig Borealis was defenestrated - from (-1, 4) to (-1, 4)
+Mafia Sprig Borealis took 1 damage
+Mafia Sprig Borealis passed out
+Zan took cover - from (1, 4) to (1, 4)
+Player ended their turn, starting enemy turn 1
+End of enemy turn 1
+ 
+Start of player turn 2
+Zan used 3 Bolt Burst on Mafia Sprig Prophecy - from (1, 4) to (-1, 7)
+Mafia Sprig Prophecy took 1 damage
+Mafia Sprig Prophecy took 1 knockback
+Mafia Sprig Prophecy hit something with 1 knockback left
+Mafia Sprig Prophecy took 1 damage
+Mafia Sprig Prophecy passed out
+Zan moved - from (1, 4) to (-1, 5)
+Zan moved - from (-1, 5) to (1, 4)
+Zan used Use Laptop - from (1, 4) to (1, 5)

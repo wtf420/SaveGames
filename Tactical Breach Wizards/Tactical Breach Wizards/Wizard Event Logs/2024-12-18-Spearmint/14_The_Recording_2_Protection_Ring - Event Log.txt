@@ -1,0 +1,677 @@
+14_The_Recording_2_Protection_Ring
+ 
+Start of player turn 1
+Jen repositioned - from (0, -3) to (-2, -3)
+Jen breached - from (-2, -3) to (-1, -3)
+Banks breached - from (2, -3) to (3, -3)
+Banks used Sedative Cocktail - from (3, -3) to (2, 3)
+Chapel Absolver Crisis is Sedated
+Chapel Tracker Prince is Sedated
+Chapel Shepherd Sunkins is Sedated
+Chapel Shepherd Sunkins shot Banks - from (3, 2) to (3, -3)
+Banks took 1 damage
+Banks took 1 knockback
+Banks used Transference on Chapel Shepherd Sunkins - from (3, -3) to (3, 2)
+Banks used Sedative Cocktail - from (3, -3) to (1, 2)
+Chapel Absolver Fox is Sedated
+Chapel Tracker Chance is Sedated
+Chapel Tracker Ossard is Sedated
+Chapel Absolver Pitri is Sedated
+Chapel Shepherd Sunkins shot Banks - from (3, 2) to (3, -3)
+1 damage and 1 knockback to Banks was transferred to Chapel Shepherd Sunkins
+Chapel Shepherd Sunkins armour blocked 1 damage
+Chapel Shepherd Sunkins took 1 knockback
+Chapel Tracker Ossard is no longer Invincible
+Banks used Sedative Cocktail - from (3, -3) to (1, 3)
+Chapel Absolver Fox is Sedated
+Chapel Tracker Chance is Sedated
+Chapel Absolver Crisis is Sedated
+Chapel Tracker Prince is Sedated
+Chapel Shepherd Sunkins shot Banks - from (3, 2) to (3, -3)
+1 damage and 1 knockback to Banks was transferred to Chapel Shepherd Sunkins
+Chapel Shepherd Sunkins armour blocked 1 damage
+Chapel Shepherd Sunkins took 1 knockback
+Chapel Tracker Ossard is no longer Invincible
+Banks used Sedative Cocktail - from (3, -3) to (1, 2)
+Chapel Absolver Fox is Sedated
+Chapel Tracker Chance is Sedated
+Chapel Tracker Ossard is Sedated
+Chapel Absolver Pitri is Sedated
+Chapel Shepherd Sunkins shot Banks - from (3, 2) to (3, -3)
+1 damage and 1 knockback to Banks was transferred to Chapel Shepherd Sunkins
+Chapel Shepherd Sunkins armour blocked 1 damage
+Chapel Shepherd Sunkins took 1 knockback
+Chapel Tracker Ossard is no longer Invincible
+Banks used Death's Door on Chapel Riot Priest Hightower - from (3, -3) to (-2, 4)
+Jen moved - from (-1, -3) to (1, -2)
+Jen cast Chain Bolt on Chapel Riot Priest Hightower, Chapel Absolver Pitri, Chapel Absolver Crisis - from (1, -2) to (-2, 4)
+Chapel Riot Priest Hightower stability prevented 1 knockback
+Chapel Riot Priest Hightower took 1 knockback
+Chapel Absolver Pitri took 3 knockback
+Chapel Absolver Crisis took 2 knockback
+Chapel Riot Priest Hightower fell into Death's Door
+Chapel Riot Priest Hightower took 8 damage
+Chapel Riot Priest Hightower is no longer Gasmasked
+Chapel Riot Priest Hightower passed out
+Chapel Riot Priest Hightower hit something with 1 knockback left
+Chapel Absolver Crisis was defenestrated - from (1, 4) to (1, 4)
+Chapel Tracker Prince is no longer Invincible
+Chapel Absolver Pitri hit something with 1 knockback left
+Chapel Absolver Pitri took 1 damage
+Chapel Shepherd Sunkins is no longer Invincible
+Chapel Absolver Crisis took 2 damage
+Chapel Absolver Crisis passed out
+Chapel Shepherd Sunkins shot Jen - from (3, 1) to (1, -2)
+Jen took 1 damage
+Jen took 1 knockback
+Jen hit something with 1 knockback left
+Jen took 1 damage
+Jen moved - from (-1, -3) to (3, -2)
+Jen cast Static Blast on Chapel Shepherd Sunkins - from (3, -2) to (3, 1)
+Chapel Shepherd Sunkins took 2 knockback
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Chapel Shepherd Sunkins is no longer Invincible
+Banks used Sedative Cocktail - from (3, -3) to (2, 2)
+Chapel Tracker Ossard is Sedated
+Chapel Absolver Pitri is Sedated
+Chapel Shepherd Sunkins is Sedated
+Chapel Shepherd Sunkins shot Banks - from (3, 2) to (3, -3)
+1 damage and 1 knockback to Banks was transferred to Chapel Shepherd Sunkins
+Chapel Shepherd Sunkins armour blocked 1 damage
+Chapel Shepherd Sunkins took 2 knockback
+Banks breached - from (2, -3) to (3, -3)
+Banks used Sedative Cocktail - from (3, -3) to (2, 2)
+Chapel Tracker Ossard is Sedated
+Chapel Absolver Pitri is Sedated
+Chapel Shepherd Sunkins is Sedated
+Chapel Shepherd Sunkins shot Banks - from (3, 2) to (3, -3)
+Banks took 1 damage
+Banks took 1 knockback
+Jen moved - from (-1, -3) to (3, -2)
+Banks used Sedative Cocktail - from (3, -3) to (4, 3)
+Chapel Shepherd Sunkins is Sedated
+Jen moved - from (-1, -3) to (3, -2)
+Jen cast Static Blast on Chapel Shepherd Sunkins - from (3, -2) to (3, 2)
+Chapel Shepherd Sunkins took 3 knockback
+Chapel Shepherd Sunkins was defenestrated - from (3, 4) to (3, 4)
+Chapel Shepherd Sunkins took 5 damage
+Chapel Shepherd Sunkins passed out
+Zan moved - from (0, -3) to (2, -2)
+Jen moved - from (3, -2) to (1, -2)
+Jen used Grab Intel - from (1, -2) to (1, -1)
+Zan moved - from (0, -3) to (1, -2)
+Zan used Time Boost on Jen - from (1, -2) to (3, -2)
+Banks used Death's Door on Chapel Riot Priest Hightower - from (3, -3) to (-2, 4)
+Jen moved - from (3, -2) to (2, -2)
+Jen moved - from (3, -2) to (2, -2)
+Jen cast Chain Bolt on Chapel Riot Priest Hightower, Chapel Absolver Fox, Chapel Absolver Crisis - from (2, -2) to (-2, 4)
+Chapel Riot Priest Hightower stability prevented 1 knockback
+Chapel Riot Priest Hightower took 1 knockback
+Chapel Absolver Fox took 2 knockback
+Chapel Absolver Crisis took 2 knockback
+Chapel Riot Priest Hightower fell into Death's Door
+Chapel Riot Priest Hightower took 8 damage
+Chapel Riot Priest Hightower is no longer Gasmasked
+Chapel Riot Priest Hightower passed out
+Chapel Riot Priest Hightower hit something with 1 knockback left
+Chapel Absolver Fox hit something with 2 knockback left
+Chapel Absolver Fox took 2 damage
+Chapel Absolver Fox passed out
+Chapel Absolver Crisis was defenestrated - from (1, 4) to (1, 4)
+Chapel Tracker Chance is no longer Invincible
+Chapel Tracker Prince is no longer Invincible
+Chapel Absolver Crisis took 2 damage
+Chapel Absolver Crisis passed out
+Banks used Sedative Cocktail - from (3, -3) to (1, 2)
+Chapel Tracker Chance is Sedated
+Chapel Tracker Ossard is Sedated
+Chapel Absolver Pitri is Sedated
+Zan used 3 Bolt Burst on Chapel Tracker Prince - from (1, -2) to (2, 4)
+Chapel Tracker Prince took 1 damage
+Chapel Tracker Prince took 1 knockback
+Chapel Tracker Prince was defenestrated - from (2, 4) to (2, 4)
+Chapel Tracker Prince took 2 damage
+Chapel Tracker Prince passed out
+Banks used Sedative Cocktail on Chapel Absolver Pitri - from (3, -3) to (2, 1)
+Chapel Tracker Ossard is Sedated
+Chapel Absolver Pitri took 1 knockback
+Chapel Absolver Pitri is Sedated
+Chapel Absolver Pitri hit something with 1 knockback left
+Chapel Absolver Pitri took 1 damage
+Zan took a free shot at Chapel Absolver Pitri with Supporting Fire.
+Zan used 3 Bolt Burst on Chapel Absolver Pitri - from (1, -2) to (2, 1)
+Chapel Absolver Pitri took 1 damage
+Chapel Absolver Pitri passed out
+Chapel Absolver Pitri took 2 knockback
+Chapel Absolver Pitri hit something with 2 knockback left
+Chapel Tracker Ossard is no longer Invincible
+Zan used 3 Bolt Burst on Chapel Tracker Prince - from (1, -2) to (2, 4)
+Chapel Tracker Prince took 1 damage
+Chapel Tracker Prince took 1 knockback
+Chapel Tracker Prince was defenestrated - from (2, 4) to (2, 4)
+Chapel Tracker Prince took 2 damage
+Chapel Tracker Prince passed out
+Zan took cover - from (1, -2) to (1, -2)
+Jen took cover - from (2, -2) to (2, -2)
+Zan stood up - from (1, -2) to (1, -2)
+Jen stood up - from (2, -2) to (2, -2)
+Zan used Grab Intel - from (1, -2) to (1, -1)
+Zan took cover - from (1, -2) to (1, -2)
+Zan took cover - from (1, -2) to (1, -2)
+Jen took cover - from (2, -2) to (2, -2)
+Banks moved - from (3, -3) to (3, -1)
+Banks took cover - from (3, -1) to (3, -1)
+Chapel Tracker Ossard took 1 damage
+Player ended their turn, starting enemy turn 1
+Chapel Absolver Blacksoil moved - from (-5, 3) to (-3, 3)
+End of enemy turn 1
+ 
+Start of player turn 2
+Banks used Sedative Cocktail on Chapel Absolver Blacksoil - from (3, -1) to (-3, 3)
+Chapel Absolver Blacksoil took 1 knockback
+Chapel Absolver Blacksoil is Sedated
+Chapel Absolver Blacksoil hit something with 1 knockback left
+Chapel Absolver Blacksoil took 1 damage
+Zan took a free shot at Chapel Absolver Blacksoil with Supporting Fire.
+Zan used 3 Bolt Burst on Chapel Absolver Blacksoil - from (1, -2) to (-3, 3)
+Chapel Absolver Blacksoil took 1 damage
+Chapel Absolver Blacksoil passed out
+Chapel Absolver Blacksoil took 2 knockback
+Chapel Absolver Blacksoil hit something with 2 knockback left
+Chapel Tracker Chance is no longer Invincible
+Zan moved - from (1, -2) to (-3, -1)
+Zan used 3 Bolt Burst on Chapel Tracker Chance - from (-3, -1) to (0, 3)
+Chapel Tracker Chance took 1 damage
+Chapel Tracker Chance took 1 knockback
+Chapel Tracker Chance hit something with 1 knockback left
+Chapel Tracker Chance took 1 damage
+Zan used 3 Bolt Burst on Chapel Tracker Chance - from (-3, -1) to (0, 3)
+Chapel Tracker Chance took 1 damage
+Chapel Tracker Chance took 1 knockback
+Chapel Tracker Chance hit something with 1 knockback left
+Chapel Tracker Chance took 1 damage
+Jen moved - from (2, -2) to (0, -2)
+Jen cast Static Blast on Chapel Tracker Chance - from (0, -2) to (0, 3)
+Chapel Tracker Chance took 2 knockback
+Chapel Tracker Chance was defenestrated - from (0, 4) to (0, 4)
+Chapel Tracker Chance took 1 damage
+Chapel Tracker Chance passed out
+Zan used Grab Intel - from (1, -2) to (1, -1)
+Zan moved - from (1, -2) to (-3, -1)
+Jen cast Static Blast on Chapel Tracker Pleiades - from (2, -2) to (6, 0)
+Chapel Tracker Pleiades took 2 knockback
+Chapel Tracker Pleiades hit something with 1 knockback left
+Chapel Tracker Pleiades took 1 damage
+Zan took a free shot at Chapel Tracker Pleiades with Supporting Fire.
+Zan used 3 Bolt Burst on Chapel Tracker Pleiades - from (-3, -1) to (7, 1)
+Chapel Tracker Pleiades took 1 damage
+Chapel Tracker Pleiades took 1 knockback
+Chapel Tracker Pleiades hit something with 1 knockback left
+Chapel Tracker Pleiades took 1 damage
+Chapel Tracker Pleiades passed out
+Jen moved - from (2, -2) to (5, 0)
+Jen moved - from (2, -2) to (3, 2)
+Jen cast Static Blast on Chapel Tracker Pleiades - from (3, 2) to (6, 0)
+Chapel Tracker Pleiades took 2 knockback
+Chapel Tracker Pleiades hit something with 2 knockback left
+Chapel Tracker Pleiades took 2 damage
+Zan took a free shot at Chapel Tracker Pleiades with Supporting Fire.
+Zan used 3 Bolt Burst on Chapel Tracker Pleiades - from (-3, -1) to (6, 0)
+Chapel Tracker Pleiades took 1 damage
+Chapel Tracker Pleiades passed out
+Chapel Tracker Pleiades took 1 knockback
+Banks moved - from (3, -1) to (2, -2)
+Banks took cover - from (2, -2) to (2, -2)
+Zan took cover - from (-3, -1) to (-3, -1)
+Jen took cover - from (3, 2) to (3, 2)
+Zan stood up - from (-3, -1) to (-3, -1)
+Zan used 3 Bolt Burst on Chapel Tracker Chance - from (-3, -1) to (0, 3)
+Chapel Tracker Chance took 1 damage
+Chapel Tracker Chance took 1 knockback
+Chapel Tracker Chance hit something with 1 knockback left
+Chapel Tracker Chance took 1 damage
+Zan took cover - from (-3, -1) to (-3, -1)
+Chapel Tracker Ossard took 1 damage
+Player ended their turn, starting enemy turn 2
+End of enemy turn 2
+ 
+Start of player turn 3
+Jen moved - from (3, 2) to (4, 3)
+Jen used Grab Intel - from (4, 3) to (5, 3)
+Jen cast Chain Bolt on Chapel Shepherd Warding, Jen, Chapel Tracker Kuiper - from (4, 3) to (6, 1)
+Chapel Shepherd Warding took 2 knockback
+Jen took 2 knockback
+Chapel Tracker Kuiper took 2 knockback
+Chapel Tracker Kuiper hit something with 1 knockback left
+Chapel Tracker Kuiper took 1 damage
+Chapel Shepherd Warding hit something with 1 knockback left
+Chapel Shepherd Warding took 1 damage
+Jen was defenestrated - from (3, 4) to (3, 4)
+Jen cast Static Blast on Chapel Shepherd Warding - from (4, 3) to (6, 1)
+Chapel Shepherd Warding took 2 knockback
+Chapel Shepherd Warding hit something with 1 knockback left
+Chapel Shepherd Warding took 1 damage
+Zan took a free shot at Chapel Shepherd Warding with Supporting Fire.
+Zan used 3 Bolt Burst on Chapel Shepherd Warding - from (-3, -1) to (7, 0)
+Chapel Shepherd Warding armour blocked 1 damage
+Chapel Shepherd Warding took 1 knockback
+Chapel Shepherd Warding hit something with 1 knockback left
+Chapel Shepherd Warding took 1 damage
+Banks used Sedative Cocktail on Chapel Shepherd Warding - from (2, -2) to (6, 1)
+Chapel Shepherd Warding took 1 knockback
+Chapel Shepherd Warding is Sedated
+Weapons Cache took 1 knockback
+Chapel Shepherd Warding hit something with 1 knockback left
+Chapel Shepherd Warding took 1 damage
+Weapons Cache hit something with 1 knockback left
+Weapons Cache took 1 damage
+Banks gained 1 mana for destroying a Weapons Cache
+Weapons Cache exploded
+Chapel Shepherd Warding armour blocked 1 damage
+Chapel Shepherd Warding took 2 knockback
+Weapons Cache took 1 damage
+Banks gained 1 mana for destroying a Weapons Cache
+Weapons Cache took 1 knockback
+Weapons Cache exploded
+Jen took 1 damage
+Jen took 1 knockback
+Zan took a free shot at Chapel Shepherd Warding with Supporting Fire.
+Zan used 3 Bolt Burst on Chapel Shepherd Warding - from (-3, -1) to (4, -1)
+Chapel Shepherd Warding armour blocked 1 damage
+Chapel Shepherd Warding took 2 knockback
+Banks used Sedative Cocktail on Chapel Shepherd Warding - from (2, -2) to (6, 1)
+Chapel Shepherd Warding took 1 knockback
+Chapel Shepherd Warding is Sedated
+Weapons Cache took 1 knockback
+Chapel Shepherd Warding hit something with 1 knockback left
+Chapel Shepherd Warding took 1 damage
+Weapons Cache hit something with 1 knockback left
+Weapons Cache took 1 damage
+Banks gained 1 mana for destroying a Weapons Cache
+Weapons Cache exploded
+Chapel Shepherd Warding armour blocked 1 damage
+Chapel Shepherd Warding took 2 knockback
+Weapons Cache took 1 damage
+Banks gained 1 mana for destroying a Weapons Cache
+Weapons Cache took 1 knockback
+Weapons Cache exploded
+Jen took 1 damage
+Jen took 1 knockback
+Jen threw a Gale Grenade - from (3, 2) to (7, 0)
+Chapel Shepherd Warding took 1 knockback
+Banks used Sedative Cocktail - from (2, -2) to (7, 1)
+Chapel Shepherd Warding is Sedated
+Jen cast Static Blast on Chapel Shepherd Warding - from (3, 2) to (6, 1)
+Chapel Shepherd Warding took 3 knockback
+Chapel Shepherd Warding hit something with 2 knockback left
+Chapel Shepherd Warding took 2 damage
+Zan took a free shot at Chapel Shepherd Warding with Supporting Fire.
+Zan used 3 Bolt Burst on Chapel Shepherd Warding - from (-3, -1) to (7, 1)
+Chapel Shepherd Warding armour blocked 1 damage
+Chapel Shepherd Warding took 2 knockback
+Chapel Shepherd Warding hit something with 2 knockback left
+Chapel Shepherd Warding took 2 damage
+Jen moved - from (3, 2) to (4, 3)
+Jen used Grab Intel - from (4, 3) to (5, 3)
+Jen moved - from (3, 2) to (4, 3)
+Jen used Grab Intel - from (4, 3) to (5, 3)
+Zan moved - from (-3, -1) to (0, -1)
+Jen cast Chain Bolt on Chapel Shepherd Warding, Zan, Chapel Tracker Kuiper - from (4, 3) to (6, 1)
+Chapel Shepherd Warding took 3 knockback
+Zan took 2 knockback
+Chapel Tracker Kuiper took 2 knockback
+Chapel Shepherd Warding hit something with 2 knockback left
+Chapel Shepherd Warding took 2 damage
+Chapel Tracker Kuiper hit something with 1 knockback left
+Chapel Tracker Kuiper took 1 damage
+Chapel Shepherd Warding shot Jen - from (7, 0) to (4, 3)
+Jen took 1 damage
+Jen took 1 knockback
+Jen cast Static Blast on Chapel Shepherd Warding - from (3, 4) to (7, 0)
+Chapel Shepherd Warding took 3 knockback
+Chapel Shepherd Warding hit something with 3 knockback left
+Chapel Shepherd Warding took 3 damage
+Chapel Shepherd Warding passed out
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Zan moved - from (-3, -1) to (-2, -1)
+Jen cast Chain Bolt on Chapel Shepherd Warding, Zan, Chapel Tracker Kuiper - from (4, 3) to (6, 1)
+Chapel Shepherd Warding took 3 knockback
+Zan took 2 knockback
+Chapel Tracker Kuiper took 2 knockback
+Zan hit something with 1 knockback left
+Zan took 1 damage
+Chapel Shepherd Warding hit something with 2 knockback left
+Chapel Shepherd Warding took 2 damage
+Chapel Tracker Kuiper hit something with 1 knockback left
+Chapel Tracker Kuiper took 1 damage
+Chapel Shepherd Warding shot Jen - from (7, 0) to (4, 3)
+Jen took 1 damage
+Jen took 1 knockback
+Jen cast Static Blast on Chapel Shepherd Warding - from (3, 4) to (7, 0)
+Chapel Shepherd Warding took 3 knockback
+Chapel Shepherd Warding hit something with 3 knockback left
+Chapel Shepherd Warding took 3 damage
+Chapel Shepherd Warding passed out
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Jen cast Static Blast on Chapel Shepherd Warding - from (3, 4) to (7, 0)
+Chapel Shepherd Warding took 3 knockback
+Chapel Shepherd Warding hit something with 3 knockback left
+Chapel Shepherd Warding took 3 damage
+Chapel Shepherd Warding passed out
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Jen threw a Gale Grenade - from (3, 4) to (1, 2)
+Chapel Tracker Chance took 1 knockback
+Chapel Tracker Ossard took 2 knockback
+Chapel Tracker Ossard hit something with 1 knockback left
+Chapel Tracker Ossard took 1 damage
+Chapel Tracker Ossard passed out
+Jen moved - from (3, 4) to (3, 3)
+Jen took cover - from (3, 3) to (3, 3)
+Jen cast Chain Bolt on Chapel Shepherd Warding, Chapel Tracker Ossard, Jen - from (4, 3) to (6, 1)
+Chapel Shepherd Warding took 3 knockback
+Chapel Tracker Ossard took 3 knockback
+Jen took 2 knockback
+Jen hit something with 2 knockback left
+Jen took 2 damage
+Chapel Shepherd Warding hit something with 2 knockback left
+Chapel Shepherd Warding took 2 damage
+Chapel Shepherd Warding shot Jen - from (7, 0) to (4, 3)
+Jen took 1 damage
+Jen took 1 knockback
+Jen cast Static Blast on Chapel Shepherd Warding - from (3, 4) to (7, 0)
+Chapel Shepherd Warding took 3 knockback
+Chapel Shepherd Warding hit something with 3 knockback left
+Chapel Shepherd Warding took 3 damage
+Chapel Shepherd Warding passed out
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Jen moved - from (3, 4) to (3, 3)
+Jen took cover - from (3, 3) to (3, 3)
+Jen stood up - from (3, 3) to (3, 3)
+Jen threw a Gale Grenade - from (3, 3) to (-1, 2)
+Chapel Tracker Ossard took 2 knockback
+Chapel Tracker Chance took 1 knockback
+Chapel Tracker Ossard hit something with 2 knockback left
+Chapel Tracker Ossard took 2 damage
+Chapel Tracker Ossard passed out
+Chapel Tracker Chance hit something with 1 knockback left
+Chapel Tracker Chance took 1 damage
+Chapel Tracker Chance passed out
+Jen took cover - from (3, 3) to (3, 3)
+Banks moved - from (2, -2) to (3, 2)
+Banks used Resurrect on Jen - from (3, 2) to (3, 3)
+Jen took 4 damage
+Jen passed out
+Zan moved - from (-3, -1) to (1, 1)
+Zan used 3 Bolt Burst on Chapel Tracker Kuiper - from (1, 1) to (-4, 2)
+Chapel Tracker Kuiper took 1 damage
+Chapel Tracker Kuiper took 1 knockback
+Zan used Time Boost on Jen - from (1, 1) to (3, 3)
+Jen cast Static Blast on Chapel Tracker Kuiper - from (3, 3) to (-5, 2)
+Chapel Tracker Kuiper took 2 knockback
+Chapel Tracker Kuiper hit something with 2 knockback left
+Chapel Tracker Kuiper took 2 damage
+Chapel Tracker Kuiper passed out
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Banks used Sedative Cocktail - from (3, 2) to (7, 0)
+Player ended their turn, starting enemy turn 3
+Zan shot Chapel Riot Priest Morgana on overwatch
+Chapel Riot Priest Morgana armour blocked 1 damage
+Chapel Riot Priest Morgana took 3 damage
+Chapel Riot Priest Morgana is no longer Gasmasked
+Chapel Riot Priest Morgana moved - from (7, 1) to (5, 2)
+Chapel Cleanser Orchard moved - from (-5, 3) to (-5, 4)
+Chapel Cleanser Orchard took cover - from (-5, 4) to (-5, 4)
+End of enemy turn 3
+ 
+Start of player turn 4
+Zan moved - from (1, 1) to (5, -1)
+Zan used 3 Bolt Burst - from (5, -1) to (6, 2)
+Weapons Cache took 1 damage
+Zan gained 1 mana for destroying a Weapons Cache
+Weapons Cache took 1 knockback
+Weapons Cache hit something with 1 knockback left
+Weapons Cache took 1 damage
+Weapons Cache exploded
+Chapel Riot Priest Morgana armour blocked 1 damage
+Chapel Riot Priest Morgana stability prevented 1 knockback
+Weapons Cache took 1 damage
+Zan gained 1 mana for destroying a Weapons Cache
+Weapons Cache took 1 knockback
+Weapons Cache hit something with 1 knockback left
+Weapons Cache took 1 damage
+Weapons Cache exploded
+Jen moved - from (3, 3) to (3, -2)
+Banks used Sedative Cocktail on Chapel Riot Priest Morgana - from (3, 2) to (5, 2)
+Chapel Riot Priest Morgana stability prevented 1 knockback
+Chapel Riot Priest Morgana is Sedated
+Zan took a free shot at Chapel Riot Priest Morgana with Supporting Fire.
+Zan used 3 Bolt Burst on Chapel Riot Priest Morgana - from (5, -1) to (5, 2)
+Chapel Riot Priest Morgana armour blocked 1 damage
+Chapel Riot Priest Morgana took 1 knockback
+Chapel Riot Priest Morgana hit something with 1 knockback left
+Chapel Riot Priest Morgana took 1 damage
+Zan used 3 Bolt Burst - from (5, -1) to (6, 2)
+Weapons Cache took 1 damage
+Zan gained 1 mana for destroying a Weapons Cache
+Weapons Cache took 1 knockback
+Weapons Cache hit something with 1 knockback left
+Weapons Cache took 1 damage
+Weapons Cache exploded
+Chapel Riot Priest Morgana armour blocked 1 damage
+Chapel Riot Priest Morgana took 1 knockback
+Weapons Cache took 1 damage
+Zan gained 1 mana for destroying a Weapons Cache
+Weapons Cache took 1 knockback
+Weapons Cache hit something with 1 knockback left
+Weapons Cache took 1 damage
+Weapons Cache exploded
+Jen cast Static Blast on Chapel Riot Priest Morgana - from (3, -2) to (4, 2)
+Chapel Riot Priest Morgana took 2 knockback
+Zan took a free shot at Chapel Riot Priest Morgana with Supporting Fire.
+Zan used 3 Bolt Burst on Chapel Riot Priest Morgana - from (5, -1) to (4, 4)
+Chapel Riot Priest Morgana armour blocked 1 damage
+Chapel Riot Priest Morgana took 1 knockback
+Chapel Riot Priest Morgana hit something with 1 knockback left
+Chapel Riot Priest Morgana took 1 damage
+Banks moved - from (3, 2) to (3, -1)
+Jen moved - from (3, 3) to (3, 0)
+Jen moved - from (3, 3) to (3, 1)
+Jen moved - from (3, 3) to (3, 0)
+Jen moved - from (3, 3) to (0, 0)
+Jen moved - from (3, 3) to (3, -2)
+Zan moved - from (1, 1) to (-3, 2)
+Zan moved - from (1, 1) to (-3, 3)
+Jen moved - from (3, 3) to (3, 2)
+Jen moved - from (3, 3) to (-1, 3)
+Jen cast Chain Bolt on Chapel Riot Priest Morgana, Weapons Cache, Chapel Cleanser Orchard - from (-1, 3) to (5, 2)
+Chapel Riot Priest Morgana stability prevented 1 knockback
+Chapel Riot Priest Morgana took 1 knockback
+Weapons Cache took 2 knockback
+Chapel Cleanser Orchard took 2 knockback
+Weapons Cache took 1 knockback
+Chapel Riot Priest Morgana hit something with 1 knockback left
+Chapel Riot Priest Morgana took 1 damage
+Chapel Cleanser Orchard hit something with 2 knockback left
+Chapel Cleanser Orchard took 2 damage
+Weapons Cache took 1 knockback
+Weapons Cache hit something with 2 knockback left
+Weapons Cache took 2 damage
+Jen gained 1 mana for destroying a Weapons Cache
+Weapons Cache took 1 knockback
+Weapons Cache hit something with 1 knockback left
+Weapons Cache took 1 damage
+Jen gained 1 mana for destroying a Weapons Cache
+Weapons Cache exploded
+Weapons Cache took 1 damage
+Jen gained 1 mana for destroying a Weapons Cache
+Weapons Cache took 1 knockback
+Weapons Cache exploded
+Chapel Riot Priest Morgana armour blocked 1 damage
+Chapel Riot Priest Morgana stability prevented 1 knockback
+Weapons Cache took 1 damage
+Jen gained 1 mana for destroying a Weapons Cache
+Weapons Cache took 1 knockback
+Weapons Cache hit something with 2 knockback left
+Weapons Cache took 2 damage
+Weapons Cache hit something with 2 knockback left
+Weapons Cache took 2 damage
+Weapons Cache exploded
+Weapons Cache exploded
+Banks used Sedative Cocktail on Chapel Riot Priest Morgana - from (3, -1) to (5, 2)
+Chapel Riot Priest Morgana stability prevented 1 knockback
+Chapel Riot Priest Morgana is Sedated
+Zan took a free shot at Chapel Riot Priest Morgana with Supporting Fire.
+Zan used 3 Bolt Burst on Chapel Riot Priest Morgana - from (1, 1) to (5, 2)
+Chapel Riot Priest Morgana armour blocked 1 damage
+Chapel Riot Priest Morgana took 1 knockback
+Weapons Cache took 1 knockback
+Chapel Riot Priest Morgana hit something with 1 knockback left
+Chapel Riot Priest Morgana took 1 damage
+Weapons Cache took 1 knockback
+Weapons Cache hit something with 1 knockback left
+Weapons Cache took 1 damage
+Zan gained 1 mana for destroying a Weapons Cache
+Weapons Cache exploded
+Chapel Riot Priest Morgana armour blocked 1 damage
+Chapel Riot Priest Morgana took 1 knockback
+Weapons Cache took 1 damage
+Zan gained 1 mana for destroying a Weapons Cache
+Weapons Cache took 1 knockback
+Weapons Cache hit something with 2 knockback left
+Weapons Cache took 2 damage
+Weapons Cache exploded
+Banks used Sedative Cocktail - from (3, -1) to (6, 2)
+Chapel Riot Priest Morgana is Sedated
+Weapons Cache took 1 knockback
+Weapons Cache hit something with 1 knockback left
+Weapons Cache took 1 damage
+Banks gained 1 mana for destroying a Weapons Cache
+Weapons Cache exploded
+Chapel Riot Priest Morgana armour blocked 1 damage
+Chapel Riot Priest Morgana took 1 knockback
+Weapons Cache took 1 damage
+Banks gained 1 mana for destroying a Weapons Cache
+Weapons Cache took 1 knockback
+Weapons Cache hit something with 1 knockback left
+Weapons Cache took 1 damage
+Weapons Cache exploded
+Banks used Sedative Cocktail on Chapel Riot Priest Morgana - from (3, -1) to (5, 2)
+Chapel Riot Priest Morgana stability prevented 1 knockback
+Chapel Riot Priest Morgana is Sedated
+Zan took a free shot at Chapel Riot Priest Morgana with Supporting Fire.
+Zan used 3 Bolt Burst on Chapel Riot Priest Morgana - from (1, 1) to (5, 2)
+Chapel Riot Priest Morgana armour blocked 1 damage
+Chapel Riot Priest Morgana took 1 knockback
+Weapons Cache took 1 knockback
+Chapel Riot Priest Morgana hit something with 1 knockback left
+Chapel Riot Priest Morgana took 1 damage
+Weapons Cache took 1 knockback
+Weapons Cache hit something with 1 knockback left
+Weapons Cache took 1 damage
+Zan gained 1 mana for destroying a Weapons Cache
+Weapons Cache exploded
+Chapel Riot Priest Morgana armour blocked 1 damage
+Chapel Riot Priest Morgana took 1 knockback
+Weapons Cache took 1 damage
+Zan gained 1 mana for destroying a Weapons Cache
+Weapons Cache took 1 knockback
+Weapons Cache hit something with 2 knockback left
+Weapons Cache took 2 damage
+Weapons Cache exploded
+Zan moved - from (1, 1) to (6, 1)
+Zan moved - from (1, 1) to (5, 0)
+Banks moved - from (3, 2) to (3, -2)
+Banks used Sedative Cocktail on Chapel Riot Priest Morgana - from (3, -2) to (5, 2)
+Chapel Riot Priest Morgana stability prevented 1 knockback
+Chapel Riot Priest Morgana is Sedated
+Zan took a free shot at Chapel Riot Priest Morgana with Supporting Fire.
+Zan used 3 Bolt Burst on Chapel Riot Priest Morgana - from (5, 0) to (5, 2)
+Chapel Riot Priest Morgana armour blocked 1 damage
+Chapel Riot Priest Morgana took 1 knockback
+Chapel Riot Priest Morgana hit something with 1 knockback left
+Chapel Riot Priest Morgana took 1 damage
+Banks used Sedative Cocktail - from (3, -2) to (6, 2)
+Chapel Riot Priest Morgana is Sedated
+Weapons Cache took 1 knockback
+Weapons Cache hit something with 1 knockback left
+Weapons Cache took 1 damage
+Banks gained 1 mana for destroying a Weapons Cache
+Weapons Cache exploded
+Chapel Riot Priest Morgana armour blocked 1 damage
+Chapel Riot Priest Morgana took 1 knockback
+Weapons Cache took 1 damage
+Banks gained 1 mana for destroying a Weapons Cache
+Weapons Cache took 1 knockback
+Weapons Cache hit something with 1 knockback left
+Weapons Cache took 1 damage
+Weapons Cache exploded
+Jen moved - from (3, 3) to (-1, 3)
+Zan used 3 Bolt Burst on Chapel Riot Priest Morgana - from (5, 0) to (4, 2)
+Chapel Riot Priest Morgana armour blocked 1 damage
+Chapel Riot Priest Morgana took 1 knockback
+Jen moved - from (3, 3) to (3, 0)
+Zan used 3 Bolt Burst on Chapel Riot Priest Morgana - from (5, 0) to (4, 2)
+Chapel Riot Priest Morgana armour blocked 1 damage
+Chapel Riot Priest Morgana took 1 knockback
+Jen cast Chain Bolt on Chapel Riot Priest Morgana, Weapons Cache, Chapel Cleanser Orchard - from (3, 0) to (3, 3)
+Chapel Riot Priest Morgana took 2 knockback
+Weapons Cache took 2 knockback
+Chapel Cleanser Orchard took 2 knockback
+Chapel Cleanser Orchard hit something with 2 knockback left
+Chapel Cleanser Orchard took 2 damage
+Weapons Cache took 1 knockback
+Weapons Cache hit something with 2 knockback left
+Weapons Cache took 2 damage
+Jen gained 1 mana for destroying a Weapons Cache
+Weapons Cache exploded
+Weapons Cache took 1 damage
+Jen gained 1 mana for destroying a Weapons Cache
+Weapons Cache took 1 knockback
+Weapons Cache hit something with 2 knockback left
+Weapons Cache took 2 damage
+Weapons Cache exploded
+Chapel Riot Priest Morgana was defenestrated - from (3, 4) to (3, 4)
+Chapel Riot Priest Morgana took 5 damage
+Chapel Riot Priest Morgana passed out
+Jen cast Chain Bolt on Chapel Riot Priest Morgana, Weapons Cache, Chapel Cleanser Orchard - from (3, 0) to (3, 3)
+Chapel Riot Priest Morgana took 2 knockback
+Weapons Cache took 2 knockback
+Chapel Cleanser Orchard took 2 knockback
+Chapel Cleanser Orchard hit something with 2 knockback left
+Chapel Cleanser Orchard took 2 damage
+Jen cast Chain Bolt on Chapel Riot Priest Morgana, Weapons Cache, Chapel Cleanser Orchard - from (3, 0) to (3, 3)
+Chapel Riot Priest Morgana took 2 knockback
+Weapons Cache took 2 knockback
+Chapel Cleanser Orchard took 2 knockback
+Chapel Cleanser Orchard hit something with 2 knockback left
+Chapel Cleanser Orchard took 2 damage
+Weapons Cache hit something with 2 knockback left
+Weapons Cache took 2 damage
+Jen gained 1 mana for destroying a Weapons Cache
+Weapons Cache exploded
+Weapons Cache took 1 damage
+Jen gained 1 mana for destroying a Weapons Cache
+Weapons Cache took 1 knockback
+Weapons Cache hit something with 1 knockback left
+Weapons Cache took 1 damage
+Weapons Cache exploded
+Chapel Riot Priest Morgana was defenestrated - from (3, 4) to (3, 4)
+Chapel Riot Priest Morgana took 5 damage
+Chapel Riot Priest Morgana passed out
+Chapel Cleanser Orchard launched a Cleansing Vessel Zan - from (-5, 4) to (5, 0)
+Zan took 1 damage
+Zan is no longer Mana Drain
+Player ended their turn, starting enemy turn 4
+Chapel Cleanser Orchard took cover - from (-5, 4) to (-5, 4)
+End of enemy turn 4
+ 
+Start of player turn 5
+Jen moved - from (3, 0) to (-1, 2)
+Banks moved - from (3, -2) to (-1, 0)
+Banks used Sedative Cocktail on Chapel Cleanser Orchard - from (-1, 0) to (-5, 4)
+Chapel Cleanser Orchard took 1 knockback
+Chapel Cleanser Orchard is Sedated
+Chapel Cleanser Orchard hit something with 1 knockback left
+Chapel Cleanser Orchard took 1 damage
+Chapel Cleanser Orchard passed out
+Zan didn't have a clear shot at the target to provide Supporting Fire.

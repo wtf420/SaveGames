@@ -1,0 +1,25 @@
+18_Kalan_Ambush_1_Tick_Tock
+ 
+Start of player turn 1
+Rion moved - from (-7, -11) to (-9, -11)
+Liv Kennedy moved - from (-9, -4) to (-6, -5)
+Jen moved - from (-4, -10) to (-7, -11)
+Liv Kennedy moved - from (-6, -5) to (-3, -7)
+Jen moved - from (-4, -10) to (-6, -11)
+Liv Kennedy moved - from (-6, -5) to (-3, -7)
+Jen cast Static Blast on Liv Kennedy - from (-6, -11) to (-3, -7)
+Liv Kennedy took 2 knockback
+Stun Barrel took 1 knockback
+Liv Kennedy hit something with 2 knockback left
+Liv Kennedy took 2 damage
+Liv Kennedy passed out
+Dead Liv Kennedy 1 created a clone (?!) to cheat death
+Liv Kennedy 2 moved - from (-3, -7) to (-3, -10)
+Stun Barrel hit something with 1 knockback left
+Stun Barrel took 1 damage
+Stun Barrel exploded
+Liv Kennedy 2 is Stunned for 1 turn
+Banks moved - from (-6, -9) to (-10, -8)
+Jen moved - from (-6, -11) to (-9, -10)
+Dall moved - from (-3, -12) to (-5, -9)
+Dall used Charge - from (-5, -9) to (-10, -9)

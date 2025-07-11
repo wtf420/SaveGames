@@ -1,0 +1,231 @@
+11_Lucid_Dream_Jen_1_Backdoor
+ 
+Start of player turn 1
+Jen breached - from (-16, 11) to (-16, 10)
+Jen moved - from (-16, 10) to (-14, 11)
+Jen used Broom Breach on Reactor Heavy Gunner Wakefield - from (-14, 11) to (-13, 6)
+Reactor Heavy Gunner Wakefield stability prevented 1 knockback
+Reactor Heavy Gunner Wakefield took 2 knockback
+Stun Barrel took 1 knockback
+Reactor Heavy Gunner Wakefield hit something with 1 knockback left
+Reactor Heavy Gunner Wakefield took 1 damage
+Stun Barrel hit something with 1 knockback left
+Stun Barrel took 1 damage
+Stun Barrel exploded
+Reactor Heavy Gunner Wakefield is Stunned for 1 turn
+Jen used Broom Breach - from (-13, 6) to (-7, 6)
+Jen cast Static Blast on Reactor Heavy Gunner Wakefield - from (-13, 6) to (-13, 5)
+Reactor Heavy Gunner Wakefield stability prevented 1 knockback
+Reactor Heavy Gunner Wakefield took 1 knockback
+Jen breached - from (-16, 11) to (-16, 10)
+Jen moved - from (-16, 10) to (-15, 11)
+Jen used Broom Breach - from (-15, 11) to (-9, 6)
+Jen used Use Laptop - from (-9, 6) to (-9, 5)
+Jen cast Chain Bolt on Stun Barrel, Stun Barrel, Reactor Heavy Gunner Wakefield - from (-9, 6) to (-11, 6)
+Stun Barrel took 2 knockback
+Stun Barrel took 2 knockback
+Reactor Heavy Gunner Wakefield stability prevented 1 knockback
+Reactor Heavy Gunner Wakefield took 1 knockback
+Reactor Heavy Gunner Wakefield was defenestrated - from (-13, 6) to (-13, 6)
+Stun Barrel hit something with 2 knockback left
+Stun Barrel took 2 damage
+Stun Barrel exploded
+Reactor Heavy Gunner Wakefield took 4 damage
+Reactor Heavy Gunner Wakefield passed out
+Jen moved - from (-16, 9) to (-15, 11)
+Jen cast Static Blast on Reactor Sniper Cassini - from (-15, 11) to (-8, 14)
+Reactor Sniper Cassini took 2 knockback
+Reactor Sniper Cassini hit something with 1 knockback left
+Reactor Sniper Cassini took 1 damage
+Jen used Broom Breach - from (-15, 11) to (-13, 14)
+Reactor Sniper Cassini shot Jen on overwatch
+Jen took 4 damage
+Jen passed out
+Jen threw a Gale Grenade - from (-9, 6) to (-8, 15)
+Reactor Sniper Cassini took 1 knockback
+Stun Barrel took 1 knockback
+Reactor Sniper Cassini was defenestrated - from (-8, 14) to (-8, 14)
+Stun Barrel hit something with 1 knockback left
+Stun Barrel took 1 damage
+Stun Barrel exploded
+Reactor Sniper Cassini took 3 damage
+Reactor Sniper Cassini passed out
+Jen used Broom Breach - from (-15, 11) to (-13, 14)
+Jen used Broom Breach - from (-15, 11) to (-9, 6)
+Jen cast Chain Bolt on Stun Barrel, Reactor Heavy Gunner Wakefield - from (-9, 6) to (-13, 4)
+Stun Barrel took 2 knockback
+Reactor Heavy Gunner Wakefield stability prevented 1 knockback
+Reactor Heavy Gunner Wakefield took 1 knockback
+Reactor Heavy Gunner Wakefield was defenestrated - from (-13, 6) to (-13, 6)
+Stun Barrel hit something with 2 knockback left
+Stun Barrel took 2 damage
+Stun Barrel exploded
+Reactor Heavy Gunner Wakefield took 4 damage
+Reactor Heavy Gunner Wakefield passed out
+Jen threw a Gale Grenade - from (-9, 6) to (-8, 15)
+Reactor Sniper Cassini took 1 knockback
+Stun Barrel took 1 knockback
+Reactor Sniper Cassini was defenestrated - from (-8, 14) to (-8, 14)
+Stun Barrel hit something with 1 knockback left
+Stun Barrel took 1 damage
+Stun Barrel exploded
+Reactor Sniper Cassini took 3 damage
+Reactor Sniper Cassini passed out
+Jen used Use Laptop - from (-9, 6) to (-9, 5)
+Jen breached - from (-16, 11) to (-16, 10)
+Jen moved - from (-16, 10) to (-15, 11)
+Jen used Broom Breach - from (-15, 11) to (-9, 6)
+Jen used Use Laptop - from (-9, 6) to (-9, 5)
+Jen moved - from (-16, 9) to (-15, 11)
+Jen used Broom Breach - from (-15, 11) to (-7, 14)
+Jen used Broom Breach on Reactor Sniper Cassini - from (-15, 11) to (-8, 14)
+Reactor Sniper Cassini took 3 knockback
+Stun Barrel took 1 knockback
+Reactor Sniper Cassini hit something with 2 knockback left
+Reactor Sniper Cassini took 2 damage
+Stun Barrel hit something with 1 knockback left
+Stun Barrel took 1 damage
+Stun Barrel exploded
+Reactor Sniper Cassini is Stunned for 1 turn
+Jen cast Static Blast on - from (-9, 6) to (-11, 6)
+Stun Barrel took 2 knockback
+Reactor Heavy Gunner Wakefield stability prevented 1 knockback
+Stun Barrel hit something with 1 knockback left
+Stun Barrel took 1 damage
+Stun Barrel exploded
+Reactor Heavy Gunner Wakefield is Stunned for 1 turn
+Turret shot Jen - from (-9, 10) to (-9, 6)
+Jen took 3 damage
+Jen took 1 knockback
+Jen hit something with 1 knockback left
+Jen took 1 damage
+Jen passed out
+Jen used Broom Breach on Reactor Sniper Cassini - from (-15, 11) to (-8, 14)
+Reactor Sniper Cassini took 3 knockback
+Stun Barrel took 1 knockback
+Reactor Sniper Cassini hit something with 2 knockback left
+Reactor Sniper Cassini took 2 damage
+Stun Barrel hit something with 1 knockback left
+Stun Barrel took 1 damage
+Stun Barrel exploded
+Reactor Sniper Cassini is Stunned for 1 turn
+Jen moved - from (-16, 9) to (-15, 11)
+Jen used Broom Breach - from (-15, 11) to (-13, 14)
+Jen moved - from (-16, 9) to (-14, 11)
+Jen took cover - from (-14, 11) to (-14, 11)
+Turret shot Jen - from (-9, 10) to (-8, 14)
+Jen took 3 damage
+Jen took 1 knockback
+Reactor Sniper Cassini took 1 knockback
+Jen hit something with 1 knockback left
+Jen took 1 damage
+Jen passed out
+Reactor Heavy Gunner Wakefield used Saturating Fire on Jen - from (-13, 6) to (-14, 11)
+Jen took 1 damage
+Jen cast Static Blast on Turret - from (-8, 14) to (-9, 10)
+Turret stability prevented 1 knockback
+Turret took 1 knockback
+Turret hit something with 1 knockback left
+Turret took 1 damage
+Turret shot Jen - from (-9, 10) to (-8, 14)
+Jen took 3 damage
+Jen took 1 knockback
+Reactor Sniper Cassini took 1 knockback
+Jen hit something with 1 knockback left
+Jen took 1 damage
+Jen passed out
+Reactor Heavy Gunner Wakefield used Saturating Fire on Jen - from (-13, 6) to (-14, 11)
+Jen took 1 damage
+Jen used Broom Breach - from (-15, 11) to (-7, 14)
+Jen moved - from (-16, 9) to (-14, 11)
+Jen took cover - from (-14, 11) to (-14, 11)
+Turret shot Jen - from (-9, 10) to (-7, 14)
+Jen took 3 damage
+Jen took 1 knockback
+Jen hit something with 1 knockback left
+Jen took 1 damage
+Jen passed out
+Reactor Heavy Gunner Wakefield used Saturating Fire on Jen - from (-13, 6) to (-14, 11)
+Jen took 1 damage
+Jen moved - from (-16, 10) to (-13, 11)
+Jen threw a Gale Grenade - from (-13, 11) to (-7, 14)
+Reactor Sniper Cassini took 1 knockback
+Jen used Broom Breach - from (-13, 11) to (-8, 14)
+Turret shot Jen - from (-9, 10) to (-8, 14)
+Jen took 3 damage
+Jen took 1 knockback
+Jen moved - from (-16, 9) to (-14, 11)
+Jen took cover - from (-14, 11) to (-14, 11)
+Jen stood up - from (-14, 11) to (-14, 11)
+Jen cast Static Blast on - from (-14, 11) to (-12, 16)
+Stun Barrel took 2 knockback
+Stun Barrel hit something with 2 knockback left
+Stun Barrel took 2 damage
+Stun Barrel exploded
+Jen took cover - from (-14, 11) to (-14, 11)
+Turret shot Jen - from (-9, 10) to (-8, 14)
+Jen took 3 damage
+Jen took 1 knockback
+Reactor Heavy Gunner Wakefield used Saturating Fire on Jen - from (-13, 6) to (-14, 11)
+Jen took 1 damage
+Player ended their turn, starting enemy turn 1
+Reactor Heavy Gunner Wakefield launched a grenade - from (-13, 6) to (-13, 11)
+End of enemy turn 1
+ 
+Start of player turn 2
+Jen moved - from (-8, 15) to (-11, 15)
+Jen used Hack Turret - from (-11, 15) to (-11, 16)
+Jen used Broom Breach - from (-14, 11) to (-9, 6)
+Jen used Use Laptop - from (-9, 6) to (-9, 5)
+Jen cast Chain Bolt on Stun Barrel, Stun Barrel, Reactor Heavy Gunner Wakefield - from (-9, 6) to (-11, 6)
+Stun Barrel took 2 knockback
+Stun Barrel took 2 knockback
+Reactor Heavy Gunner Wakefield stability prevented 1 knockback
+Reactor Heavy Gunner Wakefield took 1 knockback
+Reactor Heavy Gunner Wakefield was defenestrated - from (-13, 6) to (-13, 6)
+Stun Barrel hit something with 2 knockback left
+Stun Barrel took 2 damage
+Stun Barrel exploded
+Reactor Heavy Gunner Wakefield took 4 damage
+Reactor Heavy Gunner Wakefield passed out
+Jen threw a Gale Grenade - from (-9, 6) to (-7, 15)
+Stun Barrel took 1 knockback
+Reactor Neutraliser Esteban took 1 knockback
+Reactor Neutraliser Esteban was defenestrated - from (-7, 14) to (-7, 14)
+Stun Barrel hit something with 1 knockback left
+Stun Barrel took 1 damage
+Stun Barrel exploded
+Reactor Neutraliser Esteban took 2 damage
+Reactor Neutraliser Esteban passed out
+Jen is no longer Neutralised
+Jen moved - from (-9, 6) to (-7, 5)
+Jen sealed a hostile entry point - from (-7, 5) to (-7, 5)
+Jen cast Static Blast on Reactor Sniper Cassini - from (-11, 15) to (-9, 14)
+Reactor Sniper Cassini took 2 knockback
+Reactor Sniper Cassini was defenestrated - from (-9, 14) to (-9, 14)
+Reactor Sniper Cassini took 3 damage
+Reactor Sniper Cassini passed out
+Player ended their turn, starting enemy turn 2
+End of enemy turn 2
+ 
+Start of player turn 3
+Turret shot Reactor Tracker Balwinder - from (-9, 10) to (-7, 14)
+Reactor Tracker Balwinder took 3 damage
+Reactor Tracker Balwinder passed out
+Reactor Tracker Balwinder took 1 knockback
+Reactor Tracker Balwinder hit something with 1 knockback left
+Jen moved - from (-7, 5) to (-7, 6)
+Jen used Broom Breach - from (-7, 6) to (-7, 9)
+Jen moved - from (-11, 15) to (-8, 14)
+Jen used Broom Breach - from (-8, 14) to (-7, 11)
+Turret shot Reactor Tracker Balwinder - from (-9, 10) to (-7, 14)
+Reactor Tracker Balwinder took 3 damage
+Reactor Tracker Balwinder passed out
+Reactor Tracker Balwinder took 1 knockback
+Reactor Tracker Balwinder hit something with 1 knockback left
+Player ended their turn, starting enemy turn 3
+End of enemy turn 3
+ 
+Start of player turn 4
+Jen moved - from (-7, 11) to (-6, 11)
+Jen moved - from (-7, 9) to (-6, 9)

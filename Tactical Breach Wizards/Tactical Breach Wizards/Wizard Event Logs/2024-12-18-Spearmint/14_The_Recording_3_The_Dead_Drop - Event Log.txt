@@ -1,0 +1,69 @@
+14_The_Recording_3_The_Dead_Drop
+ 
+Start of player turn 1
+Dall breached - from (-2, -18) to (-1, -18)
+Dall repositioned - from (-2, -18) to (-4, -14)
+Dall breached - from (-4, -14) to (-4, -15)
+Dall used Charge - from (-4, -15) to (3, -15)
+Chapel Riot Priest Kuiper armour blocked 1 damage
+Chapel Riot Priest Kuiper stability prevented 1 knockback
+Chapel Riot Priest Kuiper took 6 knockback
+Chapel Riot Priest Kuiper was defenestrated - from (5, -15) to (5, -15)
+Chapel Riot Priest Kuiper took 8 damage
+Chapel Riot Priest Kuiper is no longer Gasmasked
+Chapel Riot Priest Kuiper passed out
+Dall moved - from (3, -15) to (4, -15)
+Dall Swapped with - from (3, -15) to (5, -6)
+Dall Swapped with Chapel Riot Priest Glass - from (3, -15) to (4, -10)
+Dall used Grab Intel - from (4, -10) to (5, -10)
+Dall moved - from (4, -10) to (5, -9)
+Dall Swapped with Chapel Tracker Castle - from (5, -9) to (11, -9)
+Dall used Use Laptop - from (11, -9) to (12, -9)
+Dall breached - from (-2, -18) to (-1, -18)
+Dall Swapped with - from (-1, -18) to (-1, -5)
+Dall used Censer Slam on Chapel Riot Priest Vega - from (-1, -5) to (-1, -6)
+Chapel Riot Priest Vega armour blocked 1 damage
+Chapel Riot Priest Vega took 2 damage
+Chapel Riot Priest Vega is no longer Gasmasked
+Chapel Riot Priest Vega stability prevented 1 knockback
+Dall Swapped with Chapel Riot Priest Vega - from (-1, -18) to (-1, -6)
+Dall used Censer Slam - from (-1, -6) to (-1, -5)
+Weapons Cache took 3 damage
+Dall gained 1 mana for destroying a Weapons Cache
+Weapons Cache took 1 knockback
+Weapons Cache hit something with 1 knockback left
+Weapons Cache took 1 damage
+Weapons Cache exploded
+Weapons Cache took 1 damage
+Dall gained 1 mana for destroying a Weapons Cache
+Weapons Cache took 1 knockback
+Dall armour blocked 1 damage
+Dall stability prevented 1 knockback
+Weapons Cache took 1 damage
+Dall gained 1 mana for destroying a Weapons Cache
+Weapons Cache took 1 knockback
+Weapons Cache hit something with 1 knockback left
+Weapons Cache took 1 damage
+Weapons Cache took 1 knockback
+Weapons Cache hit something with 1 knockback left
+Weapons Cache took 1 damage
+Weapons Cache exploded
+Dall armour blocked 1 damage
+Dall stability prevented 1 knockback
+Weapons Cache exploded
+Weapons Cache took 1 damage
+Dall gained 1 mana for destroying a Weapons Cache
+Weapons Cache took 1 knockback
+Dall armour blocked 1 damage
+Dall stability prevented 1 knockback
+Weapons Cache hit something with 2 knockback left
+Weapons Cache took 2 damage
+Weapons Cache exploded
+Dall Swapped with - from (-1, -6) to (5, -6)
+Dall moved - from (-1, -6) to (4, -6)
+Dall Swapped with Chapel Tracker Castle - from (4, -6) to (11, -9)
+Dall used Use Laptop - from (11, -9) to (12, -9)
+Dall Swapped with Chapel Tracker Castle - from (-1, -6) to (11, -9)
+Dall used Use Laptop - from (11, -9) to (12, -9)
+Dall moved - from (11, -9) to (11, -13)
+Dall used Collect Recording - from (11, -13) to (12, -13)

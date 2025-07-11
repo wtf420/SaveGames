@@ -1,0 +1,12 @@
+checksum=-1000386768
+completionRation=7%
+date=1644334232
+difficulty=3
+gamePlayTime=8960
+gameVersion=1145896965
+mapName=game/wolf/c03/c03p2
+mapNiceName=#str_chapter_c03_name
+matName=textures/guis/missionobj/c03p2/mission_c03p2_main_manhattan_obj_01_theruins
+missionName=#str_mission_c03p1_main_manhattan_name
+objectiveDesc=#str_mission_c03p2_main_manhattan_obj_01_theruins_summary
+objectiveName=#str_mission_c03p2_main_manhattan_obj_01_theruins_name

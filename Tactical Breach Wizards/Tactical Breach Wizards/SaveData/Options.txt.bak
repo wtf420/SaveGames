@@ -1,0 +1,22 @@
+# Options.txt
+# 2025-01-11 01:20:56 (+07:00)
+# v:2024-12-18-Spearmint
+
+<Camera>
+  enableScreenshake = True
+</Camera>
+<DialogSpeed>
+  Speed = 7
+  AutoAdvance = False
+  Minimize = False
+</DialogSpeed>
+<FontManager>
+  useReadableFont = False
+</FontManager>
+<SaveSlotOptions>
+  HighVisLaserSights = False
+  difficultyMode = normal
+  skipAllDialog = False
+  uiSize = recommended
+</SaveSlotOptions>
+

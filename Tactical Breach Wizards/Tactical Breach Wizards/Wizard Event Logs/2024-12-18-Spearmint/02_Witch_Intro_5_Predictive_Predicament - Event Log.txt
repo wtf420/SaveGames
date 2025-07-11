@@ -1,0 +1,25 @@
+02_Witch_Intro_5_Predictive_Predicament
+ 
+Start of player turn 1
+Zan breached - from (-11, 9) to (-10, 9)
+Jen breached - from (-12, 13) to (-12, 12)
+Jen moved - from (-12, 12) to (-11, 12)
+Jen cast Chain Bolt on RPD Tracker Phact, RPD Sharpshooter Cavness - from (-11, 12) to (-9, 14)
+RPD Tracker Phact took 2 knockback
+RPD Sharpshooter Cavness took 2 knockback
+RPD Sharpshooter Cavness hit something with 2 knockback left
+RPD Sharpshooter Cavness took 2 damage
+RPD Sharpshooter Cavness passed out
+RPD Tracker Phact hit something with 2 knockback left
+RPD Tracker Phact took 2 damage
+RPD Tracker Phact passed out
+Zan shot RPD Enforcer Shipborn on overwatch
+RPD Enforcer Shipborn armour blocked 1 damage
+RPD Enforcer Shipborn took 3 damage
+RPD Enforcer Shipborn passed out
+Player ended their turn, starting enemy turn 1
+End of enemy turn 1
+ 
+Start of player turn 2
+Jen moved - from (-11, 12) to (-11, 13)
+Jen used Use Laptop - from (-11, 13) to (-11, 14)

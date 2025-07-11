@@ -1,0 +1,306 @@
+15_The_Broadcast_3_Firewall
+ 
+Start of player turn 1
+Dall breached - from (-11, 17) to (-11, 16)
+Dall moved - from (-11, 16) to (-8, 17)
+Dall used Charge - from (-8, 17) to (-8, 20)
+Chapel Tracker Psalm took 1 damage
+Chapel Tracker Psalm took 3 knockback
+Weapons Cache took 1 knockback
+Chapel Tracker Psalm hit something with 3 knockback left
+Chapel Tracker Psalm took 3 damage
+Chapel Tracker Psalm passed out
+Weapons Cache hit something with 1 knockback left
+Weapons Cache took 1 damage
+Dall gained 1 mana for destroying a Weapons Cache
+Weapons Cache exploded
+Chapel Tracker Eridanus took 1 damage
+Chapel Tracker Eridanus took 1 knockback
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Dall Swapped with Less Lethal Pyromancer - from (-8, 20) to (-7, 14)
+Less Lethal Pyromancer used Throw Mildfire - from (-8, 20) to (-9, 22)
+Zan moved - from (-11, 15) to (-10, 17)
+Zan used 3 Bolt Burst on Chapel Absolver Messier - from (-10, 17) to (-2, 18)
+Chapel Absolver Messier took 1 damage
+Chapel Absolver Messier took 1 knockback
+Weapons Cache took 1 knockback
+Chapel Absolver Messier hit something with 1 knockback left
+Chapel Absolver Messier took 1 damage
+Chapel Absolver Messier passed out
+Weapons Cache hit something with 1 knockback left
+Weapons Cache took 1 damage
+Zan gained 1 mana for destroying a Weapons Cache
+Weapons Cache exploded
+Chapel Riot Priest Polk is no longer Invincible
+Less Lethal Pyromancer used Draw Fire - from (-8, 20) to (-8, 13)
+Less Lethal Pyromancer used Draw Fire - from (-8, 20) to (-7, 12)
+Less Lethal Pyromancer used Draw Fire - from (-8, 20) to (-9, 12)
+Less Lethal Pyromancer moved - from (-8, 20) to (-4, 20)
+Zan used Time Boost - from (-10, 17) to (-5, 20)
+Less Lethal Pyromancer used Draw Fire - from (-8, 20) to (-10, 22)
+Less Lethal Pyromancer used Draw Fire - from (-8, 20) to (-9, 21)
+Less Lethal Pyromancer used Draw Fire - from (-8, 20) to (-8, 22)
+Less Lethal Pyromancer used Draw Fire - from (-8, 20) to (-9, 12)
+Less Lethal Pyromancer moved - from (-8, 20) to (-8, 17)
+Less Lethal Pyromancer moved - from (-8, 20) to (-8, 19)
+Less Lethal Pyromancer used Incinerate on Chapel Riot Priest Polk - from (-8, 19) to (-3, 17)
+Chapel Riot Priest Polk armour blocked 1 damage
+Chapel Riot Priest Polk took 6 damage
+Chapel Riot Priest Polk is no longer Gasmasked
+Less Lethal Pyromancer used Draw Fire - from (-8, 20) to (-10, 22)
+Less Lethal Pyromancer used Draw Fire - from (-8, 20) to (-9, 21)
+Less Lethal Pyromancer used Draw Fire - from (-8, 20) to (-8, 22)
+Less Lethal Pyromancer used Draw Fire - from (-8, 20) to (-8, 13)
+Less Lethal Pyromancer used Draw Fire - from (-8, 20) to (-9, 12)
+Less Lethal Pyromancer used Draw Fire - from (-8, 20) to (-7, 12)
+Less Lethal Pyromancer moved - from (-8, 20) to (-8, 17)
+Less Lethal Pyromancer moved - from (-8, 20) to (-8, 19)
+Less Lethal Pyromancer used Incinerate on Chapel Riot Priest Polk - from (-8, 19) to (-3, 17)
+Less Lethal Pyromancer used Throw Mildfire - from (-8, 20) to (-9, 22)
+Less Lethal Pyromancer moved - from (-8, 20) to (-8, 19)
+Less Lethal Pyromancer used Incinerate on Chapel Riot Priest Polk - from (-8, 19) to (-3, 17)
+Less Lethal Pyromancer used Draw Fire - from (-8, 19) to (-10, 22)
+Less Lethal Pyromancer used Draw Fire - from (-8, 19) to (-8, 22)
+Less Lethal Pyromancer used Incinerate on Chapel Riot Priest Polk - from (-8, 19) to (-3, 17)
+Less Lethal Pyromancer used Draw Fire - from (-8, 19) to (-9, 21)
+Less Lethal Pyromancer used Draw Fire - from (-8, 19) to (-8, 13)
+Less Lethal Pyromancer used Incinerate on Chapel Riot Priest Polk - from (-8, 19) to (-3, 17)
+Zan moved - from (-11, 15) to (-10, 18)
+Zan used 3 Bolt Burst on Chapel Absolver Messier - from (-10, 18) to (-2, 18)
+Chapel Absolver Messier took 1 damage
+Chapel Absolver Messier took 1 knockback
+Weapons Cache took 1 knockback
+Chapel Absolver Messier hit something with 1 knockback left
+Chapel Absolver Messier took 1 damage
+Chapel Absolver Messier passed out
+Weapons Cache hit something with 1 knockback left
+Weapons Cache took 1 damage
+Zan gained 1 mana for destroying a Weapons Cache
+Weapons Cache exploded
+Chapel Riot Priest Polk is no longer Invincible
+Less Lethal Pyromancer used Draw Fire - from (-8, 19) to (-9, 21)
+Less Lethal Pyromancer used Draw Fire - from (-8, 19) to (-10, 22)
+Less Lethal Pyromancer used Draw Fire - from (-8, 19) to (-8, 22)
+Less Lethal Pyromancer used Incinerate on Chapel Riot Priest Polk - from (-8, 19) to (-3, 17)
+Chapel Riot Priest Polk armour blocked 1 damage
+Chapel Riot Priest Polk took 3 damage
+Chapel Riot Priest Polk is no longer Gasmasked
+Less Lethal Pyromancer used Draw Fire - from (-8, 19) to (-9, 12)
+Less Lethal Pyromancer used Draw Fire - from (-8, 19) to (-8, 13)
+Less Lethal Pyromancer used Draw Fire - from (-8, 19) to (-7, 12)
+Reactor Tracker Euler shot Chapel Tracker Eridanus - from (-8, 15) to (-6, 22)
+Chapel Tracker Eridanus took 2 damage
+Chapel Tracker Eridanus passed out
+Player ended their turn, starting enemy turn 1
+Chapel Cleanser Monoceros moved - from (-3, 22) to (-4, 21)
+Chapel Cleanser Monoceros took cover - from (-4, 21) to (-4, 21)
+Chapel Riot Priest Polk took 1 damage
+Chapel Riot Priest Polk moved - from (-3, 17) to (-6, 17)
+End of enemy turn 1
+ 
+Start of player turn 2
+Less Lethal Pyromancer used Throw Mildfire - from (-8, 19) to (-1, 17)
+Less Lethal Pyromancer used Incinerate on Chapel Cleanser Monoceros - from (-8, 19) to (-4, 21)
+Chapel Cleanser Monoceros took 3 damage
+Chapel Cleanser Monoceros passed out
+Dall moved - from (-7, 14) to (-7, 17)
+Dall used Censer Slam on Chapel Riot Priest Polk - from (-7, 17) to (-6, 17)
+Chapel Riot Priest Polk armour blocked 1 damage
+Chapel Riot Priest Polk took 2 damage
+Chapel Riot Priest Polk stability prevented 1 knockback
+Dall moved - from (-7, 14) to (-4, 17)
+Dall moved - from (-7, 14) to (-5, 18)
+Dall used Charge - from (-5, 18) to (-3, 18)
+Chapel Tracker Phase took 1 damage
+Chapel Tracker Phase took 2 knockback
+Chapel Tracker Phase was burned by a patch of Mildfire
+Chapel Tracker Phase took 1 damage
+Chapel Tracker Phase hit something with 1 knockback left
+Chapel Tracker Phase took 1 damage
+Chapel Tracker Phase passed out
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Zan used 3 Bolt Burst on Chapel Riot Priest Polk - from (-10, 18) to (-6, 17)
+Chapel Riot Priest Polk armour blocked 1 damage
+Chapel Riot Priest Polk stability prevented 1 knockback
+Less Lethal Pyromancer used Draw Fire - from (-8, 19) to (-1, 16)
+Less Lethal Pyromancer used Draw Fire - from (-8, 19) to (-2, 17)
+Zan used Time Boost - from (-10, 18) to (-7, 19)
+Less Lethal Pyromancer moved - from (-8, 19) to (-5, 17)
+Zan moved - from (-10, 18) to (-7, 20)
+Zan used Grab Intel - from (-7, 20) to (-7, 19)
+Less Lethal Pyromancer moved - from (-8, 19) to (-5, 18)
+Reactor Tracker Euler shot Chapel Riot Priest Polk - from (-8, 15) to (-6, 17)
+Chapel Riot Priest Polk armour blocked 1 damage
+Chapel Riot Priest Polk took 1 damage
+Chapel Riot Priest Polk took 1 damage
+Chapel Riot Priest Polk slammed Less Lethal Pyromancer - from (-6, 17) to (-5, 18)
+Less Lethal Pyromancer took 3 damage
+Less Lethal Pyromancer stability prevented 1 knockback
+Zan moved - from (-10, 18) to (-7, 21)
+Less Lethal Pyromancer moved - from (-8, 19) to (-5, 18)
+Less Lethal Pyromancer used Draw Fire - from (-5, 18) to (-1, 18)
+Reactor Tracker Euler shot Chapel Riot Priest Polk - from (-8, 15) to (-6, 17)
+Chapel Riot Priest Polk armour blocked 1 damage
+Chapel Riot Priest Polk took 1 damage
+Chapel Riot Priest Polk took 1 damage
+Chapel Riot Priest Polk slammed Less Lethal Pyromancer - from (-6, 17) to (-5, 18)
+Less Lethal Pyromancer took 3 damage
+Less Lethal Pyromancer stability prevented 1 knockback
+Player ended their turn, starting enemy turn 2
+Chapel Riot Priest Singeng moved - from (-3, 12) to (-3, 14)
+Chapel Tracker Roma moved - from (-3, 22) to (-2, 22)
+End of enemy turn 2
+ 
+Start of player turn 3
+Less Lethal Pyromancer moved - from (-5, 18) to (-1, 18)
+Less Lethal Pyromancer used Throw Mildfire - from (-1, 18) to (-3, 12)
+Dall used Charge - from (-3, 18) to (-3, 15)
+Chapel Riot Priest Singeng armour blocked 1 damage
+Chapel Riot Priest Singeng stability prevented 1 knockback
+Chapel Riot Priest Singeng took 2 knockback
+Chapel Riot Priest Singeng was burned by a patch of Mildfire
+Chapel Riot Priest Singeng took 1 damage
+Chapel Riot Priest Singeng was burned by a patch of Mildfire
+Chapel Riot Priest Singeng took 1 damage
+Chapel Riot Priest Singeng is no longer Gasmasked
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Chapel Shepherd Pharo shot Dall - from (-4, 13) to (-3, 15)
+Dall armour blocked 1 damage
+Dall stability prevented 1 knockback
+Zan used 3 Bolt Burst on Chapel Tracker Roma - from (-7, 21) to (-2, 22)
+Chapel Tracker Roma took 1 damage
+Chapel Tracker Roma took 1 knockback
+Chapel Tracker Roma hit something with 1 knockback left
+Chapel Tracker Roma took 1 damage
+Zan moved - from (-7, 21) to (-3, 21)
+Zan used 3 Bolt Burst on Chapel Tracker Roma - from (-3, 21) to (-2, 22)
+Chapel Tracker Roma took 1 damage
+Chapel Tracker Roma took 1 knockback
+Chapel Tracker Roma hit something with 1 knockback left
+Chapel Tracker Roma took 1 damage
+Zan used 3 Bolt Burst - from (-7, 21) to (-2, 20)
+Weapons Cache took 1 damage
+Zan gained 1 mana for destroying a Weapons Cache
+Weapons Cache took 1 knockback
+Weapons Cache exploded
+Zan moved - from (-7, 21) to (-3, 21)
+Zan used 3 Bolt Burst on Chapel Tracker Roma - from (-3, 21) to (-2, 22)
+Chapel Tracker Roma took 1 damage
+Chapel Tracker Roma took 1 knockback
+Chapel Tracker Roma hit something with 1 knockback left
+Chapel Tracker Roma took 1 damage
+Less Lethal Pyromancer moved - from (-5, 18) to (-2, 18)
+Less Lethal Pyromancer used Throw Mildfire on Chapel Riot Priest Singeng - from (-2, 18) to (-3, 14)
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Less Lethal Pyromancer used Throw Mildfire - from (-2, 18) to (-3, 13)
+Less Lethal Pyromancer used Draw Fire - from (-2, 18) to (-2, 13)
+Less Lethal Pyromancer used Draw Fire on Chapel Riot Priest Singeng - from (-2, 18) to (-3, 14)
+Less Lethal Pyromancer used Draw Fire - from (-2, 18) to (-3, 13)
+Dall used Charge - from (-3, 18) to (-3, 15)
+Chapel Riot Priest Singeng armour blocked 1 damage
+Chapel Riot Priest Singeng stability prevented 1 knockback
+Chapel Riot Priest Singeng took 2 knockback
+Chapel Riot Priest Singeng was protected from Mildfire damage
+Chapel Riot Priest Singeng was protected from Mildfire damage
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Chapel Shepherd Pharo took 1 damage
+Chapel Shepherd Pharo shot Dall - from (-4, 13) to (-3, 15)
+Dall armour blocked 1 damage
+Dall stability prevented 1 knockback
+Less Lethal Pyromancer used Draw Fire - from (-2, 18) to (-3, 14)
+Less Lethal Pyromancer used Incinerate on Chapel Shepherd Pharo - from (-2, 18) to (-4, 13)
+Chapel Shepherd Pharo armour blocked 1 damage
+Chapel Shepherd Pharo took 5 damage
+Chapel Shepherd Pharo passed out
+Less Lethal Pyromancer used Incinerate on Chapel Riot Priest Singeng - from (-2, 18) to (-3, 12)
+Chapel Riot Priest Singeng armour blocked 1 damage
+Chapel Riot Priest Singeng took 4 damage
+Chapel Riot Priest Singeng is no longer Gasmasked
+Less Lethal Pyromancer used Incinerate on Chapel Shepherd Pharo - from (-2, 18) to (-4, 13)
+Chapel Shepherd Pharo armour blocked 1 damage
+Chapel Shepherd Pharo took 4 damage
+Chapel Shepherd Pharo passed out
+Zan used Time Boost - from (-3, 21) to (-3, 21)
+Dall used Grab Intel - from (-3, 15) to (-4, 15)
+Reactor Tracker Euler shot Chapel Riot Priest Polk - from (-8, 15) to (-6, 17)
+Chapel Riot Priest Polk armour blocked 1 damage
+Chapel Riot Priest Polk took 1 damage
+Chapel Riot Priest Polk took 1 damage
+Chapel Riot Priest Polk passed out
+Chapel Riot Priest Polk slammed Reactor Tracker Euler - from (-7, 16) to (-8, 15)
+Chapel Riot Priest Singeng was protected from Mildfire damage
+Chapel Riot Priest Singeng was protected from Mildfire damage
+Chapel Riot Priest Singeng took 1 damage
+Chapel Riot Priest Singeng slammed Dall - from (-3, 14) to (-3, 15)
+Dall armour blocked 1 damage
+Dall took 2 damage
+Dall gained 1 mana from incoming damage
+Dall stability prevented 1 knockback
+Chapel Tracker Roma shot Zan - from (-2, 22) to (-3, 21)
+Zan took 2 damage
+Player ended their turn, starting enemy turn 3
+Zan shot Chapel Shepherd Kuranto on overwatch
+Chapel Shepherd Kuranto armour blocked 1 damage
+Chapel Shepherd Kuranto took 3 damage
+Reactor Tracker Euler moved - from (-8, 15) to (-8, 14)
+Chapel Riot Priest Singeng took 1 damage
+Chapel Riot Priest Singeng is no longer Gasmasked
+Chapel Riot Priest Singeng moved - from (-3, 14) to (-2, 15)
+Chapel Riot Priest Singeng was protected from Mildfire damage
+End of enemy turn 3
+ 
+Start of player turn 4
+Zan moved - from (-3, 21) to (-7, 21)
+Zan used 3 Bolt Burst - from (-7, 21) to (-2, 20)
+Weapons Cache took 1 damage
+Zan gained 1 mana for destroying a Weapons Cache
+Weapons Cache took 1 knockback
+Weapons Cache exploded
+Chapel Shepherd Kuranto armour blocked 1 damage
+Chapel Shepherd Kuranto took 1 knockback
+Less Lethal Pyromancer used Throw Mildfire on Chapel Shepherd Kuranto - from (-2, 18) to (-3, 22)
+Zan took a free shot at Chapel Shepherd Kuranto with Supporting Fire.
+Zan used 3 Bolt Burst on Chapel Shepherd Kuranto - from (-7, 21) to (-3, 22)
+Chapel Shepherd Kuranto armour blocked 1 damage
+Chapel Shepherd Kuranto took 1 knockback
+Chapel Tracker Roma took 1 knockback
+Chapel Shepherd Kuranto hit something with 1 knockback left
+Chapel Shepherd Kuranto took 1 damage
+Chapel Shepherd Kuranto was protected from Mildfire damage
+Chapel Tracker Roma hit something with 1 knockback left
+Chapel Tracker Roma took 1 damage
+Chapel Tracker Roma passed out
+Chapel Tracker Roma was burned by a patch of Mildfire
+Dall moved - from (-3, 15) to (-2, 14)
+Dall used Censer Slam on Chapel Riot Priest Singeng - from (-3, 15) to (-2, 15)
+Chapel Riot Priest Singeng armour blocked 1 damage
+Chapel Riot Priest Singeng took 2 damage
+Chapel Riot Priest Singeng stability prevented 1 knockback
+Chapel Shepherd Kuranto took 1 damage
+Chapel Shepherd Kuranto passed out
+Chapel Shepherd Kuranto shot Dall - from (-3, 22) to (-3, 15)
+Dall armour blocked 1 damage
+Dall stability prevented 1 knockback
+Less Lethal Pyromancer used Draw Fire - from (-2, 18) to (-3, 21)
+Less Lethal Pyromancer used Draw Fire - from (-2, 18) to (-2, 22)
+Less Lethal Pyromancer used Draw Fire - from (-2, 18) to (-3, 14)
+Less Lethal Pyromancer used Draw Fire - from (-2, 18) to (-4, 13)
+Less Lethal Pyromancer used Incinerate on Chapel Riot Priest Singeng - from (-2, 18) to (-2, 15)
+Chapel Riot Priest Singeng armour blocked 1 damage
+Chapel Riot Priest Singeng took 3 damage
+Dall used Throw Riot Block - from (-3, 15) to (-1, 15)
+Dall used Censer Slam on Chapel Riot Priest Singeng - from (-3, 15) to (-2, 15)
+Chapel Riot Priest Singeng armour blocked 1 damage
+Chapel Riot Priest Singeng took 2 damage
+Chapel Riot Priest Singeng stability prevented 1 knockback
+Chapel Shepherd Kuranto took 1 damage
+Chapel Shepherd Kuranto passed out
+Chapel Shepherd Kuranto shot Dall - from (-3, 22) to (-3, 15)
+Dall armour blocked 1 damage
+Dall stability prevented 1 knockback
+Less Lethal Pyromancer used Incinerate on Chapel Riot Priest Singeng - from (-2, 18) to (-2, 15)
+Chapel Riot Priest Singeng armour blocked 1 damage
+Chapel Riot Priest Singeng took 3 damage
+Chapel Riot Priest Singeng took 1 damage
+Chapel Riot Priest Singeng passed out
+Chapel Riot Priest Singeng slammed Dall - from (-2, 15) to (-3, 15)

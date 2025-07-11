@@ -1,0 +1,304 @@
+15_The_Broadcast_1_Heavy_Backup
+ 
+Start of player turn 1
+Dall breached - from (-15, 31) to (-15, 30)
+Dall moved - from (-15, 30) to (-12, 30)
+Dall used Use Laptop - from (-12, 30) to (-11, 30)
+Zan moved - from (-15, 29) to (-11, 29)
+Zan used 3 Bolt Burst - from (-11, 29) to (-13, 33)
+Weapons Cache took 1 damage
+Zan gained 1 mana for destroying a Weapons Cache
+Weapons Cache took 1 knockback
+Weapons Cache hit something with 1 knockback left
+Weapons Cache took 1 damage
+Weapons Cache exploded
+Chapel Tracker Lafoon took 1 damage
+Chapel Tracker Lafoon took 1 knockback
+Chapel Tracker Lafoon hit something with 1 knockback left
+Chapel Tracker Lafoon took 1 damage
+Zan moved - from (-15, 29) to (-12, 31)
+Zan used 3 Bolt Burst on Chapel Tracker Lafoon - from (-12, 31) to (-14, 33)
+Chapel Tracker Lafoon took 1 damage
+Chapel Tracker Lafoon took 1 knockback
+Chapel Tracker Lafoon hit a Electrified Wall
+Chapel Tracker Lafoon took 2 damage
+Chapel Tracker Lafoon passed out
+Chapel Tracker Lafoon hit something with 1 knockback left
+Chapel Shepherd Gardener shot Zan - from (-5, 27) to (-12, 31)
+Zan took 1 damage
+Zan took 1 knockback
+Zan hit something with 1 knockback left
+Zan took 1 damage
+Zan used 3 Bolt Burst - from (-12, 31) to (-13, 33)
+Weapons Cache took 1 damage
+Zan gained 1 mana for destroying a Weapons Cache
+Weapons Cache took 1 knockback
+Weapons Cache hit something with 1 knockback left
+Weapons Cache took 1 damage
+Weapons Cache exploded
+Chapel Tracker Lafoon took 1 damage
+Chapel Tracker Lafoon took 1 knockback
+Chapel Tracker Lafoon hit something with 1 knockback left
+Chapel Tracker Lafoon took 1 damage
+Zan moved - from (-15, 29) to (-11, 29)
+Zan used 3 Bolt Burst - from (-11, 29) to (-13, 33)
+Weapons Cache took 1 damage
+Zan gained 1 mana for destroying a Weapons Cache
+Weapons Cache took 1 knockback
+Weapons Cache hit something with 1 knockback left
+Weapons Cache took 1 damage
+Weapons Cache exploded
+Chapel Tracker Lafoon took 1 damage
+Chapel Tracker Lafoon took 1 knockback
+Chapel Tracker Lafoon hit something with 1 knockback left
+Chapel Tracker Lafoon took 1 damage
+Reactor Tracker Swanze shot Chapel Tracker Rabasse - from (-6, 23) to (-3, 29)
+Chapel Tracker Rabasse took 2 damage
+Chapel Shepherd Gardener shot Reactor Tracker Swanze - from (-5, 27) to (-6, 23)
+Reactor Tracker Swanze took 1 damage
+Reactor Tracker Swanze took 1 knockback
+Reactor Tracker Swanze hit something with 1 knockback left
+Reactor Tracker Swanze took 1 damage
+Reactor Tracker Truth shot Chapel Absolver Euler - from (-9, 23) to (-9, 25)
+Chapel Absolver Euler took 2 damage
+Chapel Absolver Euler passed out
+Chapel Tracker Regor is no longer Invincible
+Chapel Tracker Regor shot Zan - from (-9, 28) to (-11, 29)
+Zan took 2 damage
+Chapel Tracker Lafoon shot Dall - from (-14, 33) to (-12, 30)
+Dall armour blocked 1 damage
+Dall took 1 damage
+Dall gained 1 mana from incoming damage
+Chapel Tracker Rabasse shot Reactor Tracker Swanze - from (-3, 29) to (-6, 23)
+Reactor Tracker Swanze took 2 damage
+Reactor Tracker Swanze passed out
+Zan moved - from (-15, 29) to (-14, 30)
+Dall moved - from (-15, 30) to (-14, 30)
+Dall used Charge - from (-14, 30) to (-14, 32)
+Chapel Tracker Lafoon took 1 damage
+Chapel Tracker Lafoon took 2 knockback
+Chapel Tracker Lafoon hit a Electrified Wall
+Chapel Tracker Lafoon took 2 damage
+Chapel Tracker Lafoon passed out
+Chapel Tracker Lafoon hit something with 2 knockback left
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Chapel Shepherd Gardener shot Dall - from (-5, 27) to (-14, 32)
+Dall armour blocked 1 damage
+Dall stability prevented 1 knockback
+Zan moved - from (-15, 29) to (-12, 30)
+Zan moved - from (-15, 29) to (-12, 30)
+Zan used Use Laptop - from (-12, 30) to (-11, 30)
+Dall moved - from (-15, 30) to (-14, 30)
+Dall used Charge - from (-14, 30) to (-14, 32)
+Chapel Tracker Lafoon took 1 damage
+Chapel Tracker Lafoon took 2 knockback
+Chapel Tracker Lafoon hit a Electrified Wall
+Chapel Tracker Lafoon took 2 damage
+Chapel Tracker Lafoon passed out
+Chapel Tracker Lafoon hit something with 2 knockback left
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Chapel Shepherd Gardener shot Dall - from (-5, 27) to (-14, 32)
+Dall armour blocked 1 damage
+Dall stability prevented 1 knockback
+Zan used 3 Bolt Burst on Chapel Tracker Rabasse - from (-12, 30) to (-3, 29)
+Chapel Tracker Rabasse took 1 damage
+Chapel Tracker Rabasse took 1 knockback
+Chapel Tracker Rabasse was defenestrated - from (-3, 29) to (-3, 29)
+Chapel Tracker Rabasse took 2 damage
+Chapel Tracker Rabasse passed out
+Chapel Shepherd Gardener shot Zan - from (-5, 27) to (-12, 30)
+Zan took 1 damage
+Zan took 1 knockback
+Zan hit something with 1 knockback left
+Zan took 1 damage
+Zan moved - from (-15, 29) to (-12, 30)
+Dall breached - from (-15, 31) to (-15, 30)
+Dall moved - from (-15, 30) to (-12, 30)
+Dall used Use Laptop - from (-12, 30) to (-11, 30)
+Zan moved - from (-15, 29) to (-13, 32)
+Zan used 3 Bolt Burst on Chapel Tracker Lafoon - from (-13, 32) to (-14, 33)
+Chapel Tracker Lafoon took 1 damage
+Chapel Tracker Lafoon took 1 knockback
+Chapel Tracker Lafoon hit a Electrified Wall
+Chapel Tracker Lafoon took 2 damage
+Chapel Tracker Lafoon passed out
+Chapel Tracker Lafoon hit something with 1 knockback left
+Zan took cover - from (-13, 32) to (-13, 32)
+Zan stood up - from (-13, 32) to (-13, 32)
+Zan used 3 Bolt Burst on Chapel Tracker Rabasse - from (-13, 32) to (-3, 29)
+Chapel Tracker Rabasse took 1 damage
+Chapel Tracker Rabasse took 1 knockback
+Chapel Tracker Rabasse was defenestrated - from (-3, 29) to (-3, 29)
+Chapel Tracker Rabasse took 2 damage
+Chapel Tracker Rabasse passed out
+Chapel Shepherd Gardener shot Zan - from (-5, 27) to (-13, 32)
+Zan took 1 damage
+Zan took 1 knockback
+Chapel Tracker Lafoon took 1 knockback
+Zan hit something with 1 knockback left
+Zan took 1 damage
+Chapel Tracker Lafoon hit a Electrified Wall
+Chapel Tracker Lafoon took 2 damage
+Chapel Tracker Lafoon is Stunned for 1 turn
+Chapel Tracker Lafoon hit something with 1 knockback left
+Chapel Tracker Lafoon took 1 damage
+Chapel Tracker Lafoon passed out
+Zan took cover - from (-13, 32) to (-13, 32)
+Zan stood up - from (-13, 32) to (-13, 32)
+Zan  - from (-13, 32) to (-11, 33)
+False Prophet sealed a hostile entry point - from (-11, 33) to (-11, 33)
+Zan moved - from (-15, 29) to (-12, 31)
+Zan used 3 Bolt Burst on Chapel Tracker Rabasse - from (-12, 31) to (-3, 29)
+Chapel Tracker Rabasse took 1 damage
+Chapel Tracker Rabasse took 1 knockback
+Chapel Tracker Rabasse was defenestrated - from (-3, 29) to (-3, 29)
+Chapel Tracker Rabasse took 2 damage
+Chapel Tracker Rabasse passed out
+Chapel Shepherd Gardener shot Zan - from (-5, 27) to (-12, 31)
+Zan took 1 damage
+Zan took 1 knockback
+Zan hit something with 1 knockback left
+Zan took 1 damage
+Zan moved - from (-15, 29) to (-14, 32)
+Zan moved - from (-15, 29) to (-14, 31)
+Zan used 3 Bolt Burst on Chapel Tracker Rabasse - from (-14, 31) to (-3, 29)
+Chapel Tracker Rabasse took 1 damage
+Chapel Tracker Rabasse took 1 knockback
+Chapel Tracker Rabasse was defenestrated - from (-3, 29) to (-3, 29)
+Chapel Tracker Rabasse took 2 damage
+Chapel Tracker Rabasse passed out
+Chapel Shepherd Gardener shot Zan - from (-5, 27) to (-14, 31)
+Dall armour blocked 1 damage
+Dall stability prevented 1 knockback
+Zan  - from (-14, 31) to (-11, 33)
+False Prophet sealed a hostile entry point - from (-11, 33) to (-11, 33)
+Zan took cover - from (-14, 31) to (-14, 31)
+Zan moved - from (-15, 29) to (-13, 32)
+Zan used 3 Bolt Burst on Chapel Tracker Rabasse - from (-13, 32) to (-3, 29)
+Chapel Tracker Rabasse took 1 damage
+Chapel Tracker Rabasse took 1 knockback
+Chapel Tracker Rabasse was defenestrated - from (-3, 29) to (-3, 29)
+Chapel Tracker Rabasse took 2 damage
+Chapel Tracker Rabasse passed out
+Chapel Shepherd Gardener shot Zan - from (-5, 27) to (-13, 32)
+Zan took 1 damage
+Zan took 1 knockback
+Chapel Tracker Lafoon took 1 knockback
+Zan hit something with 1 knockback left
+Zan took 1 damage
+Chapel Tracker Lafoon hit a Electrified Wall
+Chapel Tracker Lafoon took 2 damage
+Chapel Tracker Lafoon is Stunned for 1 turn
+Chapel Tracker Lafoon hit something with 1 knockback left
+Chapel Tracker Lafoon took 1 damage
+Chapel Tracker Lafoon passed out
+Zan  - from (-13, 32) to (-11, 33)
+False Prophet sealed a hostile entry point - from (-11, 33) to (-11, 33)
+Zan took cover - from (-13, 32) to (-13, 32)
+Reactor Tracker Swanze shot Chapel Shepherd Gardener - from (-6, 23) to (-5, 27)
+Chapel Shepherd Gardener armour blocked 1 damage
+Chapel Shepherd Gardener took 1 damage
+Reactor Tracker Truth shot Chapel Absolver Euler - from (-9, 23) to (-9, 25)
+Chapel Absolver Euler took 2 damage
+Chapel Absolver Euler passed out
+Chapel Tracker Regor is no longer Invincible
+Chapel Tracker Regor shot False Prophet - from (-9, 28) to (-11, 33)
+False Prophet took 2 damage
+False Prophet passed out
+Player ended their turn, starting enemy turn 1
+Reactor Tracker Swanze moved - from (-6, 23) to (-6, 24)
+Reactor Tracker Truth moved - from (-9, 23) to (-9, 24)
+Reactor Heavy Gunner Polk moved - from (-7, 23) to (-6, 25)
+Reactor Heavy Gunner Polk launched a grenade - from (-6, 25) to (-6, 33)
+Reactor Heavy Gunner Elm moved - from (-10, 23) to (-9, 25)
+Reactor Heavy Gunner Elm launched a grenade - from (-9, 25) to (-10, 27)
+End of enemy turn 1
+ 
+Start of player turn 2
+Dall moved - from (-12, 30) to (-9, 29)
+Dall used Charge - from (-9, 29) to (-9, 32)
+Weapons Cache took 1 damage
+Dall gained 1 mana for destroying a Weapons Cache
+Weapons Cache took 3 knockback
+Weapons Cache hit something with 3 knockback left
+Weapons Cache took 3 damage
+Weapons Cache exploded
+Dall armour blocked 1 damage
+Dall stability prevented 1 knockback
+Dall Swapped with Zan - from (-9, 32) to (-13, 32)
+Zan  - from (-9, 32) to (-6, 33)
+False Prophet sealed a hostile entry point - from (-6, 33) to (-6, 33)
+Zan used 3 Bolt Burst on Chapel Tracker Regor - from (-9, 32) to (-9, 28)
+Chapel Tracker Regor took 1 damage
+Chapel Tracker Regor took 1 knockback
+Zan moved - from (-9, 32) to (-8, 32)
+Zan took cover - from (-8, 32) to (-8, 32)
+Zan moved - from (-9, 32) to (-11, 32)
+Zan took cover - from (-11, 32) to (-11, 32)
+Zan took cover - from (-11, 32) to (-11, 32)
+Zan used Time Boost on Dall - from (-9, 32) to (-13, 32)
+Dall used Censer Slam - from (-13, 32) to (-13, 33)
+Weapons Cache took 3 damage
+Dall gained 1 mana for destroying a Weapons Cache
+Weapons Cache took 1 knockback
+Weapons Cache hit something with 1 knockback left
+Weapons Cache took 1 damage
+Weapons Cache exploded
+Dall armour blocked 1 damage
+Dall stability prevented 1 knockback
+Zan moved - from (-9, 32) to (-11, 32)
+Zan took cover - from (-11, 32) to (-11, 32)
+Zan moved - from (-9, 32) to (-12, 31)
+Zan used 3 Bolt Burst on Chapel Tracker Regor - from (-12, 31) to (-9, 28)
+Chapel Tracker Regor took 1 damage
+Chapel Tracker Regor took 1 knockback
+Chapel Tracker Regor hit something with 1 knockback left
+Chapel Tracker Regor took 1 damage
+Zan used 3 Bolt Burst on Chapel Tracker Regor - from (-12, 31) to (-9, 28)
+Chapel Tracker Regor took 1 damage
+Chapel Tracker Regor took 1 knockback
+Chapel Tracker Regor hit something with 1 knockback left
+Chapel Tracker Regor took 1 damage
+Zan took cover - from (-12, 31) to (-12, 31)
+Chapel Tracker Banks took 2 damage
+Chapel Tracker Banks took 1 knockback
+False Prophet took 2 damage
+False Prophet passed out
+Chapel Tracker Regor took 2 damage
+Chapel Tracker Regor passed out
+Chapel Tracker Regor took 1 knockback
+Reactor Tracker Swanze shot Chapel Shepherd Gardener - from (-6, 24) to (-5, 27)
+Chapel Shepherd Gardener armour blocked 1 damage
+Chapel Shepherd Gardener took 1 damage
+Player ended their turn, starting enemy turn 2
+Reactor Heavy Gunner Polk moved - from (-6, 25) to (-6, 26)
+Reactor Heavy Gunner Polk launched a grenade - from (-6, 26) to (-7, 33)
+Reactor Heavy Gunner Elm moved - from (-9, 25) to (-6, 25)
+Reactor Heavy Gunner Elm launched a grenade - from (-6, 25) to (-5, 28)
+End of enemy turn 2
+ 
+Start of player turn 3
+Zan moved - from (-12, 31) to (-9, 28)
+Dall Swapped with Zan - from (-13, 32) to (-9, 28)
+Dall used Charge - from (-9, 28) to (-8, 28)
+Weapons Cache took 1 damage
+Dall gained 1 mana for destroying a Weapons Cache
+Weapons Cache took 1 knockback
+Weapons Cache exploded
+Chapel Shepherd Gardener armour blocked 1 damage
+Chapel Shepherd Gardener took 1 knockback
+Zan used 3 Bolt Burst on Chapel Tracker Banks - from (-13, 32) to (-8, 33)
+Chapel Tracker Banks took 1 damage
+Chapel Tracker Banks passed out
+Chapel Tracker Banks took 1 knockback
+Chapel Shepherd Gardener shot Zan - from (-4, 26) to (-13, 32)
+Zan took 1 damage
+Zan took 1 knockback
+Dall moved - from (-8, 28) to (-4, 30)
+Reactor Tracker Swanze shot Chapel Shepherd Gardener - from (-6, 24) to (-4, 26)
+Chapel Shepherd Gardener armour blocked 1 damage
+Chapel Shepherd Gardener took 1 damage
+Reactor Heavy Gunner Polk used Saturating Fire on Chapel Shepherd Gardener - from (-6, 26) to (-4, 26)
+Chapel Shepherd Gardener armour blocked 1 damage
+Chapel Shepherd Gardener took 3 damage
+Chapel Shepherd Gardener passed out

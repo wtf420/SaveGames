@@ -1,0 +1,123 @@
+20_Lucid_Dream_Banks_3_The_Kill_Zone
+ 
+Start of player turn 1
+Banks breached - from (-6, 13) to (-5, 13)
+Banks moved - from (-5, 13) to (-5, 18)
+Reactor Sniper Starspelt shot Banks on overwatch
+Banks took 4 damage
+Banks passed out
+Banks moved - from (-5, 13) to (-5, 14)
+Reactor Sniper Starspelt shot Banks on overwatch
+Banks took 4 damage
+Banks passed out
+Banks used Sedative Cocktail on Reactor Sniper Starspelt - from (-4, 13) to (-2, 14)
+Reactor Sniper Starspelt took 1 knockback
+Reactor Sniper Starspelt is Sedated
+Reactor Sniper Starspelt was defenestrated - from (-2, 14) to (-2, 14)
+Reactor Sniper Starspelt took 3 damage
+Reactor Sniper Starspelt passed out
+Banks moved - from (-5, 13) to (-4, 14)
+Banks used Sedative Cocktail on Reactor Sniper Weblace - from (-4, 14) to (-8, 15)
+Reactor Sniper Weblace took 1 knockback
+Reactor Sniper Weblace is Sedated
+Reactor Sniper Weblace hit something with 1 knockback left
+Reactor Sniper Weblace took 1 damage
+Banks moved - from (-5, 13) to (-2, 14)
+Banks used Sedative Cocktail on Reactor Sniper Starspelt - from (-4, 13) to (-2, 14)
+Reactor Sniper Starspelt took 1 knockback
+Reactor Sniper Starspelt is Sedated
+Reactor Sniper Starspelt was defenestrated - from (-2, 14) to (-2, 14)
+Reactor Sniper Starspelt took 3 damage
+Reactor Sniper Starspelt passed out
+Banks moved - from (-5, 13) to (-4, 14)
+Banks used Death's Door on Reactor Sniper Weblace - from (-4, 14) to (-8, 15)
+Banks used Sedative Cocktail - from (-4, 14) to (-7, 15)
+Reactor Sniper Weblace is Sedated
+Banks used Sedative Cocktail on Reactor Sniper Weblace - from (-4, 14) to (-8, 15)
+Reactor Sniper Weblace took 1 knockback
+Reactor Sniper Weblace is Sedated
+Reactor Sniper Weblace fell into Death's Door
+Reactor Sniper Weblace took 3 damage
+Reactor Sniper Weblace passed out
+Reactor Sniper Weblace hit something with 1 knockback left
+Banks moved - from (-4, 13) to (-6, 15)
+Player ended their turn, starting enemy turn 1
+End of enemy turn 1
+ 
+Start of player turn 2
+Banks used Death's Door - from (-6, 15) to (-1, 16)
+Banks used Sedative Cocktail on Reactor Sniper Marble - from (-6, 15) to (-2, 16)
+Reactor Sniper Marble took 1 knockback
+Reactor Sniper Marble is Sedated
+Reactor Sniper Marble fell into Death's Door
+Reactor Sniper Marble took 3 damage
+Reactor Sniper Marble passed out
+Reactor Sniper Marble hit something with 1 knockback left
+Banks used Death's Door on Reactor Sniper Marble - from (-6, 15) to (-2, 16)
+Banks used Sedative Cocktail on Reactor Sniper Marble - from (-6, 15) to (-2, 16)
+Reactor Sniper Marble took 1 knockback
+Reactor Sniper Marble is Sedated
+Reactor Sniper Marble fell into Death's Door
+Reactor Sniper Marble took 3 damage
+Reactor Sniper Marble passed out
+Reactor Sniper Marble hit something with 1 knockback left
+Banks used Transference on Reactor Sniper Spadaccini - from (-4, 14) to (-8, 17)
+Banks moved - from (-4, 14) to (-4, 17)
+Reactor Sniper Spadaccini shot Banks on overwatch
+Damage to Banks was transferred to Reactor Sniper Spadaccini
+Reactor Sniper Spadaccini took 4 damage
+Reactor Sniper Spadaccini passed out
+Banks moved - from (-4, 14) to (-6, 17)
+Reactor Sniper Spadaccini shot Banks on overwatch
+Damage to Banks was transferred to Reactor Sniper Spadaccini
+Reactor Sniper Spadaccini took 4 damage
+Reactor Sniper Spadaccini passed out
+Banks used Sedative Cocktail on Reactor Sniper Vietzen - from (-6, 17) to (-2, 18)
+Reactor Sniper Vietzen took 1 knockback
+Reactor Sniper Vietzen is Sedated
+Reactor Sniper Vietzen was defenestrated - from (-2, 18) to (-2, 18)
+Reactor Sniper Vietzen took 3 damage
+Reactor Sniper Vietzen passed out
+Banks moved - from (-6, 15) to (-4, 18)
+Player ended their turn, starting enemy turn 2
+End of enemy turn 2
+ 
+Start of player turn 3
+Banks moved - from (-4, 18) to (-5, 20)
+Reactor Sniper Ceylon shot Banks on overwatch
+Banks took 4 damage
+Banks passed out
+Banks used Resurrect - from (-6, 17) to (-5, 19)
+Banks moved - from (-6, 17) to (-5, 20)
+Reactor Sniper Benezech shot Banks on overwatch
+Banks took 4 damage
+Banks passed out
+Banks used Resurrect - from (-5, 19) to (-5, 20)
+Banks used Sedative Cocktail on Reactor Sniper Ceylon - from (-5, 19) to (-8, 19)
+Reactor Sniper Ceylon took 1 knockback
+Reactor Sniper Ceylon is Sedated
+Reactor Sniper Ceylon hit something with 1 knockback left
+Reactor Sniper Ceylon took 1 damage
+Banks used Sedative Cocktail on Reactor Sniper Ceylon - from (-5, 20) to (-8, 19)
+Reactor Sniper Ceylon took 2 knockback
+Reactor Sniper Ceylon is Sedated
+Reactor Sniper Ceylon hit something with 2 knockback left
+Reactor Sniper Ceylon took 2 damage
+Reactor Sniper Ceylon passed out
+Player ended their turn, starting enemy turn 3
+End of enemy turn 3
+ 
+Start of player turn 4
+Banks moved - from (-5, 19) to (-6, 22)
+Banks used Sedative Cocktail on Reactor Sniper Benezech - from (-6, 22) to (-2, 20)
+Reactor Sniper Benezech took 1 knockback
+Reactor Sniper Benezech is Sedated
+Reactor Sniper Benezech hit something with 1 knockback left
+Reactor Sniper Benezech took 1 damage
+Banks used Sedative Cocktail on Reactor Sniper Benezech - from (-5, 20) to (-2, 20)
+Reactor Sniper Benezech took 2 knockback
+Reactor Sniper Benezech is Sedated
+Reactor Sniper Benezech hit something with 2 knockback left
+Reactor Sniper Benezech took 2 damage
+Reactor Sniper Benezech passed out
+Banks moved - from (-5, 20) to (-4, 22)

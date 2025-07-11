@@ -1,0 +1,64 @@
+01_Prologue_3_Foresight
+ 
+Start of player turn 1
+Zan breached - from (1, 8) to (2, 8)
+Liv Kennedy cast Execute on Mafia Great Oak Glass - from (4, 13) to (0, 12)
+Mafia Great Oak Glass took 10 damage
+Mafia Great Oak Glass passed out
+Mafia Great Oak Glass took 2 knockback
+Mafia Great Oak Glass hit something with 2 knockback left
+Liv Kennedy cast Execute on Mafia Sprig Caron - from (4, 13) to (2, 14)
+Mafia Sprig Caron took 10 damage
+Mafia Sprig Caron passed out
+Mafia Sprig Caron took 2 knockback
+Mafia Sprig Caron hit something with 2 knockback left
+Liv Kennedy took cover - from (4, 13) to (4, 13)
+Zan moved - from (2, 8) to (1, 11)
+Zan used 3 Bolt Burst on Mafia Sprig Yetta - from (1, 11) to (4, 10)
+Mafia Sprig Yetta took 1 damage
+Mafia Sprig Yetta took 1 knockback
+Mafia Sprig Yetta was defenestrated - from (4, 10) to (4, 10)
+Mafia Sprig Yetta took 1 damage
+Mafia Sprig Yetta passed out
+Zan used Use Laptop - from (1, 11) to (0, 11)
+Player ended their turn, starting enemy turn 1
+End of enemy turn 1
+ 
+Start of player turn 2
+Zan moved - from (1, 11) to (3, 12)
+Zan used 3 Bolt Burst on Mafia Shrublord Roma - from (3, 12) to (2, 13)
+Mafia Shrublord Roma took 1 damage
+Mafia Shrublord Roma took 1 knockback
+Mafia Shrublord Roma shot Zan - from (1, 14) to (3, 12)
+Zan took 1 damage
+Zan took 1 knockback
+Zan hit something with 1 knockback left
+Zan took 1 damage
+Mafia Shrublord Roma shot Zan - from (1, 14) to (3, 12)
+Zan took 1 damage
+Zan took 1 knockback
+Zan hit something with 1 knockback left
+Zan took 1 damage
+Mafia Shrublord Roma shot Liv Kennedy - from (2, 13) to (4, 13)
+Liv Kennedy took 1 damage
+Liv Kennedy took 1 knockback
+Liv Kennedy was defenestrated - from (4, 13) to (4, 13)
+Liv Kennedy took 3 damage
+Liv Kennedy passed out
+Zan moved - from (1, 11) to (3, 12)
+Mafia Shrublord Roma shot Zan - from (2, 13) to (3, 12)
+Zan took 1 damage
+Zan took 1 knockback
+Zan hit something with 1 knockback left
+Zan took 1 damage
+Liv Kennedy cast Execute on Mafia Shrublord Roma - from (4, 13) to (2, 13)
+Mafia Shrublord Roma took 10 damage
+Mafia Shrublord Roma passed out
+Mafia Shrublord Roma took 2 knockback
+Player ended their turn, starting enemy turn 2
+End of enemy turn 2
+ 
+Start of player turn 3
+Zan moved - from (3, 12) to (1, 11)
+Zan took cover - from (1, 11) to (1, 11)
+Zan stood up - from (1, 11) to (1, 11)

@@ -1,0 +1,237 @@
+23_Fort_Osprey_4_Fortified
+ 
+Start of player turn 1
+Jen breached - from (-23, -6) to (-24, -6)
+Banks moved - from (-22, -6) to (-22, -8)
+Banks moved - from (-22, -6) to (-22, -8)
+Banks took cover - from (-22, -8) to (-22, -8)
+Banks stood up - from (-22, -8) to (-22, -8)
+Banks used Sedative Cocktail - from (-22, -8) to (-22, -15)
+Reactor Heavy Gunner Lagrange is Sedated
+Reactor Superheavy Ossard is Sedated
+Jen moved - from (-24, -6) to (-25, -7)
+Jen used Deactivate Shield Generator - from (-25, -7) to (-26, -7)
+Jen cast Static Blast on Reactor Heavy Gunner Cassiopeia - from (-25, -7) to (-26, -16)
+Reactor Heavy Gunner Cassiopeia stability prevented 1 knockback
+Reactor Heavy Gunner Cassiopeia took 1 knockback
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Jen cast Static Blast on Reactor Heavy Gunner Cassiopeia - from (-25, -7) to (-26, -16)
+Reactor Heavy Gunner Cassiopeia stability prevented 1 knockback
+Reactor Heavy Gunner Cassiopeia took 1 knockback
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Jen moved - from (-25, -7) to (-25, -8)
+Jen used Deactivate Shield Generator - from (-25, -7) to (-26, -7)
+Jen moved - from (-25, -7) to (-25, -8)
+Jen took cover - from (-25, -8) to (-25, -8)
+Banks took cover - from (-22, -8) to (-22, -8)
+Dall breached - from (-18, -6) to (-19, -6)
+Rion bit on Reactor Heavy Gunner Lagrange - from (-21, -16) to (-22, -16)
+Reactor Heavy Gunner Lagrange shield soaked up 1 damage
+Rion moved - from (-21, -16) to (-18, -18)
+Rion used Change Form - from (-18, -18) to (-18, -18)
+Rion used Deactivate Shield Generator - from (-18, -18) to (-18, -19)
+Rion cast Impaling Vine on Reactor Heavy Gunner Cassiopeia - from (-18, -18) to (-26, -17)
+Reactor Heavy Gunner Cassiopeia shield soaked up 1 damage
+Reactor Heavy Gunner Cassiopeia stability prevented 1 knockback
+Reactor Heavy Gunner Cassiopeia took 2 knockback
+Reactor Heavy Gunner Cassiopeia hit something with 2 knockback left
+Reactor Heavy Gunner Cassiopeia shield soaked up 2 damage
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Jen moved - from (-24, -6) to (-27, -7)
+Jen used Deactivate Shield Generator - from (-27, -7) to (-26, -7)
+Jen moved - from (-24, -6) to (-21, -9)
+Jen cast Static Blast on Reactor Heavy Gunner Grounder - from (-21, -9) to (-23, -12)
+Reactor Heavy Gunner Grounder stability prevented 1 knockback
+Reactor Heavy Gunner Grounder took 1 knockback
+Craft Coffin took 1 damage
+Jen gained 1 mana for destroying a Craft Coffin
+Reactor Heavy Gunner Grounder hit something with 1 knockback left
+Reactor Heavy Gunner Grounder shield soaked up 1 damage
+Craft Coffin exploded
+Reactor Heavy Gunner Grounder is Stunned for 1 turn
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Jen moved - from (-21, -9) to (-18, -12)
+Jen used Deactivate Shield Generator - from (-18, -12) to (-17, -12)
+Jen breached - from (-23, -6) to (-24, -6)
+Jen moved - from (-24, -6) to (-27, -7)
+Jen used Deactivate Shield Generator - from (-27, -7) to (-26, -7)
+Jen cast Static Blast on Reactor Heavy Gunner Cassiopeia - from (-27, -7) to (-26, -16)
+Reactor Heavy Gunner Cassiopeia stability prevented 1 knockback
+Reactor Heavy Gunner Cassiopeia took 1 knockback
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Dall breached - from (-18, -6) to (-19, -6)
+Dall moved - from (-19, -6) to (-21, -7)
+Dall used Charge - from (-21, -7) to (-21, -14)
+Reactor Superheavy Ossard shield soaked up 1 damage
+Reactor Superheavy Ossard stability prevented 2 knockback
+Reactor Superheavy Ossard took 8 knockback
+Reactor Superheavy Ossard hit something with 6 knockback left
+Reactor Superheavy Ossard shield soaked up 5 damage
+Reactor Superheavy Ossard is no longer Shielded
+Reactor Superheavy Ossard took 1 damage
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Rion bit on Reactor Superheavy Ossard - from (-21, -14) to (-21, -15)
+Reactor Superheavy Ossard shield soaked up 1 damage
+Rion moved - from (-21, -14) to (-19, -18)
+Rion bit on Reactor Heavy Gunner Lagrange - from (-21, -16) to (-22, -16)
+Reactor Heavy Gunner Lagrange shield soaked up 1 damage
+Rion moved - from (-21, -16) to (-19, -19)
+Rion used Change Form - from (-19, -19) to (-19, -19)
+Rion took cover - from (-19, -19) to (-19, -19)
+Rion used Deactivate Shield Generator - from (-19, -19) to (-18, -19)
+Rion used Spore Bomb on Reactor Superheavy Ossard - from (-19, -19) to (-21, -15)
+Reactor Heavy Gunner Lagrange shield soaked up 3 damage
+Reactor Heavy Gunner Lagrange is no longer Shielded
+Reactor Heavy Gunner Lagrange armour blocked 1 damage
+Reactor Superheavy Ossard shield soaked up 4 damage
+Reactor Superheavy Ossard is no longer Shielded
+Craft Coffin took 4 damage
+Rion gained 1 mana for destroying a Craft Coffin
+Craft Coffin exploded
+Reactor Superheavy Ossard is Stunned for 1 turn
+Rion cast Brittling Dart on Reactor Superheavy Ossard - from (-19, -19) to (-21, -15)
+Dall used Charge - from (-21, -7) to (-21, -14)
+Reactor Superheavy Ossard shield soaked up 1 damage
+Reactor Superheavy Ossard stability prevented 2 knockback
+Reactor Superheavy Ossard took 8 knockback
+Reactor Superheavy Ossard hit something with 6 knockback left
+Reactor Superheavy Ossard shield soaked up 3 damage
+Reactor Superheavy Ossard is no longer Shielded
+Reactor Superheavy Ossard took 1 extra damage from Brittle, Brittle reduced to 0
+Reactor Superheavy Ossard is no longer Brittle
+Reactor Superheavy Ossard took 4 damage
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Rion used Spore Bomb on Reactor Superheavy Ossard - from (-19, -19) to (-21, -17)
+Reactor Heavy Gunner Lagrange shield soaked up 3 damage
+Reactor Heavy Gunner Lagrange is no longer Shielded
+Reactor Superheavy Ossard armour blocked 2 damage
+Reactor Superheavy Ossard took 1 damage
+Rion used Spore Bomb on Reactor Heavy Gunner Lagrange - from (-19, -19) to (-22, -16)
+Reactor Heavy Gunner Lagrange shield soaked up 3 damage
+Reactor Heavy Gunner Lagrange is no longer Shielded
+Reactor Superheavy Ossard armour blocked 2 damage
+Reactor Superheavy Ossard took 1 damage
+Jen moved - from (-24, -6) to (-27, -7)
+Jen used Deactivate Shield Generator - from (-27, -7) to (-26, -7)
+Jen cast Static Blast on Reactor Heavy Gunner Grounder - from (-27, -7) to (-23, -12)
+Reactor Heavy Gunner Grounder stability prevented 1 knockback
+Reactor Heavy Gunner Grounder took 1 knockback
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Dall breached - from (-18, -6) to (-19, -6)
+Dall moved - from (-19, -6) to (-21, -7)
+Dall used Charge - from (-21, -7) to (-21, -14)
+Reactor Superheavy Ossard shield soaked up 1 damage
+Reactor Superheavy Ossard stability prevented 2 knockback
+Reactor Superheavy Ossard took 8 knockback
+Reactor Superheavy Ossard hit something with 6 knockback left
+Reactor Superheavy Ossard shield soaked up 5 damage
+Reactor Superheavy Ossard is no longer Shielded
+Reactor Superheavy Ossard took 1 damage
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Dall used Throw Riot Block - from (-21, -7) to (-21, -16)
+Dall used Charge - from (-21, -7) to (-21, -14)
+Reactor Superheavy Ossard shield soaked up 1 damage
+Reactor Superheavy Ossard stability prevented 2 knockback
+Reactor Superheavy Ossard took 8 knockback
+Reactor Superheavy Ossard hit something with 8 knockback left
+Riot Block added 1 extra impact damage
+Reactor Superheavy Ossard shield soaked up 5 damage
+Reactor Superheavy Ossard is no longer Shielded
+Reactor Superheavy Ossard took 4 damage
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Rion bit on Reactor Heavy Gunner Lagrange - from (-21, -16) to (-22, -16)
+Reactor Heavy Gunner Lagrange shield soaked up 1 damage
+Rion moved - from (-21, -16) to (-19, -19)
+Rion used Change Form - from (-19, -19) to (-19, -19)
+Rion used Deactivate Shield Generator - from (-19, -19) to (-18, -19)
+Dall used Throw Riot Block - from (-21, -7) to (-21, -16)
+Dall used Charge - from (-21, -7) to (-21, -14)
+Reactor Superheavy Ossard shield soaked up 1 damage
+Reactor Superheavy Ossard stability prevented 2 knockback
+Reactor Superheavy Ossard took 8 knockback
+Reactor Superheavy Ossard hit something with 8 knockback left
+Riot Block added 1 extra impact damage
+Reactor Superheavy Ossard shield soaked up 3 damage
+Reactor Superheavy Ossard is no longer Shielded
+Reactor Superheavy Ossard took 6 damage
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Dall Swapped with Reactor Heavy Gunner Cassiopeia - from (-21, -14) to (-26, -16)
+Banks moved - from (-22, -6) to (-22, -8)
+Banks used Sedative Cocktail on Reactor Heavy Gunner Grounder - from (-22, -8) to (-22, -13)
+Reactor Heavy Gunner Grounder stability prevented 1 knockback
+Reactor Heavy Gunner Grounder is Sedated
+Reactor Heavy Gunner Cassiopeia is Sedated
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Zan moved - from (-25, -6) to (-21, -9)
+Zan  - from (-21, -9) to (-18, -12)
+False Prophet used Deactivate Shield Generator - from (-18, -12) to (-17, -12)
+Zan used 3 Bolt Burst on Reactor Heavy Gunner Grounder - from (-21, -9) to (-22, -13)
+Reactor Heavy Gunner Grounder shield soaked up 2 damage
+Reactor Heavy Gunner Grounder is no longer Shielded
+Reactor Heavy Gunner Grounder took 2 knockback
+Reactor Heavy Gunner Grounder hit something with 1 knockback left
+Reactor Heavy Gunner Grounder took 1 damage
+Dall used Charge - from (-26, -16) to (-27, -16)
+Dall used Deactivate Shield Generator - from (-27, -16) to (-27, -17)
+Reactor Heavy Gunner Lagrange is no longer Shielded
+Reactor Heavy Gunner Cassiopeia is no longer Shielded
+Rion used Spore Bomb - from (-19, -19) to (-22, -15)
+Reactor Heavy Gunner Lagrange armour blocked 1 damage
+Reactor Heavy Gunner Lagrange took 5 damage
+Reactor Heavy Gunner Lagrange passed out
+Reactor Heavy Gunner Grounder armour blocked 1 damage
+Reactor Heavy Gunner Grounder took 5 damage
+Reactor Heavy Gunner Grounder passed out
+Riot Block armour blocked 1 damage
+Riot Block took 5 damage
+Reactor Superheavy Ossard armour blocked 2 damage
+Reactor Superheavy Ossard took 4 damage
+Reactor Superheavy Ossard passed out
+Reactor Heavy Gunner Cassiopeia armour blocked 1 damage
+Reactor Heavy Gunner Cassiopeia took 5 damage
+Reactor Heavy Gunner Cassiopeia passed out
+Rion cast Impaling Vine on Reactor Heavy Gunner Cassiopeia - from (-19, -19) to (-21, -14)
+Reactor Heavy Gunner Cassiopeia armour blocked 1 damage
+Reactor Heavy Gunner Cassiopeia took 3 knockback
+Reactor Superheavy Ossard stability prevented 1 knockback
+Reactor Heavy Gunner Cassiopeia hit something with 3 knockback left
+Reactor Heavy Gunner Cassiopeia took 1 extra damage from Brittle, Brittle reduced to 0
+Reactor Heavy Gunner Cassiopeia is no longer Brittle
+Reactor Heavy Gunner Cassiopeia took 4 damage
+Reactor Heavy Gunner Cassiopeia passed out
+Rion cast Impaling Vine on - from (-19, -19) to (-20, -14)
+Craft Coffin took 1 damage
+Rion gained 1 mana for destroying a Craft Coffin
+Craft Coffin exploded
+Reactor Superheavy Ossard is Stunned for 1 turn
+Reactor Heavy Gunner Cassiopeia is Stunned for 1 turn
+Rion cast Brittling Dart on Reactor Heavy Gunner Lagrange - from (-19, -19) to (-22, -16)
+Banks used Transference on Reactor Heavy Gunner Grounder - from (-22, -8) to (-22, -14)
+Jen moved - from (-27, -7) to (-27, -11)
+Jen threw a Gale Grenade False Prophet - from (-27, -11) to (-18, -12)
+Zan used Time Boost on Rion - from (-21, -9) to (-19, -19)
+Banks used Death's Door - from (-22, -8) to (-26, -8)
+Dall Swapped with Jen - from (-27, -16) to (-27, -11)
+Rion cast Impaling Vine on - from (-19, -19) to (-18, -16)
+Craft Coffin took 1 damage
+Rion gained 1 mana for destroying a Craft Coffin
+Craft Coffin exploded
+Rion used Spore Bomb - from (-19, -19) to (-22, -15)
+Brittle: 1 armour lost (Reactor Heavy Gunner Lagrange)
+Reactor Heavy Gunner Lagrange took 1 extra damage from Brittle, Brittle reduced to 0
+Reactor Heavy Gunner Lagrange is no longer Brittle
+Reactor Heavy Gunner Lagrange took 6 damage
+Reactor Heavy Gunner Lagrange passed out
+Reactor Heavy Gunner Grounder armour blocked 1 damage
+Reactor Heavy Gunner Grounder took 5 damage
+Reactor Heavy Gunner Grounder passed out
+Riot Block armour blocked 1 damage
+Riot Block took 5 damage
+Reactor Superheavy Ossard armour blocked 2 damage
+Reactor Superheavy Ossard took 4 damage
+Reactor Superheavy Ossard passed out
+Reactor Heavy Gunner Cassiopeia armour blocked 1 damage
+Reactor Heavy Gunner Cassiopeia took 5 damage
+Reactor Heavy Gunner Cassiopeia passed out
+Rion used Steal Mana on Banks - from (-19, -19) to (-22, -8)
+False Prophet vanished

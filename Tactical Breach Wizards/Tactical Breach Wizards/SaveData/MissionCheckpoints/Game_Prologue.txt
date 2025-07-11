@@ -1,0 +1,24 @@
+# Game_Prologue.txt
+# 2025-01-02 21:24:22 (+07:00)
+# v:2024-12-18-Spearmint
+
+<ConversationManager>
+</ConversationManager>
+<PerkManager>
+  respecPoints = 0
+  # Perks
+  # Temporary Perks (Used when replaying missions)
+  # Available Perk Points
+  # Total Perk Points (Additive for entire campaign)
+</PerkManager>
+<ProgressManager>
+  version = 2024-12-18-Spearmint
+  # Unlockables
+  # Chats
+  # Speeches
+</ProgressManager>
+<StageManager>
+  currentStage = Text_Prologue_Location_Card
+  incompleteMetaMenuStage = False
+</StageManager>
+

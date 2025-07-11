@@ -1,0 +1,158 @@
+09_Exit_Strategy_4_Junction
+ 
+Start of player turn 1
+Banks repositioned - from (27, 4) to (27, 6)
+Banks breached - from (27, 6) to (27, 5)
+Banks moved - from (27, 5) to (31, 5)
+Banks used Sedative Cocktail on Reactor Heavy Gunner Caulder - from (31, 5) to (35, 4)
+Reactor Heavy Gunner Caulder stability prevented 1 knockback
+Reactor Heavy Gunner Caulder is Sedated
+Zan took a free shot at Reactor Heavy Gunner Caulder with Supporting Fire.
+Zan used 3 Bolt Burst on Reactor Heavy Gunner Caulder - from (26, 5) to (35, 4)
+Reactor Heavy Gunner Caulder armour blocked 1 damage
+Reactor Heavy Gunner Caulder took 1 knockback
+Banks used Sedative Cocktail - from (31, 5) to (34, 5)
+Reactor Neutraliser Glass is Sedated
+Reactor Tracker Fluker is Sedated
+Reactor Heavy Gunner Caulder is Sedated
+Zan moved - from (26, 5) to (31, 6)
+Zan  - from (31, 6) to (33, 9)
+False Prophet sealed a hostile entry point - from (33, 9) to (33, 9)
+Jen moved - from (27, 4) to (29, 6)
+Jen used Broom Breach - from (29, 6) to (35, 6)
+Jen cast Static Blast on Reactor Heavy Gunner Caulder - from (35, 6) to (35, 4)
+Reactor Heavy Gunner Caulder took 2 knockback
+Reactor Heavy Gunner Caulder was defenestrated - from (35, 4) to (35, 4)
+Reactor Heavy Gunner Caulder took 4 damage
+Reactor Heavy Gunner Caulder passed out
+Zan used Time Boost on Jen - from (31, 6) to (35, 6)
+Jen cast Chain Bolt on Reactor Tracker Fluker, Reactor Neutraliser Glass - from (35, 6) to (34, 6)
+Reactor Tracker Fluker took 3 knockback
+Reactor Neutraliser Glass took 5 knockback
+Reactor Neutraliser Glass hit something with 5 knockback left
+Reactor Neutraliser Glass took 5 damage
+Reactor Neutraliser Glass passed out
+Banks is no longer Neutralised
+Zan took 1 knockback
+Reactor Tracker Fluker hit something with 1 knockback left
+Reactor Tracker Fluker took 1 damage
+Zan hit something with 1 knockback left
+Zan took 1 damage
+Zan used 3 Bolt Burst on Reactor Tracker Fluker - from (31, 6) to (32, 6)
+Reactor Tracker Fluker took 1 damage
+Reactor Tracker Fluker took 2 knockback
+Reactor Tracker Fluker shot Zan - from (34, 6) to (31, 6)
+Zan took 2 damage
+Reactor Tracker Fluker took 1 damage
+Reactor Tracker Fluker passed out
+False Prophet vanished
+Reactor Tracker Fluker shot Zan - from (34, 6) to (31, 6)
+Zan took 2 damage
+Reactor Tracker Fluker took 1 damage
+Reactor Tracker Fluker passed out
+False Prophet vanished
+Player ended their turn, starting enemy turn 1
+End of enemy turn 1
+ 
+Start of player turn 2
+Zan moved - from (31, 6) to (32, 6)
+Zan used Grab Intel - from (32, 6) to (32, 5)
+Zan  - from (32, 6) to (31, 9)
+False Prophet sealed a hostile entry point - from (31, 9) to (31, 9)
+Jen moved - from (35, 6) to (36, 6)
+Banks used Sedative Cocktail - from (31, 5) to (36, 4)
+Reactor Tracker Jounce is Sedated
+Reactor Neutraliser Pitri is Sedated
+Zan used 3 Bolt Burst on Reactor Tracker Jounce - from (32, 6) to (35, 4)
+Reactor Tracker Jounce took 1 damage
+Reactor Tracker Jounce took 2 knockback
+Reactor Tracker Jounce was defenestrated - from (35, 4) to (35, 4)
+Reactor Tracker Jounce took 2 damage
+Reactor Tracker Jounce passed out
+Banks used Resurrect on Zan - from (31, 5) to (32, 6)
+Zan took 4 damage
+Zan passed out
+Jen threw a Gale Grenade - from (35, 6) to (36, 4)
+Reactor Neutraliser Pitri took 2 knockback
+Reactor Neutraliser Pitri hit something with 1 knockback left
+Reactor Neutraliser Pitri took 1 damage
+Jen is no longer Neutralised
+Jen used Grab Intel - from (35, 6) to (35, 5)
+Jen moved - from (35, 6) to (36, 4)
+Banks used Death's Door - from (31, 5) to (36, 6)
+Jen threw a Gale Grenade Reactor Neutraliser Pitri - from (35, 6) to (36, 5)
+Jen took 1 knockback
+Jen was defenestrated - from (35, 6) to (35, 6)
+Jen took 4 damage
+Jen passed out
+Jen threw a Gale Grenade Reactor Neutraliser Pitri - from (35, 6) to (36, 5)
+Jen took 1 knockback
+Jen was defenestrated - from (35, 6) to (35, 6)
+Zan used Time Boost on Jen - from (32, 6) to (35, 6)
+Zan used Time Boost on Jen - from (32, 6) to (35, 6)
+Jen moved - from (35, 6) to (36, 4)
+Zan moved - from (31, 6) to (31, 9)
+Zan sealed a hostile entry point - from (31, 9) to (31, 9)
+Zan moved - from (31, 6) to (34, 5)
+Zan used Grab Intel - from (34, 5) to (35, 5)
+Jen threw a Gale Grenade - from (35, 6) to (35, 5)
+Zan took 1 knockback
+Reactor Tracker Jounce took 1 knockback
+Jen took 1 knockback
+Reactor Neutraliser Pitri took 1 knockback
+Jen was defenestrated - from (35, 6) to (35, 6)
+Reactor Neutraliser Pitri hit something with 1 knockback left
+Reactor Neutraliser Pitri took 1 damage
+Reactor Tracker Jounce was defenestrated - from (35, 4) to (35, 4)
+Jen moved - from (35, 6) to (36, 6)
+Jen threw a Gale Grenade - from (36, 6) to (35, 5)
+Zan took 1 knockback
+Reactor Tracker Jounce took 1 knockback
+Reactor Neutraliser Pitri took 1 knockback
+Jen took 1 knockback
+Jen hit something with 1 knockback left
+Jen took 1 damage
+Reactor Neutraliser Pitri hit something with 1 knockback left
+Reactor Neutraliser Pitri took 1 damage
+Reactor Tracker Jounce was defenestrated - from (35, 4) to (35, 4)
+Reactor Tracker Jounce took 3 damage
+Reactor Tracker Jounce passed out
+Zan used Grab Intel - from (33, 5) to (32, 5)
+Zan  - from (33, 5) to (36, 4)
+Jen is no longer Neutralised
+Banks moved - from (31, 5) to (31, 9)
+Banks sealed a hostile entry point - from (31, 9) to (31, 9)
+Jen cast Static Blast on Reactor Tracker Fiel - from (36, 6) to (32, 9)
+Reactor Tracker Fiel took 2 knockback
+Reactor Tracker Fiel hit something with 2 knockback left
+Reactor Tracker Fiel took 2 damage
+Zan took a free shot at Reactor Tracker Fiel with Supporting Fire.
+Zan used 3 Bolt Burst on Reactor Tracker Fiel - from (33, 5) to (32, 9)
+Reactor Tracker Fiel took 1 damage
+Reactor Tracker Fiel passed out
+Reactor Tracker Fiel took 1 knockback
+Reactor Tracker Fiel hit something with 1 knockback left
+Jen sealed a hostile entry point - from (36, 6) to (36, 6)
+Jen sealed a hostile entry point - from (36, 6) to (36, 6)
+Zan used 3 Bolt Burst on Reactor Neutraliser Pitri - from (33, 5) to (36, 5)
+Reactor Neutraliser Pitri took 1 damage
+Reactor Neutraliser Pitri passed out
+Reactor Neutraliser Pitri took 1 knockback
+Reactor Neutraliser Pitri hit something with 1 knockback left
+Jen is no longer Neutralised
+Zan  - from (33, 5) to (36, 4)
+False Prophet sealed a hostile entry point - from (36, 4) to (36, 4)
+Jen sealed a hostile entry point - from (36, 6) to (36, 6)
+Jen cast Static Blast on Reactor Tracker Fiel - from (36, 6) to (32, 9)
+Reactor Tracker Fiel took 2 knockback
+Reactor Tracker Fiel hit something with 2 knockback left
+Reactor Tracker Fiel took 2 damage
+Zan took a free shot at Reactor Tracker Fiel with Supporting Fire.
+Zan used 3 Bolt Burst on Reactor Tracker Fiel - from (33, 5) to (32, 9)
+Reactor Tracker Fiel took 1 damage
+Reactor Tracker Fiel passed out
+Reactor Tracker Fiel took 1 knockback
+Reactor Tracker Fiel hit something with 1 knockback left
+Banks moved - from (31, 5) to (31, 9)
+Banks sealed a hostile entry point - from (31, 9) to (31, 9)
+False Prophet vanished

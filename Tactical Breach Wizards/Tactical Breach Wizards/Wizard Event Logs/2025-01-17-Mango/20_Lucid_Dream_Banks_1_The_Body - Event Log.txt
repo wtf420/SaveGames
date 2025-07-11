@@ -1,0 +1,11 @@
+20_Lucid_Dream_Banks_1_The_Body
+ 
+Start of player turn 1
+Banks moved - from (-35, -21) to (-33, -20)
+Banks moved - from (-33, -20) to (-34, -20)
+Banks used Death's Door - from (-34, -20) to (-34, -19)
+Banks moved - from (-34, -20) to (-34, -21)
+Banks moved - from (-34, -21) to (-34, -20)
+Banks moved - from (-34, -20) to (-35, -20)
+Banks moved - from (-35, -20) to (-33, -21)
+Banks used Resurrect - from (-33, -21) to (-30, -21)

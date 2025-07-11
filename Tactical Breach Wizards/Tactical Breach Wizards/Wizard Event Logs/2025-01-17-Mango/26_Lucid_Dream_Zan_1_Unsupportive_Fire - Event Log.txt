@@ -1,0 +1,181 @@
+26_Lucid_Dream_Zan_1_Unsupportive_Fire
+ 
+Start of player turn 1
+Zan breached - from (3, 25) to (2, 25)
+Zan used 3 Bolt Burst on Mafia Sprig Messier - from (2, 25) to (4, 15)
+Mafia Sprig Messier took 2 damage
+Mafia Sprig Messier passed out
+Mafia Sprig Messier took 1 knockback
+Mafia Sprig Messier hit something with 1 knockback left
+Dream Zan took a free shot at Zan with Supporting Fire.
+Dream Zan used 3 Bolt Burst on Zan - from (1, 25) to (2, 25)
+Zan took 2 damage
+Zan took 1 knockback
+Zan moved - from (2, 25) to (4, 23)
+Zan used 3 Bolt Burst on Mafia Sprig Messier - from (4, 23) to (4, 15)
+Mafia Sprig Messier took 2 damage
+Mafia Sprig Messier passed out
+Mafia Sprig Messier took 1 knockback
+Mafia Sprig Messier hit something with 1 knockback left
+Dream Zan took a free shot at Zan with Supporting Fire.
+Dream Zan used 3 Bolt Burst on Zan - from (1, 25) to (4, 23)
+Zan took 2 damage
+Zan took 1 knockback
+Zan hit something with 1 knockback left
+Zan took 1 damage
+Zan moved - from (2, 25) to (-1, 22)
+Zan used 3 Bolt Burst on Mafia Sprig Messier - from (-1, 22) to (4, 15)
+Mafia Sprig Messier took 2 damage
+Mafia Sprig Messier passed out
+Mafia Sprig Messier took 1 knockback
+Mafia Sprig Messier hit something with 1 knockback left
+Dream Zan didn't have a clear shot at the target to provide Supporting Fire.
+Dream Zan moved - from (1, 25) to (4, 23)
+Dream Zan used 3 Bolt Burst on Mafia Shrublord Asante - from (4, 23) to (3, 18)
+Mafia Shrublord Asante took 2 damage
+Mafia Shrublord Asante took 1 knockback
+Zan took a free shot at Dream Zan with Supporting Fire.
+Zan used 3 Bolt Burst on Dream Zan - from (-1, 22) to (4, 23)
+Dream Zan took 2 damage
+Dream Zan took 1 knockback
+Dream Zan hit something with 1 knockback left
+Dream Zan took 1 damage
+Dream Zan moved - from (1, 25) to (-1, 22)
+Dream Zan used 3 Bolt Burst on Mafia Shrublord Asante - from (-1, 22) to (3, 18)
+Mafia Shrublord Asante took 2 damage
+Mafia Shrublord Asante took 1 knockback
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Zan moved - from (2, 25) to (4, 23)
+Zan moved - from (2, 25) to (2, 20)
+Zan  - from (2, 20) to (-1, 18)
+False Prophet used Use Laptop - from (-1, 18) to (-1, 19)
+Zan used 3 Bolt Burst on Mafia Shrublord Asante - from (2, 20) to (3, 18)
+Mafia Shrublord Asante took 2 damage
+Mafia Shrublord Asante took 1 knockback
+Dream Zan didn't have a clear shot at the target to provide Supporting Fire.
+Dream Zan moved - from (1, 25) to (4, 23)
+Dream Zan used 3 Bolt Burst on Mafia Shrublord Asante - from (4, 23) to (4, 17)
+Mafia Shrublord Asante took 2 damage
+Mafia Shrublord Asante passed out
+Mafia Shrublord Asante took 1 knockback
+Mafia Shrublord Asante hit something with 1 knockback left
+Zan took a free shot at Dream Zan with Supporting Fire.
+Zan used 3 Bolt Burst on Dream Zan - from (2, 20) to (4, 23)
+Dream Zan took 2 damage
+Dream Zan took 1 knockback
+Dream Zan hit something with 1 knockback left
+Dream Zan took 1 damage
+Zan used Time Boost - from (2, 20) to (4, 23)
+Zan used Time Boost - from (2, 20) to (4, 23)
+Dream Zan moved - from (1, 25) to (4, 23)
+Dream Zan  - from (4, 23) to (3, 20)
+False Prophet used Grab Intel - from (3, 20) to (3, 19)
+Dream Zan used Grab Intel - from (4, 23) to (4, 22)
+Dream Zan used 3 Bolt Burst on Mafia Shrublord Asante - from (4, 23) to (4, 17)
+Mafia Shrublord Asante took 2 damage
+Mafia Shrublord Asante passed out
+Mafia Shrublord Asante took 1 knockback
+Mafia Shrublord Asante hit something with 1 knockback left
+Zan took a free shot at Dream Zan with Supporting Fire.
+Zan used 3 Bolt Burst on Dream Zan - from (2, 20) to (4, 23)
+Dream Zan took 2 damage
+Dream Zan took 1 knockback
+Dream Zan hit something with 1 knockback left
+Dream Zan took 1 damage
+Zan breached - from (3, 25) to (2, 25)
+Zan moved - from (2, 25) to (1, 24)
+Zan moved - from (2, 25) to (1, 24)
+Zan used 3 Bolt Burst on Mafia Shrublord Asante - from (1, 24) to (3, 18)
+Mafia Shrublord Asante took 2 damage
+Mafia Shrublord Asante took 1 knockback
+Dream Zan didn't have a clear shot at the target to provide Supporting Fire.
+Dream Zan moved - from (1, 25) to (3, 21)
+Zan breached - from (3, 25) to (2, 25)
+Zan moved - from (2, 25) to (4, 23)
+Zan used 3 Bolt Burst on Mafia Sprig Stone - from (4, 23) to (0, 18)
+Mafia Sprig Stone took 2 damage
+Mafia Sprig Stone passed out
+Mafia Sprig Stone took 1 knockback
+Dream Zan took a free shot at Zan with Supporting Fire.
+Dream Zan used 3 Bolt Burst on Zan - from (1, 25) to (4, 23)
+Zan took 2 damage
+Zan took 1 knockback
+Zan hit something with 1 knockback left
+Zan took 1 damage
+Zan took cover - from (4, 23) to (4, 23)
+Dream Zan moved - from (1, 25) to (2, 20)
+Dream Zan  - from (2, 20) to (-1, 18)
+False Prophet used Use Laptop - from (-1, 18) to (-1, 19)
+Dream Zan moved - from (1, 25) to (0, 22)
+Dream Zan  - from (0, 22) to (2, 18)
+Dream Zan used 3 Bolt Burst on Mafia Sprig Stone - from (0, 22) to (0, 18)
+Mafia Sprig Stone took 2 damage
+Mafia Sprig Stone passed out
+Mafia Sprig Stone took 1 knockback
+Dream Zan took cover - from (0, 22) to (0, 22)
+Zan stood up - from (4, 23) to (4, 23)
+Zan used 3 Bolt Burst on Mafia Sprig Messier - from (4, 23) to (4, 15)
+Mafia Sprig Messier took 2 damage
+Mafia Sprig Messier passed out
+Mafia Sprig Messier took 1 knockback
+Mafia Sprig Messier hit something with 1 knockback left
+Zan stood up - from (4, 23) to (4, 23)
+Dream Zan moved - from (1, 25) to (2, 20)
+Zan stood up - from (4, 23) to (4, 23)
+Zan used 3 Bolt Burst on Mafia Shrublord Asante - from (4, 23) to (3, 18)
+Mafia Shrublord Asante took 2 damage
+Mafia Shrublord Asante took 1 knockback
+Dream Zan moved - from (1, 25) to (-1, 22)
+Zan used 3 Bolt Burst on Mafia Sprig Stone - from (4, 23) to (0, 18)
+Mafia Sprig Stone took 2 damage
+Mafia Sprig Stone passed out
+Mafia Sprig Stone took 1 knockback
+Zan breached - from (3, 25) to (2, 25)
+Zan moved - from (2, 25) to (4, 23)
+Dream Zan moved - from (1, 25) to (2, 20)
+Dream Zan moved - from (1, 25) to (2, 20)
+Zan used Grab Intel - from (4, 23) to (4, 22)
+Zan took cover - from (4, 23) to (4, 23)
+Dream Zan used 3 Bolt Burst on Mafia Sprig Stone - from (2, 20) to (0, 18)
+Mafia Sprig Stone took 2 damage
+Mafia Sprig Stone passed out
+Mafia Sprig Stone took 1 knockback
+Dream Zan  - from (2, 20) to (-1, 18)
+False Prophet used Use Laptop - from (-1, 18) to (-1, 19)
+Dream Zan used 3 Bolt Burst on Mafia Sprig Stone - from (2, 20) to (0, 18)
+Mafia Sprig Stone took 2 damage
+Mafia Sprig Stone passed out
+Mafia Sprig Stone took 1 knockback
+Zan stood up - from (4, 23) to (4, 23)
+Dream Zan moved - from (1, 25) to (4, 23)
+Dream Zan used 3 Bolt Burst on Mafia Sprig Messier - from (4, 23) to (4, 15)
+Mafia Sprig Messier took 2 damage
+Mafia Sprig Messier passed out
+Mafia Sprig Messier took 1 knockback
+Mafia Sprig Messier hit something with 1 knockback left
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Zan moved - from (2, 25) to (2, 20)
+Zan used 3 Bolt Burst on Mafia Shrublord Asante - from (2, 20) to (3, 18)
+Mafia Shrublord Asante took 2 damage
+Mafia Shrublord Asante took 1 knockback
+Dream Zan shot Mafia Shrublord Asante on overwatch
+Mafia Shrublord Asante took 4 damage
+Mafia Shrublord Asante passed out
+Dream Zan used Grab Intel - from (4, 23) to (4, 22)
+Zan  - from (2, 20) to (-1, 18)
+False Prophet used Use Laptop - from (-1, 18) to (-1, 19)
+Dream Zan used Time Boost on Zan - from (4, 23) to (2, 20)
+Zan used 3 Bolt Burst on Mafia Sprig Stone - from (2, 20) to (0, 18)
+Mafia Sprig Stone took 2 damage
+Mafia Sprig Stone passed out
+Mafia Sprig Stone took 1 knockback
+Dream Zan took a free shot at Zan with Supporting Fire.
+Dream Zan used 3 Bolt Burst on Zan - from (4, 23) to (2, 20)
+Zan took 2 damage
+Zan took 1 knockback
+Dream Zan took cover - from (4, 23) to (4, 23)
+Zan used 3 Bolt Burst on Mafia Sprig Stone - from (2, 20) to (0, 18)
+Mafia Sprig Stone took 2 damage
+Mafia Sprig Stone passed out
+Mafia Sprig Stone took 1 knockback
+False Prophet vanished

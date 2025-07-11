@@ -1,0 +1,295 @@
+21_Two_Trains_5_Countdown
+Barrier Drone Operator Moritz launched a Barrier drone - from (0, -21) to (0, -21)
+ 
+Start of player turn 1
+Jen moved - from (1, -8) to (2, -9)
+Jen used Broom Breach - from (2, -9) to (-1, -21)
+Jen cast Static Blast on Barrier Drone Operator Moritz - from (-1, -21) to (0, -21)
+Barrier Drone Operator Moritz took 4 knockback
+Barrier Drone Operator Moritz was defenestrated - from (2, -21) to (2, -21)
+Barrier Drone Operator Moritz took 4 damage
+Barrier Drone Operator Moritz passed out
+Unset took 1 damage
+Jen threw a Gale Grenade - from (-1, -21) to (0, -14)
+Reactor Tracker Excelsis took 1 knockback
+Reactor Tracker Stillness took 1 knockback
+Reactor Tracker Excelsis was defenestrated - from (-1, -13) to (-1, -13)
+Reactor Tracker Excelsis took 3 damage
+Reactor Tracker Excelsis passed out
+Dall moved - from (1, -29) to (0, -28)
+Dall used Charge - from (0, -28) to (0, -25)
+Reactor Heavy Gunner Elm armour blocked 1 damage
+Reactor Heavy Gunner Elm stability prevented 1 knockback
+Reactor Heavy Gunner Elm took 5 knockback
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Banks used Sedative Cocktail on Reactor Heavy Gunner Elm - from (-6, -11) to (0, -24)
+Reactor Heavy Gunner Elm stability prevented 1 knockback
+Reactor Heavy Gunner Elm is Sedated
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Rion moved - from (-5, -11) to (-4, -12)
+Rion used Use Laptop - from (-4, -12) to (-4, -11)
+Rion cast Impaling Vine on Reactor Heavy Gunner Singeng - from (-4, -12) to (1, -20)
+Reactor Heavy Gunner Singeng armour blocked 1 damage
+Reactor Heavy Gunner Singeng stability prevented 1 knockback
+Reactor Heavy Gunner Singeng took 2 knockback
+Reactor Heavy Gunner Singeng was defenestrated - from (0, -19) to (0, -19)
+Reactor Heavy Gunner Singeng took 1 extra damage from Brittle, Brittle reduced to 0
+Reactor Heavy Gunner Singeng is no longer Brittle
+Reactor Heavy Gunner Singeng took 5 damage
+Reactor Heavy Gunner Singeng passed out
+Dall used Throw Riot Block - from (0, -28) to (0, -20)
+Dall used Charge - from (0, -28) to (0, -25)
+Reactor Heavy Gunner Elm armour blocked 1 damage
+Reactor Heavy Gunner Elm took 7 knockback
+Reactor Heavy Gunner Elm hit something with 4 knockback left
+Riot Block added 1 extra impact damage
+Reactor Heavy Gunner Elm took 5 damage
+Reactor Heavy Gunner Elm passed out
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Zan moved - from (0, -29) to (1, -25)
+Zan used 3 Bolt Burst on Reactor Tracker Stillness - from (0, -29) to (2, -14)
+Reactor Tracker Stillness took 2 damage
+Reactor Tracker Stillness took 1 knockback
+Jen moved - from (1, -8) to (2, -9)
+Jen used Broom Breach - from (2, -9) to (-1, -21)
+Jen cast Static Blast on Barrier Drone Operator Moritz - from (-1, -21) to (0, -21)
+Barrier Drone Operator Moritz took 4 knockback
+Barrier Drone Operator Moritz was defenestrated - from (2, -21) to (2, -21)
+Barrier Drone Operator Moritz took 4 damage
+Barrier Drone Operator Moritz passed out
+Unset took 1 damage
+Rion moved - from (-5, -11) to (-4, -12)
+Rion used Use Laptop - from (-4, -12) to (-4, -11)
+Rion cast Impaling Vine on Reactor Heavy Gunner Singeng - from (-4, -12) to (1, -20)
+Reactor Heavy Gunner Singeng armour blocked 1 damage
+Reactor Heavy Gunner Singeng stability prevented 1 knockback
+Reactor Heavy Gunner Singeng took 2 knockback
+Reactor Heavy Gunner Singeng was defenestrated - from (0, -19) to (0, -19)
+Reactor Heavy Gunner Singeng took 1 extra damage from Brittle, Brittle reduced to 0
+Reactor Heavy Gunner Singeng is no longer Brittle
+Reactor Heavy Gunner Singeng took 5 damage
+Reactor Heavy Gunner Singeng passed out
+Jen threw a Gale Grenade - from (-1, -21) to (0, -14)
+Reactor Tracker Excelsis took 1 knockback
+Reactor Tracker Stillness took 1 knockback
+Reactor Tracker Excelsis was defenestrated - from (-1, -13) to (-1, -13)
+Reactor Tracker Excelsis took 3 damage
+Reactor Tracker Excelsis passed out
+Banks used Sedative Cocktail on Reactor Tracker Stillness - from (-6, -11) to (2, -14)
+Reactor Tracker Stillness took 1 knockback
+Reactor Tracker Stillness is Sedated
+Reactor Tracker Stillness was defenestrated - from (2, -14) to (2, -14)
+Reactor Tracker Stillness took 3 damage
+Reactor Tracker Stillness passed out
+Banks moved - from (-6, -11) to (-6, -14)
+Dall moved - from (1, -29) to (0, -28)
+Dall used Charge - from (0, -28) to (0, -25)
+Reactor Heavy Gunner Elm armour blocked 1 damage
+Reactor Heavy Gunner Elm stability prevented 1 knockback
+Reactor Heavy Gunner Elm took 5 knockback
+Dall used Throw Riot Block - from (0, -28) to (0, -19)
+Dall used Charge - from (0, -28) to (0, -25)
+Reactor Heavy Gunner Elm armour blocked 1 damage
+Reactor Heavy Gunner Elm stability prevented 1 knockback
+Reactor Heavy Gunner Elm took 5 knockback
+Reactor Heavy Gunner Elm hit something with 1 knockback left
+Riot Block added 1 extra impact damage
+Reactor Heavy Gunner Elm took 2 damage
+Dall used Throw Riot Block - from (0, -28) to (0, -20)
+Dall used Charge - from (0, -28) to (0, -25)
+Reactor Heavy Gunner Elm armour blocked 1 damage
+Reactor Heavy Gunner Elm stability prevented 1 knockback
+Reactor Heavy Gunner Elm took 5 knockback
+Reactor Heavy Gunner Elm hit something with 2 knockback left
+Riot Block added 1 extra impact damage
+Reactor Heavy Gunner Elm took 3 damage
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Zan moved - from (0, -29) to (1, -25)
+Dall used Charge - from (0, -28) to (0, -25)
+Reactor Heavy Gunner Elm armour blocked 1 damage
+Reactor Heavy Gunner Elm stability prevented 1 knockback
+Reactor Heavy Gunner Elm took 5 knockback
+Reactor Heavy Gunner Elm hit something with 2 knockback left
+Riot Block added 1 extra impact damage
+Reactor Heavy Gunner Elm took 3 damage
+Zan took a free shot at Reactor Heavy Gunner Elm with Supporting Fire.
+Zan used 3 Bolt Burst on Reactor Heavy Gunner Elm - from (1, -25) to (0, -21)
+Reactor Heavy Gunner Elm armour blocked 1 damage
+Reactor Heavy Gunner Elm took 1 damage
+Reactor Heavy Gunner Elm passed out
+Reactor Heavy Gunner Elm stability prevented 1 knockback
+Zan used Grab Intel - from (1, -25) to (2, -25)
+Player ended their turn, starting enemy turn 1
+Zan shot Reactor Chaser Santana on overwatch
+Reactor Chaser Santana took 4 damage
+Reactor Chaser Santana passed out
+End of enemy turn 1
+ 
+Start of player turn 2
+Zan moved - from (1, -25) to (1, -21)
+Zan used 3 Bolt Burst on Reactor Neutraliser Davis - from (1, -21) to (-6, -25)
+Reactor Neutraliser Davis took 2 damage
+Reactor Neutraliser Davis passed out
+Reactor Neutraliser Davis took 1 knockback
+Reactor Neutraliser Davis hit something with 1 knockback left
+Jen is no longer Neutralised
+Zan used 3 Bolt Burst on Reactor Neutraliser Sundermass - from (1, -21) to (-6, -11)
+Reactor Neutraliser Sundermass took 2 damage
+Reactor Neutraliser Sundermass passed out
+Reactor Neutraliser Sundermass took 1 knockback
+Reactor Neutraliser Sundermass hit something with 1 knockback left
+Rion is no longer Neutralised
+Rion cast Impaling Vine on Reactor Chaser Roma - from (-4, -12) to (0, -10)
+Reactor Chaser Roma took 1 damage
+Reactor Chaser Roma took 3 knockback
+Reactor Chaser Roma was defenestrated - from (-1, -11) to (-1, -11)
+Reactor Chaser Roma took 1 extra damage from Brittle, Brittle reduced to 0
+Reactor Chaser Roma is no longer Brittle
+Reactor Chaser Roma took 4 damage
+Reactor Chaser Roma passed out
+Dall moved - from (0, -25) to (0, -21)
+Dall used Pick Up Riot Block - from (0, -21) to (0, -20)
+Dall Swapped with Reactor Neutraliser Davis - from (0, -21) to (-6, -25)
+Jen is no longer Neutralised
+Jen used Broom Breach - from (-1, -21) to (-1, -22)
+Jen moved - from (-1, -21) to (-1, -23)
+Jen cast Static Blast on Reactor Neutraliser Davis - from (-1, -23) to (0, -21)
+Reactor Neutraliser Davis took 2 knockback
+Zan is no longer Neutralised
+Zan took a free shot at Reactor Neutraliser Davis with Supporting Fire.
+Zan used 3 Bolt Burst on Reactor Neutraliser Davis - from (1, -21) to (2, -19)
+Reactor Neutraliser Davis took 2 damage
+Reactor Neutraliser Davis passed out
+Reactor Neutraliser Davis took 1 knockback
+Reactor Neutraliser Davis was defenestrated - from (2, -19) to (2, -19)
+Zan is no longer Neutralised
+Jen used Broom Breach - from (-1, -23) to (-4, -22)
+Player ended their turn, starting enemy turn 2
+Reactor Heavy Gunner Ossard moved - from (1, -7) to (0, -10)
+Reactor Heavy Gunner Ossard launched a grenade - from (0, -10) to (-5, -13)
+Zan shot Reactor Heavy Gunner Prince on overwatch
+Reactor Heavy Gunner Prince armour blocked 1 damage
+Reactor Heavy Gunner Prince took 3 damage
+Reactor Heavy Gunner Prince moved - from (1, -30) to (2, -27)
+Reactor Heavy Gunner Prince launched a grenade - from (2, -27) to (0, -22)
+End of enemy turn 2
+ 
+Start of player turn 3
+Dall used Censer Slam on Reactor Chaser Dulcie - from (-6, -25) to (-5, -25)
+Reactor Chaser Dulcie took 5 damage
+Reactor Chaser Dulcie passed out
+Reactor Chaser Dulcie took 1 knockback
+Reactor Chaser Dulcie hit something with 1 knockback left
+Rion bit on Reactor Chaser Barmash - from (-5, -11) to (-5, -12)
+Reactor Chaser Barmash took 1 damage
+Banks used Sedative Cocktail on Reactor Chaser Barmash - from (-6, -14) to (-6, -11)
+Reactor Chaser Barmash took 1 knockback
+Reactor Chaser Barmash is Sedated
+Zan took a free shot at Reactor Chaser Barmash with Supporting Fire.
+Zan used 3 Bolt Burst on Reactor Chaser Barmash - from (1, -21) to (-6, -10)
+Reactor Chaser Barmash took 2 damage
+Reactor Chaser Barmash took 3 knockback
+Reactor Chaser Barmash hit something with 3 knockback left
+Reactor Chaser Barmash took 3 damage
+Reactor Chaser Barmash passed out
+Reactor Chaser Dulcie used Shock Hammer on Dall - from (-5, -25) to (-6, -25)
+Dall armour blocked 1 damage
+Dall took 1 damage
+Dall gained 1 mana from incoming damage
+Dall stability prevented 1 knockback
+Dall took 1 knockback
+Dall hit something with 1 knockback left
+Dall took 1 damage
+Dall gained 1 mana from incoming damage
+Dall used Censer Slam on Reactor Chaser Dulcie - from (-6, -25) to (-5, -25)
+Reactor Chaser Dulcie took 5 damage
+Reactor Chaser Dulcie passed out
+Reactor Chaser Dulcie took 1 knockback
+Reactor Chaser Dulcie hit something with 1 knockback left
+Zan moved - from (1, -21) to (1, -16)
+Jen cast Static Blast on - from (-4, -22) to (2, -26)
+Air Canister took 2 knockback
+Air Canister hit something with 2 knockback left
+Air Canister took 2 damage
+Air Canister exploded
+Reactor Heavy Gunner Prince stability prevented 1 knockback
+Reactor Heavy Gunner Prince took 2 knockback
+Air Canister took 1 knockback
+Reactor Heavy Gunner Prince hit something with 2 knockback left
+Reactor Heavy Gunner Prince took 2 damage
+Reactor Heavy Gunner Prince passed out
+Zan moved - from (1, -21) to (1, -16)
+Rion cast Impaling Vine on Reactor Heavy Gunner Ossard - from (-4, -12) to (0, -10)
+Reactor Heavy Gunner Ossard armour blocked 1 damage
+Reactor Heavy Gunner Ossard stability prevented 1 knockback
+Reactor Heavy Gunner Ossard took 2 knockback
+Reactor Heavy Gunner Ossard was defenestrated - from (-1, -11) to (-1, -11)
+Reactor Heavy Gunner Ossard took 1 extra damage from Brittle, Brittle reduced to 0
+Reactor Heavy Gunner Ossard is no longer Brittle
+Reactor Heavy Gunner Ossard took 5 damage
+Reactor Heavy Gunner Ossard passed out
+Rion moved - from (-4, -12) to (-4, -17)
+Banks moved - from (-6, -14) to (-7, -13)
+Rion used Grab Intel - from (-4, -17) to (-4, -18)
+Banks used Grab Intel - from (-7, -13) to (-7, -12)
+Jen used Grab Intel - from (-4, -22) to (-4, -23)
+Banks used Sedative Cocktail on Reactor Chaser Barmash - from (-6, -14) to (-6, -11)
+Reactor Chaser Barmash took 1 knockback
+Reactor Chaser Barmash is Sedated
+Zan took a free shot at Reactor Chaser Barmash with Supporting Fire.
+Zan used 3 Bolt Burst on Reactor Chaser Barmash - from (1, -21) to (-6, -10)
+Reactor Chaser Barmash took 2 damage
+Reactor Chaser Barmash took 3 knockback
+Reactor Chaser Barmash hit something with 3 knockback left
+Reactor Chaser Barmash took 3 damage
+Reactor Chaser Barmash passed out
+Reactor Chaser Dulcie used Shock Hammer on Dall - from (-5, -25) to (-6, -25)
+Dall armour blocked 1 damage
+Dall took 1 damage
+Dall gained 1 mana from incoming damage
+Dall stability prevented 1 knockback
+Dall took 1 knockback
+Dall hit something with 1 knockback left
+Dall took 1 damage
+Dall gained 1 mana from incoming damage
+Dall Swapped with Zan - from (-6, -25) to (1, -21)
+Dall used Throw Riot Block - from (-6, -25) to (-5, -22)
+Jen cast Static Blast on Reactor Chaser Dulcie - from (-4, -22) to (-5, -25)
+Reactor Chaser Dulcie took 2 knockback
+Reactor Chaser Dulcie hit something with 1 knockback left
+Reactor Chaser Dulcie took 1 damage
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Dall used Censer Slam on Reactor Chaser Dulcie - from (-6, -25) to (-5, -25)
+Reactor Chaser Dulcie took 5 damage
+Reactor Chaser Dulcie passed out
+Reactor Chaser Dulcie took 1 knockback
+Reactor Chaser Dulcie hit something with 1 knockback left
+Dall Swapped with Zan - from (-6, -25) to (1, -21)
+Dall Swapped with - from (1, -21) to (-5, -22)
+Jen cast Static Blast on - from (-4, -22) to (2, -26)
+Air Canister took 2 knockback
+Air Canister hit something with 2 knockback left
+Air Canister took 2 damage
+Air Canister exploded
+Reactor Heavy Gunner Prince stability prevented 1 knockback
+Reactor Heavy Gunner Prince took 2 knockback
+Air Canister took 1 knockback
+Reactor Heavy Gunner Prince hit something with 2 knockback left
+Reactor Heavy Gunner Prince took 2 damage
+Reactor Heavy Gunner Prince passed out
+Rion cast Impaling Vine on Reactor Heavy Gunner Ossard - from (-4, -12) to (0, -10)
+Reactor Heavy Gunner Ossard armour blocked 1 damage
+Reactor Heavy Gunner Ossard stability prevented 1 knockback
+Reactor Heavy Gunner Ossard took 2 knockback
+Reactor Heavy Gunner Ossard was defenestrated - from (-1, -11) to (-1, -11)
+Reactor Heavy Gunner Ossard took 1 extra damage from Brittle, Brittle reduced to 0
+Reactor Heavy Gunner Ossard is no longer Brittle
+Reactor Heavy Gunner Ossard took 5 damage
+Reactor Heavy Gunner Ossard passed out
+Rion moved - from (-4, -12) to (-4, -15)
+Zan moved - from (-6, -25) to (-5, -23)
+Banks moved - from (-6, -14) to (-7, -13)
+Jen moved - from (-4, -22) to (-5, -18)
+Riot Block armour blocked 1 damage
+Riot Block took 1 damage
+Riot Block took 1 knockback

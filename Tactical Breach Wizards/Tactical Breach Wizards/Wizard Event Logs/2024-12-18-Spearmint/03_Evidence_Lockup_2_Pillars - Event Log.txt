@@ -1,0 +1,118 @@
+03_Evidence_Lockup_2_Pillars
+ 
+Start of player turn 1
+Grenadier Ortega took cover - from (24, -3) to (24, -3)
+Grenadier Gauss took cover - from (22, 2) to (22, 2)
+Zan breached - from (18, 4) to (18, 3)
+Zan moved - from (18, 3) to (22, 5)
+Zan moved - from (18, 3) to (20, 5)
+Zan used 3 Bolt Burst on RPD Tracker Quigley - from (20, 5) to (19, 6)
+RPD Tracker Quigley took 1 damage
+RPD Tracker Quigley took 1 knockback
+RPD Tracker Quigley hit something with 1 knockback left
+RPD Tracker Quigley took 1 damage
+RPD Tracker Quigley passed out
+Jen moved - from (18, 2) to (21, 1)
+Jen used Grab Intel - from (21, 1) to (21, 2)
+Zan used Grab Intel - from (20, 5) to (19, 5)
+Jen moved - from (18, 2) to (20, -1)
+Jen moved - from (18, 2) to (20, 1)
+Jen repositioned - from (18, 2) to (18, 0)
+Jen breached - from (18, 0) to (18, -1)
+Jen moved - from (18, -1) to (20, -2)
+Jen used Grab Intel - from (20, -2) to (19, -2)
+Jen cast Chain Bolt on Grenadier Ortega, RPD Tracker Polaris - from (20, -2) to (24, -3)
+Grenadier Ortega took 2 knockback
+RPD Tracker Polaris took 4 knockback
+Grenadier Ortega hit something with 2 knockback left
+Grenadier Ortega took 2 damage
+Grenadier Ortega passed out
+RPD Tracker Polaris hit something with 1 knockback left
+RPD Tracker Polaris took 1 damage
+Player ended their turn, starting enemy turn 1
+RPD Tracker Orchard moved - from (24, 4) to (24, 6)
+Zan shot RPD Tracker Orchard on overwatch
+RPD Tracker Orchard took 4 damage
+RPD Tracker Orchard passed out
+End of enemy turn 1
+ 
+Start of player turn 2
+Jen moved - from (20, -2) to (22, -3)
+Jen sealed a hostile entry point - from (22, -3) to (22, -3)
+Jen cast Chain Bolt on RPD Tracker Jounce, RPD Tracker Polaris - from (22, -3) to (23, -2)
+RPD Tracker Jounce took 2 knockback
+RPD Tracker Polaris took 4 knockback
+RPD Tracker Polaris hit something with 4 knockback left
+RPD Tracker Polaris took 4 damage
+RPD Tracker Polaris passed out
+RPD Tracker Jounce hit something with 2 knockback left
+RPD Tracker Jounce took 2 damage
+RPD Tracker Jounce passed out
+Zan moved - from (20, 5) to (22, 6)
+Zan sealed a hostile entry point - from (22, 6) to (22, 6)
+Zan used 3 Bolt Burst on RPD Tracker Spica - from (22, 6) to (23, 6)
+RPD Tracker Spica took 1 damage
+RPD Tracker Spica took 1 knockback
+Zan moved - from (20, 5) to (22, 6)
+Zan moved - from (20, 5) to (23, 5)
+Zan used 3 Bolt Burst on RPD Tracker Spica - from (23, 5) to (23, 6)
+RPD Tracker Spica took 1 damage
+RPD Tracker Spica took 1 knockback
+RPD Tracker Spica hit something with 1 knockback left
+RPD Tracker Spica took 1 damage
+RPD Tracker Spica passed out
+Zan moved - from (20, 5) to (22, 6)
+Zan used 3 Bolt Burst on RPD Tracker Spica - from (22, 6) to (23, 6)
+RPD Tracker Spica took 1 damage
+RPD Tracker Spica took 1 knockback
+Jen cast Chain Bolt on RPD Tracker Jounce, RPD Tracker Polaris - from (20, -2) to (23, -2)
+RPD Tracker Jounce took 2 knockback
+RPD Tracker Polaris took 4 knockback
+RPD Tracker Polaris hit something with 4 knockback left
+RPD Tracker Polaris took 4 damage
+RPD Tracker Polaris passed out
+RPD Tracker Jounce hit something with 2 knockback left
+RPD Tracker Jounce took 2 damage
+RPD Tracker Jounce passed out
+Zan used Time Boost on Jen - from (20, 5) to (20, -2)
+Jen moved - from (20, -2) to (22, -3)
+Jen sealed a hostile entry point - from (22, -3) to (22, -3)
+Zan used 3 Bolt Burst on RPD Tracker Spica - from (20, 5) to (23, 6)
+RPD Tracker Spica took 1 damage
+RPD Tracker Spica took 1 knockback
+Zan moved - from (20, 5) to (22, 5)
+Zan used 3 Bolt Burst on RPD Tracker Spica - from (22, 5) to (23, 6)
+RPD Tracker Spica took 1 damage
+RPD Tracker Spica took 1 knockback
+RPD Tracker Spica hit something with 1 knockback left
+RPD Tracker Spica took 1 damage
+RPD Tracker Spica passed out
+Player ended their turn, starting enemy turn 2
+Zan shot RPD Tracker Crisis on overwatch
+RPD Tracker Crisis took 4 damage
+RPD Tracker Crisis passed out
+Grenadier Gauss moved - from (22, 2) to (24, 2)
+Grenadier Gauss launched a grenade - from (24, 2) to (23, 5)
+End of enemy turn 2
+ 
+Start of player turn 3
+Jen moved - from (22, -3) to (24, -1)
+Jen cast Static Blast on Grenadier Gauss - from (24, -1) to (24, 2)
+Grenadier Gauss took 2 knockback
+Grenadier Gauss hit something with 2 knockback left
+Grenadier Gauss took 2 damage
+Grenadier Gauss passed out
+Zan moved - from (22, 5) to (21, 6)
+Player ended their turn, starting enemy turn 3
+Zan shot RPD Tracker Jones on overwatch
+RPD Tracker Jones took 4 damage
+RPD Tracker Jones passed out
+End of enemy turn 3
+ 
+Start of player turn 4
+Zan moved - from (21, 6) to (22, 6)
+Zan sealed a hostile entry point - from (22, 6) to (22, 6)
+Zan moved - from (22, 6) to (22, 2)
+Zan took cover - from (22, 2) to (22, 2)
+Zan stood up - from (22, 2) to (22, 2)
+Zan used Grab Intel - from (22, 2) to (21, 2)

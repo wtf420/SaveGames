@@ -1,0 +1,88 @@
+21_Two_Trains_4_Sabotage
+ 
+Start of player turn 1
+Zan  - from (-5, -32) to (-6, -36)
+False Prophet used Use Laptop - from (-6, -36) to (-7, -36)
+Zan used 3 Bolt Burst on Reactor Tracker Fury - from (-5, -32) to (1, -33)
+Reactor Tracker Fury took 2 damage
+Reactor Tracker Fury took 1 knockback
+Reactor Tracker Fury hit something with 1 knockback left
+Reactor Tracker Fury took 1 damage
+Reactor Tracker Fury passed out
+Dall moved - from (-4, -35) to (0, -34)
+Dall used Charge - from (0, -34) to (0, -38)
+Reactor Tracker Asante took 1 damage
+Reactor Tracker Asante took 7 knockback
+Stun Barrel took 1 knockback
+Reactor Tracker Asante hit something with 2 knockback left
+Reactor Tracker Asante took 2 damage
+Reactor Tracker Asante passed out
+Stun Barrel hit something with 1 knockback left
+Stun Barrel took 1 damage
+Stun Barrel exploded
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Dall used Grab Intel - from (0, -38) to (1, -38)
+Dall Swapped with Moss - from (0, -38) to (-5, -39)
+Dall used Grab Intel - from (-5, -39) to (-6, -39)
+Zan used Grab Intel - from (-5, -32) to (-6, -32)
+Moss used Plant Explosives - from (1, -41) to (1, -41)
+False Prophet vanished
+Player ended their turn, starting enemy turn 1
+Reactor Medic Forest moved - from (1, -46) to (0, -42)
+Reactor Medic Forest took cover - from (0, -42) to (0, -42)
+Zan shot Reactor Chaser Lagrange on overwatch
+Reactor Chaser Lagrange took 4 damage
+Reactor Chaser Lagrange passed out
+End of enemy turn 1
+ 
+Start of player turn 2
+Zan moved - from (-5, -32) to (-1, -33)
+Zan used 3 Bolt Burst on Reactor Tracker Sanzey - from (-1, -33) to (0, -31)
+Reactor Tracker Sanzey took 2 damage
+Reactor Tracker Sanzey took 1 knockback
+Reactor Tracker Sanzey hit something with 1 knockback left
+Reactor Tracker Sanzey took 1 damage
+Reactor Tracker Sanzey passed out
+Dall Swapped with - from (-5, -39) to (-1, -37)
+Dall moved - from (-1, -37) to (0, -34)
+Dall used Grab Intel - from (0, -34) to (0, -33)
+Dall used Charge - from (0, -34) to (0, -41)
+Reactor Medic Forest took 1 damage
+Reactor Medic Forest took 10 knockback
+Reactor Medic Forest hit something with 7 knockback left
+Reactor Medic Forest took 7 damage
+Reactor Medic Forest passed out
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Zan used Time Boost on Dall - from (-1, -33) to (0, -41)
+Dall used Charge - from (0, -41) to (0, -34)
+Player ended their turn, starting enemy turn 2
+End of enemy turn 2
+ 
+Start of player turn 3
+Dall moved - from (0, -34) to (-2, -34)
+Dall Swapped with Reactor Chaser Stone - from (-2, -34) to (0, -32)
+Reactor Chaser Stone used Shock Hammer on Zan - from (-2, -34) to (-1, -33)
+Zan took 2 damage
+Zan took 2 knockback
+Zan hit something with 2 knockback left
+Zan took 2 damage
+Zan passed out
+Dall moved - from (0, -34) to (1, -33)
+Reactor Chaser Stone used Shock Hammer on Dall - from (1, -32) to (1, -33)
+Dall armour blocked 1 damage
+Dall took 1 damage
+Dall gained 1 mana from incoming damage
+Dall stability prevented 1 knockback
+Dall took 1 knockback
+Dall used Charge - from (1, -34) to (1, -33)
+Reactor Chaser Stone took 1 damage
+Reactor Chaser Stone took 1 knockback
+Zan took a free shot at Reactor Chaser Stone with Supporting Fire.
+Zan used 3 Bolt Burst on Reactor Chaser Stone - from (-1, -33) to (1, -31)
+Reactor Chaser Stone took 2 damage
+Reactor Chaser Stone took 1 knockback
+Reactor Chaser Stone hit something with 1 knockback left
+Reactor Chaser Stone took 1 damage
+Reactor Chaser Stone passed out
+Zan moved - from (-1, -33) to (0, -31)
+Dall moved - from (1, -33) to (1, -31)

@@ -1,0 +1,468 @@
+15_The_Broadcast_2_Tipping_Point
+ 
+Start of player turn 1
+Jen breached - from (-10, -4) to (-9, -4)
+Jen moved - from (-9, -4) to (-11, -1)
+Jen used Broom Breach - from (-11, -1) to (-11, 5)
+Jen cast Static Blast on Chapel Riot Priest Laguna - from (-11, 5) to (-9, 10)
+Chapel Riot Priest Laguna stability prevented 1 knockback
+Chapel Riot Priest Laguna took 1 knockback
+Chapel Riot Priest Laguna hit something with 1 knockback left
+Chapel Riot Priest Laguna took 1 damage
+Jen used Broom Breach - from (-11, -1) to (-11, 8)
+Banks moved - from (-8, -4) to (-7, -1)
+Banks used Transference on Chapel Riot Priest Laguna - from (-7, -1) to (-9, 10)
+Jen cast Chain Bolt on Chapel Riot Priest Laguna, Chapel Riot Priest Stillness, Reactor Heavy Gunner Kastner - from (-11, 8) to (-9, 10)
+Chapel Riot Priest Laguna stability prevented 1 knockback
+Chapel Riot Priest Laguna took 1 knockback
+Chapel Riot Priest Stillness stability prevented 1 knockback
+Chapel Riot Priest Stillness took 1 knockback
+Reactor Heavy Gunner Kastner stability prevented 1 knockback
+Reactor Heavy Gunner Kastner took 1 knockback
+Chapel Riot Priest Stillness hit something with 1 knockback left
+Chapel Riot Priest Stillness took 1 damage
+Chapel Riot Priest Laguna hit something with 1 knockback left
+Chapel Riot Priest Laguna took 1 damage
+Jen cast Static Blast on Chapel Riot Priest Stillness - from (-11, 8) to (-6, 7)
+Chapel Riot Priest Stillness stability prevented 1 knockback
+Chapel Riot Priest Stillness took 1 knockback
+Jen used Grab Intel - from (-11, 8) to (-11, 7)
+Banks used Use Laptop - from (-7, -1) to (-7, 0)
+Reactor Tracker Vietzen shot Chapel Riot Priest Voidborn - from (-6, -1) to (-5, 3)
+Chapel Riot Priest Voidborn armour blocked 1 damage
+Chapel Riot Priest Voidborn took 1 damage
+Reactor Tracker Lafoon shot Chapel Riot Priest Stillness - from (-10, 4) to (-5, 7)
+Chapel Riot Priest Stillness armour blocked 1 damage
+Chapel Riot Priest Stillness took 1 damage
+Chapel Riot Priest Stillness is no longer Gasmasked
+Chapel Riot Priest Laguna slammed Jen - from (-10, 9) to (-11, 8)
+3 damage and 1 knockback to Jen was transferred to Chapel Riot Priest Laguna
+Chapel Riot Priest Laguna armour blocked 1 damage
+Chapel Riot Priest Laguna took 2 damage
+Chapel Riot Priest Laguna is no longer Gasmasked
+Chapel Riot Priest Laguna stability prevented 1 knockback
+Reactor Heavy Gunner Kastner used Saturating Fire on Chapel Riot Priest Laguna - from (-10, 6) to (-10, 9)
+Chapel Riot Priest Laguna armour blocked 1 damage
+Chapel Riot Priest Laguna took 3 damage
+Banks used Sedative Cocktail on Chapel Riot Priest Voidborn - from (-7, -1) to (-5, 3)
+Chapel Riot Priest Voidborn stability prevented 1 knockback
+Gasmasked prevented Chapel Riot Priest Voidborn from gaining Sedated
+Gasmasked prevented Chapel Riot Priest Voidborn from gaining Unsteady
+Reactor Tracker Vietzen shot Chapel Riot Priest Voidborn - from (-6, -1) to (-5, 3)
+Chapel Riot Priest Voidborn armour blocked 1 damage
+Chapel Riot Priest Voidborn took 1 damage
+Reactor Tracker Lafoon shot Chapel Riot Priest Stillness - from (-10, 4) to (-5, 7)
+Chapel Riot Priest Stillness armour blocked 1 damage
+Chapel Riot Priest Stillness took 1 damage
+Chapel Riot Priest Stillness is no longer Gasmasked
+Chapel Riot Priest Laguna slammed Jen - from (-10, 9) to (-11, 8)
+3 damage and 1 knockback to Jen was transferred to Chapel Riot Priest Laguna
+Chapel Riot Priest Laguna armour blocked 1 damage
+Chapel Riot Priest Laguna took 2 damage
+Chapel Riot Priest Laguna is no longer Gasmasked
+Chapel Riot Priest Laguna stability prevented 1 knockback
+Reactor Heavy Gunner Kastner used Saturating Fire on Chapel Riot Priest Laguna - from (-10, 6) to (-10, 9)
+Chapel Riot Priest Laguna armour blocked 1 damage
+Chapel Riot Priest Laguna took 3 damage
+Player ended their turn, starting enemy turn 1
+Chapel Absolver Stone moved - from (-9, 10) to (-10, 8)
+Chapel Riot Priest Voidborn moved - from (-5, 3) to (-8, 3)
+Chapel Riot Priest Stillness moved - from (-5, 7) to (-8, 7)
+Reactor Heavy Gunner Kastner moved - from (-10, 6) to (-9, 6)
+Reactor Heavy Gunner Kastner launched a grenade - from (-9, 6) to (-9, 8)
+End of enemy turn 1
+ 
+Start of player turn 2
+Jen moved - from (-11, 8) to (-9, 8)
+Jen cast Static Blast on Chapel Absolver Stone - from (-9, 8) to (-10, 8)
+Chapel Absolver Stone took 4 knockback
+Chapel Absolver Stone was defenestrated - from (-11, 8) to (-11, 8)
+Chapel Riot Priest Laguna is no longer Invincible
+Jen cast Chain Bolt on Chapel Absolver Stone, Jen, Chapel Riot Priest Laguna - from (-9, 8) to (-10, 8)
+Chapel Absolver Stone took 2 knockback
+Jen took 2 knockback
+Chapel Riot Priest Laguna stability prevented 1 knockback
+Chapel Riot Priest Laguna took 1 knockback
+Weapons Cache took 1 knockback
+Chapel Riot Priest Laguna hit something with 1 knockback left
+Weapons Cache hit something with 1 knockback left
+Weapons Cache took 1 damage
+Jen gained 1 mana for destroying a Weapons Cache
+Weapons Cache exploded
+Chapel Riot Priest Laguna stability prevented 1 knockback
+Chapel Absolver Stone was defenestrated - from (-11, 8) to (-11, 8)
+Chapel Riot Priest Laguna is no longer Invincible
+Chapel Absolver Stone took 2 damage
+Chapel Absolver Stone passed out
+Jen moved - from (-11, 8) to (-9, 10)
+Banks used Use Laptop - from (-7, -1) to (-7, 0)
+Jen moved - from (-11, 8) to (-7, 7)
+Jen cast Chain Bolt on Chapel Riot Priest Stillness, Chapel Absolver Stone, Chapel Riot Priest Laguna - from (-7, 7) to (-8, 7)
+Chapel Riot Priest Stillness stability prevented 1 knockback
+Chapel Riot Priest Stillness took 1 knockback
+Chapel Absolver Stone took 2 knockback
+Chapel Riot Priest Laguna stability prevented 1 knockback
+Chapel Riot Priest Laguna took 1 knockback
+Chapel Absolver Stone hit something with 1 knockback left
+Chapel Absolver Stone took 1 damage
+Chapel Riot Priest Laguna is no longer Invincible
+Jen moved - from (-11, 8) to (-6, 8)
+Jen cast Chain Bolt on Chapel Absolver Stone, Chapel Riot Priest Stillness, Chapel Riot Priest Laguna - from (-6, 8) to (-10, 8)
+Chapel Absolver Stone took 2 knockback
+Chapel Riot Priest Stillness stability prevented 1 knockback
+Chapel Riot Priest Stillness took 1 knockback
+Chapel Riot Priest Laguna stability prevented 1 knockback
+Chapel Riot Priest Laguna took 1 knockback
+Weapons Cache took 1 knockback
+Chapel Riot Priest Laguna hit something with 1 knockback left
+Weapons Cache hit something with 1 knockback left
+Weapons Cache took 1 damage
+Jen gained 1 mana for destroying a Weapons Cache
+Weapons Cache exploded
+Chapel Riot Priest Laguna stability prevented 1 knockback
+Chapel Absolver Stone was defenestrated - from (-11, 8) to (-11, 8)
+Chapel Riot Priest Laguna is no longer Invincible
+Chapel Absolver Stone took 2 damage
+Chapel Absolver Stone passed out
+Jen moved - from (-11, 8) to (-8, 8)
+Jen cast Chain Bolt on Chapel Absolver Stone, Jen, Chapel Riot Priest Laguna - from (-8, 8) to (-10, 8)
+Chapel Absolver Stone took 2 knockback
+Jen took 2 knockback
+Chapel Riot Priest Laguna stability prevented 1 knockback
+Chapel Riot Priest Laguna took 1 knockback
+Weapons Cache took 1 knockback
+Chapel Riot Priest Laguna hit something with 1 knockback left
+Weapons Cache hit something with 1 knockback left
+Weapons Cache took 1 damage
+Jen gained 1 mana for destroying a Weapons Cache
+Weapons Cache exploded
+Chapel Riot Priest Laguna stability prevented 1 knockback
+Chapel Absolver Stone was defenestrated - from (-11, 8) to (-11, 8)
+Chapel Riot Priest Laguna is no longer Invincible
+Chapel Absolver Stone took 2 damage
+Chapel Absolver Stone passed out
+Jen moved - from (-11, 8) to (-7, 6)
+Jen cast Static Blast on Chapel Riot Priest Stillness - from (-7, 6) to (-8, 7)
+Chapel Riot Priest Stillness stability prevented 1 knockback
+Chapel Riot Priest Stillness took 3 knockback
+Chapel Riot Priest Laguna stability prevented 1 knockback
+Chapel Riot Priest Stillness hit something with 2 knockback left
+Chapel Riot Priest Stillness took 2 damage
+Banks moved - from (-7, -1) to (-8, 0)
+Banks used Sedative Cocktail - from (-8, 0) to (-9, 8)
+Chapel Absolver Stone is Sedated
+Chapel Riot Priest Laguna is Sedated
+Chapel Riot Priest Stillness is Sedated
+Jen moved - from (-11, 8) to (-8, 8)
+Jen cast Chain Bolt on Chapel Riot Priest Laguna, Jen, Chapel Riot Priest Stillness - from (-8, 8) to (-10, 9)
+Chapel Riot Priest Laguna took 2 knockback
+Jen took 2 knockback
+Chapel Riot Priest Stillness took 2 knockback
+Weapons Cache took 1 knockback
+Chapel Riot Priest Laguna hit something with 2 knockback left
+Weapons Cache hit something with 1 knockback left
+Weapons Cache took 1 damage
+Jen gained 1 mana for destroying a Weapons Cache
+Weapons Cache exploded
+Chapel Riot Priest Laguna took 1 knockback
+Jen hit something with 1 knockback left
+Jen took 1 damage
+Jen cast Static Blast on Chapel Riot Priest Stillness - from (-7, 7) to (-8, 5)
+Chapel Riot Priest Stillness took 2 knockback
+Chapel Riot Priest Stillness hit something with 2 knockback left
+Chapel Riot Priest Stillness took 2 damage
+Jen cast Static Blast on Chapel Riot Priest Laguna - from (-11, 8) to (-10, 9)
+Chapel Riot Priest Laguna stability prevented 1 knockback
+Chapel Riot Priest Laguna took 3 knockback
+Chapel Riot Priest Laguna hit something with 2 knockback left
+Jen cast Chain Bolt on Chapel Riot Priest Laguna, Chapel Absolver Stone, Chapel Riot Priest Stillness - from (-11, 8) to (-10, 9)
+Chapel Riot Priest Laguna stability prevented 1 knockback
+Chapel Riot Priest Laguna took 1 knockback
+Chapel Absolver Stone took 2 knockback
+Chapel Riot Priest Stillness stability prevented 1 knockback
+Chapel Riot Priest Stillness took 1 knockback
+Chapel Riot Priest Laguna is no longer Invincible
+Banks used Sedative Cocktail - from (-8, 0) to (-9, 8)
+Chapel Absolver Stone is Sedated
+Chapel Riot Priest Laguna is Sedated
+Chapel Riot Priest Stillness is Sedated
+Jen cast Chain Bolt on Chapel Riot Priest Laguna, Chapel Absolver Stone, Chapel Riot Priest Stillness - from (-11, 8) to (-10, 9)
+Chapel Riot Priest Laguna took 2 knockback
+Chapel Absolver Stone took 3 knockback
+Chapel Riot Priest Stillness took 2 knockback
+Chapel Riot Priest Stillness hit something with 1 knockback left
+Chapel Riot Priest Stillness took 1 damage
+Chapel Riot Priest Laguna hit something with 1 knockback left
+Chapel Riot Priest Laguna is no longer Invincible
+Jen moved - from (-11, 8) to (-10, 5)
+Jen cast Chain Bolt on Chapel Riot Priest Voidborn, Chapel Riot Priest Stillness, Chapel Absolver Stone - from (-10, 5) to (-8, 3)
+Chapel Riot Priest Voidborn stability prevented 1 knockback
+Chapel Riot Priest Voidborn took 1 knockback
+Chapel Riot Priest Stillness took 2 knockback
+Chapel Absolver Stone took 3 knockback
+Chapel Absolver Stone hit something with 2 knockback left
+Chapel Absolver Stone took 2 damage
+Chapel Absolver Stone passed out
+Chapel Riot Priest Laguna is no longer Invincible
+Jen cast Chain Bolt on Chapel Riot Priest Voidborn, Reactor Heavy Gunner Kastner, Chapel Riot Priest Stillness - from (-10, 5) to (-8, 3)
+Chapel Riot Priest Voidborn stability prevented 1 knockback
+Chapel Riot Priest Voidborn took 1 knockback
+Reactor Heavy Gunner Kastner stability prevented 1 knockback
+Reactor Heavy Gunner Kastner took 1 knockback
+Chapel Riot Priest Stillness took 2 knockback
+Chapel Riot Priest Stillness hit something with 1 knockback left
+Chapel Riot Priest Stillness took 1 damage
+Jen cast Static Blast on Chapel Riot Priest Voidborn - from (-10, 5) to (-7, 2)
+Chapel Riot Priest Voidborn stability prevented 1 knockback
+Chapel Riot Priest Voidborn took 1 knockback
+Chapel Riot Priest Voidborn hit something with 1 knockback left
+Chapel Riot Priest Voidborn took 1 damage
+Chapel Riot Priest Voidborn is no longer Gasmasked
+Jen cast Chain Bolt on Chapel Absolver Stone, Banks, Chapel Riot Priest Voidborn - from (-10, 5) to (-10, 8)
+Chapel Absolver Stone took 3 knockback
+Banks took 2 knockback
+Chapel Riot Priest Voidborn stability prevented 1 knockback
+Chapel Riot Priest Voidborn took 1 knockback
+Chapel Riot Priest Laguna took 1 knockback
+Chapel Absolver Stone hit something with 3 knockback left
+Chapel Absolver Stone took 3 damage
+Chapel Absolver Stone passed out
+Chapel Riot Priest Laguna is no longer Invincible
+Jen cast Static Blast on Chapel Riot Priest Voidborn - from (-10, 5) to (-8, 4)
+Chapel Riot Priest Voidborn stability prevented 1 knockback
+Chapel Riot Priest Voidborn took 1 knockback
+Jen moved - from (-10, 5) to (-6, 5)
+Chapel Riot Priest Stillness armour blocked 1 damage
+Chapel Riot Priest Stillness took 1 damage
+Chapel Riot Priest Stillness took 1 knockback
+Reactor Tracker Vietzen shot Chapel Riot Priest Laguna - from (-6, -1) to (-10, 10)
+Chapel Riot Priest Laguna armour blocked 1 damage
+Chapel Riot Priest Laguna took 1 damage
+Reactor Tracker Lafoon shot Chapel Riot Priest Laguna - from (-10, 4) to (-10, 10)
+Chapel Riot Priest Laguna armour blocked 1 damage
+Chapel Riot Priest Laguna took 1 damage
+Chapel Riot Priest Laguna passed out
+Reactor Tracker Caulder shot Chapel Riot Priest Stillness - from (-4, 7) to (-7, 6)
+Chapel Riot Priest Stillness armour blocked 1 damage
+Chapel Riot Priest Stillness took 1 damage
+Chapel Riot Priest Voidborn slammed Jen - from (-7, 5) to (-6, 5)
+Jen took 3 damage
+Jen took 1 knockback
+Reactor Heavy Gunner Kastner used Saturating Fire on Chapel Riot Priest Stillness - from (-9, 6) to (-7, 6)
+Chapel Riot Priest Stillness armour blocked 1 damage
+Chapel Riot Priest Stillness took 3 damage
+Chapel Riot Priest Stillness took 1 damage
+Chapel Riot Priest Stillness passed out
+Jen moved - from (-10, 5) to (-6, 7)
+Chapel Riot Priest Stillness armour blocked 1 damage
+Chapel Riot Priest Stillness took 1 damage
+Chapel Riot Priest Stillness took 1 knockback
+Reactor Tracker Vietzen shot Chapel Riot Priest Laguna - from (-6, -1) to (-10, 10)
+Chapel Riot Priest Laguna armour blocked 1 damage
+Chapel Riot Priest Laguna took 1 damage
+Reactor Tracker Lafoon shot Chapel Riot Priest Laguna - from (-10, 4) to (-10, 10)
+Chapel Riot Priest Laguna armour blocked 1 damage
+Chapel Riot Priest Laguna took 1 damage
+Chapel Riot Priest Laguna passed out
+Chapel Riot Priest Voidborn slammed Reactor Tracker Lafoon - from (-10, 3) to (-10, 4)
+Reactor Tracker Lafoon took 3 damage
+Reactor Tracker Lafoon passed out
+Reactor Tracker Lafoon took 1 knockback
+Reactor Heavy Gunner Kastner used Saturating Fire on Chapel Riot Priest Stillness - from (-9, 6) to (-7, 6)
+Chapel Riot Priest Stillness armour blocked 1 damage
+Chapel Riot Priest Stillness took 3 damage
+Chapel Riot Priest Stillness took 1 damage
+Player ended their turn, starting enemy turn 2
+Chapel Tracker Moon moved - from (-4, 3) to (-5, 2)
+Reactor Tracker Caulder moved - from (-4, 7) to (-5, 7)
+Reactor Tracker Albrecht moved - from (-4, 6) to (-5, 6)
+Chapel Riot Priest Voidborn moved - from (-10, 3) to (-10, 6)
+Chapel Riot Priest Stillness moved - from (-7, 6) to (-8, 6)
+Reactor Heavy Gunner Kastner moved - from (-9, 6) to (-8, 5)
+Reactor Heavy Gunner Kastner launched a grenade - from (-8, 5) to (-9, 7)
+End of enemy turn 2
+ 
+Start of player turn 3
+Jen cast Static Blast on - from (-6, 7) to (-11, 10)
+Weapons Cache took 2 knockback
+Weapons Cache hit something with 2 knockback left
+Weapons Cache took 2 damage
+Jen gained 1 mana for destroying a Weapons Cache
+Weapons Cache exploded
+Chapel Tracker Truth took 1 damage
+Chapel Tracker Truth took 1 knockback
+Jen cast Static Blast on Chapel Tracker Truth - from (-6, 7) to (-10, 10)
+Chapel Tracker Truth took 2 knockback
+Chapel Tracker Truth hit something with 2 knockback left
+Chapel Tracker Truth took 2 damage
+Jen moved - from (-6, 7) to (-9, 10)
+Jen cast Static Blast on Chapel Tracker Truth - from (-9, 10) to (-10, 10)
+Chapel Tracker Truth took 4 knockback
+Weapons Cache took 1 knockback
+Chapel Tracker Truth hit something with 4 knockback left
+Chapel Tracker Truth took 4 damage
+Chapel Tracker Truth passed out
+Weapons Cache hit something with 1 knockback left
+Weapons Cache took 1 damage
+Jen gained 1 mana for destroying a Weapons Cache
+Weapons Cache exploded
+Jen moved - from (-9, 10) to (-5, 8)
+Banks used Sedative Cocktail on Chapel Tracker Moon - from (-8, -2) to (-5, 2)
+Chapel Tracker Moon took 1 knockback
+Chapel Tracker Moon is Sedated
+Banks used Death's Door - from (-8, -2) to (-11, 6)
+Jen moved - from (-6, 7) to (-9, 10)
+Jen cast Static Blast on Chapel Tracker Truth - from (-9, 10) to (-10, 10)
+Chapel Tracker Truth took 4 knockback
+Weapons Cache took 1 knockback
+Chapel Tracker Truth hit something with 4 knockback left
+Chapel Tracker Truth took 4 damage
+Chapel Tracker Truth passed out
+Weapons Cache hit something with 1 knockback left
+Weapons Cache took 1 damage
+Jen gained 1 mana for destroying a Weapons Cache
+Weapons Cache exploded
+Jen moved - from (-6, 7) to (-8, 3)
+Jen cast Static Blast on Chapel Riot Priest Voidborn - from (-8, 3) to (-10, 6)
+Chapel Riot Priest Voidborn stability prevented 1 knockback
+Chapel Riot Priest Voidborn took 1 knockback
+Chapel Riot Priest Voidborn hit something with 1 knockback left
+Chapel Riot Priest Voidborn took 1 damage
+Chapel Riot Priest Voidborn is no longer Gasmasked
+Banks used Sedative Cocktail - from (-8, -2) to (-9, 7)
+Gasmasked prevented Chapel Riot Priest Voidborn from gaining Sedated
+Gasmasked prevented Chapel Riot Priest Voidborn from gaining Unsteady
+Chapel Riot Priest Stillness is Sedated
+Jen cast Static Blast on Chapel Riot Priest Voidborn - from (-8, 3) to (-10, 6)
+Chapel Riot Priest Voidborn stability prevented 1 knockback
+Chapel Riot Priest Voidborn took 1 knockback
+Chapel Riot Priest Voidborn hit something with 1 knockback left
+Chapel Riot Priest Voidborn took 1 damage
+Chapel Riot Priest Voidborn is no longer Gasmasked
+Jen moved - from (-6, 7) to (-10, 5)
+Banks used Sedative Cocktail - from (-8, -2) to (-9, 7)
+Gasmasked prevented Chapel Riot Priest Voidborn from gaining Sedated
+Gasmasked prevented Chapel Riot Priest Voidborn from gaining Unsteady
+Chapel Riot Priest Stillness is Sedated
+Jen cast Static Blast on Chapel Riot Priest Voidborn - from (-10, 5) to (-10, 6)
+Chapel Riot Priest Voidborn stability prevented 1 knockback
+Chapel Riot Priest Voidborn took 3 knockback
+Banks used Death's Door - from (-8, -2) to (-10, 9)
+Jen cast Static Blast on Chapel Riot Priest Voidborn - from (-10, 5) to (-10, 6)
+Chapel Riot Priest Voidborn stability prevented 1 knockback
+Chapel Riot Priest Voidborn took 3 knockback
+Jen threw a Gale Grenade Chapel Riot Priest Voidborn - from (-10, 5) to (-10, 9)
+Weapons Cache took 1 knockback
+Chapel Tracker Truth took 1 knockback
+Chapel Tracker Truth fell into Death's Door
+Chapel Tracker Truth took 3 damage
+Chapel Tracker Truth passed out
+Chapel Tracker Truth hit something with 1 knockback left
+Weapons Cache hit something with 1 knockback left
+Weapons Cache took 1 damage
+Jen gained 1 mana for destroying a Weapons Cache
+Weapons Cache exploded
+Chapel Riot Priest Voidborn armour blocked 1 damage
+Chapel Riot Priest Voidborn stability prevented 1 knockback
+Jen threw a Gale Grenade - from (-10, 5) to (-9, 9)
+Chapel Riot Priest Voidborn stability prevented 1 knockback
+Chapel Tracker Truth took 1 knockback
+Chapel Tracker Truth fell into Death's Door
+Chapel Tracker Truth took 3 damage
+Chapel Tracker Truth passed out
+Chapel Tracker Truth hit something with 1 knockback left
+Jen cast Static Blast on - from (-6, 7) to (-11, 10)
+Weapons Cache took 2 knockback
+Weapons Cache hit something with 2 knockback left
+Weapons Cache took 2 damage
+Jen gained 1 mana for destroying a Weapons Cache
+Weapons Cache exploded
+Chapel Tracker Truth took 1 damage
+Chapel Tracker Truth took 1 knockback
+Jen cast Static Blast on Chapel Tracker Truth - from (-6, 7) to (-10, 10)
+Chapel Tracker Truth took 2 knockback
+Chapel Tracker Truth hit something with 2 knockback left
+Chapel Tracker Truth took 2 damage
+Jen moved - from (-6, 7) to (-7, 4)
+Jen cast Static Blast on - from (-6, 7) to (-11, 10)
+Weapons Cache took 2 knockback
+Weapons Cache hit something with 2 knockback left
+Weapons Cache took 2 damage
+Jen gained 1 mana for destroying a Weapons Cache
+Weapons Cache exploded
+Chapel Tracker Truth took 1 damage
+Chapel Tracker Truth took 1 knockback
+Banks used Death's Door on Chapel Tracker Truth - from (-8, -2) to (-10, 10)
+Jen threw a Gale Grenade - from (-6, 7) to (-11, 10)
+Chapel Tracker Truth took 1 knockback
+Jen threw a Gale Grenade - from (-6, 7) to (-9, 10)
+Chapel Tracker Truth took 1 knockback
+Weapons Cache took 1 knockback
+Chapel Tracker Truth hit something with 1 knockback left
+Chapel Tracker Truth took 1 damage
+Weapons Cache hit something with 1 knockback left
+Weapons Cache took 1 damage
+Jen gained 1 mana for destroying a Weapons Cache
+Weapons Cache exploded
+Chapel Tracker Truth took 1 damage
+Chapel Tracker Truth took 1 knockback
+Jen moved - from (-6, 7) to (-10, 5)
+Jen cast Static Blast on Chapel Riot Priest Voidborn - from (-10, 5) to (-10, 6)
+Chapel Riot Priest Voidborn stability prevented 1 knockback
+Chapel Riot Priest Voidborn took 3 knockback
+Jen threw a Gale Grenade - from (-6, 7) to (-9, 10)
+Chapel Tracker Truth took 1 knockback
+Weapons Cache took 1 knockback
+Chapel Tracker Truth hit something with 1 knockback left
+Chapel Tracker Truth took 1 damage
+Weapons Cache hit something with 1 knockback left
+Weapons Cache took 1 damage
+Jen gained 1 mana for destroying a Weapons Cache
+Weapons Cache exploded
+Chapel Tracker Truth took 1 damage
+Chapel Tracker Truth took 1 knockback
+Banks used Death's Door - from (-8, -2) to (-11, 6)
+Jen cast Chain Bolt on Chapel Riot Priest Voidborn, Weapons Cache, Chapel Riot Priest Stillness - from (-6, 7) to (-10, 6)
+Chapel Riot Priest Voidborn stability prevented 1 knockback
+Chapel Riot Priest Voidborn took 1 knockback
+Weapons Cache took 2 knockback
+Chapel Riot Priest Stillness took 2 knockback
+Chapel Riot Priest Voidborn fell into Death's Door
+Chapel Riot Priest Voidborn took 7 damage
+Chapel Riot Priest Voidborn is no longer Gasmasked
+Chapel Riot Priest Voidborn passed out
+Reactor Heavy Gunner Kastner stability prevented 1 knockback
+Chapel Riot Priest Stillness hit something with 2 knockback left
+Chapel Riot Priest Stillness took 2 damage
+Chapel Riot Priest Stillness passed out
+Weapons Cache hit something with 2 knockback left
+Weapons Cache took 2 damage
+Jen gained 1 mana for destroying a Weapons Cache
+Weapons Cache exploded
+Jen moved - from (-6, 7) to (-10, 5)
+Jen took cover - from (-10, 5) to (-10, 5)
+Banks used Sedative Cocktail on Chapel Tracker Moon - from (-8, -2) to (-5, 2)
+Chapel Tracker Moon took 1 knockback
+Chapel Tracker Moon is Sedated
+Banks used Sedative Cocktail on Chapel Tracker Moon - from (-8, -2) to (-5, 2)
+Chapel Tracker Moon took 1 knockback
+Chapel Tracker Moon is Sedated
+Banks moved - from (-8, -2) to (-8, 1)
+Banks took cover - from (-8, 1) to (-8, 1)
+Reactor Tracker Caulder shot Chapel Tracker Truth - from (-5, 7) to (-9, 10)
+Chapel Tracker Truth took 2 damage
+Chapel Tracker Truth passed out
+Chapel Tracker Moon took 1 damage
+Player ended their turn, starting enemy turn 3
+Reactor Tracker Vietzen moved - from (-6, -1) to (-7, -1)
+Reactor Heavy Gunner Kastner moved - from (-8, 5) to (-6, 4)
+Reactor Heavy Gunner Kastner launched a grenade - from (-6, 4) to (-4, 4)
+End of enemy turn 3
+ 
+Start of player turn 4
+Banks used Sedative Cocktail on Chapel Tracker Moon - from (-8, 1) to (-4, 3)
+Chapel Tracker Moon took 2 knockback
+Chapel Tracker Moon is Sedated
+Chapel Tracker Moon hit something with 2 knockback left
+Chapel Tracker Moon took 2 damage
+Chapel Tracker Moon passed out

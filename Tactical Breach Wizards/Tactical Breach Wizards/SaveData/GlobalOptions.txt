@@ -1,0 +1,8 @@
+# GlobalOptions.txt
+# 2025-01-11 01:20:57 (+07:00)
+# v:2024-12-18-Spearmint
+
+<AnalyticsManager>
+  dataCollectionStatus = enabled
+</AnalyticsManager>
+

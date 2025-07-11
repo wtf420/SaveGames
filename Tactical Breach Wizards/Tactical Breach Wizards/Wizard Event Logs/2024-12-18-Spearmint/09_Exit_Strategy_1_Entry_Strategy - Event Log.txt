@@ -1,0 +1,74 @@
+09_Exit_Strategy_1_Entry_Strategy
+ 
+Start of player turn 1
+Zan repositioned - from (2, 0) to (2, 2)
+Zan breached - from (2, 2) to (2, 1)
+Jen breached - from (2, -1) to (2, -2)
+Jen cast Chain Bolt on Reactor Officer Caron, Reactor Tracker Vanderstar, Reactor Tracker Fiel - from (2, -2) to (5, -2)
+Reactor Officer Caron took 2 knockback
+Reactor Tracker Vanderstar took 2 knockback
+Reactor Tracker Fiel took 4 knockback
+Reactor Officer Caron hit something with 2 knockback left
+Reactor Officer Caron took 2 damage
+Reactor Tracker Fiel took 1 knockback
+Reactor Tracker Vanderstar hit something with 2 knockback left
+Reactor Tracker Vanderstar took 2 damage
+Reactor Tracker Fiel hit something with 5 knockback left
+Reactor Tracker Fiel took 5 damage
+Reactor Tracker Fiel passed out
+Jen moved - from (2, -2) to (5, -3)
+Jen used Use Laptop - from (5, -3) to (6, -3)
+Jen threw a Gale Grenade - from (5, -3) to (6, -1)
+Reactor Officer Caron took 1 knockback
+Reactor Tracker Vanderstar took 1 knockback
+Reactor Officer Caron hit something with 1 knockback left
+Reactor Officer Caron took 1 damage
+Reactor Officer Caron passed out
+Zan moved - from (2, 1) to (4, 4)
+Banks moved - from (2, 0) to (4, 2)
+Banks used Death's Door - from (4, 2) to (0, 4)
+Zan used 3 Bolt Burst on Reactor Heavy Gunner Elvashak - from (4, 4) to (1, 4)
+Reactor Heavy Gunner Elvashak armour blocked 1 damage
+Reactor Heavy Gunner Elvashak stability prevented 1 knockback
+Zan used Grab Intel - from (4, 4) to (4, 3)
+Zan repositioned - from (2, 2) to (2, -1)
+Zan breached - from (2, -1) to (2, -2)
+Jen breached - from (2, 2) to (2, 1)
+Jen cast Chain Bolt on Reactor Tracker Fiel, Reactor Tracker Vanderstar, Reactor Officer Caron - from (2, 1) to (7, 1)
+Reactor Tracker Fiel took 2 knockback
+Reactor Tracker Vanderstar took 2 knockback
+Reactor Officer Caron took 4 knockback
+Reactor Officer Caron hit something with 4 knockback left
+Reactor Officer Caron took 4 damage
+Reactor Officer Caron passed out
+Reactor Tracker Vanderstar hit something with 2 knockback left
+Reactor Tracker Vanderstar took 2 damage
+Reactor Tracker Fiel hit something with 2 knockback left
+Reactor Tracker Fiel took 2 damage
+Zan moved - from (2, -2) to (5, -3)
+Zan used Use Laptop - from (5, -3) to (6, -3)
+Zan used 3 Bolt Burst on Reactor Tracker Fiel - from (5, -3) to (7, 1)
+Reactor Tracker Fiel took 1 damage
+Reactor Tracker Fiel passed out
+Reactor Tracker Fiel took 1 knockback
+Reactor Tracker Fiel hit something with 1 knockback left
+Jen moved - from (2, 1) to (6, 3)
+Banks moved - from (2, 0) to (4, 4)
+Banks used Death's Door - from (4, 4) to (0, 4)
+Banks used Grab Intel - from (4, 4) to (4, 3)
+Banks used Sedative Cocktail on Reactor Tracker Vanderstar - from (4, 4) to (6, 0)
+Reactor Tracker Vanderstar took 1 knockback
+Reactor Tracker Vanderstar is Sedated
+Zan took a free shot at Reactor Tracker Vanderstar with Supporting Fire.
+Zan used 3 Bolt Burst on Reactor Tracker Vanderstar - from (5, -3) to (7, -1)
+Reactor Tracker Vanderstar took 1 damage
+Reactor Tracker Vanderstar passed out
+Reactor Tracker Vanderstar took 2 knockback
+Reactor Tracker Vanderstar hit something with 2 knockback left
+Zan used Time Boost on Jen - from (5, -3) to (6, 3)
+Jen cast Static Blast on Reactor Heavy Gunner Elvashak - from (6, 3) to (1, 4)
+Reactor Heavy Gunner Elvashak stability prevented 1 knockback
+Reactor Heavy Gunner Elvashak took 1 knockback
+Reactor Heavy Gunner Elvashak fell into Death's Door
+Reactor Heavy Gunner Elvashak took 4 damage
+Reactor Heavy Gunner Elvashak passed out

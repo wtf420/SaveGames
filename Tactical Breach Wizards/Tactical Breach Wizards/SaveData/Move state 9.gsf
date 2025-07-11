@@ -1,0 +1,1079 @@
+# Move state 9.gsf
+# 2025-03-03 22:34:04 (+07:00)
+# v:2025-01-17-Mango
+
+<LevelHeader>
+  type = MoveState
+  levelFileName = Finale - Roof|2 The Black Ops Chronomancer|Official
+  name = Undo Move: Rebel Riot Priest(Clone) 824 used Swap
+  description = 
+  abilityUsed = 824|Swap|-11:5
+  returnMode = Campaign
+  timestamp = 133854896449954557
+</LevelHeader>
+
+#
+# Configuration
+#
+  <config:CasualSpeechManager>
+    # LevelAndTurnState
+  </config:CasualSpeechManager>
+  <config:EventManager>
+    # TurnStateOnly
+    logCount = 907
+    importantLogCount = 100
+  </config:EventManager>
+  <config:InstructionManager>
+    # LevelAndTurnState
+    tutorialName = None
+    instructionsCompleted = 0
+    instructionLevelObjectiveInstructionCompleted = False
+  </config:InstructionManager>
+  <config:LevelManager>
+    # LevelAndTurnState
+    yAngle = 270
+    levelCameraRotation = 0.9175056:0.265705138:0.284266263:-0.08232212 #(32.3, 34.4, 0.0)
+    levelCameraPosition = -6.89413643:0.599999964:-2.09605551
+    levelCameraFieldOfView = 11.8343172
+    levelCameraPositionIsLook = True
+    badgeTimeLimit = 30
+    badgeTurnLimit = 2
+    badgeDefenestrationLimit = 0.5
+    tilesetName = CentralReserveRoofTileset
+    disableAutoWall = True
+    carryOverWizardPositions = False
+    dialogName = RooftopFinaleMidGame
+    conversationStyle = MidGame
+    initialSelectedWizard = None
+    ignoreReinforcementDifficulty = False
+    ignoreActionsDifficulty = False
+    musicTrackCategory = Prologue
+    musicTrackName = Final Level
+    breachIntroTrackCategory = Main Menu
+    breachIntroTrackName = Music
+    playMusicSeamless = False
+    commentaryName = The boss
+    commentaryDev[] = Tom
+    tilesetProhibitedTag[] = tall
+    isFinale = True
+    # Remove Perks
+    removePerk[] = SeerFinaleKnockBackDummy
+    # Single Level Perks
+    singleLevelPerk[] = FinaleSeerKnockback
+    # ObjectiveList
+    Objective[] = FinaleKillLivOnce
+    FinaleKillLivOnceKilledLiv = True
+    Objective[] = FinaleDefeatLiv
+    # ConfidenceGoalList
+    ConfidenceGoal[] = PredictiveShotFinaleGoal
+    PredictiveShotFinaleGoalirreversiblyCompleted = True
+    ConfidenceGoal[] = ScapegoatFinaleGoal
+    ScapegoatFinaleGoalirreversiblyCompleted = True
+    ConfidenceGoal[] = SporeBombFinaleGoal
+    SporeBombFinaleGoalirreversiblyCompleted = True
+    ConfidenceGoal[] = ChainShockFinaleGoal
+    ChainShockFinaleGoalirreversiblyCompleted = True
+    ConfidenceGoal[] = SwapFinaleGoal
+    SwapFinaleGoalirreversiblyCompleted = False
+    # Level Stats
+    EnemiesDown = 8
+    EnemiesDefenestrated = 3
+    DamageTaken = 6
+    # Ability Stats
+    FalseProphetStatUses = 7
+    FalseProphetStatTurns = 10
+    SeerShotStatUses = 4
+    SeerShotStatTurns = 10
+    TimeBoostStatUses = 0
+    TimeBoostStatTurns = 10
+    SeerOverwatchStatUses = 3
+    SeerOverwatchStatTurns = 10
+    ThrowInstantGrenadeStatUses = 4
+    ThrowInstantGrenadeStatTurns = 5
+    GhostShotStatUses = 0
+    GhostShotStatTurns = 5
+    ResurrectFriendStatUses = 1
+    ResurrectFriendStatTurns = 5
+    DeathsDoorStatUses = 0
+    DeathsDoorStatTurns = 5
+    TransferenceStatUses = 1
+    TransferenceStatTurns = 4
+    WandShotStatUses = 3
+    WandShotStatTurns = 4
+    CustomChainLightningStatUses = 2
+    CustomChainLightningStatTurns = 2
+    BroomStatUses = 0
+    BroomStatTurns = 4
+    GaleGrenadeStatUses = 0
+    GaleGrenadeStatTurns = 4
+    DruidPullStatUses = 2
+    DruidPullStatTurns = 3
+    DruidAcidDartStatUses = 0
+    DruidAcidDartStatTurns = 3
+    StealManaStatUses = 0
+    StealManaStatTurns = 3
+    ThrowCrowdGrenadeStatUses = 1
+    ThrowCrowdGrenadeStatTurns = 3
+    ChargeStatUses = 0
+    ChargeStatTurns = 2
+    CenserSmashStatUses = 0
+    CenserSmashStatTurns = 2
+    SwapStatUses = 1
+    SwapStatTurns = 2
+    ThrowCoverStatUses = 1
+    ThrowCoverStatTurns = 2
+    # Level Wizards
+    levelWizards[] = NavySeer
+    # Rooms
+    unsealedRooms[] = -14:-6
+    # MidGameConversation
+    MidGameConvoDialogName = RooftopFinaleMidGame
+    MidGameConvoVisited[] = 12
+    MidGameConvoVisited[] = 13
+    MidGameConvoVisited[] = 11
+    MidGameConvoVisited[] = 14
+    MidGameConvoVisited[] = 2
+    # Achievement Tracking
+    achTurnCounter = 6
+    achBoltCount = 0
+    achDefenCount = 0
+    achSedCount = 2
+    achAbilityUsed[] = ThrowInstantGrenade
+    achAbilityUsed[] = DruidPull
+    achAbilityUsed[] = DogPounce
+    achAbilityUsed[] = Move
+    achAbilityUsed[] = ThrowCover
+    achAbilityUsed[] = SeerShot
+    achAbilityUsed[] = SeerOverwatch
+    achAbilityUsed[] = Swap
+    achAbilityUsed[] = Pick_Up_Riot_Block835
+    achWizActions[] = 800:1
+    achWizActions[] = 816:1
+    achWizActions[] = 73:1
+  </config:LevelManager>
+  <config:SpeechManager>
+    # LevelAndTurnState
+    ScriptName = FinaleRooftopSpeech
+    stage = 0
+  </config:SpeechManager>
+  <config:TurnManager>
+    # TurnStateOnly
+    TurnCount = 5
+    SurviveTurnCount = 5
+    wizardsPresentAtStartOfLevel = 1
+    wizardsBlinkedOut = 0
+    wizardsBlinkedOutBeforeTurn = 0
+    cachesDestroyed = 0
+    banksDeathsDoored = False
+    dialogTurnsCompleted = 5
+    wizardsEnteredLevelAtLeastOnce = True
+  </config:TurnManager>
+# END - Configuration
+
+#
+# NonStatic
+#
+  <prefab:Air Barrel>
+    # Prefab
+    instanceID = 620
+    transformPosition = -14:0:-6
+    transformRotation = -0.7071068:0:0.7071068:0 #(0.0, 270.0, 0.0)
+    # ActiveObject
+    currentHealth = 1
+    currentArmour = 0
+    maxHealth = 1
+    secondsTilDestroy = -1
+  </prefab:Air Barrel>
+  <prefab:Air Barrel>
+    # Prefab
+    instanceID = 734
+    transformPosition = -9:0:8
+    transformRotation = -4.371139E-08:0:1:0 #(0.0, 180.0, 0.0)
+    # ActiveObject
+    currentHealth = 1
+    currentArmour = 0
+    maxHealth = 1
+    secondsTilDestroy = -1
+  </prefab:Air Barrel>
+  <prefab:Cover>
+    # Prefab
+    instanceID = 121
+    transformPosition = -7:0:-2
+    transformRotation = -0.7071068:0:0.7071067:0 #(0.0, 270.0, 0.0)
+    artPrefabName = CentralReserveRoofTileset/CoverDouble1
+    hiddenCoverObjectPosition = -8:0:-2
+  </prefab:Cover>
+  <prefab:Cover>
+    # Prefab
+    instanceID = 122
+    transformPosition = -3:0:1
+    transformRotation = 0.7071068:0:0.7071068:0 #(0.0, 90.0, 0.0)
+    artElementPosition = -2:0:1
+    hiddenCoverObjectPosition = 9999:9999:9999
+  </prefab:Cover>
+  <prefab:Cover>
+    # Prefab
+    instanceID = 123
+    transformPosition = -8:0:-1
+    transformRotation = -0.7071068:0:-0.7071068:0 #(0.0, 90.0, 0.0)
+    artPrefabName = CentralReserveRoofTileset/CoverDouble1
+    hiddenCoverObjectPosition = -7:0:-1
+  </prefab:Cover>
+  <prefab:Cover>
+    # Prefab
+    instanceID = 125
+    transformPosition = -2:0:1
+    transformRotation = -0.7071068:0:0.7071068:0 #(0.0, 270.0, 0.0)
+    artPrefabName = CentralReserveRoofTileset/CoverDouble3
+    hiddenCoverObjectPosition = -3:0:1
+  </prefab:Cover>
+  <prefab:Cover>
+    # Prefab
+    instanceID = 371
+    transformPosition = -8:0:-2
+    transformRotation = 0.7071068:0:0.7071068:0 #(0.0, 90.0, 0.0)
+    artElementPosition = -7:0:-2
+    hiddenCoverObjectPosition = 9999:9999:9999
+  </prefab:Cover>
+  <prefab:Cover>
+    # Prefab
+    instanceID = 548
+    transformPosition = -1:0:4
+    transformRotation = -0.7071068:0:-0.7071068:0 #(0.0, 90.0, 0.0)
+    artPrefabName = CentralReserveRoofTileset/CoverDouble1
+    hiddenCoverObjectPosition = 0:0:4
+  </prefab:Cover>
+  <prefab:Cover>
+    # Prefab
+    instanceID = 549
+    transformPosition = -12:0:0
+    transformRotation = -1:0:0:0 #(0.0, 0.0, 0.0)
+    artPrefabName = CentralReserveRoofTileset/Cover4
+    hiddenCoverObjectPosition = 9999:9999:9999
+  </prefab:Cover>
+  <prefab:Cover>
+    # Prefab
+    instanceID = 550
+    transformPosition = -2:0:-4
+    transformRotation = -4.371139E-08:0:1:0 #(0.0, 180.0, 0.0)
+    artElementPosition = -2:0:-5
+    hiddenCoverObjectPosition = 9999:9999:9999
+  </prefab:Cover>
+  <prefab:Cover>
+    # Prefab
+    instanceID = 551
+    transformPosition = 0:0:4
+    transformRotation = -0.7071068:0:0.7071068:0 #(0.0, 270.0, 0.0)
+    artElementPosition = -1:0:4
+    hiddenCoverObjectPosition = 9999:9999:9999
+  </prefab:Cover>
+  <prefab:Cover>
+    # Prefab
+    instanceID = 552
+    transformPosition = -12:0:3
+    transformRotation = 0.7071068:0:0.7071068:0 #(0.0, 90.0, 0.0)
+    artPrefabName = CentralReserveRoofTileset/Cover3
+    hiddenCoverObjectPosition = 9999:9999:9999
+  </prefab:Cover>
+  <prefab:Cover>
+    # Prefab
+    instanceID = 605
+    transformPosition = -7:0:-1
+    transformRotation = 0.7071068:0:0.7071068:0 #(0.0, 90.0, 0.0)
+    artElementPosition = -8:0:-1
+    hiddenCoverObjectPosition = 9999:9999:9999
+  </prefab:Cover>
+  <prefab:Cover>
+    # Prefab
+    instanceID = 611
+    transformPosition = -6:0:-6
+    transformRotation = -4.371139E-08:0:1:0 #(0.0, 180.0, 0.0)
+    artElementPosition = -6:0:-5
+    hiddenCoverObjectPosition = 9999:9999:9999
+  </prefab:Cover>
+  <prefab:Cover>
+    # Prefab
+    instanceID = 612
+    transformPosition = -6:0:-5
+    transformRotation = 8.42937E-08:0:-1:0 #(0.0, 180.0, 0.0)
+    artPrefabName = CentralReserveRoofTileset/CoverDouble2
+    hiddenCoverObjectPosition = -6:0:-6
+  </prefab:Cover>
+  <prefab:Cover>
+    # Prefab
+    instanceID = 613
+    transformPosition = -2:0:-5
+    transformRotation = -1:0:-8.42937E-08:0 #(0.0, 0.0, 0.0)
+    artPrefabName = CentralReserveRoofTileset/CoverDouble2
+    hiddenCoverObjectPosition = -2:0:-4
+  </prefab:Cover>
+  <prefab:Cover>
+    # Prefab
+    instanceID = 714
+    transformPosition = 3:0:-5
+    transformRotation = -1:0:0:0 #(0.0, 0.0, 0.0)
+    artPrefabName = CentralReserveRoofTileset/CoverDouble1
+    hiddenCoverObjectPosition = 3:0:-4
+  </prefab:Cover>
+  <prefab:Cover>
+    # Prefab
+    instanceID = 715
+    transformPosition = 3:0:-4
+    transformRotation = -4.371139E-08:0:1:0 #(0.0, 180.0, 0.0)
+    artElementPosition = 3:0:-5
+    hiddenCoverObjectPosition = 9999:9999:9999
+  </prefab:Cover>
+  <prefab:Cover>
+    # Prefab
+    instanceID = 716
+    transformPosition = -8:0:2
+    transformRotation = -0.7071068:0:0.7071067:0 #(0.0, 270.0, 0.0)
+    artPrefabName = CentralReserveRoofTileset/Cover2
+    hiddenCoverObjectPosition = 9999:9999:9999
+  </prefab:Cover>
+  <prefab:Cover>
+    # Prefab
+    instanceID = 717
+    transformPosition = -13:0:7
+    transformRotation = 0.7071068:0:0.7071068:0 #(0.0, 90.0, 0.0)
+    artPrefabName = CentralReserveRoofTileset/Cover2
+    hiddenCoverObjectPosition = 9999:9999:9999
+  </prefab:Cover>
+  <prefab:Cover>
+    # Prefab
+    instanceID = 719
+    transformPosition = -11:0:6
+    transformRotation = -0.7071068:0:0.7071068:0 #(0.0, 270.0, 0.0)
+    artElementPosition = -10:0:6
+    hiddenCoverObjectPosition = 9999:9999:9999
+  </prefab:Cover>
+  <prefab:Cover>
+    # Prefab
+    instanceID = 736
+    transformPosition = -10:0:6
+    transformRotation = -0.7071068:0:0.7071068:0 #(0.0, 270.0, 0.0)
+    artPrefabName = CentralReserveRoofTileset/CoverDouble2
+    hiddenCoverObjectPosition = -11:0:6
+  </prefab:Cover>
+  <prefab:Cover>
+    # Prefab
+    instanceID = 772
+    transformPosition = -4:0:-8
+    transformRotation = -4.371139E-08:0:1:0 #(0.0, 180.0, 0.0)
+    artElementPosition = -4:0:-9
+    hiddenCoverObjectPosition = 9999:9999:9999
+  </prefab:Cover>
+  <prefab:Cover>
+    # Prefab
+    instanceID = 773
+    transformPosition = -4:0:-9
+    transformRotation = -1:0:0:0 #(0.0, 0.0, 0.0)
+    artPrefabName = CentralReserveRoofTileset/CoverDouble2
+    hiddenCoverObjectPosition = -4:0:-8
+  </prefab:Cover>
+  <prefab:Double Cover>
+    # Prefab
+    instanceID = 777
+    transformPosition = -11:0:-2
+    transformRotation = -4.371139E-08:0:1:0 #(0.0, 180.0, 0.0)
+    artPrefabName = CentralReserveRoofTileset/CoverDouble3
+    hiddenCoverObjectPosition = 9999:9999:9999
+  </prefab:Double Cover>
+  <prefab:Druid>
+    # ActiveObject
+    currentHealth = 4
+    currentArmour = 0
+    maxHealth = 4
+    secondsTilDestroy = -1
+    # Person
+    physicalState = standing
+    mana = 1
+    actionPoints = 0
+    abilitiesUsedThisTurn = 2
+    anyActionTaken = True
+    isReinforcement = True
+    turnCompleted = True
+    allegiance = NonCombatant
+    MoveUsesRemaining = 1
+    DogPounceUsesRemaining = 0
+    StealManaUsesRemaining = 1
+    ThrowCrowdGrenadeUsesRemaining = 1
+    # PerkSet
+    perk[] = UnlockCrowdGrenade
+    perk[] = PullBrittle
+    perk[] = DartGasmask
+    perk[] = PullGround
+    perk[] = SporeIntelligent
+    perk[] = PullFriends
+    perk[] = SporeUses
+    # Wizard
+    seenByAI = True
+    illusion = False
+    lastAbilityUsed = DogPounce
+    stoodUpThisTurn = False
+    isDog = True
+    # Prefab
+    instanceID = 816
+    transformPosition = -6:0:1
+    transformRotation = 0.7071068:0:-0.7071068:0 #(0.0, 270.0, 0.0)
+  </prefab:Druid>
+  <prefab:Explosive Barrel>
+    # ActiveObject
+    currentHealth = 1
+    currentArmour = 0
+    maxHealth = 1
+    secondsTilDestroy = -1
+    # Prefab
+    instanceID = 617
+    transformPosition = -2:0:-6
+    transformRotation = 1:0:0:0 #(0.0, 0.0, 0.0)
+  </prefab:Explosive Barrel>
+  <prefab:Finale Friendly Door>
+    # Prefab
+    instanceID = 778
+    transformPosition = -5:0:4
+    transformRotation = 1:0:0:0 #(0.0, 0.0, 0.0)
+    artPrefabName = CentralReserveRoofTileset/doorNeutral
+    hiddenCoverObjectPosition = 9999:9999:9999
+    used = False
+    # EnemyDoor
+    spawnQueue[] = Necromedic
+    spawnQueue[] = Melee Wizard
+    spawnQueue[] = Druid
+    spawnQueue[] = Riot Priest
+    totalEnemiesToSpawn = 4
+    totalEnemiesToSpawnInHardMode = 4
+    locked = False
+    enemiesSpawnedSoFar = 4
+    nextSpawnIndex = 0
+    reinforcementsPrevented = False
+    reinforcementsPreventedCount = 0
+  </prefab:Finale Friendly Door>
+  <prefab:Grenade Prefab>
+    # ActiveObject
+    currentHealth = 1
+    currentArmour = 0
+    maxHealth = 1
+    secondsTilDestroy = -1
+    # Grenade
+    damage = 2
+    knockback = 1
+    overwatch = False
+    range = 1
+    # Prefab
+    instanceID = 834
+    transformPosition = -5:0:-1
+    transformRotation = 1:0:0:0 #(0.0, 0.0, 0.0)
+  </prefab:Grenade Prefab>
+  <prefab:Heavy Gunner>
+    # ActiveObject
+    currentHealth = 0
+    currentArmour = 1
+    maxHealth = 4
+    secondsTilDestroy = -1
+    # Person
+    physicalState = down
+    mana = 0
+    actionPoints = 1
+    abilitiesUsedThisTurn = 0
+    anyActionTaken = True
+    isReinforcement = True
+    turnCompleted = True
+    allegiance = Enemies
+    predictedAbilityName = HeavyGunnerShot
+    MoveUsesRemaining = 1
+    ThrowGrenadeUsesRemaining = 1
+    HeavyGunnerShotUsesRemaining = 1
+    HeavyGunnerShotUsedThisTurn = False
+    # Enemy
+    displayName = Reactor Heavy Gunner Eycleshimer
+    hasSeenWizard = True
+    hasBeenAttacked = True
+    # Prefab
+    instanceID = 807
+    transformPosition = -9:0:-2
+    transformRotation = 0.9436283:0:-0.331006974:0 #(0.0, 321.3, 0.0)
+  </prefab:Heavy Gunner>
+  <prefab:Heavy Gunner>
+    # ActiveObject
+    currentHealth = 0
+    currentArmour = 1
+    maxHealth = 4
+    secondsTilDestroy = -1
+    # Person
+    physicalState = down
+    mana = 0
+    actionPoints = 1
+    abilitiesUsedThisTurn = 0
+    anyActionTaken = True
+    isReinforcement = True
+    turnCompleted = True
+    allegiance = Enemies
+    predictedAbilityName = HeavyGunnerShot
+    MoveUsesRemaining = 1
+    ThrowGrenadeUsesRemaining = 1
+    HeavyGunnerShotUsesRemaining = 1
+    HeavyGunnerShotUsedThisTurn = False
+    # Enemy
+    displayName = Reactor Heavy Gunner Havill
+    hasSeenWizard = True
+    hasBeenAttacked = True
+    # Prefab
+    instanceID = 815
+    transformPosition = -7:0:2
+    transformRotation = -0.471857965:0:0.8816746:0 #(0.0, 236.3, 0.0)
+  </prefab:Heavy Gunner>
+  <prefab:Heavy Gunner>
+    # ActiveObject
+    currentHealth = 4
+    currentArmour = 1
+    maxHealth = 4
+    secondsTilDestroy = -1
+    # Person
+    physicalState = standing
+    mana = 0
+    actionPoints = 0
+    abilitiesUsedThisTurn = 3
+    anyActionTaken = True
+    isReinforcement = True
+    turnCompleted = True
+    allegiance = Enemies
+    predictedAbilityName = HeavyGunnerShot
+    MoveUsesRemaining = 0
+    ThrowGrenadeUsesRemaining = 0
+    HeavyGunnerShotUsesRemaining = 0
+    HeavyGunnerShotUsedThisTurn = False
+    HeavyGunnerShotPlannedTarget = 73
+    HeavyGunnerShotplannedTarget = 73
+    # Conditions
+    Condition[] = Rabid
+    RabidCount = 1
+    # Enemy
+    displayName = Reactor Heavy Gunner Eycleshimer
+    hasSeenWizard = True
+    hasBeenAttacked = True
+    # Prefab
+    instanceID = 830
+    transformPosition = -7:0:1
+    transformRotation = 1:0:0:0 #(0.0, 0.0, 0.0)
+  </prefab:Heavy Gunner>
+  <prefab:Helicopter>
+    used = False
+    # EnemyDoor
+    spawnQueue[] = Reactor Tracker
+    spawnQueue[] = Heavy Gunner
+    spawnQueue[] = Heavy Gunner
+    spawnQueue[] = Reactor Superheavy
+    spawnQueue[] = Heavy Gunner
+    spawnQueue[] = Reactor Superheavy
+    spawnQueue[] = Shotgunner
+    totalEnemiesToSpawn = 9
+    totalEnemiesToSpawnInHardMode = 27
+    locked = False
+    enemiesSpawnedSoFar = 5
+    nextSpawnIndex = 5
+    reinforcementsPrevented = False
+    reinforcementsPreventedCount = 0
+    # Prefab
+    instanceID = 643
+    transformPosition = -4:0:3
+    transformRotation = 0.923879564:0:0.382683456:0 #(0.0, 45.0, 0.0)
+  </prefab:Helicopter>
+  <prefab:Liv Kennedy Final Boss>
+    # ActiveObject
+    currentHealth = 0
+    currentArmour = 0
+    maxHealth = 4
+    secondsTilDestroy = -1
+    # Person
+    physicalState = down
+    mana = 0
+    actionPoints = 1
+    abilitiesUsedThisTurn = 0
+    anyActionTaken = True
+    isReinforcement = False
+    turnCompleted = True
+    allegiance = Enemies
+    MoveUsesRemaining = 1
+    LivChainShockUsedThisTurn = False
+    # Enemy
+    displayName = Dead Liv Kennedy 1
+    hasSeenWizard = True
+    hasBeenAttacked = True
+    # LivBoss
+    WasKilled = True
+    slowmoTriggered = True
+    # Prefab
+    instanceID = 645
+    transformPosition = -6:0:1
+    transformRotation = 0.7071068:0:-0.7071068:0 #(0.0, 270.0, 0.0)
+  </prefab:Liv Kennedy Final Boss>
+  <prefab:Liv Kennedy Final Boss>
+    # ActiveObject
+    currentHealth = 0
+    currentArmour = 0
+    maxHealth = 6
+    secondsTilDestroy = -1
+    # Person
+    physicalState = down
+    mana = 0
+    actionPoints = 1
+    abilitiesUsedThisTurn = 0
+    anyActionTaken = False
+    isReinforcement = False
+    turnCompleted = True
+    allegiance = Enemies
+    MoveUsesRemaining = 1
+    LivChainShockUsedThisTurn = False
+    # Enemy
+    displayName = Dead Liv Kennedy 2
+    hasSeenWizard = True
+    hasBeenAttacked = True
+    # LivBoss
+    WasKilled = True
+    slowmoTriggered = True
+    # Prefab
+    instanceID = 812
+    transformPosition = -11:0:5
+    transformRotation = 0.382683456:0:0.923879564:0 #(0.0, 135.0, 0.0)
+  </prefab:Liv Kennedy Final Boss>
+  <prefab:Liv Kennedy Final Boss>
+    # ActiveObject
+    currentHealth = 3
+    currentArmour = 0
+    maxHealth = 8
+    secondsTilDestroy = -1
+    # Person
+    physicalState = standing
+    mana = 0
+    actionPoints = 0
+    abilitiesUsedThisTurn = 3
+    anyActionTaken = False
+    isReinforcement = False
+    turnCompleted = True
+    allegiance = Enemies
+    predictedAbilityName = LivChainShock
+    MoveUsesRemaining = 0
+    LivChainShockUsedThisTurn = False
+    # Enemy
+    displayName = Liv Kennedy 4
+    hasSeenWizard = True
+    hasBeenAttacked = True
+    # LivBoss
+    WasKilled = False
+    slowmoTriggered = False
+    # Prefab
+    instanceID = 827
+    transformPosition = -11:0:5
+    transformRotation = 0.331006974:0:0.9436283:0 #(0.0, 141.3, 0.0)
+  </prefab:Liv Kennedy Final Boss>
+  <prefab:Melee Wizard>
+    # ActiveObject
+    currentHealth = 4
+    currentArmour = 0
+    maxHealth = 4
+    secondsTilDestroy = -1
+    # Person
+    physicalState = standing
+    mana = 1
+    actionPoints = 1
+    abilitiesUsedThisTurn = 0
+    anyActionTaken = True
+    isReinforcement = True
+    turnCompleted = False
+    allegiance = Wizards
+    MoveUsesRemaining = 1
+    supportingFireUsesLeftThisTurn = 1
+    CustomChainLightningConduitsUsed = False
+    GaleGrenadeUsesRemaining = 1
+    BroomUsesRemaining = 2
+    # Conditions
+    Condition[] = Unsteady
+    UnsteadyCount = 2
+    # PerkSet
+    perk[] = UnlockChainShock
+    perk[] = UnlockGaleGrenade
+    perk[] = UnlockBroomBreach
+    perk[] = ChainShockTargets
+    perk[] = ChainShockConduits
+    perk[] = WitchShotGrantsMove
+    perk[] = ChainShockSuperchain
+    perk[] = WitchBoltMelee
+    perk[] = GaleStorm
+    perk[] = InfiniteRefreshingJolt
+    # Wizard
+    seenByAI = True
+    illusion = False
+    lastAbilityUsed = Extinguish_Signal_Flare785
+    stoodUpThisTurn = False
+    # Prefab
+    instanceID = 809
+    transformPosition = -3:0:-5
+    transformRotation = 0:0:1:0 #(0.0, 180.0, 0.0)
+  </prefab:Melee Wizard>
+  <prefab:Navy Seer>
+    # ActiveObject
+    currentHealth = 4
+    currentArmour = 0
+    maxHealth = 4
+    secondsTilDestroy = -1
+    # Person
+    physicalState = standing
+    mana = 1
+    actionPoints = 0
+    abilitiesUsedThisTurn = 3
+    anyActionTaken = True
+    isReinforcement = False
+    turnCompleted = True
+    allegiance = Wizards
+    predictedAbilityName = SeerOverwatch
+    MoveUsesRemaining = 0
+    supportingFireUsesLeftThisTurn = 0
+    SeerOverwatchUsesRemaining = 0
+    SeerOverwatchUsedThisTurn = False
+    SeerOverwatchDirection = -1:0
+    SeerOverwatchLastDirection = null
+    SeerOverwatchTimeSinceShot = 69.9618
+    # PerkSet
+    perk[] = seerOverwatch
+    perk[] = UnlockTimeBoost
+    perk[] = UnlockFalseProphet
+    perk[] = SupportingFire
+    perk[] = FalseProphetInteract
+    perk[] = InfiniteSupportingFire
+    perk[] = TimeBoostBigTime
+    perk[] = ArcaneBurstDamage
+    perk[] = FalseProphetHealth
+    perk[] = SeerFinaleKnockBackDummy
+    perk[] = PredictiveShotRefresh
+    perk[] = FinaleSeerKnockback
+    # Wizard
+    seenByAI = True
+    illusion = False
+    lastAbilityUsed = SeerShot
+    stoodUpThisTurn = True
+    # Prefab
+    instanceID = 73
+    transformPosition = -7:0:2
+    transformRotation = 0.7071068:0:-0.7071068:0 #(0.0, 270.0, 0.0)
+  </prefab:Navy Seer>
+  <prefab:Necromedic>
+    # ActiveObject
+    currentHealth = 4
+    currentArmour = 0
+    maxHealth = 4
+    secondsTilDestroy = -1
+    # Person
+    physicalState = standing
+    mana = 1
+    actionPoints = 0
+    abilitiesUsedThisTurn = 1
+    anyActionTaken = True
+    isReinforcement = True
+    turnCompleted = False
+    allegiance = Wizards
+    MoveUsesRemaining = 1
+    DeathsDoorUsesRemaining = 2
+    TransferenceUsesRemaining = 0
+    # PerkSet
+    perk[] = UnlockGhostShot
+    perk[] = UnlockTransference
+    perk[] = DeathsDoorRange
+    perk[] = GhostSkullDizzy
+    perk[] = DeathsDoorUses
+    perk[] = DeathsFloor
+    perk[] = SedativeGrenadeUnsteady
+    perk[] = UnlockDeathsFloor
+    perk[] = SedativeGrenadePotency
+    perk[] = SedativeGrenadeShards
+    # Wizard
+    seenByAI = True
+    illusion = False
+    lastAbilityUsed = ThrowInstantGrenade
+    stoodUpThisTurn = False
+    # Prefab
+    instanceID = 800
+    transformPosition = -1:0:-5
+    transformRotation = 1:0:0:0 #(0.0, 0.0, 0.0)
+  </prefab:Necromedic>
+  <prefab:Reactor Superheavy>
+    # ActiveObject
+    currentHealth = 0
+    currentArmour = 0
+    maxHealth = 8
+    secondsTilDestroy = -1
+    # Person
+    physicalState = down
+    mana = 0
+    actionPoints = 3
+    abilitiesUsedThisTurn = 0
+    anyActionTaken = True
+    isReinforcement = True
+    turnCompleted = True
+    allegiance = Enemies
+    predictedAbilityName = HeavyGunnerShot
+    MoveUsesRemaining = 1
+    LaunchMissilesUsesRemaining = 1
+    HeavyGunnerShotUsesRemaining = 1
+    HeavyGunnerShotUsedThisTurn = False
+    # Conditions
+    Condition[] = Unsteady
+    UnsteadyCount = 2
+    # Enemy
+    displayName = Reactor Superheavy Boden
+    hasSeenWizard = True
+    hasBeenAttacked = True
+    # Prefab
+    instanceID = 822
+    transformPosition = 2:0:-5
+    transformRotation = 0.923879445:0:-0.382683754:0 #(0.0, 315.0, 0.0)
+  </prefab:Reactor Superheavy>
+  <prefab:Reactor Superheavy>
+    # ActiveObject
+    currentHealth = 6
+    currentArmour = 0
+    maxHealth = 8
+    secondsTilDestroy = -1
+    # Person
+    physicalState = standing
+    mana = 0
+    actionPoints = 0
+    abilitiesUsedThisTurn = 5
+    anyActionTaken = True
+    isReinforcement = True
+    turnCompleted = True
+    allegiance = Enemies
+    predictedAbilityName = HeavyGunnerShot
+    MoveUsesRemaining = 0
+    LaunchMissilesUsesRemaining = -2
+    HeavyGunnerShotUsesRemaining = 0
+    HeavyGunnerShotUsedThisTurn = False
+    HeavyGunnerShotPlannedTarget = 809
+    HeavyGunnerShotplannedTarget = 809
+    # Conditions
+    Condition[] = Sedated
+    SedatedCount = 2
+    Condition[] = Unsteady
+    UnsteadyCount = 1
+    # Enemy
+    displayName = Reactor Superheavy Vine
+    hasSeenWizard = True
+    hasBeenAttacked = True
+    # Prefab
+    instanceID = 831
+    transformPosition = -3:0:0
+    transformRotation = 0:0:1:0 #(0.0, 180.0, 0.0)
+  </prefab:Reactor Superheavy>
+  <prefab:Reactor Superheavy>
+    # ActiveObject
+    currentHealth = 5
+    currentArmour = 2
+    maxHealth = 8
+    secondsTilDestroy = -1
+    # Person
+    physicalState = standing
+    mana = 0
+    actionPoints = 0
+    abilitiesUsedThisTurn = 4
+    anyActionTaken = True
+    isReinforcement = True
+    turnCompleted = True
+    allegiance = Enemies
+    predictedAbilityName = HeavyGunnerShot
+    MoveUsesRemaining = 1
+    LaunchMissilesUsesRemaining = -2
+    HeavyGunnerShotUsesRemaining = 0
+    HeavyGunnerShotUsedThisTurn = False
+    HeavyGunnerShotPlannedTarget = 800
+    HeavyGunnerShotplannedTarget = 800
+    # Conditions
+    Condition[] = Sedated
+    SedatedCount = 2
+    Condition[] = Unsteady
+    UnsteadyCount = 2
+    # Enemy
+    displayName = Reactor Superheavy Bonetto
+    hasSeenWizard = True
+    hasBeenAttacked = True
+    # Prefab
+    instanceID = 832
+    transformPosition = 0:0:-1
+    transformRotation = -0.122183263:0:0.9925076:0 #(0.0, 194.0, 0.0)
+  </prefab:Reactor Superheavy>
+  <prefab:Riot Priest>
+    # ActiveObject
+    currentHealth = 4
+    currentArmour = 1
+    maxHealth = 4
+    secondsTilDestroy = -1
+    # Person
+    physicalState = standing
+    mana = 1
+    actionPoints = 1
+    abilitiesUsedThisTurn = 3
+    anyActionTaken = True
+    isReinforcement = True
+    turnCompleted = False
+    allegiance = Wizards
+    MoveUsesRemaining = 1
+    rampageUsedThisTurn = False
+    hitAVictimLastTime = False
+    ThrowCoverUsesRemaining = 1
+    recallUsesLeftThisTurn = 0
+    # PerkSet
+    perk[] = SwapIsFreeOnFriends
+    perk[] = ChargeRampage
+    perk[] = ChargeExtraKnockback
+    perk[] = SwapWithoutLOS
+    perk[] = ChargeRampageInfinite
+    perk[] = CenserSlamDamage
+    perk[] = SwapWithObjects
+    # Wizard
+    seenByAI = True
+    illusion = False
+    lastAbilityUsed = Pick_Up_Riot_Block835
+    stoodUpThisTurn = False
+    # Prefab
+    instanceID = 824
+    transformPosition = -11:0:2
+    transformRotation = 1:0:0:0 #(0.0, 0.0, 0.0)
+  </prefab:Riot Priest>
+  <prefab:Siege Cleric Missile>
+    # ActiveObject
+    currentHealth = 1
+    currentArmour = 0
+    maxHealth = 1
+    secondsTilDestroy = -1
+    # Grenade
+    damage = 2
+    knockback = 0
+    overwatch = True
+    range = 1
+    # Prefab
+    instanceID = 833
+    transformPosition = -4:0:-4
+    transformRotation = 1:0:0:0 #(0.0, 0.0, 0.0)
+    used = False
+  </prefab:Siege Cleric Missile>
+  <prefab:Signal Flare>
+    SignalFlareused = False
+    # Prefab
+    instanceID = 780
+    transformPosition = -7:0:-3
+    transformRotation = -0.7071068:0:0.7071068:0 #(0.0, 270.0, 0.0)
+  </prefab:Signal Flare>
+  <prefab:Signal Flare>
+    SignalFlareused = False
+    # Prefab
+    instanceID = 786
+    transformPosition = -8:0:-9
+    transformRotation = -0.7071068:0:0.7071068:0 #(0.0, 270.0, 0.0)
+  </prefab:Signal Flare>
+  <prefab:Signal Flare>
+    SignalFlareused = False
+    # Prefab
+    instanceID = 787
+    transformPosition = 2:0:-4
+    transformRotation = -4.371139E-08:0:1:0 #(0.0, 180.0, 0.0)
+  </prefab:Signal Flare>
+  <prefab:Stun Barrel>
+    # Prefab
+    instanceID = 743
+    transformPosition = -7:0:-6
+    transformRotation = -4.371139E-08:0:1:0 #(0.0, 180.0, 0.0)
+    # ActiveObject
+    currentHealth = 1
+    currentArmour = 0
+    maxHealth = 1
+    secondsTilDestroy = -1
+  </prefab:Stun Barrel>
+  <prefab:Stun Barrel>
+    # Prefab
+    instanceID = 744
+    transformPosition = -7:0:-5
+    transformRotation = -4.371139E-08:0:1:0 #(0.0, 180.0, 0.0)
+    # ActiveObject
+    currentHealth = 1
+    currentArmour = 0
+    maxHealth = 1
+    secondsTilDestroy = -1
+  </prefab:Stun Barrel>
+  <prefab:TransferenceObject>
+    transferKnockback = False
+    attacksToTransfer = 1
+    configured = False
+    # Prefab
+    instanceID = 801
+    transformPosition = 0:0:0
+    transformRotation = 1:0:0:0 #(0.0, 0.0, 0.0)
+  </prefab:TransferenceObject>
+  <prefab:TransferenceObject>
+    owner = 800
+    transferKnockback = True
+    attacksToTransfer = 0
+    configured = False
+    # Prefab
+    instanceID = 825
+    transformPosition = -14:0:1
+    transformRotation = 1:0:0:0 #(0.0, 0.0, 0.0)
+  </prefab:TransferenceObject>
+  <prefab:Unsealable Enemy Door>
+    # Prefab
+    instanceID = 789
+    transformPosition = 0:0:2
+    transformRotation = 0.7071068:0:0.7071068:0 #(0.0, 90.0, 0.0)
+    artPrefabName = CentralReserveRoofTileset/doorReinforcement
+    hiddenCoverObjectPosition = 9999:9999:9999
+    used = False
+    # EnemyDoor
+    spawnQueue[] = Reactor Superheavy
+    totalEnemiesToSpawn = 1
+    totalEnemiesToSpawnInHardMode = 3
+    locked = False
+    enemiesSpawnedSoFar = 1
+    nextSpawnIndex = 0
+    reinforcementsPrevented = False
+    reinforcementsPreventedCount = 0
+  </prefab:Unsealable Enemy Door>
+  <prefab:Unsealable Enemy Door>
+    # Prefab
+    instanceID = 790
+    transformPosition = 0:0:-1
+    transformRotation = 0.7071068:0:0.7071068:0 #(0.0, 90.0, 0.0)
+    artPrefabName = CentralReserveRoofTileset/doorReinforcement
+    hiddenCoverObjectPosition = 9999:9999:9999
+    used = False
+    # EnemyDoor
+    spawnQueue[] = Reactor Superheavy
+    totalEnemiesToSpawn = 1
+    totalEnemiesToSpawnInHardMode = 3
+    locked = False
+    enemiesSpawnedSoFar = 1
+    nextSpawnIndex = 0
+    reinforcementsPrevented = False
+    reinforcementsPreventedCount = 0
+  </prefab:Unsealable Enemy Door>
+  <prefab:Unsealable Enemy Door>
+    # Prefab
+    instanceID = 792
+    transformPosition = -3:0:4
+    transformRotation = 1:0:0:0 #(0.0, 0.0, 0.0)
+    artPrefabName = CentralReserveRoofTileset/doorReinforcement
+    hiddenCoverObjectPosition = 9999:9999:9999
+    used = False
+    # EnemyDoor
+    spawnQueue[] = Reactor Tracker
+    spawnQueue[] = Heavy Gunner
+    spawnQueue[] = Chaser
+    spawnQueue[] = Reactor Superheavy
+    spawnQueue[] = Reactor Medic
+    totalEnemiesToSpawn = 0
+    totalEnemiesToSpawnInHardMode = 5
+    locked = False
+    enemiesSpawnedSoFar = 0
+    nextSpawnIndex = 0
+    reinforcementsPrevented = False
+    reinforcementsPreventedCount = 0
+  </prefab:Unsealable Enemy Door>
+# END - NonStatic
+

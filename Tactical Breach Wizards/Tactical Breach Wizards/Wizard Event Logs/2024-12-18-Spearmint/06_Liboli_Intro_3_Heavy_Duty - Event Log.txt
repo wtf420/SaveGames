@@ -1,0 +1,259 @@
+06_Liboli_Intro_3_Heavy_Duty
+ 
+Start of player turn 1
+Zan breached - from (19, 5) to (19, 4)
+Zan moved - from (19, 4) to (21, 3)
+Zan breached - from (21, 3) to (21, 2)
+Zan used 3 Bolt Burst on Reactor Tracker Sitwala - from (21, 2) to (28, 2)
+Reactor Tracker Sitwala took 1 damage
+Reactor Tracker Sitwala took 1 knockback
+Reactor Tracker Sitwala hit a Electrified Wall
+Reactor Tracker Sitwala took 2 damage
+Reactor Tracker Sitwala passed out
+Reactor Tracker Sitwala hit something with 1 knockback left
+Zan used Grab Intel - from (21, 2) to (20, 2)
+Jen moved - from (19, 3) to (23, 2)
+Jen moved - from (19, 3) to (23, 2)
+Jen repositioned - from (19, 3) to (19, 3)
+Jen repositioned - from (19, 3) to (19, 5)
+Jen breached - from (19, 5) to (19, 4)
+Jen moved - from (19, 4) to (21, 3)
+Jen breached - from (21, 3) to (21, 2)
+Jen used Grab Intel - from (21, 2) to (20, 2)
+Jen cast Static Blast on Reactor Tracker Sitwala - from (21, 2) to (28, 2)
+Reactor Tracker Sitwala took 2 knockback
+Reactor Tracker Sitwala hit a Electrified Wall
+Reactor Tracker Sitwala took 2 damage
+Reactor Tracker Sitwala is Stunned for 1 turn
+Reactor Tracker Sitwala hit something with 2 knockback left
+Reactor Tracker Sitwala took 2 damage
+Reactor Tracker Sitwala passed out
+Jen breached - from (21, 3) to (21, 2)
+Jen cast Static Blast on Reactor Tracker Sitwala - from (21, 2) to (28, 2)
+Reactor Tracker Sitwala took 2 knockback
+Reactor Tracker Sitwala hit a Electrified Wall
+Reactor Tracker Sitwala took 2 damage
+Reactor Tracker Sitwala is Stunned for 1 turn
+Reactor Tracker Sitwala hit something with 2 knockback left
+Reactor Tracker Sitwala took 2 damage
+Reactor Tracker Sitwala passed out
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Zan moved - from (19, 3) to (23, 2)
+Zan moved - from (19, 3) to (23, 2)
+Player ended their turn, starting enemy turn 1
+Reactor Heavy Gunner Salt moved - from (24, 5) to (24, 3)
+Reactor Heavy Gunner Salt launched a grenade - from (24, 3) to (22, 2)
+End of enemy turn 1
+ 
+Start of player turn 2
+Zan moved - from (23, 2) to (24, 2)
+Zan moved - from (23, 2) to (24, 4)
+Zan moved - from (23, 2) to (27, 3)
+Zan moved - from (23, 2) to (23, 1)
+Zan moved - from (23, 2) to (24, 2)
+Zan used Hack Turret - from (24, 2) to (24, 1)
+Jen used Grab Intel - from (21, 2) to (20, 2)
+Jen moved - from (21, 2) to (22, 1)
+Jen cast Static Blast on Reactor Heavy Gunner Salt - from (22, 1) to (24, 3)
+Reactor Heavy Gunner Salt stability prevented 1 knockback
+Reactor Heavy Gunner Salt took 1 knockback
+Reactor Heavy Gunner Salt hit something with 1 knockback left
+Reactor Heavy Gunner Salt took 1 damage
+Zan took a free shot at Reactor Heavy Gunner Salt with Supporting Fire.
+Zan used 3 Bolt Burst on Reactor Heavy Gunner Salt - from (24, 2) to (24, 3)
+Reactor Heavy Gunner Salt armour blocked 1 damage
+Reactor Heavy Gunner Salt stability prevented 1 knockback
+Jen cast Chain Bolt on Reactor Heavy Gunner Salt - from (21, 2) to (24, 3)
+Reactor Heavy Gunner Salt stability prevented 1 knockback
+Reactor Heavy Gunner Salt took 3 knockback
+Reactor Heavy Gunner Salt hit something with 3 knockback left
+Reactor Heavy Gunner Salt took 3 damage
+Jen used Grab Intel - from (21, 2) to (20, 2)
+Zan used Time Boost on Jen - from (24, 2) to (21, 2)
+Zan used 3 Bolt Burst on Reactor Heavy Gunner Salt - from (24, 2) to (24, 3)
+Reactor Heavy Gunner Salt armour blocked 1 damage
+Reactor Heavy Gunner Salt stability prevented 1 knockback
+Jen cast Static Blast on Reactor Heavy Gunner Salt - from (21, 2) to (24, 3)
+Reactor Heavy Gunner Salt stability prevented 1 knockback
+Reactor Heavy Gunner Salt took 1 knockback
+Zan took a free shot at Reactor Heavy Gunner Salt with Supporting Fire.
+Zan used 3 Bolt Burst on Reactor Heavy Gunner Salt - from (24, 2) to (25, 3)
+Reactor Heavy Gunner Salt armour blocked 1 damage
+Reactor Heavy Gunner Salt stability prevented 1 knockback
+Jen moved - from (21, 2) to (24, 4)
+Jen moved - from (21, 2) to (24, 4)
+Zan took cover - from (24, 2) to (24, 2)
+Zan stood up - from (24, 2) to (24, 2)
+Zan moved - from (23, 2) to (23, 4)
+Zan moved - from (23, 2) to (23, 4)
+Jen moved - from (21, 2) to (24, 2)
+Jen used Hack Turret - from (24, 2) to (24, 1)
+Jen cast Static Blast on Reactor Heavy Gunner Salt - from (24, 2) to (24, 3)
+Reactor Heavy Gunner Salt stability prevented 1 knockback
+Reactor Heavy Gunner Salt took 1 knockback
+Zan shot Reactor Heavy Gunner Salt on overwatch
+Reactor Heavy Gunner Salt armour blocked 1 damage
+Reactor Heavy Gunner Salt took 3 damage
+Jen threw a Gale Grenade - from (24, 2) to (24, 3)
+Jen took 1 knockback
+Reactor Heavy Gunner Salt stability prevented 1 knockback
+Jen hit something with 1 knockback left
+Jen took 1 damage
+Jen cast Static Blast on Reactor Heavy Gunner Salt - from (24, 2) to (24, 3)
+Reactor Heavy Gunner Salt stability prevented 1 knockback
+Reactor Heavy Gunner Salt took 1 knockback
+Zan shot Reactor Heavy Gunner Salt on overwatch
+Reactor Heavy Gunner Salt armour blocked 1 damage
+Reactor Heavy Gunner Salt took 3 damage
+Zan  - from (23, 4) to (27, 4)
+Zan moved - from (23, 2) to (21, 4)
+Jen cast Static Blast on Reactor Heavy Gunner Salt - from (21, 2) to (24, 3)
+Reactor Heavy Gunner Salt stability prevented 1 knockback
+Reactor Heavy Gunner Salt took 1 knockback
+Jen moved - from (21, 2) to (23, 1)
+Jen cast Static Blast on Reactor Heavy Gunner Salt - from (23, 1) to (24, 3)
+Reactor Heavy Gunner Salt stability prevented 1 knockback
+Reactor Heavy Gunner Salt took 1 knockback
+Reactor Heavy Gunner Salt hit something with 1 knockback left
+Reactor Heavy Gunner Salt took 1 damage
+Jen moved - from (21, 2) to (24, 2)
+Jen cast Static Blast on Reactor Heavy Gunner Salt - from (24, 2) to (24, 3)
+Reactor Heavy Gunner Salt stability prevented 1 knockback
+Reactor Heavy Gunner Salt took 1 knockback
+Zan shot Reactor Heavy Gunner Salt on overwatch
+Reactor Heavy Gunner Salt armour blocked 1 damage
+Reactor Heavy Gunner Salt took 3 damage
+Jen used Hack Turret - from (24, 2) to (24, 1)
+Zan moved - from (23, 2) to (27, 1)
+Zan moved - from (23, 2) to (27, 2)
+Jen moved - from (21, 2) to (26, 2)
+Jen used Use Laptop - from (26, 2) to (26, 1)
+Jen cast Static Blast on Reactor Heavy Gunner Salt - from (26, 2) to (24, 3)
+Reactor Heavy Gunner Salt stability prevented 1 knockback
+Reactor Heavy Gunner Salt took 1 knockback
+Reactor Heavy Gunner Salt hit something with 1 knockback left
+Reactor Heavy Gunner Salt took 1 damage
+Zan took a free shot at Reactor Heavy Gunner Salt with Supporting Fire.
+Zan used 3 Bolt Burst on Reactor Heavy Gunner Salt - from (23, 2) to (24, 3)
+Reactor Heavy Gunner Salt armour blocked 1 damage
+Reactor Heavy Gunner Salt stability prevented 1 knockback
+Zan moved - from (23, 2) to (21, 4)
+Zan moved - from (23, 2) to (27, 3)
+Zan moved - from (23, 2) to (26, 5)
+Jen cast Static Blast on Reactor Heavy Gunner Salt - from (21, 2) to (24, 3)
+Reactor Heavy Gunner Salt stability prevented 1 knockback
+Reactor Heavy Gunner Salt took 1 knockback
+Jen used Grab Intel - from (21, 2) to (20, 2)
+Jen moved - from (21, 2) to (21, 3)
+Player ended their turn, starting enemy turn 2
+Zan shot Reactor Tracker Volantis on overwatch
+Reactor Tracker Volantis took 4 damage
+Reactor Tracker Volantis passed out
+Reactor Heavy Gunner Salt moved - from (24, 3) to (25, 5)
+Reactor Heavy Gunner Salt launched a grenade - from (25, 5) to (20, 4)
+End of enemy turn 2
+ 
+Start of player turn 3
+Jen moved - from (21, 3) to (24, 2)
+Jen used Hack Turret - from (24, 2) to (24, 1)
+Jen threw a Gale Grenade - from (24, 2) to (25, 6)
+Reactor Heavy Gunner Salt stability prevented 1 knockback
+Zan took 1 knockback
+Air Canister took 1 knockback
+Zan moved - from (27, 4) to (27, -1)
+Reactor Sniper Swanze shot Zan on overwatch
+Zan took 4 damage
+Zan passed out
+Zan moved - from (27, 4) to (27, 1)
+Turret shot Reactor Sniper Swanze - from (28, -1) to (20, 0)
+Reactor Sniper Swanze took 3 damage
+Reactor Sniper Swanze passed out
+Reactor Sniper Swanze took 1 knockback
+Reactor Sniper Swanze hit something with 1 knockback left
+Player ended their turn, starting enemy turn 3
+Reactor Heavy Gunner Salt moved - from (25, 5) to (26, 6)
+Reactor Heavy Gunner Salt launched a grenade - from (26, 6) to (28, 0)
+End of enemy turn 3
+ 
+Start of player turn 4
+Jen moved - from (24, 2) to (24, 4)
+Jen cast Static Blast on - from (24, 4) to (27, 6)
+Air Canister took 2 knockback
+Air Canister hit something with 2 knockback left
+Air Canister took 2 damage
+Air Canister exploded
+Reactor Heavy Gunner Salt stability prevented 1 knockback
+Reactor Heavy Gunner Salt took 2 knockback
+Reactor Heavy Gunner Salt hit something with 1 knockback left
+Reactor Heavy Gunner Salt took 1 damage
+Zan moved - from (27, 1) to (26, 2)
+Zan used Use Laptop - from (26, 2) to (26, 1)
+Jen moved - from (24, 2) to (24, 4)
+Jen moved - from (24, 2) to (24, 3)
+Jen moved - from (24, 2) to (24, 3)
+Jen cast Chain Bolt on Reactor Heavy Gunner Salt, Air Canister - from (24, 3) to (26, 6)
+Reactor Heavy Gunner Salt stability prevented 1 knockback
+Reactor Heavy Gunner Salt took 1 knockback
+Air Canister took 4 knockback
+Reactor Heavy Gunner Salt hit something with 1 knockback left
+Reactor Heavy Gunner Salt took 1 damage
+Air Canister hit something with 3 knockback left
+Air Canister took 3 damage
+Air Canister exploded
+Zan moved - from (27, 1) to (27, 2)
+Zan used Time Boost on Jen - from (27, 2) to (24, 3)
+Jen cast Static Blast on Reactor Heavy Gunner Salt - from (24, 3) to (26, 6)
+Reactor Heavy Gunner Salt stability prevented 1 knockback
+Reactor Heavy Gunner Salt took 1 knockback
+Reactor Heavy Gunner Salt hit something with 1 knockback left
+Reactor Heavy Gunner Salt took 1 damage
+Zan used 3 Bolt Burst - from (27, 1) to (27, 6)
+Air Canister took 1 damage
+Air Canister took 1 knockback
+Air Canister hit something with 1 knockback left
+Air Canister took 1 damage
+Air Canister exploded
+Reactor Heavy Gunner Salt stability prevented 1 knockback
+Reactor Heavy Gunner Salt took 2 knockback
+Reactor Heavy Gunner Salt hit something with 1 knockback left
+Reactor Heavy Gunner Salt took 1 damage
+Zan moved - from (27, 1) to (27, 2)
+Jen cast Static Blast on Reactor Heavy Gunner Salt - from (24, 2) to (25, 6)
+Reactor Heavy Gunner Salt stability prevented 1 knockback
+Reactor Heavy Gunner Salt took 1 knockback
+Reactor Heavy Gunner Salt hit something with 1 knockback left
+Reactor Heavy Gunner Salt took 1 damage
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Zan used Time Boost on Jen - from (27, 2) to (24, 2)
+Jen cast Static Blast on Reactor Heavy Gunner Salt - from (24, 2) to (25, 6)
+Reactor Heavy Gunner Salt stability prevented 1 knockback
+Reactor Heavy Gunner Salt took 1 knockback
+Reactor Heavy Gunner Salt hit something with 1 knockback left
+Reactor Heavy Gunner Salt took 1 damage
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Jen moved - from (24, 2) to (27, 3)
+Jen moved - from (24, 2) to (26, 2)
+Jen used Use Laptop - from (26, 2) to (26, 1)
+Turret armour blocked 1 damage
+Turret took 1 damage
+Turret stability prevented 1 knockback
+Player ended their turn, starting enemy turn 4
+Reactor Heavy Gunner Salt moved - from (25, 6) to (26, 6)
+Reactor Heavy Gunner Salt launched a grenade - from (26, 6) to (28, 0)
+End of enemy turn 4
+ 
+Start of player turn 5
+Jen moved - from (26, 2) to (28, 5)
+Jen cast Static Blast on Reactor Heavy Gunner Salt - from (28, 5) to (26, 6)
+Reactor Heavy Gunner Salt stability prevented 1 knockback
+Reactor Heavy Gunner Salt took 1 knockback
+Reactor Heavy Gunner Salt hit something with 1 knockback left
+Reactor Heavy Gunner Salt took 1 damage
+Reactor Heavy Gunner Salt passed out
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Jen sealed a hostile entry point - from (28, 5) to (28, 5)
+Zan moved - from (27, 2) to (23, 6)
+Zan used Grab Intel - from (23, 6) to (22, 6)
+Turret armour blocked 1 damage
+Turret took 1 damage
+Turret stability prevented 1 knockback

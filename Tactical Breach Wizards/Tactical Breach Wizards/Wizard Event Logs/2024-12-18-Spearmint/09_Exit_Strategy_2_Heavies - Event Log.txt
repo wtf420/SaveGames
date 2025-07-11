@@ -1,0 +1,384 @@
+09_Exit_Strategy_2_Heavies
+ 
+Start of player turn 1
+Jen breached - from (9, 2) to (9, 1)
+Jen moved - from (9, 1) to (11, 3)
+Jen cast Chain Bolt on Reactor Sniper Rodriguez, Reactor Heavy Gunner Volantis, Reactor Heavy Gunner Balwinder - from (11, 3) to (18, 4)
+Reactor Sniper Rodriguez took 2 knockback
+Reactor Heavy Gunner Volantis stability prevented 1 knockback
+Reactor Heavy Gunner Volantis took 1 knockback
+Reactor Heavy Gunner Balwinder stability prevented 1 knockback
+Reactor Heavy Gunner Balwinder took 3 knockback
+Reactor Heavy Gunner Volantis was defenestrated - from (16, 2) to (16, 2)
+Reactor Sniper Rodriguez hit something with 2 knockback left
+Reactor Sniper Rodriguez took 2 damage
+Reactor Heavy Gunner Balwinder hit something with 2 knockback left
+Reactor Heavy Gunner Balwinder took 2 damage
+Reactor Heavy Gunner Volantis took 4 damage
+Reactor Heavy Gunner Volantis passed out
+Jen moved - from (9, 1) to (11, 3)
+Jen cast Chain Bolt on Reactor Heavy Gunner Signori, Reactor Heavy Gunner Volantis, Reactor Sniper Rodriguez - from (11, 3) to (18, 3)
+Reactor Heavy Gunner Signori stability prevented 1 knockback
+Reactor Heavy Gunner Signori took 1 knockback
+Reactor Heavy Gunner Volantis stability prevented 1 knockback
+Reactor Heavy Gunner Volantis took 1 knockback
+Reactor Sniper Rodriguez took 4 knockback
+Reactor Heavy Gunner Signori hit something with 1 knockback left
+Reactor Heavy Gunner Signori took 1 damage
+Reactor Heavy Gunner Volantis was defenestrated - from (16, 2) to (16, 2)
+Reactor Sniper Rodriguez hit something with 4 knockback left
+Reactor Sniper Rodriguez took 4 damage
+Reactor Sniper Rodriguez passed out
+Reactor Heavy Gunner Volantis took 4 damage
+Reactor Heavy Gunner Volantis passed out
+Jen cast Chain Bolt on Reactor Sniper Rodriguez, Reactor Heavy Gunner Signori, Reactor Heavy Gunner Balwinder - from (11, 3) to (18, 4)
+Reactor Sniper Rodriguez took 2 knockback
+Reactor Heavy Gunner Signori stability prevented 1 knockback
+Reactor Heavy Gunner Signori took 1 knockback
+Reactor Heavy Gunner Balwinder stability prevented 1 knockback
+Reactor Heavy Gunner Balwinder took 3 knockback
+Reactor Heavy Gunner Balwinder was defenestrated - from (16, 1) to (16, 1)
+Reactor Sniper Rodriguez hit something with 2 knockback left
+Reactor Sniper Rodriguez took 2 damage
+Reactor Heavy Gunner Balwinder took 4 damage
+Reactor Heavy Gunner Balwinder passed out
+Banks moved - from (9, -1) to (11, 2)
+Banks used Sedative Cocktail on Reactor Heavy Gunner Volantis - from (11, 2) to (16, 2)
+Reactor Heavy Gunner Volantis stability prevented 1 knockback
+Reactor Heavy Gunner Volantis is Sedated
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Zan moved - from (9, 0) to (11, 1)
+Zan repositioned - from (9, 0) to (9, 2)
+Zan breached - from (9, 2) to (9, 1)
+Zan  - from (9, 1) to (12, 4)
+Reactor Sniper Rodriguez shot False Prophet on overwatch
+False Prophet took 4 damage
+False Prophet passed out
+Zan moved - from (9, 1) to (12, 4)
+Jen moved - from (9, 0) to (11, 3)
+Jen cast Chain Bolt on Reactor Sniper Rodriguez, Reactor Heavy Gunner Signori, Reactor Heavy Gunner Volantis - from (11, 3) to (18, 4)
+Reactor Sniper Rodriguez took 2 knockback
+Reactor Heavy Gunner Signori stability prevented 1 knockback
+Reactor Heavy Gunner Signori took 1 knockback
+Reactor Heavy Gunner Volantis stability prevented 1 knockback
+Reactor Heavy Gunner Volantis took 3 knockback
+Reactor Heavy Gunner Volantis was defenestrated - from (16, 2) to (16, 2)
+Reactor Sniper Rodriguez hit something with 2 knockback left
+Reactor Sniper Rodriguez took 2 damage
+Reactor Heavy Gunner Volantis took 4 damage
+Reactor Heavy Gunner Volantis passed out
+Banks moved - from (9, -1) to (11, 2)
+Banks used Death's Door on Reactor Heavy Gunner Signori - from (11, 2) to (18, 2)
+Banks repositioned - from (9, -1) to (9, 2)
+Banks breached - from (9, 2) to (9, 1)
+Banks used Death's Door - from (9, 1) to (18, 2)
+Banks moved - from (9, 1) to (11, 3)
+Banks moved - from (9, 1) to (11, 3)
+Banks used Grab Intel - from (11, 3) to (12, 3)
+Banks used Transference on Reactor Heavy Gunner Forest - from (11, 3) to (15, 7)
+Jen moved - from (9, 0) to (12, 4)
+Reactor Sniper Rodriguez shot Jen on overwatch
+Damage to Jen was transferred to Reactor Heavy Gunner Forest
+Reactor Heavy Gunner Forest armour blocked 1 damage
+Reactor Heavy Gunner Forest took 3 damage
+Jen cast Chain Bolt on Reactor Sniper Rodriguez, Reactor Heavy Gunner Signori, Reactor Heavy Gunner Volantis - from (12, 4) to (18, 4)
+Reactor Sniper Rodriguez took 2 knockback
+Reactor Heavy Gunner Signori stability prevented 1 knockback
+Reactor Heavy Gunner Signori took 1 knockback
+Reactor Heavy Gunner Volantis stability prevented 1 knockback
+Reactor Heavy Gunner Volantis took 3 knockback
+Reactor Heavy Gunner Signori fell into Death's Door
+Reactor Heavy Gunner Signori took 4 damage
+Reactor Heavy Gunner Signori passed out
+Reactor Heavy Gunner Volantis was defenestrated - from (16, 2) to (16, 2)
+Reactor Sniper Rodriguez hit something with 2 knockback left
+Reactor Sniper Rodriguez took 2 damage
+Reactor Heavy Gunner Volantis took 4 damage
+Reactor Heavy Gunner Volantis passed out
+Jen repositioned - from (9, 0) to (9, 2)
+Jen breached - from (9, 2) to (9, 1)
+Banks used Transference on Reactor Heavy Gunner Forest - from (9, -1) to (15, 7)
+Banks moved - from (9, -1) to (12, 4)
+Reactor Sniper Rodriguez shot Banks on overwatch
+Damage to Banks was transferred to Reactor Heavy Gunner Forest
+Reactor Heavy Gunner Forest armour blocked 1 damage
+Reactor Heavy Gunner Forest took 3 damage
+Banks used Death's Door - from (12, 4) to (18, 2)
+Jen cast Chain Bolt on Reactor Sniper Rodriguez, Reactor Heavy Gunner Signori, Reactor Heavy Gunner Volantis - from (9, 1) to (18, 4)
+Reactor Sniper Rodriguez took 2 knockback
+Reactor Heavy Gunner Signori stability prevented 1 knockback
+Reactor Heavy Gunner Signori took 1 knockback
+Reactor Heavy Gunner Volantis stability prevented 1 knockback
+Reactor Heavy Gunner Volantis took 3 knockback
+Reactor Heavy Gunner Signori fell into Death's Door
+Reactor Heavy Gunner Signori took 4 damage
+Reactor Heavy Gunner Signori passed out
+Reactor Heavy Gunner Volantis was defenestrated - from (16, 2) to (16, 2)
+Reactor Sniper Rodriguez hit something with 2 knockback left
+Reactor Sniper Rodriguez took 2 damage
+Reactor Heavy Gunner Volantis took 4 damage
+Reactor Heavy Gunner Volantis passed out
+Banks used Sedative Cocktail on Reactor Sniper Rodriguez - from (12, 4) to (18, 4)
+Reactor Sniper Rodriguez took 1 knockback
+Reactor Sniper Rodriguez is Sedated
+Reactor Sniper Rodriguez hit something with 1 knockback left
+Reactor Sniper Rodriguez took 1 damage
+Reactor Sniper Rodriguez passed out
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Zan moved - from (9, 0) to (11, 2)
+Jen moved - from (9, 1) to (12, -1)
+Banks used Transference on Reactor Heavy Gunner Forest - from (9, -1) to (15, 7)
+Jen moved - from (9, 1) to (12, 4)
+Reactor Sniper Rodriguez shot Jen on overwatch
+Damage to Jen was transferred to Reactor Heavy Gunner Forest
+Reactor Heavy Gunner Forest armour blocked 1 damage
+Reactor Heavy Gunner Forest took 3 damage
+Banks moved - from (9, -1) to (11, 3)
+Banks used Death's Door - from (11, 3) to (18, 2)
+Jen cast Chain Bolt on Reactor Sniper Rodriguez, Reactor Heavy Gunner Signori, Reactor Heavy Gunner Volantis - from (12, 4) to (18, 4)
+Reactor Sniper Rodriguez took 2 knockback
+Reactor Heavy Gunner Signori stability prevented 1 knockback
+Reactor Heavy Gunner Signori took 1 knockback
+Reactor Heavy Gunner Volantis stability prevented 1 knockback
+Reactor Heavy Gunner Volantis took 3 knockback
+Reactor Heavy Gunner Signori fell into Death's Door
+Reactor Heavy Gunner Signori took 4 damage
+Reactor Heavy Gunner Signori passed out
+Reactor Heavy Gunner Volantis was defenestrated - from (16, 2) to (16, 2)
+Reactor Sniper Rodriguez hit something with 2 knockback left
+Reactor Sniper Rodriguez took 2 damage
+Reactor Heavy Gunner Volantis took 4 damage
+Reactor Heavy Gunner Volantis passed out
+Zan moved - from (9, 0) to (11, 2)
+Zan used 3 Bolt Burst on Reactor Sniper Rodriguez - from (11, 2) to (18, 4)
+Reactor Sniper Rodriguez took 1 damage
+Reactor Sniper Rodriguez passed out
+Reactor Sniper Rodriguez took 1 knockback
+Reactor Sniper Rodriguez hit something with 1 knockback left
+Jen used Broom Breach - from (12, 4) to (16, 0)
+Zan used Time Boost on Jen - from (11, 2) to (12, 4)
+Jen used Broom Breach - from (12, 4) to (16, 0)
+Jen cast Static Blast on Reactor Heavy Gunner Balwinder - from (16, 0) to (16, 1)
+Reactor Heavy Gunner Balwinder stability prevented 1 knockback
+Reactor Heavy Gunner Balwinder took 1 knockback
+Zan shot Reactor Heavy Gunner Balwinder on overwatch
+Reactor Heavy Gunner Balwinder armour blocked 1 damage
+Reactor Heavy Gunner Balwinder took 3 damage
+Banks used Transference on Reactor Heavy Gunner Balwinder - from (9, -1) to (16, 1)
+Jen moved - from (9, 1) to (12, 4)
+Reactor Sniper Rodriguez shot Jen on overwatch
+Damage to Jen was transferred to Reactor Heavy Gunner Balwinder
+Reactor Heavy Gunner Balwinder armour blocked 1 damage
+Reactor Heavy Gunner Balwinder took 3 damage
+Jen cast Chain Bolt on Reactor Sniper Rodriguez, Reactor Heavy Gunner Signori, Reactor Heavy Gunner Volantis - from (12, 4) to (18, 4)
+Reactor Sniper Rodriguez took 2 knockback
+Reactor Heavy Gunner Signori stability prevented 1 knockback
+Reactor Heavy Gunner Signori took 1 knockback
+Reactor Heavy Gunner Volantis stability prevented 1 knockback
+Reactor Heavy Gunner Volantis took 3 knockback
+Reactor Heavy Gunner Volantis was defenestrated - from (16, 2) to (16, 2)
+Reactor Sniper Rodriguez hit something with 2 knockback left
+Reactor Sniper Rodriguez took 2 damage
+Reactor Heavy Gunner Volantis took 4 damage
+Reactor Heavy Gunner Volantis passed out
+Banks moved - from (9, -1) to (11, 3)
+Banks used Death's Door - from (11, 3) to (18, 2)
+Jen cast Chain Bolt on Reactor Sniper Rodriguez, Reactor Heavy Gunner Signori, Reactor Heavy Gunner Volantis - from (12, 4) to (18, 4)
+Reactor Sniper Rodriguez took 2 knockback
+Reactor Heavy Gunner Signori stability prevented 1 knockback
+Reactor Heavy Gunner Signori took 1 knockback
+Reactor Heavy Gunner Volantis stability prevented 1 knockback
+Reactor Heavy Gunner Volantis took 3 knockback
+Reactor Heavy Gunner Signori fell into Death's Door
+Reactor Heavy Gunner Signori took 4 damage
+Reactor Heavy Gunner Signori passed out
+Reactor Heavy Gunner Volantis was defenestrated - from (16, 2) to (16, 2)
+Reactor Sniper Rodriguez hit something with 2 knockback left
+Reactor Sniper Rodriguez took 2 damage
+Reactor Heavy Gunner Volantis took 4 damage
+Reactor Heavy Gunner Volantis passed out
+Zan moved - from (9, 0) to (11, 2)
+Zan used Time Boost on Jen - from (11, 2) to (12, 4)
+Jen used Broom Breach - from (12, 4) to (16, 0)
+Zan used 3 Bolt Burst on Reactor Sniper Rodriguez - from (11, 2) to (18, 4)
+Reactor Sniper Rodriguez took 1 damage
+Reactor Sniper Rodriguez passed out
+Reactor Sniper Rodriguez took 1 knockback
+Reactor Sniper Rodriguez hit something with 1 knockback left
+Jen cast Static Blast on Reactor Heavy Gunner Balwinder - from (16, 0) to (16, 1)
+Reactor Heavy Gunner Balwinder stability prevented 1 knockback
+Reactor Heavy Gunner Balwinder took 1 knockback
+Zan shot Reactor Heavy Gunner Balwinder on overwatch
+Reactor Heavy Gunner Balwinder armour blocked 1 damage
+Reactor Heavy Gunner Balwinder took 3 damage
+Reactor Heavy Gunner Balwinder passed out
+Player ended their turn, starting enemy turn 1
+Reactor Heavy Gunner Forest moved - from (15, 7) to (12, 7)
+Reactor Heavy Gunner Forest launched a grenade - from (12, 7) to (10, 2)
+Reactor Heavy Gunner Polaris launched a grenade - from (17, 1) to (11, 4)
+End of enemy turn 1
+ 
+Start of player turn 2
+Banks used Sedative Cocktail - from (11, 3) to (11, 7)
+Reactor Tracker Grounder is Sedated
+Reactor Heavy Gunner Forest is Sedated
+Banks moved - from (11, 3) to (10, 6)
+Zan used 3 Bolt Burst on Reactor Heavy Gunner Forest - from (11, 2) to (12, 7)
+Reactor Heavy Gunner Forest armour blocked 1 damage
+Reactor Heavy Gunner Forest took 1 knockback
+Jen used Broom Breach - from (16, 0) to (12, 5)
+Jen threw a Gale Grenade - from (12, 5) to (11, 8)
+Reactor Tracker Grounder took 2 knockback
+Reactor Heavy Gunner Forest took 1 knockback
+Reactor Heavy Gunner Forest hit something with 1 knockback left
+Reactor Heavy Gunner Forest took 1 damage
+Reactor Tracker Grounder hit something with 2 knockback left
+Reactor Tracker Grounder took 2 damage
+Jen cast Static Blast on Reactor Heavy Gunner Forest - from (12, 5) to (12, 8)
+Reactor Heavy Gunner Forest took 2 knockback
+Reactor Heavy Gunner Forest hit something with 2 knockback left
+Reactor Heavy Gunner Forest took 2 damage
+Zan took a free shot at Reactor Heavy Gunner Forest with Supporting Fire.
+Zan used 3 Bolt Burst on Reactor Heavy Gunner Forest - from (11, 2) to (12, 8)
+Reactor Heavy Gunner Forest armour blocked 1 damage
+Reactor Heavy Gunner Forest took 1 knockback
+Reactor Heavy Gunner Forest hit something with 1 knockback left
+Reactor Heavy Gunner Forest took 1 damage
+Reactor Heavy Gunner Forest passed out
+Zan moved - from (11, 2) to (12, 6)
+Zan moved - from (11, 2) to (11, 6)
+Jen moved - from (12, 5) to (14, 7)
+Jen moved - from (12, 5) to (12, 6)
+Zan moved - from (11, 2) to (12, 6)
+Jen moved - from (12, 5) to (14, 7)
+Zan moved - from (11, 2) to (11, 6)
+Zan took cover - from (11, 6) to (11, 6)
+Jen moved - from (12, 5) to (11, 8)
+Banks took cover - from (10, 6) to (10, 6)
+Banks moved - from (11, 3) to (12, 6)
+Jen used Broom Breach - from (16, 0) to (12, 4)
+Jen cast Static Blast on Reactor Heavy Gunner Forest - from (12, 4) to (12, 7)
+Reactor Heavy Gunner Forest took 2 knockback
+Reactor Heavy Gunner Forest hit something with 1 knockback left
+Reactor Heavy Gunner Forest took 1 damage
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Jen threw a Gale Grenade - from (12, 4) to (11, 8)
+Reactor Tracker Grounder took 2 knockback
+Reactor Heavy Gunner Forest took 1 knockback
+Reactor Heavy Gunner Forest hit something with 1 knockback left
+Reactor Heavy Gunner Forest took 1 damage
+Reactor Tracker Grounder hit something with 2 knockback left
+Reactor Tracker Grounder took 2 damage
+Jen used Broom Breach - from (16, 0) to (12, 4)
+Banks moved - from (11, 3) to (11, 6)
+Jen cast Static Blast on Reactor Heavy Gunner Forest - from (12, 4) to (12, 7)
+Reactor Heavy Gunner Forest took 2 knockback
+Reactor Heavy Gunner Forest hit something with 1 knockback left
+Reactor Heavy Gunner Forest took 1 damage
+Zan took a free shot at Reactor Heavy Gunner Forest with Supporting Fire.
+Zan used 3 Bolt Burst on Reactor Heavy Gunner Forest - from (11, 2) to (12, 8)
+Reactor Heavy Gunner Forest armour blocked 1 damage
+Reactor Heavy Gunner Forest took 1 knockback
+Reactor Heavy Gunner Forest hit something with 1 knockback left
+Reactor Heavy Gunner Forest took 1 damage
+Jen threw a Gale Grenade - from (12, 4) to (11, 8)
+Reactor Tracker Grounder took 2 knockback
+Reactor Heavy Gunner Forest took 1 knockback
+Reactor Heavy Gunner Forest hit something with 1 knockback left
+Reactor Heavy Gunner Forest took 1 damage
+Reactor Tracker Grounder hit something with 2 knockback left
+Reactor Tracker Grounder took 2 damage
+Zan used 3 Bolt Burst on Reactor Heavy Gunner Forest - from (11, 2) to (12, 8)
+Reactor Heavy Gunner Forest armour blocked 1 damage
+Reactor Heavy Gunner Forest took 1 knockback
+Reactor Heavy Gunner Forest hit something with 1 knockback left
+Reactor Heavy Gunner Forest took 1 damage
+Reactor Heavy Gunner Forest passed out
+Jen moved - from (12, 4) to (11, 8)
+Jen sealed a hostile entry point - from (11, 8) to (11, 8)
+Zan moved - from (11, 2) to (11, 3)
+Zan used Grab Intel - from (11, 3) to (12, 3)
+Zan took cover - from (11, 3) to (11, 3)
+Banks took cover - from (11, 6) to (11, 6)
+Zan took 2 damage
+Zan took 1 knockback
+Zan took 2 damage
+Zan passed out
+Zan took 1 knockback
+Zan hit something with 1 knockback left
+Zan moved - from (11, 2) to (12, 6)
+Banks took cover - from (11, 6) to (11, 6)
+Reactor Tracker Grounder shot Jen - from (10, 8) to (11, 8)
+Jen took 2 damage
+Reactor Heavy Gunner Polaris used Saturating Fire on Banks - from (17, 1) to (11, 6)
+Banks took 1 damage
+Reactor Tracker Grounder took 1 damage
+Reactor Tracker Grounder passed out
+Player ended their turn, starting enemy turn 2
+Reactor Heavy Gunner Polaris moved - from (17, 1) to (16, 0)
+Reactor Heavy Gunner Polaris launched a grenade - from (16, 0) to (11, 7)
+End of enemy turn 2
+ 
+Start of player turn 3
+Banks used Spectral Skull - from (11, 6) to (9, 3)
+Banks used Sedative Cocktail on Reactor Heavy Gunner Polaris - from (11, 6) to (16, 0)
+Reactor Heavy Gunner Polaris stability prevented 1 knockback
+Reactor Heavy Gunner Polaris is Sedated
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Zan moved - from (12, 6) to (16, 6)
+Zan used 3 Bolt Burst on Reactor Heavy Gunner Polaris - from (16, 6) to (16, 0)
+Reactor Heavy Gunner Polaris armour blocked 1 damage
+Reactor Heavy Gunner Polaris took 1 knockback
+Reactor Heavy Gunner Polaris hit something with 1 knockback left
+Reactor Heavy Gunner Polaris took 1 damage
+Jen moved - from (11, 8) to (12, 5)
+Jen cast Static Blast on Reactor Heavy Gunner Polaris - from (12, 5) to (16, 0)
+Reactor Heavy Gunner Polaris took 2 knockback
+Reactor Heavy Gunner Polaris hit something with 2 knockback left
+Reactor Heavy Gunner Polaris took 2 damage
+Zan took a free shot at Reactor Heavy Gunner Polaris with Supporting Fire.
+Zan used 3 Bolt Burst on Reactor Heavy Gunner Polaris - from (16, 6) to (16, 0)
+Reactor Heavy Gunner Polaris armour blocked 1 damage
+Reactor Heavy Gunner Polaris took 1 knockback
+Reactor Heavy Gunner Polaris hit something with 1 knockback left
+Reactor Heavy Gunner Polaris took 1 damage
+Reactor Heavy Gunner Polaris passed out
+Banks moved - from (11, 6) to (15, 6)
+Player ended their turn, starting enemy turn 3
+Reactor Heavy Gunner Messier moved - from (18, 2) to (17, 4)
+Reactor Heavy Gunner Messier launched a grenade - from (17, 4) to (15, 7)
+End of enemy turn 3
+ 
+Start of player turn 4
+Banks moved - from (15, 6) to (18, 7)
+Banks used Sedative Cocktail on Reactor Heavy Gunner Messier - from (18, 7) to (17, 4)
+Reactor Heavy Gunner Messier stability prevented 1 knockback
+Reactor Heavy Gunner Messier is Sedated
+Zan took a free shot at Reactor Heavy Gunner Messier with Supporting Fire.
+Zan used 3 Bolt Burst on Reactor Heavy Gunner Messier - from (16, 6) to (17, 4)
+Reactor Heavy Gunner Messier armour blocked 1 damage
+Reactor Heavy Gunner Messier took 1 knockback
+Zan moved - from (16, 6) to (18, 4)
+Banks used Sedative Cocktail - from (18, 7) to (16, 4)
+Reactor Heavy Gunner Messier is Sedated
+Zan used 3 Bolt Burst on Reactor Heavy Gunner Messier - from (18, 4) to (17, 4)
+Reactor Heavy Gunner Messier armour blocked 1 damage
+Reactor Heavy Gunner Messier took 1 knockback
+Zan moved - from (16, 6) to (18, 4)
+Banks used Sedative Cocktail on Reactor Heavy Gunner Messier - from (18, 7) to (17, 4)
+Reactor Heavy Gunner Messier stability prevented 1 knockback
+Reactor Heavy Gunner Messier is Sedated
+Zan is Sedated
+Zan took a free shot at Reactor Heavy Gunner Messier with Supporting Fire.
+Zan used 3 Bolt Burst on Reactor Heavy Gunner Messier - from (18, 4) to (17, 4)
+Reactor Heavy Gunner Messier armour blocked 1 damage
+Reactor Heavy Gunner Messier took 1 knockback
+Zan used 3 Bolt Burst on Reactor Heavy Gunner Messier - from (18, 4) to (16, 4)
+Reactor Heavy Gunner Messier armour blocked 1 damage
+Reactor Heavy Gunner Messier took 1 knockback
+Reactor Heavy Gunner Messier was defenestrated - from (16, 4) to (16, 4)
+Reactor Heavy Gunner Messier took 4 damage
+Reactor Heavy Gunner Messier passed out
+Zan moved - from (18, 4) to (18, 2)
+Zan sealed a hostile entry point - from (18, 2) to (18, 2)
+Zan took 1 damage

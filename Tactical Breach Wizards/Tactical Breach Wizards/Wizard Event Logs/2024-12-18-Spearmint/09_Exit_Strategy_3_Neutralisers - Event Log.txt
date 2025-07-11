@@ -1,0 +1,38 @@
+09_Exit_Strategy_3_Neutralisers
+ 
+Start of player turn 1
+Jen breached - from (19, 5) to (19, 4)
+Banks breached - from (22, 1) to (23, 1)
+Jen is no longer Neutralised
+Banks used Sedative Cocktail on Reactor Heavy Gunner Barmash - from (23, 1) to (25, 6)
+Reactor Heavy Gunner Barmash stability prevented 1 knockback
+Reactor Heavy Gunner Barmash is Sedated
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Jen cast Chain Bolt on Reactor Neutraliser Kuiper, Reactor Heavy Gunner Barmash - from (19, 4) to (23, 5)
+Reactor Neutraliser Kuiper took 2 knockback
+Reactor Heavy Gunner Barmash took 4 knockback
+Reactor Heavy Gunner Barmash hit something with 4 knockback left
+Reactor Heavy Gunner Barmash took 4 damage
+Reactor Heavy Gunner Barmash passed out
+Reactor Neutraliser Kuiper hit something with 2 knockback left
+Reactor Neutraliser Kuiper took 2 damage
+Reactor Neutraliser Kuiper passed out
+Banks is no longer Neutralised
+Zan moved - from (19, 3) to (23, 6)
+Zan  - from (23, 6) to (22, 7)
+False Prophet sealed a hostile entry point - from (22, 7) to (22, 7)
+Jen moved - from (19, 4) to (24, 4)
+Banks moved - from (23, 1) to (23, 5)
+False Prophet vanished
+Player ended their turn, starting enemy turn 1
+End of enemy turn 1
+ 
+Start of player turn 2
+Jen moved - from (24, 4) to (25, 5)
+Jen sealed a hostile entry point - from (25, 5) to (25, 5)
+Jen cast Static Blast on Reactor Neutraliser Shipborn - from (25, 5) to (24, 6)
+Reactor Neutraliser Shipborn took 2 knockback
+Reactor Neutraliser Shipborn hit something with 2 knockback left
+Reactor Neutraliser Shipborn took 2 damage
+Reactor Neutraliser Shipborn passed out
+Zan is no longer Neutralised

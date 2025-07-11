@@ -1,0 +1,990 @@
+14_The_Recording_4_The_Stand
+ 
+Start of player turn 1
+Dall breached - from (16, -13) to (17, -13)
+Chapel Absolver Roma took 1 damage
+Chapel Absolver Roma took 2 knockback
+Chapel Absolver Roma hit something with 1 knockback left
+Chapel Absolver Roma took 1 damage
+Chapel Absolver Roma passed out
+Chapel Tracker Plaza is no longer Invincible
+Chapel Shepherd Lacayo shot Dall - from (18, -1) to (17, -13)
+Dall armour blocked 1 damage
+Dall stability prevented 1 knockback
+Dall moved - from (17, -13) to (18, -12)
+Dall used Charge - from (18, -12) to (18, -8)
+Chapel Tracker Plaza took 1 damage
+Chapel Tracker Plaza took 4 knockback
+Chapel Tracker Plaza was defenestrated - from (18, -6) to (18, -6)
+Chapel Tracker Plaza took 2 damage
+Chapel Tracker Plaza passed out
+Chapel Shepherd Lacayo shot Dall - from (18, -1) to (18, -8)
+Dall armour blocked 1 damage
+Dall stability prevented 1 knockback
+Banks used Sedative Cocktail on Chapel Shepherd Lacayo - from (15, 0) to (18, -1)
+Chapel Shepherd Lacayo took 1 knockback
+Chapel Shepherd Lacayo is Sedated
+Chapel Shepherd Lacayo hit something with 1 knockback left
+Chapel Shepherd Lacayo took 1 damage
+Zan took a free shot at Chapel Shepherd Lacayo with Supporting Fire.
+Zan used 3 Bolt Burst on Chapel Shepherd Lacayo - from (15, -1) to (18, -1)
+Chapel Shepherd Lacayo armour blocked 1 damage
+Chapel Shepherd Lacayo took 2 knockback
+Chapel Shepherd Lacayo hit something with 2 knockback left
+Chapel Shepherd Lacayo took 2 damage
+Jen cast Static Blast on Chapel Shepherd Lacayo - from (15, 1) to (18, -1)
+Chapel Shepherd Lacayo took 3 knockback
+Chapel Shepherd Lacayo hit something with 3 knockback left
+Chapel Shepherd Lacayo took 3 damage
+Chapel Shepherd Lacayo passed out
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Jen moved - from (15, 1) to (18, 0)
+Banks moved - from (15, 0) to (18, -1)
+Player ended their turn, starting enemy turn 1
+Zan shot Chapel Shepherd Vulpecula on overwatch
+Chapel Shepherd Vulpecula armour blocked 1 damage
+Chapel Shepherd Vulpecula took 3 damage
+Chapel Absolver Smilla moved - from (15, -8) to (18, -6)
+End of enemy turn 1
+ 
+Start of player turn 2
+Dall used Charge - from (18, -8) to (18, -7)
+Chapel Absolver Smilla took 1 damage
+Chapel Absolver Smilla took 1 knockback
+Chapel Absolver Smilla was defenestrated - from (18, -6) to (18, -6)
+Chapel Shepherd Vulpecula is no longer Invincible
+Chapel Absolver Smilla took 1 damage
+Chapel Absolver Smilla passed out
+Chapel Shepherd Vulpecula shot Dall - from (15, -2) to (18, -7)
+Dall armour blocked 1 damage
+Dall stability prevented 1 knockback
+Banks used Sedative Cocktail - from (18, -1) to (15, -3)
+Chapel Shepherd Vulpecula is Sedated
+Zan used 3 Bolt Burst on Chapel Shepherd Vulpecula - from (15, -1) to (15, -2)
+Chapel Shepherd Vulpecula armour blocked 1 damage
+Chapel Shepherd Vulpecula took 2 knockback
+Chapel Shepherd Vulpecula was defenestrated - from (15, -3) to (15, -3)
+Chapel Shepherd Vulpecula took 2 damage
+Chapel Shepherd Vulpecula passed out
+Dall moved - from (18, -7) to (18, -8)
+Jen cast Chain Bolt on Chapel Tracker Clawless, Chapel Tracker Easterling, Banks - from (18, 0) to (22, -1)
+Chapel Tracker Clawless took 2 knockback
+Chapel Tracker Easterling took 2 knockback
+Banks took 2 knockback
+Chapel Tracker Clawless hit something with 2 knockback left
+Chapel Tracker Clawless took 2 damage
+Chapel Tracker Easterling hit a Electrified Wall
+Chapel Tracker Easterling took 2 damage
+Chapel Tracker Easterling is Stunned for 1 turn
+Chapel Tracker Easterling hit something with 2 knockback left
+Chapel Tracker Easterling took 2 damage
+Chapel Tracker Easterling passed out
+Banks moved - from (18, -3) to (18, -1)
+Jen cast Static Blast on Chapel Tracker Clawless - from (18, 0) to (22, -1)
+Chapel Tracker Clawless took 2 knockback
+Chapel Tracker Clawless hit something with 2 knockback left
+Chapel Tracker Clawless took 2 damage
+Chapel Tracker Clawless passed out
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Player ended their turn, starting enemy turn 2
+Zan shot Chapel Riot Priest Jounce on overwatch
+Chapel Riot Priest Jounce armour blocked 1 damage
+Chapel Riot Priest Jounce took 3 damage
+Chapel Riot Priest Jounce is no longer Gasmasked
+Chapel Cleanser Jones moved - from (22, 0) to (20, 1)
+Chapel Cleanser Jones took cover - from (20, 1) to (20, 1)
+Chapel Absolver Necessity moved - from (18, 2) to (15, 0)
+End of enemy turn 2
+ 
+Start of player turn 3
+Banks used Sedative Cocktail - from (18, -1) to (15, 1)
+Chapel Riot Priest Jounce is Sedated
+Chapel Absolver Necessity is Sedated
+Chapel Shepherd Gibbs shot Banks - from (16, -8) to (18, -1)
+Banks took 1 damage
+Banks took 1 knockback
+Jen took 1 knockback
+Banks hit something with 1 knockback left
+Banks took 1 damage
+Jen moved - from (18, 1) to (17, -1)
+Jen used Grab Intel - from (17, -1) to (16, -1)
+Jen cast Chain Bolt on Chapel Absolver Necessity, Chapel Riot Priest Jounce, Dall - from (17, -1) to (15, 0)
+Chapel Absolver Necessity took 3 knockback
+Chapel Riot Priest Jounce took 2 knockback
+Dall stability prevented 1 knockback
+Dall took 1 knockback
+Dall hit something with 1 knockback left
+Dall took 1 damage
+Dall gained 1 mana from incoming damage
+Chapel Riot Priest Jounce hit something with 2 knockback left
+Chapel Absolver Necessity hit something with 2 knockback left
+Chapel Absolver Necessity took 2 damage
+Chapel Absolver Necessity passed out
+Chapel Riot Priest Jounce is no longer Invincible
+Chapel Shepherd Gibbs shot Jen - from (16, -8) to (17, -1)
+Jen took 1 damage
+Jen took 1 knockback
+Dall used Charge - from (18, -8) to (17, -8)
+Chapel Shepherd Gibbs armour blocked 1 damage
+Chapel Shepherd Gibbs took 1 knockback
+Zan took a free shot at Chapel Shepherd Gibbs with Supporting Fire.
+Zan used 3 Bolt Burst on Chapel Shepherd Gibbs - from (15, -1) to (15, -8)
+Chapel Shepherd Gibbs armour blocked 1 damage
+Chapel Shepherd Gibbs took 1 knockback
+Dall used Throw Riot Block - from (18, -8) to (15, -8)
+Dall used Charge - from (18, -8) to (17, -8)
+Chapel Shepherd Gibbs armour blocked 1 damage
+Chapel Shepherd Gibbs took 1 knockback
+Chapel Shepherd Gibbs hit something with 1 knockback left
+Riot Block added 1 extra impact damage
+Chapel Shepherd Gibbs took 2 damage
+Zan took a free shot at Chapel Shepherd Gibbs with Supporting Fire.
+Zan used 3 Bolt Burst on Chapel Shepherd Gibbs - from (15, -1) to (16, -8)
+Chapel Shepherd Gibbs armour blocked 1 damage
+Chapel Shepherd Gibbs took 1 knockback
+Chapel Shepherd Gibbs hit something with 1 knockback left
+Chapel Shepherd Gibbs took 1 damage
+Jen cast Static Blast on Chapel Riot Priest Jounce - from (17, 0) to (14, 0)
+Chapel Riot Priest Jounce took 2 knockback
+Chapel Riot Priest Jounce hit something with 2 knockback left
+Chapel Riot Priest Jounce took 2 damage
+Zan took a free shot at Chapel Riot Priest Jounce with Supporting Fire.
+Zan used 3 Bolt Burst on Chapel Riot Priest Jounce - from (15, -1) to (14, 0)
+Chapel Riot Priest Jounce armour blocked 1 damage
+Chapel Riot Priest Jounce took 1 knockback
+Chapel Riot Priest Jounce hit something with 1 knockback left
+Chapel Riot Priest Jounce took 1 damage
+Chapel Shepherd Gibbs shot Jen - from (16, -8) to (17, 0)
+Jen took 1 damage
+Jen took 1 knockback
+Banks used Death's Door on Chapel Absolver Necessity - from (18, -1) to (15, 0)
+Jen moved - from (18, 0) to (17, -1)
+Jen used Grab Intel - from (17, -1) to (16, -1)
+Jen cast Chain Bolt on Chapel Riot Priest Jounce, Chapel Absolver Necessity, Chapel Cleanser Jones - from (17, -1) to (14, 0)
+Chapel Riot Priest Jounce stability prevented 1 knockback
+Chapel Riot Priest Jounce took 1 knockback
+Chapel Absolver Necessity took 2 knockback
+Chapel Cleanser Jones took 2 knockback
+Chapel Riot Priest Jounce fell into Death's Door
+Chapel Riot Priest Jounce hit something with 1 knockback left
+Chapel Riot Priest Jounce is no longer Invincible
+Chapel Shepherd Gibbs shot Jen - from (16, -8) to (17, -1)
+Jen took 1 damage
+Jen took 1 knockback
+Chapel Absolver Necessity took 1 knockback
+Jen hit something with 1 knockback left
+Jen took 1 damage
+Chapel Cleanser Jones is no longer Invincible
+Jen cast Chain Bolt on Chapel Riot Priest Jounce, Chapel Absolver Necessity, Weapons Cache - from (17, -1) to (14, 0)
+Chapel Riot Priest Jounce stability prevented 1 knockback
+Chapel Riot Priest Jounce took 1 knockback
+Chapel Absolver Necessity took 2 knockback
+Weapons Cache took 2 knockback
+Chapel Riot Priest Jounce fell into Death's Door
+Chapel Riot Priest Jounce hit something with 1 knockback left
+Weapons Cache took 1 knockback
+Weapons Cache hit something with 2 knockback left
+Weapons Cache took 2 damage
+Jen gained 1 mana for destroying a Weapons Cache
+Weapons Cache hit something with 1 knockback left
+Weapons Cache took 1 damage
+Jen gained 1 mana for destroying a Weapons Cache
+Weapons Cache exploded
+Weapons Cache exploded
+Chapel Riot Priest Jounce is no longer Invincible
+Chapel Shepherd Gibbs shot Jen - from (16, -8) to (17, -1)
+Jen took 1 damage
+Jen took 1 knockback
+Chapel Absolver Necessity took 1 knockback
+Jen hit something with 1 knockback left
+Jen took 1 damage
+Chapel Cleanser Jones is no longer Invincible
+Banks used Death's Door on Chapel Riot Priest Jounce - from (18, -1) to (14, 0)
+Jen moved - from (18, 0) to (17, -1)
+Jen used Grab Intel - from (17, -1) to (16, -1)
+Jen cast Chain Bolt on Chapel Absolver Necessity, Banks, Chapel Shepherd Gibbs - from (17, -1) to (15, 0)
+Chapel Absolver Necessity took 2 knockback
+Banks took 2 knockback
+Chapel Shepherd Gibbs took 2 knockback
+Banks hit something with 2 knockback left
+Banks took 2 damage
+Chapel Shepherd Gibbs hit something with 2 knockback left
+Chapel Shepherd Gibbs took 2 damage
+Chapel Absolver Necessity hit something with 1 knockback left
+Chapel Absolver Necessity took 1 damage
+Chapel Riot Priest Jounce is no longer Invincible
+Jen cast Chain Bolt on Chapel Riot Priest Jounce, Chapel Absolver Necessity, Zan - from (17, -1) to (14, 0)
+Chapel Riot Priest Jounce stability prevented 1 knockback
+Chapel Riot Priest Jounce took 1 knockback
+Chapel Absolver Necessity took 2 knockback
+Zan took 2 knockback
+Chapel Riot Priest Jounce fell into Death's Door
+Chapel Riot Priest Jounce hit something with 1 knockback left
+Chapel Riot Priest Jounce is no longer Invincible
+Chapel Shepherd Gibbs shot Jen - from (16, -8) to (17, -1)
+Jen took 1 damage
+Jen took 1 knockback
+Chapel Absolver Necessity took 1 knockback
+Jen hit something with 1 knockback left
+Jen took 1 damage
+Chapel Cleanser Jones is no longer Invincible
+Jen cast Static Blast on Chapel Absolver Necessity - from (17, -1) to (17, 1)
+Chapel Absolver Necessity took 2 knockback
+Chapel Absolver Necessity hit a Electrified Wall
+Chapel Absolver Necessity took 2 damage
+Chapel Absolver Necessity passed out
+Chapel Absolver Necessity hit something with 1 knockback left
+Chapel Cleanser Jones is no longer Invincible
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Dall used Charge - from (18, -8) to (18, -10)
+Chapel Tracker Dialect took 1 damage
+Chapel Tracker Dialect took 2 knockback
+Chapel Tracker Dialect hit something with 1 knockback left
+Chapel Tracker Dialect took 1 damage
+Zan took a free shot at Chapel Tracker Dialect with Supporting Fire.
+Zan used 3 Bolt Burst on Chapel Tracker Dialect - from (15, -3) to (18, -12)
+Chapel Tracker Dialect took 1 damage
+Chapel Tracker Dialect passed out
+Chapel Tracker Dialect took 1 knockback
+Chapel Tracker Dialect hit something with 1 knockback left
+Chapel Shepherd Gibbs shot Dall - from (16, -8) to (18, -10)
+Dall armour blocked 1 damage
+Dall stability prevented 1 knockback
+Banks used Sedative Cocktail on Chapel Cleanser Jones - from (18, -1) to (20, 1)
+Chapel Cleanser Jones took 1 knockback
+Chapel Cleanser Jones is Sedated
+Chapel Cleanser Jones hit something with 1 knockback left
+Chapel Cleanser Jones took 1 damage
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Chapel Shepherd Gibbs shot Banks - from (16, -8) to (18, -1)
+Banks took 1 damage
+Banks took 1 knockback
+Jen moved - from (17, -1) to (21, -1)
+Zan used Time Boost on Jen - from (15, -3) to (21, -1)
+Banks used Sedative Cocktail - from (18, -1) to (21, 2)
+Weapons Cache took 1 knockback
+Weapons Cache hit something with 1 knockback left
+Weapons Cache took 1 damage
+Banks gained 1 mana for destroying a Weapons Cache
+Weapons Cache exploded
+Weapons Cache took 1 damage
+Banks gained 1 mana for destroying a Weapons Cache
+Weapons Cache took 1 knockback
+Weapons Cache hit something with 1 knockback left
+Weapons Cache took 1 damage
+Weapons Cache exploded
+Banks used Sedative Cocktail on Chapel Cleanser Jones - from (18, -1) to (20, 1)
+Chapel Cleanser Jones took 1 knockback
+Chapel Cleanser Jones is Sedated
+Chapel Cleanser Jones hit something with 1 knockback left
+Chapel Cleanser Jones took 1 damage
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Chapel Shepherd Gibbs shot Banks - from (16, -8) to (18, -1)
+Banks took 1 damage
+Banks took 1 knockback
+Zan used Time Boost - from (15, -3) to (18, -1)
+Jen moved - from (17, -1) to (21, -1)
+Jen cast Static Blast on - from (21, -1) to (21, 2)
+Weapons Cache took 2 knockback
+Weapons Cache hit something with 2 knockback left
+Weapons Cache took 2 damage
+Jen gained 1 mana for destroying a Weapons Cache
+Weapons Cache exploded
+Weapons Cache took 1 damage
+Jen gained 1 mana for destroying a Weapons Cache
+Weapons Cache took 1 knockback
+Weapons Cache hit something with 1 knockback left
+Weapons Cache took 1 damage
+Weapons Cache exploded
+Banks moved - from (18, 0) to (16, 0)
+Banks used Sedative Cocktail on Chapel Cleanser Jones - from (16, 0) to (20, 1)
+Chapel Cleanser Jones took 2 knockback
+Chapel Cleanser Jones is Sedated
+Zan took a free shot at Chapel Cleanser Jones with Supporting Fire.
+Zan used 3 Bolt Burst on Chapel Cleanser Jones - from (15, -3) to (22, 1)
+Chapel Cleanser Jones took 1 damage
+Chapel Cleanser Jones took 3 knockback
+Chapel Cleanser Jones hit something with 3 knockback left
+Chapel Cleanser Jones took 3 damage
+Chapel Cleanser Jones passed out
+Chapel Shepherd Gibbs shot Banks - from (16, -8) to (16, 0)
+Banks took 1 damage
+Banks took 1 knockback
+Banks hit something with 1 knockback left
+Banks took 1 damage
+Zan used 3 Bolt Burst on Chapel Shepherd Gibbs - from (15, -3) to (16, -8)
+Chapel Shepherd Gibbs armour blocked 1 damage
+Chapel Shepherd Gibbs took 1 knockback
+Chapel Shepherd Gibbs hit something with 1 knockback left
+Chapel Shepherd Gibbs took 1 damage
+Banks used Sedative Cocktail on Chapel Shepherd Gibbs - from (18, -1) to (16, -8)
+Chapel Shepherd Gibbs took 1 knockback
+Chapel Shepherd Gibbs is Sedated
+Chapel Shepherd Gibbs hit something with 1 knockback left
+Chapel Shepherd Gibbs took 1 damage
+Zan took a free shot at Chapel Shepherd Gibbs with Supporting Fire.
+Zan used 3 Bolt Burst on Chapel Shepherd Gibbs - from (15, -3) to (16, -8)
+Chapel Shepherd Gibbs armour blocked 1 damage
+Chapel Shepherd Gibbs took 2 knockback
+Chapel Shepherd Gibbs hit something with 2 knockback left
+Chapel Shepherd Gibbs took 2 damage
+Zan used 3 Bolt Burst on Chapel Shepherd Gibbs - from (15, -3) to (16, -8)
+Chapel Shepherd Gibbs armour blocked 1 damage
+Chapel Shepherd Gibbs took 2 knockback
+Chapel Shepherd Gibbs hit something with 2 knockback left
+Chapel Shepherd Gibbs took 2 damage
+Chapel Shepherd Gibbs passed out
+Dall used Charge - from (18, -8) to (18, -10)
+Chapel Tracker Dialect took 1 damage
+Chapel Tracker Dialect took 2 knockback
+Chapel Tracker Dialect hit something with 1 knockback left
+Chapel Tracker Dialect took 1 damage
+Zan took a free shot at Chapel Tracker Dialect with Supporting Fire.
+Zan used 3 Bolt Burst on Chapel Tracker Dialect - from (15, -3) to (18, -12)
+Chapel Tracker Dialect took 1 damage
+Chapel Tracker Dialect passed out
+Chapel Tracker Dialect took 1 knockback
+Chapel Tracker Dialect hit something with 1 knockback left
+Jen cast Static Blast on Chapel Absolver Necessity - from (17, -1) to (17, 1)
+Chapel Absolver Necessity took 2 knockback
+Chapel Absolver Necessity hit a Electrified Wall
+Chapel Absolver Necessity took 2 damage
+Chapel Absolver Necessity passed out
+Chapel Absolver Necessity hit something with 1 knockback left
+Chapel Cleanser Jones is no longer Invincible
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Jen moved - from (17, -1) to (17, 1)
+Zan used Time Boost - from (15, -3) to (18, 0)
+Jen moved - from (17, -1) to (17, -2)
+Zan used Time Boost on Banks - from (15, -3) to (18, -1)
+Zan used Time Boost - from (15, -3) to (18, 0)
+Jen moved - from (17, -1) to (20, -2)
+Zan moved - from (15, -3) to (15, -1)
+Jen moved - from (17, -1) to (19, 1)
+Zan used Time Boost on Banks - from (15, -1) to (18, -1)
+Banks used Sedative Cocktail on Chapel Cleanser Jones - from (18, -1) to (20, 1)
+Chapel Cleanser Jones took 1 knockback
+Chapel Cleanser Jones is Sedated
+Chapel Cleanser Jones hit something with 1 knockback left
+Chapel Cleanser Jones took 1 damage
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Jen moved - from (17, -1) to (17, 1)
+Jen cast Static Blast on Chapel Cleanser Jones - from (17, 1) to (20, 1)
+Chapel Cleanser Jones took 3 knockback
+Chapel Cleanser Jones hit something with 1 knockback left
+Chapel Cleanser Jones took 1 damage
+Zan took a free shot at Chapel Cleanser Jones with Supporting Fire.
+Zan used 3 Bolt Burst on Chapel Cleanser Jones - from (15, -1) to (22, 1)
+Chapel Cleanser Jones took 1 damage
+Chapel Cleanser Jones passed out
+Chapel Cleanser Jones took 2 knockback
+Chapel Cleanser Jones hit something with 2 knockback left
+Banks moved - from (18, -1) to (20, -2)
+Banks used Grab Intel - from (20, -2) to (20, -3)
+Dall moved - from (18, -10) to (19, -11)
+Player ended their turn, starting enemy turn 3
+Zan shot Chapel Tracker Shipborn on overwatch
+Chapel Tracker Shipborn took 4 damage
+Chapel Tracker Shipborn passed out
+Chapel Absolver Manifold moved - from (22, 0) to (19, 1)
+Chapel Absolver Bader moved - from (19, -11) to (15, -11)
+Chapel Riot Priest Schottle moved - from (15, -8) to (18, -9)
+End of enemy turn 3
+ 
+Start of player turn 4
+Banks used Sedative Cocktail on Chapel Absolver Manifold - from (20, -2) to (19, 1)
+Chapel Absolver Manifold took 1 knockback
+Chapel Absolver Manifold is Sedated
+Zan took a free shot at Chapel Absolver Manifold with Supporting Fire.
+Zan used 3 Bolt Burst on Chapel Absolver Manifold - from (15, -1) to (19, 2)
+Chapel Absolver Manifold took 1 damage
+Chapel Absolver Manifold took 2 knockback
+Chapel Absolver Manifold hit a Electrified Wall
+Chapel Absolver Manifold took 2 damage
+Chapel Absolver Manifold passed out
+Chapel Absolver Manifold hit something with 2 knockback left
+Zan used 3 Bolt Burst on Chapel Riot Priest Schottle - from (15, -1) to (18, -9)
+Chapel Riot Priest Schottle stability prevented 1 knockback
+Dall used Charge - from (19, -11) to (16, -11)
+Chapel Absolver Bader took 1 damage
+Chapel Absolver Bader took 3 knockback
+Chapel Absolver Bader hit something with 3 knockback left
+Chapel Absolver Bader took 3 damage
+Chapel Absolver Bader passed out
+Chapel Riot Priest Schottle is no longer Invincible
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Jen cast Static Blast on Chapel Riot Priest Schottle - from (17, 1) to (18, -9)
+Chapel Riot Priest Schottle stability prevented 1 knockback
+Chapel Riot Priest Schottle took 1 knockback
+Zan took a free shot at Chapel Riot Priest Schottle with Supporting Fire.
+Zan used 3 Bolt Burst on Chapel Riot Priest Schottle - from (15, -1) to (18, -10)
+Chapel Riot Priest Schottle armour blocked 1 damage
+Chapel Riot Priest Schottle stability prevented 1 knockback
+Banks moved - from (20, -2) to (18, -2)
+Jen moved - from (17, 1) to (17, -1)
+Zan used 3 Bolt Burst - from (15, -1) to (14, -3)
+Weapons Cache took 1 damage
+Zan gained 1 mana for destroying a Weapons Cache
+Weapons Cache took 1 knockback
+Weapons Cache hit something with 1 knockback left
+Weapons Cache took 1 damage
+Weapons Cache exploded
+Zan used Time Boost - from (15, -1) to (17, -2)
+Jen cast Static Blast on Chapel Riot Priest Schottle - from (17, -1) to (18, -9)
+Chapel Riot Priest Schottle stability prevented 1 knockback
+Chapel Riot Priest Schottle took 1 knockback
+Zan took a free shot at Chapel Riot Priest Schottle with Supporting Fire.
+Zan used 3 Bolt Burst on Chapel Riot Priest Schottle - from (15, -1) to (18, -10)
+Chapel Riot Priest Schottle armour blocked 1 damage
+Chapel Riot Priest Schottle stability prevented 1 knockback
+Zan used Time Boost - from (15, -1) to (17, -2)
+Jen cast Static Blast on Chapel Riot Priest Schottle - from (17, -1) to (18, -10)
+Chapel Riot Priest Schottle stability prevented 1 knockback
+Chapel Riot Priest Schottle took 1 knockback
+Zan took a free shot at Chapel Riot Priest Schottle with Supporting Fire.
+Zan used 3 Bolt Burst on Chapel Riot Priest Schottle - from (15, -1) to (18, -11)
+Chapel Riot Priest Schottle armour blocked 1 damage
+Chapel Riot Priest Schottle stability prevented 1 knockback
+Banks used Sedative Cocktail on Chapel Riot Priest Schottle - from (18, -2) to (18, -10)
+Chapel Riot Priest Schottle stability prevented 1 knockback
+Gasmasked prevented Chapel Riot Priest Schottle from gaining Sedated
+Gasmasked prevented Chapel Riot Priest Schottle from gaining Unsteady
+Zan took a free shot at Chapel Riot Priest Schottle with Supporting Fire.
+Zan used 3 Bolt Burst on Chapel Riot Priest Schottle - from (15, -1) to (18, -10)
+Chapel Riot Priest Schottle armour blocked 1 damage
+Chapel Riot Priest Schottle stability prevented 1 knockback
+Dall used Charge - from (19, -11) to (16, -11)
+Chapel Absolver Bader took 1 damage
+Chapel Absolver Bader took 3 knockback
+Chapel Absolver Bader hit something with 3 knockback left
+Chapel Absolver Bader took 3 damage
+Chapel Absolver Bader passed out
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Banks used Sedative Cocktail on Chapel Absolver Manifold - from (20, -2) to (19, 1)
+Chapel Absolver Manifold took 1 knockback
+Chapel Absolver Manifold is Sedated
+Chapel Riot Priest Schottle is no longer Invincible
+Zan took a free shot at Chapel Absolver Manifold with Supporting Fire.
+Zan used 3 Bolt Burst on Chapel Absolver Manifold - from (15, -1) to (19, 2)
+Chapel Absolver Manifold took 1 damage
+Chapel Absolver Manifold took 2 knockback
+Chapel Absolver Manifold hit a Electrified Wall
+Chapel Absolver Manifold took 2 damage
+Chapel Absolver Manifold passed out
+Chapel Absolver Manifold hit something with 2 knockback left
+Chapel Riot Priest Schottle is no longer Invincible
+Jen cast Static Blast on - from (17, 1) to (19, -12)
+Weapons Cache took 2 knockback
+Weapons Cache hit something with 2 knockback left
+Weapons Cache took 2 damage
+Jen gained 1 mana for destroying a Weapons Cache
+Weapons Cache exploded
+Zan used 3 Bolt Burst - from (15, -1) to (14, 2)
+Weapons Cache took 1 damage
+Zan gained 1 mana for destroying a Weapons Cache
+Weapons Cache took 1 knockback
+Weapons Cache hit something with 1 knockback left
+Weapons Cache took 1 damage
+Weapons Cache exploded
+Banks used Sedative Cocktail - from (20, -2) to (22, 2)
+Weapons Cache took 1 knockback
+Weapons Cache hit something with 1 knockback left
+Weapons Cache took 1 damage
+Banks gained 1 mana for destroying a Weapons Cache
+Weapons Cache exploded
+Weapons Cache took 1 damage
+Banks gained 1 mana for destroying a Weapons Cache
+Weapons Cache took 1 knockback
+Weapons Cache hit something with 1 knockback left
+Weapons Cache took 1 damage
+Weapons Cache exploded
+Banks used Sedative Cocktail on Chapel Absolver Manifold - from (20, -2) to (19, 1)
+Chapel Absolver Manifold took 1 knockback
+Chapel Absolver Manifold is Sedated
+Chapel Riot Priest Schottle is no longer Invincible
+Zan took a free shot at Chapel Absolver Manifold with Supporting Fire.
+Zan used 3 Bolt Burst on Chapel Absolver Manifold - from (15, -1) to (19, 2)
+Chapel Absolver Manifold took 1 damage
+Chapel Absolver Manifold took 2 knockback
+Chapel Absolver Manifold hit a Electrified Wall
+Chapel Absolver Manifold took 2 damage
+Chapel Absolver Manifold passed out
+Chapel Absolver Manifold hit something with 2 knockback left
+Chapel Riot Priest Schottle is no longer Invincible
+Jen cast Static Blast on Chapel Riot Priest Schottle - from (17, 1) to (18, -9)
+Chapel Riot Priest Schottle stability prevented 1 knockback
+Chapel Riot Priest Schottle took 1 knockback
+Zan took a free shot at Chapel Riot Priest Schottle with Supporting Fire.
+Zan used 3 Bolt Burst on Chapel Riot Priest Schottle - from (15, -1) to (18, -10)
+Chapel Riot Priest Schottle armour blocked 1 damage
+Chapel Riot Priest Schottle stability prevented 1 knockback
+Zan used 3 Bolt Burst - from (15, -1) to (14, -3)
+Weapons Cache took 1 damage
+Zan gained 1 mana for destroying a Weapons Cache
+Weapons Cache took 1 knockback
+Weapons Cache hit something with 1 knockback left
+Weapons Cache took 1 damage
+Weapons Cache exploded
+Jen moved - from (17, 1) to (17, -2)
+Banks moved - from (20, -2) to (19, -2)
+Zan moved - from (15, -1) to (15, 0)
+Banks used Transference on Chapel Riot Priest Schottle - from (19, -2) to (18, -10)
+Chapel Riot Priest Schottle slammed Dall - from (17, -11) to (16, -11)
+Dall armour blocked 1 damage
+Dall took 2 damage
+Dall gained 1 mana from incoming damage
+Dall stability prevented 1 knockback
+Player ended their turn, starting enemy turn 4
+Zan shot Chapel Cleanser Comfort on overwatch
+Chapel Cleanser Comfort took 4 damage
+Chapel Cleanser Comfort passed out
+Chapel Cleanser Lacerta moved - from (18, 2) to (16, 2)
+Chapel Cleanser Lacerta took cover - from (16, 2) to (16, 2)
+Chapel Cleanser Chance took cover - from (19, -10) to (19, -10)
+Chapel Cleanser Boresteel took cover - from (16, -8) to (16, -8)
+End of enemy turn 4
+ 
+Start of player turn 5
+Dall Swapped with - from (16, -11) to (19, -12)
+Banks used Sedative Cocktail - from (19, -2) to (16, -11)
+Weapons Cache took 1 knockback
+Gasmasked prevented Chapel Riot Priest Schottle from gaining Sedated
+Gasmasked prevented Chapel Riot Priest Schottle from gaining Unsteady
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Banks used Sedative Cocktail - from (19, -2) to (15, -12)
+Weapons Cache took 1 knockback
+Weapons Cache hit something with 1 knockback left
+Weapons Cache took 1 damage
+Banks gained 1 mana for destroying a Weapons Cache
+Weapons Cache exploded
+Weapons Cache took 1 damage
+Banks gained 1 mana for destroying a Weapons Cache
+Weapons Cache took 1 knockback
+Weapons Cache hit something with 1 knockback left
+Weapons Cache took 1 damage
+Weapons Cache exploded
+Chapel Riot Priest Schottle armour blocked 1 damage
+Chapel Riot Priest Schottle stability prevented 1 knockback
+Jen moved - from (17, -2) to (19, 2)
+Jen cast Static Blast on Chapel Cleanser Lacerta - from (19, 2) to (16, 2)
+Chapel Cleanser Lacerta took 2 knockback
+Weapons Cache took 1 knockback
+Chapel Cleanser Lacerta hit something with 1 knockback left
+Chapel Cleanser Lacerta took 1 damage
+Weapons Cache hit something with 1 knockback left
+Weapons Cache took 1 damage
+Jen gained 1 mana for destroying a Weapons Cache
+Weapons Cache exploded
+Chapel Cleanser Lacerta took 1 damage
+Chapel Cleanser Lacerta took 1 knockback
+Zan took a free shot at Chapel Cleanser Lacerta with Supporting Fire.
+Zan used 3 Bolt Burst on Chapel Cleanser Lacerta - from (15, 0) to (16, 2)
+Chapel Cleanser Lacerta took 1 damage
+Chapel Cleanser Lacerta passed out
+Chapel Cleanser Lacerta took 1 knockback
+Chapel Cleanser Lacerta hit something with 1 knockback left
+Jen moved - from (19, 2) to (18, -1)
+Dall used Charge - from (19, -12) to (19, -11)
+Chapel Cleanser Chance took 1 damage
+Chapel Cleanser Chance took 1 knockback
+Chapel Cleanser Chance hit something with 1 knockback left
+Chapel Cleanser Chance took 1 damage
+Zan took a free shot at Chapel Cleanser Chance with Supporting Fire.
+Zan used 3 Bolt Burst on Chapel Cleanser Chance - from (15, 0) to (19, -10)
+Chapel Cleanser Chance took 1 damage
+Chapel Cleanser Chance passed out
+Chapel Cleanser Chance took 1 knockback
+Dall stability prevented 1 knockback
+Chapel Cleanser Chance hit something with 1 knockback left
+Dall moved - from (19, -11) to (19, -8)
+Dall used Grab Intel - from (19, -8) to (19, -7)
+Zan used 3 Bolt Burst on Chapel Cleanser Boresteel - from (15, 0) to (16, -8)
+Chapel Cleanser Boresteel took 1 damage
+Chapel Cleanser Boresteel took 1 knockback
+Chapel Cleanser Boresteel hit something with 1 knockback left
+Chapel Cleanser Boresteel took 1 damage
+Zan used Time Boost - from (15, 0) to (18, -2)
+Jen cast Static Blast on Chapel Cleanser Boresteel - from (18, -1) to (16, -8)
+Chapel Cleanser Boresteel took 2 knockback
+Chapel Cleanser Boresteel hit something with 2 knockback left
+Chapel Cleanser Boresteel took 2 damage
+Zan took a free shot at Chapel Cleanser Boresteel with Supporting Fire.
+Zan used 3 Bolt Burst on Chapel Cleanser Boresteel - from (15, 0) to (16, -8)
+Chapel Cleanser Boresteel took 1 damage
+Chapel Cleanser Boresteel passed out
+Chapel Cleanser Boresteel took 1 knockback
+Chapel Cleanser Boresteel hit something with 1 knockback left
+Banks used Spectral Skull on Chapel Riot Priest Schottle - from (19, -2) to (17, -11)
+Chapel Riot Priest Schottle armour blocked 1 damage
+Chapel Riot Priest Schottle took 1 damage
+Gasmasked prevented Chapel Riot Priest Schottle from gaining Unsteady
+Chapel Cleanser Boresteel took 2 damage
+Jen cast Static Blast on Chapel Riot Priest Schottle - from (18, -1) to (17, -11)
+Chapel Riot Priest Schottle stability prevented 1 knockback
+Chapel Riot Priest Schottle took 1 knockback
+Zan took a free shot at Chapel Riot Priest Schottle with Supporting Fire.
+Zan used 3 Bolt Burst on Chapel Riot Priest Schottle - from (15, 0) to (17, -12)
+Chapel Riot Priest Schottle armour blocked 1 damage
+Chapel Riot Priest Schottle stability prevented 1 knockback
+Zan used 3 Bolt Burst on Chapel Cleanser Boresteel - from (15, 0) to (16, -8)
+Chapel Cleanser Boresteel took 1 damage
+Chapel Cleanser Boresteel passed out
+Chapel Cleanser Boresteel took 2 knockback
+Chapel Cleanser Boresteel hit something with 2 knockback left
+Zan moved - from (15, 0) to (18, 0)
+Zan moved - from (15, 0) to (18, -2)
+Player ended their turn, starting enemy turn 5
+Chapel Tracker Gardener moved - from (19, -11) to (19, -12)
+Chapel Riot Priest Clapet moved - from (15, -8) to (17, -8)
+Chapel Riot Priest Schottle moved - from (17, -12) to (19, -10)
+Zan shot Chapel Riot Priest Schottle on overwatch
+Chapel Riot Priest Schottle armour blocked 1 damage
+Chapel Riot Priest Schottle took 3 damage
+Chapel Riot Priest Schottle is no longer Gasmasked
+End of enemy turn 5
+ 
+Start of player turn 6
+Jen cast Chain Bolt on Chapel Tracker Benezech, Chapel Tracker Columba, Weapons Cache - from (18, -1) to (18, 1)
+Chapel Tracker Benezech took 2 knockback
+Chapel Tracker Columba took 2 knockback
+Weapons Cache took 2 knockback
+Chapel Tracker Columba hit something with 2 knockback left
+Chapel Tracker Columba took 2 damage
+Weapons Cache hit something with 2 knockback left
+Weapons Cache took 2 damage
+Jen gained 1 mana for destroying a Weapons Cache
+Weapons Cache exploded
+Weapons Cache took 1 damage
+Jen gained 1 mana for destroying a Weapons Cache
+Weapons Cache took 1 knockback
+Weapons Cache hit something with 1 knockback left
+Weapons Cache took 1 damage
+Weapons Cache exploded
+Chapel Tracker Benezech hit something with 1 knockback left
+Chapel Tracker Benezech took 1 damage
+Jen moved - from (18, -1) to (17, -1)
+Jen cast Chain Bolt on Chapel Tracker Benezech, Chapel Tracker Columba, Weapons Cache - from (17, -1) to (18, 1)
+Chapel Tracker Benezech took 2 knockback
+Chapel Tracker Columba took 2 knockback
+Weapons Cache took 2 knockback
+Chapel Tracker Columba hit something with 2 knockback left
+Chapel Tracker Columba took 2 damage
+Weapons Cache hit something with 2 knockback left
+Weapons Cache took 2 damage
+Jen gained 1 mana for destroying a Weapons Cache
+Weapons Cache exploded
+Weapons Cache took 1 damage
+Jen gained 1 mana for destroying a Weapons Cache
+Weapons Cache took 1 knockback
+Weapons Cache hit something with 1 knockback left
+Weapons Cache took 1 damage
+Weapons Cache exploded
+Chapel Tracker Benezech hit a Electrified Wall
+Chapel Tracker Benezech took 2 damage
+Chapel Tracker Benezech is Stunned for 1 turn
+Chapel Tracker Benezech hit something with 1 knockback left
+Chapel Tracker Benezech took 1 damage
+Chapel Tracker Benezech passed out
+Banks moved - from (19, -2) to (15, -2)
+Banks used Spectral Skull - from (15, -2) to (18, -11)
+Chapel Riot Priest Clapet armour blocked 1 damage
+Chapel Riot Priest Clapet took 1 damage
+Gasmasked prevented Chapel Riot Priest Clapet from gaining Unsteady
+Chapel Tracker Gardener took 2 damage
+Chapel Riot Priest Schottle armour blocked 1 damage
+Chapel Riot Priest Schottle took 1 damage
+Zan used 3 Bolt Burst on Chapel Tracker Columba - from (18, -2) to (22, -1)
+Chapel Tracker Columba took 1 damage
+Chapel Tracker Columba passed out
+Chapel Tracker Columba took 1 knockback
+Chapel Tracker Columba hit something with 1 knockback left
+Dall moved - from (19, -8) to (18, -12)
+Dall used Censer Slam on Chapel Tracker Gardener - from (18, -12) to (19, -12)
+Chapel Tracker Gardener took 3 damage
+Chapel Tracker Gardener passed out
+Chapel Tracker Gardener took 2 knockback
+Chapel Tracker Gardener hit something with 2 knockback left
+Chapel Riot Priest Schottle slammed Dall - from (19, -11) to (18, -12)
+Dall armour blocked 1 damage
+Dall took 2 damage
+Dall passed out
+Dall gained 1 mana from incoming damage
+Dall stability prevented 1 knockback
+Dall used Throw Riot Block - from (18, -12) to (19, -11)
+Zan shot Chapel Riot Priest Schottle on overwatch
+Chapel Riot Priest Schottle armour blocked 1 damage
+Chapel Riot Priest Schottle took 3 damage
+Chapel Riot Priest Schottle passed out
+Player ended their turn, starting enemy turn 6
+Chapel Absolver Nocturn moved - from (18, 2) to (21, 1)
+Chapel Absolver Morgana moved - from (15, -8) to (18, -6)
+Chapel Cleanser Darlin took cover - from (21, -1) to (21, -1)
+Chapel Riot Priest Clapet moved - from (17, -8) to (18, -10)
+End of enemy turn 6
+ 
+Start of player turn 7
+Dall Swapped with Chapel Riot Priest Clapet - from (18, -12) to (18, -10)
+Chapel Riot Priest Clapet is no longer Invincible
+Dall used Charge - from (18, -10) to (18, -7)
+Chapel Absolver Morgana took 1 damage
+Chapel Absolver Morgana took 3 knockback
+Chapel Absolver Morgana was defenestrated - from (18, -6) to (18, -6)
+Chapel Shepherd Crisis is no longer Invincible
+Chapel Absolver Morgana took 1 damage
+Chapel Absolver Morgana passed out
+Chapel Shepherd Crisis shot Dall - from (14, -2) to (18, -7)
+Dall armour blocked 1 damage
+Dall stability prevented 1 knockback
+Jen cast Chain Bolt on Chapel Absolver Nocturn, Chapel Cleanser Darlin - from (17, -1) to (21, 1)
+Chapel Absolver Nocturn took 2 knockback
+Chapel Cleanser Darlin took 2 knockback
+Chapel Absolver Nocturn hit something with 1 knockback left
+Chapel Absolver Nocturn took 1 damage
+Chapel Cleanser Darlin is no longer Invincible
+Jen cast Chain Bolt on Chapel Absolver Nocturn, Chapel Cleanser Darlin, Zan, Dall, Chapel Shepherd Crisis - from (17, -1) to (21, 1)
+Chapel Absolver Nocturn took 2 knockback
+Chapel Cleanser Darlin took 2 knockback
+Zan took 2 knockback
+Dall stability prevented 1 knockback
+Dall took 1 knockback
+Chapel Shepherd Crisis took 2 knockback
+Chapel Shepherd Crisis hit something with 2 knockback left
+Chapel Shepherd Crisis took 2 damage
+Chapel Absolver Nocturn hit something with 1 knockback left
+Chapel Absolver Nocturn took 1 damage
+Chapel Cleanser Darlin is no longer Invincible
+Dall used Charge - from (18, -10) to (18, -7)
+Chapel Absolver Morgana took 1 damage
+Chapel Absolver Morgana took 3 knockback
+Chapel Absolver Morgana was defenestrated - from (18, -6) to (18, -6)
+Chapel Shepherd Crisis is no longer Invincible
+Chapel Absolver Morgana took 1 damage
+Chapel Absolver Morgana passed out
+Chapel Shepherd Crisis shot Dall - from (14, -2) to (18, -7)
+Dall armour blocked 1 damage
+Dall stability prevented 1 knockback
+Banks used Sedative Cocktail on Chapel Riot Priest Clapet - from (15, -2) to (18, -12)
+Chapel Riot Priest Clapet stability prevented 1 knockback
+Gasmasked prevented Chapel Riot Priest Clapet from gaining Sedated
+Gasmasked prevented Chapel Riot Priest Clapet from gaining Unsteady
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Chapel Shepherd Crisis shot Banks - from (14, -2) to (15, -2)
+Banks took 1 damage
+Banks took 1 knockback
+Banks moved - from (15, -2) to (15, 1)
+Jen cast Static Blast on Chapel Shepherd Crisis - from (17, -1) to (14, -2)
+Chapel Shepherd Crisis took 2 knockback
+Chapel Shepherd Crisis hit something with 2 knockback left
+Chapel Shepherd Crisis took 2 damage
+Zan took a free shot at Chapel Shepherd Crisis with Supporting Fire.
+Zan used 3 Bolt Burst on Chapel Shepherd Crisis - from (18, -2) to (14, -2)
+Chapel Shepherd Crisis armour blocked 1 damage
+Chapel Shepherd Crisis took 1 knockback
+Chapel Shepherd Crisis hit something with 1 knockback left
+Chapel Shepherd Crisis took 1 damage
+Jen cast Chain Bolt on Chapel Shepherd Crisis, Chapel Riot Priest Clapet, Jen - from (17, -1) to (14, -2)
+Chapel Shepherd Crisis took 2 knockback
+Chapel Riot Priest Clapet stability prevented 1 knockback
+Chapel Riot Priest Clapet took 1 knockback
+Jen took 2 knockback
+Chapel Riot Priest Clapet hit something with 1 knockback left
+Chapel Riot Priest Clapet took 1 damage
+Chapel Riot Priest Clapet is no longer Gasmasked
+Chapel Shepherd Crisis hit something with 2 knockback left
+Chapel Shepherd Crisis took 2 damage
+Chapel Shepherd Crisis shot Jen - from (14, -2) to (17, 1)
+Jen took 1 damage
+Jen took 1 knockback
+Zan used 3 Bolt Burst on Chapel Shepherd Crisis - from (18, -2) to (14, -2)
+Chapel Shepherd Crisis armour blocked 1 damage
+Chapel Shepherd Crisis took 1 knockback
+Chapel Shepherd Crisis hit something with 1 knockback left
+Chapel Shepherd Crisis took 1 damage
+Banks used Sedative Cocktail on Chapel Shepherd Crisis - from (15, 1) to (14, -2)
+Chapel Shepherd Crisis took 1 knockback
+Chapel Shepherd Crisis is Sedated
+Zan took a free shot at Chapel Shepherd Crisis with Supporting Fire.
+Zan used 3 Bolt Burst on Chapel Shepherd Crisis - from (18, -2) to (14, -3)
+Chapel Shepherd Crisis armour blocked 1 damage
+Chapel Shepherd Crisis took 2 knockback
+Chapel Shepherd Crisis hit something with 2 knockback left
+Chapel Shepherd Crisis took 2 damage
+Jen cast Chain Bolt on Chapel Shepherd Crisis - from (17, -1) to (14, -3)
+Chapel Shepherd Crisis took 3 knockback
+Chapel Shepherd Crisis hit something with 3 knockback left
+Chapel Shepherd Crisis took 3 damage
+Chapel Shepherd Crisis passed out
+Jen moved - from (17, -1) to (16, -3)
+Jen cast Static Blast on Chapel Shepherd Crisis - from (16, -3) to (14, -3)
+Chapel Shepherd Crisis took 3 knockback
+Chapel Shepherd Crisis hit something with 3 knockback left
+Chapel Shepherd Crisis took 3 damage
+Chapel Shepherd Crisis passed out
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Jen moved - from (16, -3) to (16, 0)
+Jen threw a Gale Grenade - from (16, 0) to (21, 0)
+Chapel Cleanser Darlin took 1 knockback
+Chapel Absolver Nocturn took 1 knockback
+Chapel Cleanser Darlin is no longer Invincible
+Jen threw a Gale Grenade - from (16, 0) to (21, 0)
+Chapel Cleanser Darlin took 1 knockback
+Chapel Absolver Nocturn took 1 knockback
+Zan shot Chapel Cleanser Darlin on overwatch
+Chapel Cleanser Darlin is no longer Invincible
+Dall Swapped with Chapel Riot Priest Clapet - from (18, -12) to (18, -10)
+Chapel Riot Priest Clapet is no longer Invincible
+Dall used Charge - from (18, -10) to (18, -7)
+Chapel Absolver Morgana took 1 damage
+Chapel Absolver Morgana took 3 knockback
+Chapel Absolver Morgana was defenestrated - from (18, -6) to (18, -6)
+Chapel Shepherd Crisis is no longer Invincible
+Chapel Absolver Morgana took 1 damage
+Chapel Absolver Morgana passed out
+Chapel Shepherd Crisis shot Dall - from (14, -2) to (18, -7)
+Dall armour blocked 1 damage
+Dall stability prevented 1 knockback
+Banks moved - from (15, -2) to (16, -3)
+Banks used Sedative Cocktail on Chapel Shepherd Crisis - from (16, -3) to (14, -2)
+Chapel Shepherd Crisis took 1 knockback
+Chapel Shepherd Crisis is Sedated
+Chapel Shepherd Crisis hit something with 1 knockback left
+Chapel Shepherd Crisis took 1 damage
+Zan took a free shot at Chapel Shepherd Crisis with Supporting Fire.
+Zan used 3 Bolt Burst on Chapel Shepherd Crisis - from (18, -2) to (14, -2)
+Chapel Shepherd Crisis armour blocked 1 damage
+Chapel Shepherd Crisis took 2 knockback
+Chapel Shepherd Crisis hit something with 2 knockback left
+Chapel Shepherd Crisis took 2 damage
+Jen moved - from (17, -1) to (20, 1)
+Jen cast Static Blast on Chapel Shepherd Crisis - from (20, 1) to (14, -2)
+Chapel Shepherd Crisis took 3 knockback
+Chapel Shepherd Crisis hit something with 3 knockback left
+Chapel Shepherd Crisis took 3 damage
+Chapel Shepherd Crisis passed out
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Jen moved - from (20, 1) to (17, -2)
+Jen cast Static Blast on Chapel Absolver Nocturn - from (20, 1) to (21, 1)
+Chapel Absolver Nocturn took 2 knockback
+Chapel Absolver Nocturn hit something with 1 knockback left
+Chapel Absolver Nocturn took 1 damage
+Chapel Cleanser Darlin is no longer Invincible
+Zan took a free shot at Chapel Absolver Nocturn with Supporting Fire.
+Zan used 3 Bolt Burst on Chapel Absolver Nocturn - from (18, -2) to (22, 1)
+Chapel Absolver Nocturn took 1 damage
+Chapel Absolver Nocturn passed out
+Chapel Absolver Nocturn took 1 knockback
+Chapel Absolver Nocturn hit something with 1 knockback left
+Chapel Cleanser Darlin is no longer Invincible
+Chapel Shepherd Crisis shot Jen - from (14, -2) to (20, 1)
+Jen took 1 damage
+Jen took 1 knockback
+Jen hit something with 1 knockback left
+Jen took 1 damage
+Jen passed out
+Banks used Transference on Chapel Shepherd Crisis - from (16, -3) to (14, -2)
+Jen cast Static Blast on Chapel Absolver Nocturn - from (20, 1) to (21, 1)
+Chapel Absolver Nocturn took 2 knockback
+Chapel Absolver Nocturn hit something with 1 knockback left
+Chapel Absolver Nocturn took 1 damage
+Chapel Cleanser Darlin is no longer Invincible
+Zan took a free shot at Chapel Absolver Nocturn with Supporting Fire.
+Zan used 3 Bolt Burst on Chapel Absolver Nocturn - from (18, -2) to (22, 1)
+Chapel Absolver Nocturn took 1 damage
+Chapel Absolver Nocturn passed out
+Chapel Absolver Nocturn took 1 knockback
+Chapel Absolver Nocturn hit something with 1 knockback left
+Chapel Cleanser Darlin is no longer Invincible
+Chapel Shepherd Crisis shot Jen - from (14, -2) to (20, 1)
+1 damage and 1 knockback to Jen was transferred to Chapel Shepherd Crisis
+Chapel Shepherd Crisis armour blocked 1 damage
+Chapel Shepherd Crisis took 2 knockback
+Chapel Shepherd Crisis hit something with 1 knockback left
+Chapel Shepherd Crisis took 1 damage
+Jen threw a Gale Grenade Chapel Cleanser Darlin - from (20, 1) to (21, -1)
+Chapel Shepherd Crisis shot Jen - from (15, -1) to (20, 1)
+Jen took 1 damage
+Jen took 1 knockback
+Zan used 3 Bolt Burst on Chapel Shepherd Crisis - from (18, -2) to (15, -1)
+Chapel Shepherd Crisis armour blocked 1 damage
+Chapel Shepherd Crisis took 2 knockback
+Chapel Shepherd Crisis hit something with 1 knockback left
+Chapel Shepherd Crisis took 1 damage
+Chapel Shepherd Crisis passed out
+Jen moved - from (20, 1) to (21, 2)
+Jen threw a Gale Grenade - from (21, 2) to (21, 0)
+Chapel Cleanser Darlin took 1 knockback
+Zan shot Chapel Cleanser Darlin on overwatch
+Chapel Cleanser Darlin took 4 damage
+Chapel Cleanser Darlin passed out
+Zan moved - from (18, -2) to (18, -1)
+Player ended their turn, starting enemy turn 7
+Chapel Riot Priest Flavien moved - from (14, -1) to (15, -2)
+Riot Block took 1 knockback
+Chapel Riot Priest Clapet moved - from (18, -12) to (19, -10)
+End of enemy turn 7
+ 
+Start of player turn 8
+Dall used Charge - from (18, -7) to (18, -9)
+Chapel Tracker Averlant took 1 damage
+Chapel Tracker Averlant took 2 knockback
+Chapel Tracker Averlant hit something with 2 knockback left
+Riot Block added 1 extra impact damage
+Chapel Tracker Averlant took 3 damage
+Chapel Tracker Averlant passed out
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Dall moved - from (18, -9) to (19, -6)
+Dall moved - from (18, -9) to (18, -6)
+Banks moved - from (16, -3) to (20, -2)
+Banks used Sedative Cocktail - from (20, -2) to (18, 1)
+Zan moved - from (18, -1) to (18, 1)
+Dall Swapped with - from (18, -6) to (18, -11)
+Dall Swapped with Chapel Riot Priest Clapet - from (18, -7) to (19, -10)
+Dall used Charge - from (18, -7) to (18, -9)
+Chapel Tracker Averlant took 1 damage
+Chapel Tracker Averlant took 2 knockback
+Chapel Tracker Averlant hit something with 2 knockback left
+Riot Block added 1 extra impact damage
+Chapel Tracker Averlant took 3 damage
+Chapel Tracker Averlant passed out
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Dall Swapped with Chapel Riot Priest Clapet - from (18, -9) to (19, -10)
+Dall Swapped with Chapel Riot Priest Flavien - from (18, -9) to (15, -2)
+Dall moved - from (15, -2) to (15, -1)
+Banks used Spectral Skull - from (16, -3) to (17, -8)
+Chapel Riot Priest Flavien armour blocked 1 damage
+Chapel Riot Priest Flavien took 1 damage
+Gasmasked prevented Chapel Riot Priest Flavien from gaining Unsteady
+Riot Block armour blocked 1 damage
+Riot Block took 1 damage
+Chapel Riot Priest Clapet armour blocked 1 damage
+Chapel Riot Priest Clapet took 1 damage
+Chapel Riot Priest Clapet is no longer Gasmasked
+Jen moved - from (21, 2) to (20, -2)
+Banks moved - from (16, -3) to (18, -3)
+Player ended their turn, starting enemy turn 8
+Zan shot Chapel Cleanser Lemorgne on overwatch
+Chapel Cleanser Lemorgne took 4 damage
+Chapel Cleanser Lemorgne passed out
+End of enemy turn 8
+ 
+Start of player turn 9
+Banks used Sedative Cocktail - from (18, -3) to (18, -10)
+Gasmasked prevented Chapel Riot Priest Flavien from gaining Sedated
+Gasmasked prevented Chapel Riot Priest Flavien from gaining Unsteady
+Chapel Riot Priest Clapet is Sedated
+Banks used Spectral Skull on Chapel Riot Priest Flavien - from (18, -3) to (18, -9)
+Chapel Riot Priest Flavien armour blocked 1 damage
+Chapel Riot Priest Flavien took 1 damage
+Chapel Riot Priest Flavien is no longer Gasmasked
+Chapel Riot Priest Clapet armour blocked 1 damage
+Chapel Riot Priest Clapet took 1 damage
+Dall used Censer Slam on Chapel Tracker Waybright - from (15, -1) to (14, -2)
+Chapel Tracker Waybright took 3 damage
+Chapel Tracker Waybright passed out
+Chapel Tracker Waybright took 1 knockback
+Chapel Tracker Waybright hit something with 1 knockback left
+Jen moved - from (20, -2) to (17, -3)
+Dall used Blink Out - from (15, -1) to (15, -1)
+Jen used Blink Out - from (17, -3) to (17, -3)
+Zan used Blink Out - from (18, -1) to (18, -1)
+Banks used Blink Out - from (18, -3) to (18, -3)

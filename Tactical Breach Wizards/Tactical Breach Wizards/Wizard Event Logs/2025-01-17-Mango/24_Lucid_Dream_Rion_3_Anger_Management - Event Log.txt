@@ -1,0 +1,114 @@
+24_Lucid_Dream_Rion_3_Anger_Management
+ 
+Start of player turn 1
+Dream Rion breached - from (12, -1) to (12, -2)
+Dream Rion bit on Chapel Tracker Phact - from (18, -3) to (18, -2)
+Chapel Tracker Phact took 1 damage
+Dream Rion moved - from (18, -3) to (23, -3)
+Rion bit on Chapel Tracker Phact - from (18, -3) to (18, -2)
+Chapel Tracker Phact took 1 damage
+Rion moved - from (18, -3) to (22, -2)
+Rion used Swap Forms - from (22, -2) to (22, -2)
+Rion cast Impaling Vine on - from (22, -2) to (24, -2)
+Rion sealed a hostile entry point - from (24, -2) to (24, -2)
+Dream Rion moved - from (12, -2) to (16, -3)
+Dream Rion bit on Chapel Cleanser Ezekowitz - from (18, -6) to (17, -6)
+Chapel Cleanser Ezekowitz took 1 damage
+Dream Rion used Swap Forms - from (18, -6) to (18, -6)
+Dream Rion cast Impaling Vine on - from (18, -6) to (20, -1)
+Explosive Barrel took 1 damage
+Explosive Barrel exploded
+Dream Rion bit on Chapel Tracker Lacayo - from (19, -4) to (19, -5)
+Chapel Tracker Lacayo took 1 damage
+Dream Rion bit on Chapel Cleanser Ezekowitz - from (18, -6) to (17, -6)
+Chapel Cleanser Ezekowitz took 1 damage
+Dream Rion used Swap Forms - from (18, -6) to (18, -6)
+Dream Rion bit on Chapel Tracker Lacayo - from (19, -4) to (19, -5)
+Chapel Tracker Lacayo took 1 damage
+Dream Rion used Swap Forms - from (19, -4) to (19, -4)
+Dream Rion used Swap Forms - from (16, -3) to (16, -3)
+Dream Rion bit on Chapel Cleanser Ezekowitz - from (18, -6) to (17, -6)
+Chapel Cleanser Ezekowitz took 1 damage
+Dream Rion bit on Chapel Tracker Phact - from (18, -3) to (18, -2)
+Chapel Tracker Phact took 1 damage
+Dream Rion moved - from (18, -3) to (22, -2)
+Dream Rion used Swap Forms - from (22, -2) to (22, -2)
+Dream Rion cast Impaling Vine on - from (22, -2) to (24, -2)
+Dream Rion sealed a hostile entry point - from (24, -2) to (24, -2)
+Dream Rion used Swap Forms - from (24, -2) to (24, -2)
+Dream Rion used Swap Forms - from (24, -2) to (24, -2)
+Rion bit on Chapel Tracker Phact - from (18, -3) to (18, -2)
+Chapel Tracker Phact took 1 damage
+Rion used Swap Forms - from (18, -3) to (18, -3)
+Rion moved - from (12, -3) to (16, -1)
+Rion used Swap Forms - from (16, -1) to (16, -1)
+Rion cast Impaling Vine on Chapel Cleanser Ezekowitz - from (16, -1) to (17, -6)
+Chapel Cleanser Ezekowitz took 1 damage
+Chapel Cleanser Ezekowitz took 3 knockback
+Chapel Cleanser Ezekowitz hit something with 2 knockback left
+Chapel Cleanser Ezekowitz took 1 extra damage from Brittle, Brittle reduced to 0
+Chapel Cleanser Ezekowitz is no longer Brittle
+Chapel Cleanser Ezekowitz took 3 damage
+Chapel Cleanser Ezekowitz passed out
+Rion bit on Chapel Tracker Lacayo - from (19, -4) to (19, -5)
+Chapel Tracker Lacayo took 1 damage
+Chapel Tracker Phact shot Chapel Tracker Lacayo - from (18, -2) to (19, -5)
+Chapel Tracker Lacayo took 2 damage
+Chapel Tracker Lacayo passed out
+Player ended their turn, starting enemy turn 1
+End of enemy turn 1
+ 
+Start of player turn 2
+Rion moved - from (19, -4) to (22, -4)
+Dream Rion moved - from (24, -2) to (21, -5)
+Dream Rion moved - from (24, -2) to (24, -6)
+Dream Rion used Swap Forms - from (24, -2) to (24, -2)
+Dream Rion used Swap Forms - from (24, -2) to (24, -2)
+Dream Rion moved - from (24, -2) to (24, -6)
+Dream Rion cast Impaling Vine on - from (24, -6) to (27, -6)
+Dream Rion used Grab Intel - from (27, -6) to (27, -7)
+Dream Rion took cover - from (27, -6) to (27, -6)
+Rion used Swap Forms - from (22, -4) to (22, -4)
+Rion cast Impaling Vine on - from (22, -4) to (22, -7)
+Rion cast Impaling Vine on Chapel Shepherd Auriga - from (22, -4) to (24, -12)
+Chapel Shepherd Auriga armour blocked 1 damage
+Chapel Shepherd Auriga took 3 knockback
+Rion took cover - from (22, -4) to (22, -4)
+Rion stood up - from (22, -4) to (22, -4)
+Rion used Swap Forms - from (22, -4) to (22, -4)
+Chapel Tracker Phact shot Chapel Tracker Smilla - from (18, -2) to (28, -8)
+Chapel Tracker Smilla took 2 damage
+Player ended their turn, starting enemy turn 2
+Chapel Shepherd Auriga moved - from (24, -9) to (22, -8)
+End of enemy turn 2
+ 
+Start of player turn 3
+Rion moved - from (22, -4) to (22, -9)
+Dream Rion moved - from (27, -6) to (28, -7)
+Dream Rion cast Impaling Vine on Chapel Tracker Smilla - from (27, -6) to (28, -8)
+Chapel Tracker Smilla took 1 damage
+Chapel Tracker Smilla passed out
+Dream Rion moved - from (27, -6) to (28, -7)
+Dream Rion sealed a hostile entry point - from (28, -7) to (28, -7)
+Rion used Swap Forms - from (22, -9) to (22, -9)
+Rion cast Impaling Vine on - from (22, -9) to (24, -11)
+Rion sealed a hostile entry point - from (24, -11) to (24, -11)
+Rion cast Brittling Dart on Chapel Shepherd Auriga - from (24, -11) to (22, -8)
+Dream Rion used Swap Forms - from (28, -7) to (28, -7)
+Dream Rion used Spore Bomb - from (28, -7) to (22, -7)
+Brittle: 1 armour lost (Chapel Shepherd Auriga)
+Chapel Shepherd Auriga took 2 extra damage from Brittle, Brittle reduced to 1
+Chapel Shepherd Auriga took 3 damage
+Rion used Swap Forms - from (24, -11) to (24, -11)
+Rion used Spore Bomb - from (24, -11) to (18, -3)
+Chapel Tracker Phact took 2 damage
+Chapel Tracker Phact passed out
+Player ended their turn, starting enemy turn 3
+End of enemy turn 3
+ 
+Start of player turn 4
+Rion cast Impaling Vine on Chapel Shepherd Auriga - from (24, -11) to (22, -8)
+Chapel Shepherd Auriga took 1 extra damage from Brittle, Brittle reduced to 0
+Chapel Shepherd Auriga is no longer Brittle
+Chapel Shepherd Auriga took 2 damage
+Chapel Shepherd Auriga passed out

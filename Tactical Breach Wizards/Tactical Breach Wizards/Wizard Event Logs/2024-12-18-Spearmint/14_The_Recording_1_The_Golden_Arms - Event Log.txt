@@ -1,0 +1,358 @@
+14_The_Recording_1_The_Golden_Arms
+ 
+Start of player turn 1
+Jen breached - from (-14, -7) to (-14, -8)
+Jen moved - from (-14, -8) to (-10, -8)
+Jen cast Static Blast on Chapel Absolver Capizzi - from (-10, -8) to (-11, -7)
+Chapel Absolver Capizzi took 2 knockback
+Chapel Absolver Capizzi hit something with 2 knockback left
+Chapel Absolver Capizzi took 2 damage
+Chapel Absolver Capizzi passed out
+Chapel Tracker Vine is no longer Invincible
+Jen cast Chain Bolt on Chapel Absolver Capizzi, Chapel Absolver Rotanev, Weapons Cache - from (-10, -8) to (-11, -7)
+Chapel Absolver Capizzi took 2 knockback
+Chapel Absolver Rotanev took 2 knockback
+Weapons Cache took 2 knockback
+Chapel Absolver Rotanev hit something with 2 knockback left
+Chapel Absolver Rotanev took 2 damage
+Chapel Absolver Rotanev passed out
+Chapel Absolver Capizzi hit something with 2 knockback left
+Chapel Absolver Capizzi took 2 damage
+Chapel Absolver Capizzi passed out
+Chapel Tracker Asante is no longer Invincible
+Chapel Tracker Vine is no longer Invincible
+Jen used Use Laptop - from (-10, -8) to (-10, -7)
+Dall breached - from (-16, -3) to (-16, -4)
+Jen cast Chain Bolt on Chapel Absolver Capizzi, Weapons Cache, Chapel Absolver Rotanev - from (-10, -8) to (-11, -7)
+Chapel Absolver Capizzi took 2 knockback
+Weapons Cache took 2 knockback
+Chapel Absolver Rotanev took 2 knockback
+Chapel Absolver Rotanev hit something with 2 knockback left
+Chapel Absolver Rotanev took 2 damage
+Chapel Absolver Rotanev passed out
+Chapel Absolver Capizzi hit something with 2 knockback left
+Chapel Absolver Capizzi took 2 damage
+Chapel Absolver Capizzi passed out
+Chapel Tracker Asante is no longer Invincible
+Chapel Tracker Vine is no longer Invincible
+Jen used Use Laptop - from (-10, -8) to (-10, -7)
+Jen cast Chain Bolt on Chapel Absolver Capizzi, Chapel Absolver Rotanev, Jen - from (-10, -8) to (-11, -7)
+Chapel Absolver Capizzi took 2 knockback
+Chapel Absolver Rotanev took 2 knockback
+Jen took 2 knockback
+Chapel Absolver Rotanev hit something with 2 knockback left
+Chapel Absolver Rotanev took 2 damage
+Chapel Absolver Rotanev passed out
+Chapel Absolver Capizzi hit something with 2 knockback left
+Chapel Absolver Capizzi took 2 damage
+Chapel Absolver Capizzi passed out
+Jen hit something with 2 knockback left
+Jen took 2 damage
+Chapel Tracker Asante is no longer Invincible
+Chapel Tracker Vine is no longer Invincible
+Jen used Use Laptop - from (-10, -8) to (-10, -7)
+Jen moved - from (-14, -8) to (-10, -8)
+Jen cast Static Blast on Chapel Absolver Capizzi - from (-10, -8) to (-11, -7)
+Chapel Absolver Capizzi took 2 knockback
+Chapel Absolver Capizzi hit something with 2 knockback left
+Chapel Absolver Capizzi took 2 damage
+Chapel Absolver Capizzi passed out
+Chapel Tracker Vine is no longer Invincible
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Jen cast Static Blast on Chapel Absolver Capizzi - from (-10, -8) to (-11, -7)
+Chapel Absolver Capizzi took 2 knockback
+Chapel Absolver Capizzi hit something with 2 knockback left
+Chapel Absolver Capizzi took 2 damage
+Chapel Absolver Capizzi passed out
+Chapel Tracker Vine is no longer Invincible
+Jen cast Chain Bolt on Chapel Absolver Capizzi, Chapel Absolver Rotanev, Chapel Tracker Asante - from (-10, -8) to (-11, -7)
+Chapel Absolver Capizzi took 2 knockback
+Chapel Absolver Rotanev took 2 knockback
+Chapel Tracker Asante took 2 knockback
+Chapel Absolver Rotanev hit something with 2 knockback left
+Chapel Absolver Rotanev took 2 damage
+Chapel Absolver Rotanev passed out
+Chapel Absolver Capizzi hit something with 2 knockback left
+Chapel Absolver Capizzi took 2 damage
+Chapel Absolver Capizzi passed out
+Chapel Tracker Asante is no longer Invincible
+Chapel Tracker Vine is no longer Invincible
+Jen used Use Laptop - from (-10, -8) to (-10, -7)
+Jen cast Chain Bolt on Chapel Absolver Capizzi, Chapel Absolver Rotanev, Chapel Tracker Asante - from (-10, -8) to (-11, -7)
+Chapel Absolver Capizzi took 2 knockback
+Chapel Absolver Rotanev took 2 knockback
+Chapel Tracker Asante took 2 knockback
+Chapel Absolver Rotanev hit something with 2 knockback left
+Chapel Absolver Rotanev took 2 damage
+Chapel Absolver Rotanev passed out
+Chapel Absolver Capizzi hit something with 2 knockback left
+Chapel Absolver Capizzi took 2 damage
+Chapel Absolver Capizzi passed out
+Chapel Tracker Asante is no longer Invincible
+Chapel Tracker Vine is no longer Invincible
+Jen cast Static Blast on Chapel Absolver Capizzi - from (-10, -8) to (-11, -7)
+Chapel Absolver Capizzi took 2 knockback
+Chapel Absolver Capizzi hit something with 2 knockback left
+Chapel Absolver Capizzi took 2 damage
+Chapel Absolver Capizzi passed out
+Chapel Tracker Vine is no longer Invincible
+Jen cast Chain Bolt on Chapel Absolver Capizzi, Chapel Absolver Rotanev, Jen - from (-10, -8) to (-11, -7)
+Chapel Absolver Capizzi took 2 knockback
+Chapel Absolver Rotanev took 2 knockback
+Jen took 2 knockback
+Chapel Absolver Rotanev hit something with 2 knockback left
+Chapel Absolver Rotanev took 2 damage
+Chapel Absolver Rotanev passed out
+Chapel Absolver Capizzi hit something with 2 knockback left
+Chapel Absolver Capizzi took 2 damage
+Chapel Absolver Capizzi passed out
+Jen hit something with 2 knockback left
+Jen took 2 damage
+Chapel Tracker Asante is no longer Invincible
+Chapel Tracker Vine is no longer Invincible
+Jen cast Static Blast on - from (-10, -8) to (-10, -4)
+Weapons Cache took 2 knockback
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Jen used Use Laptop - from (-10, -8) to (-10, -7)
+Dall breached - from (-16, -3) to (-16, -4)
+Dall used Charge - from (-16, -4) to (-12, -4)
+Chapel Tracker Vine took 1 damage
+Chapel Tracker Vine took 4 knockback
+Weapons Cache took 1 knockback
+Chapel Tracker Vine hit something with 4 knockback left
+Chapel Tracker Vine took 4 damage
+Chapel Tracker Vine passed out
+Weapons Cache hit something with 1 knockback left
+Weapons Cache took 1 damage
+Dall gained 1 mana for destroying a Weapons Cache
+Weapons Cache exploded
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Jen used Use Laptop - from (-10, -8) to (-10, -7)
+Dall moved - from (-12, -4) to (-8, -6)
+Zan moved - from (-16, -5) to (-11, -4)
+Dall Swapped with Zan - from (-8, -6) to (-11, -4)
+Jen cast Chain Bolt on Dall, Chapel Tracker Asante - from (-10, -8) to (-11, -4)
+Dall stability prevented 1 knockback
+Dall took 1 knockback
+Chapel Tracker Asante took 2 knockback
+Zan used 3 Bolt Burst on Chapel Tracker Asante - from (-8, -6) to (-5, -3)
+Chapel Tracker Asante took 1 damage
+Chapel Tracker Asante took 1 knockback
+Chapel Tracker Asante hit something with 1 knockback left
+Chapel Tracker Asante took 1 damage
+Jen cast Static Blast on - from (-10, -8) to (-9, -7)
+Weapons Cache took 2 knockback
+Weapons Cache hit something with 2 knockback left
+Weapons Cache took 2 damage
+Jen gained 1 mana for destroying a Weapons Cache
+Weapons Cache exploded
+Jen took 1 damage
+Jen took 1 knockback
+Jen hit something with 1 knockback left
+Jen took 1 damage
+Jen passed out
+Jen breached - from (-14, -7) to (-14, -8)
+Jen cast Chain Bolt on Chapel Absolver Capizzi, Weapons Cache, Chapel Absolver Rotanev - from (-14, -8) to (-11, -7)
+Chapel Absolver Capizzi took 2 knockback
+Weapons Cache took 2 knockback
+Chapel Absolver Rotanev took 2 knockback
+Chapel Absolver Rotanev hit something with 2 knockback left
+Chapel Absolver Rotanev took 2 damage
+Chapel Absolver Rotanev passed out
+Chapel Absolver Capizzi hit something with 2 knockback left
+Chapel Absolver Capizzi took 2 damage
+Chapel Absolver Capizzi passed out
+Chapel Tracker Asante is no longer Invincible
+Chapel Tracker Vine is no longer Invincible
+Jen moved - from (-14, -8) to (-10, -8)
+Jen used Use Laptop - from (-10, -8) to (-10, -7)
+Jen moved - from (-14, -8) to (-10, -8)
+Jen used Use Laptop - from (-10, -8) to (-10, -7)
+Dall breached - from (-16, -3) to (-16, -4)
+Jen cast Static Blast on Chapel Absolver Rotanev - from (-10, -8) to (-8, -1)
+Chapel Absolver Rotanev took 2 knockback
+Chapel Absolver Rotanev hit something with 2 knockback left
+Chapel Absolver Rotanev took 2 damage
+Chapel Absolver Rotanev passed out
+Chapel Tracker Asante is no longer Invincible
+Jen cast Chain Bolt on Chapel Absolver Rotanev, Chapel Absolver Capizzi, Dall - from (-10, -8) to (-8, -1)
+Chapel Absolver Rotanev took 2 knockback
+Chapel Absolver Capizzi took 2 knockback
+Dall stability prevented 1 knockback
+Dall took 1 knockback
+Dall hit something with 1 knockback left
+Dall took 1 damage
+Dall gained 1 mana from incoming damage
+Chapel Absolver Rotanev hit something with 2 knockback left
+Chapel Absolver Rotanev took 2 damage
+Chapel Absolver Rotanev passed out
+Chapel Tracker Asante is no longer Invincible
+Jen cast Chain Bolt on Chapel Absolver Rotanev, Chapel Absolver Capizzi, Dall - from (-10, -8) to (-8, -1)
+Chapel Absolver Rotanev took 2 knockback
+Chapel Absolver Capizzi took 2 knockback
+Dall stability prevented 1 knockback
+Dall took 1 knockback
+Dall hit something with 1 knockback left
+Dall took 1 damage
+Dall gained 1 mana from incoming damage
+Chapel Absolver Rotanev hit something with 2 knockback left
+Chapel Absolver Rotanev took 2 damage
+Chapel Absolver Rotanev passed out
+Chapel Tracker Asante is no longer Invincible
+Chapel Absolver Capizzi hit something with 1 knockback left
+Chapel Absolver Capizzi took 1 damage
+Chapel Tracker Vine is no longer Invincible
+Banks moved - from (-14, -9) to (-9, -8)
+Banks used Sedative Cocktail on Chapel Absolver Capizzi - from (-9, -8) to (-12, -8)
+Chapel Absolver Capizzi took 1 knockback
+Chapel Absolver Capizzi is Sedated
+Chapel Tracker Vine is no longer Invincible
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Zan moved - from (-16, -5) to (-12, -6)
+Zan used 3 Bolt Burst on Chapel Absolver Capizzi - from (-12, -6) to (-12, -8)
+Chapel Absolver Capizzi took 1 damage
+Chapel Absolver Capizzi passed out
+Chapel Absolver Capizzi took 1 knockback
+Chapel Tracker Vine is no longer Invincible
+Dall used Charge - from (-16, -4) to (-12, -4)
+Chapel Tracker Vine took 1 damage
+Chapel Tracker Vine took 4 knockback
+Weapons Cache took 1 knockback
+Chapel Tracker Vine hit something with 4 knockback left
+Chapel Tracker Vine took 4 damage
+Chapel Tracker Vine passed out
+Weapons Cache hit something with 1 knockback left
+Weapons Cache took 1 damage
+Dall gained 1 mana for destroying a Weapons Cache
+Weapons Cache exploded
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Jen cast Static Blast on - from (-10, -8) to (-9, -7)
+Weapons Cache took 2 knockback
+Weapons Cache hit something with 2 knockback left
+Weapons Cache took 2 damage
+Jen gained 1 mana for destroying a Weapons Cache
+Weapons Cache exploded
+Jen took 1 damage
+Jen took 1 knockback
+Banks took 1 damage
+Banks took 1 knockback
+Jen hit something with 1 knockback left
+Jen took 1 damage
+Dall moved - from (-12, -4) to (-8, -6)
+Dall Swapped with Zan - from (-8, -6) to (-12, -6)
+Jen moved - from (-10, -8) to (-7, -5)
+Dall Swapped with Jen - from (-12, -6) to (-7, -5)
+Banks used Transference on Chapel Tracker Asante - from (-9, -9) to (-7, -3)
+Banks moved - from (-14, -9) to (-11, -7)
+Banks used Sedative Cocktail - from (-11, -7) to (-13, -8)
+Chapel Absolver Capizzi is Sedated
+Jen cast Static Blast on - from (-10, -8) to (-9, -7)
+Weapons Cache took 2 knockback
+Weapons Cache hit something with 2 knockback left
+Weapons Cache took 2 damage
+Jen gained 1 mana for destroying a Weapons Cache
+Weapons Cache exploded
+Jen took 1 damage
+Jen took 1 knockback
+Jen hit something with 1 knockback left
+Jen took 1 damage
+Jen breached - from (-14, -7) to (-14, -8)
+Jen moved - from (-14, -8) to (-10, -8)
+Jen used Use Laptop - from (-10, -8) to (-10, -7)
+Dall breached - from (-16, -3) to (-16, -4)
+Jen cast Chain Bolt on Chapel Absolver Rotanev, Chapel Absolver Capizzi, Dall - from (-10, -8) to (-8, -1)
+Chapel Absolver Rotanev took 2 knockback
+Chapel Absolver Capizzi took 2 knockback
+Dall stability prevented 1 knockback
+Dall took 1 knockback
+Dall hit something with 1 knockback left
+Dall took 1 damage
+Dall gained 1 mana from incoming damage
+Chapel Absolver Rotanev hit something with 2 knockback left
+Chapel Absolver Rotanev took 2 damage
+Chapel Absolver Rotanev passed out
+Chapel Tracker Asante is no longer Invincible
+Chapel Absolver Capizzi hit something with 1 knockback left
+Chapel Absolver Capizzi took 1 damage
+Chapel Tracker Vine is no longer Invincible
+Jen cast Chain Bolt on Chapel Absolver Capizzi, Dall, Chapel Tracker Asante, Chapel Absolver Rotanev - from (-10, -8) to (-11, -7)
+Chapel Absolver Capizzi took 2 knockback
+Dall stability prevented 1 knockback
+Dall took 1 knockback
+Chapel Tracker Asante took 2 knockback
+Chapel Absolver Rotanev took 2 knockback
+Dall hit something with 1 knockback left
+Dall took 1 damage
+Dall gained 1 mana from incoming damage
+Chapel Absolver Rotanev hit something with 2 knockback left
+Chapel Absolver Rotanev took 2 damage
+Chapel Absolver Rotanev passed out
+Chapel Absolver Capizzi hit something with 2 knockback left
+Chapel Absolver Capizzi took 2 damage
+Chapel Absolver Capizzi passed out
+Chapel Tracker Asante is no longer Invincible
+Chapel Tracker Vine is no longer Invincible
+Jen cast Static Blast on - from (-10, -8) to (-9, -7)
+Weapons Cache took 2 knockback
+Weapons Cache hit something with 2 knockback left
+Weapons Cache took 2 damage
+Jen gained 1 mana for destroying a Weapons Cache
+Weapons Cache exploded
+Jen took 1 damage
+Jen took 1 knockback
+Jen hit something with 1 knockback left
+Jen took 1 damage
+Dall used Charge - from (-16, -4) to (-12, -4)
+Chapel Tracker Vine took 1 damage
+Chapel Tracker Vine took 4 knockback
+Weapons Cache took 1 knockback
+Chapel Tracker Vine hit something with 4 knockback left
+Chapel Tracker Vine took 4 damage
+Chapel Tracker Vine passed out
+Weapons Cache hit something with 1 knockback left
+Weapons Cache took 1 damage
+Dall gained 1 mana for destroying a Weapons Cache
+Weapons Cache exploded
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Jen moved - from (-10, -8) to (-6, -6)
+Dall Swapped with Jen - from (-12, -4) to (-6, -6)
+Zan moved - from (-16, -5) to (-11, -4)
+Zan used 3 Bolt Burst on Chapel Tracker Asante - from (-11, -4) to (-5, -3)
+Chapel Tracker Asante took 1 damage
+Chapel Tracker Asante took 1 knockback
+Chapel Tracker Asante hit something with 1 knockback left
+Chapel Tracker Asante took 1 damage
+Dall Swapped with Zan - from (-6, -6) to (-11, -4)
+Banks moved - from (-14, -9) to (-11, -7)
+Banks used Sedative Cocktail on Chapel Tracker Asante - from (-11, -7) to (-5, -3)
+Chapel Tracker Asante took 1 knockback
+Chapel Tracker Asante is Sedated
+Chapel Tracker Asante hit something with 1 knockback left
+Chapel Tracker Asante took 1 damage
+Chapel Tracker Asante passed out
+Player ended their turn, starting enemy turn 1
+Zan shot Chapel Absolver Moon on overwatch
+Chapel Absolver Moon took 4 damage
+Chapel Absolver Moon passed out
+End of enemy turn 1
+ 
+Start of player turn 2
+Zan used 3 Bolt Burst on Chapel Shepherd La'Dontae - from (-6, -6) to (-5, -7)
+Chapel Shepherd La'Dontae armour blocked 1 damage
+Chapel Shepherd La'Dontae took 1 knockback
+Chapel Shepherd La'Dontae hit something with 1 knockback left
+Chapel Shepherd La'Dontae took 1 damage
+Zan moved - from (-6, -6) to (-8, -3)
+Dall Swapped with Zan - from (-11, -4) to (-8, -3)
+Zan moved - from (-6, -6) to (-5, -2)
+Dall Swapped with Zan - from (-11, -4) to (-5, -2)
+Dall used Throw Riot Block - from (-5, -2) to (-5, -8)
+Dall used Charge - from (-5, -2) to (-5, -6)
+Chapel Shepherd La'Dontae armour blocked 1 damage
+Chapel Shepherd La'Dontae took 4 knockback
+Chapel Shepherd La'Dontae hit something with 4 knockback left
+Riot Block added 1 extra impact damage
+Chapel Shepherd La'Dontae took 5 damage
+Chapel Shepherd La'Dontae passed out
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Banks moved - from (-11, -7) to (-8, -6)

@@ -1,0 +1,285 @@
+25_Villa_Medil_4_Time_Pressure
+ 
+Start of player turn 1
+Jen breached - from (24, 25) to (25, 25)
+Jen moved - from (25, 25) to (27, 28)
+Reactor Chaser Esteban used Shock Hammer on Jen - from (28, 28) to (27, 28)
+Jen took 2 damage
+Jen took 2 knockback
+Reactor Tracker Ajavon took 1 knockback
+Jen hit something with 1 knockback left
+Jen took 1 damage
+Jen cast Static Blast on Reactor Tracker Ajavon - from (25, 25) to (25, 28)
+Reactor Tracker Ajavon took 2 knockback
+Reactor Tracker Ajavon was defenestrated - from (25, 29) to (25, 29)
+Reactor Tracker Ajavon took 3 damage
+Reactor Tracker Ajavon passed out
+Dall Swapped with Reactor Chaser Esteban - from (26, 25) to (28, 28)
+Reactor Chaser Esteban used Shock Hammer on Jen - from (26, 25) to (25, 25)
+Jen took 2 damage
+Jen took 2 knockback
+Jen hit something with 1 knockback left
+Jen took 1 damage
+Jen moved - from (25, 25) to (23, 28)
+Jen cast Static Blast on Reactor Tracker Ajavon - from (23, 28) to (25, 28)
+Reactor Tracker Ajavon took 2 knockback
+Reactor Chaser Esteban took 1 knockback
+Reactor Tracker Ajavon hit something with 1 knockback left
+Reactor Tracker Ajavon took 1 damage
+Dall Swapped with Jen - from (26, 25) to (23, 28)
+Dall used Charge - from (23, 28) to (24, 28)
+Reactor Chaser Esteban took 1 damage
+Reactor Chaser Esteban took 1 knockback
+Reactor Tracker Ajavon took 1 knockback
+Reactor Chaser Esteban hit something with 1 knockback left
+Reactor Chaser Esteban took 1 damage
+Reactor Chaser Esteban used Shock Hammer on Dall - from (25, 28) to (24, 28)
+Dall armour blocked 1 damage
+Dall took 1 damage
+Dall gained 1 mana from incoming damage
+Dall stability prevented 1 knockback
+Dall took 1 knockback
+Dall Swapped with Reactor Chaser Averlant - from (26, 25) to (36, 28)
+Jen cast Static Blast on Reactor Chaser Averlant - from (24, 25) to (25, 25)
+Reactor Chaser Averlant took 4 knockback
+Reactor Chaser Averlant hit something with 3 knockback left
+Reactor Chaser Averlant took 3 damage
+Dall Swapped with Reactor Tracker Ajavon - from (26, 25) to (25, 28)
+Dall used Charge - from (25, 28) to (27, 28)
+Reactor Chaser Esteban took 1 damage
+Reactor Chaser Esteban took 2 knockback
+Dall used Charge - from (27, 28) to (28, 28)
+Reactor Chaser Esteban took 1 damage
+Reactor Chaser Esteban took 1 knockback
+Dall Swapped with Reactor Tracker Ajavon - from (26, 25) to (25, 28)
+Dall used Throw Riot Block - from (25, 28) to (29, 28)
+Dall used Charge - from (25, 28) to (26, 28)
+Reactor Chaser Esteban took 1 damage
+Reactor Chaser Esteban took 1 knockback
+Dall used Censer Slam on Reactor Chaser Esteban - from (26, 28) to (27, 28)
+Reactor Chaser Esteban took 3 damage
+Reactor Chaser Esteban passed out
+Reactor Chaser Esteban took 1 knockback
+Jen breached - from (24, 25) to (25, 25)
+Jen cast Static Blast on Reactor Tracker Ajavon - from (25, 25) to (26, 25)
+Reactor Tracker Ajavon took 4 knockback
+Reactor Tracker Ajavon hit something with 4 knockback left
+Reactor Tracker Ajavon took 4 damage
+Reactor Tracker Ajavon passed out
+Reactor Chaser Averlant used Shock Hammer on Medil Militia Crisis - from (31, 25) to (30, 25)
+Medil Militia Crisis took 2 damage
+Medil Militia Crisis passed out
+Medil Militia Crisis took 2 knockback
+Medil Militia Crisis hit something with 1 knockback left
+Dall Swapped with Reactor Tracker Ajavon - from (26, 25) to (25, 28)
+Jen breached - from (24, 25) to (25, 25)
+Jen cast Static Blast on Reactor Tracker Ajavon - from (25, 25) to (25, 28)
+Reactor Tracker Ajavon took 2 knockback
+Reactor Tracker Ajavon was defenestrated - from (25, 29) to (25, 29)
+Reactor Tracker Ajavon took 3 damage
+Reactor Tracker Ajavon passed out
+Jen moved - from (25, 25) to (25, 26)
+Dall Swapped with Jen - from (26, 25) to (25, 26)
+Reactor Chaser Esteban used Shock Hammer on Dall - from (26, 27) to (25, 26)
+Dall armour blocked 1 damage
+Dall took 1 damage
+Dall gained 1 mana from incoming damage
+Dall stability prevented 1 knockback
+Dall took 1 knockback
+Dall hit something with 1 knockback left
+Dall took 1 damage
+Dall gained 1 mana from incoming damage
+Dall Swapped with Medil Militia Crisis - from (25, 26) to (30, 25)
+Dall Swapped with Medil Militia Crisis - from (26, 25) to (30, 25)
+Jen breached - from (24, 25) to (25, 25)
+Jen cast Static Blast on Reactor Tracker Ajavon - from (25, 25) to (25, 28)
+Reactor Tracker Ajavon took 2 knockback
+Reactor Tracker Ajavon was defenestrated - from (25, 29) to (25, 29)
+Reactor Tracker Ajavon took 3 damage
+Reactor Tracker Ajavon passed out
+Jen moved - from (25, 25) to (23, 28)
+Jen breached - from (24, 25) to (25, 25)
+Jen cast Static Blast on Reactor Tracker Ajavon - from (25, 25) to (25, 28)
+Reactor Tracker Ajavon took 2 knockback
+Reactor Tracker Ajavon was defenestrated - from (25, 29) to (25, 29)
+Reactor Tracker Ajavon took 3 damage
+Reactor Tracker Ajavon passed out
+Jen moved - from (25, 25) to (25, 28)
+Dall Swapped with Jen - from (26, 25) to (25, 28)
+Reactor Chaser Esteban used Shock Hammer on Dall - from (26, 28) to (25, 28)
+Dall armour blocked 1 damage
+Dall took 1 damage
+Dall gained 1 mana from incoming damage
+Dall stability prevented 1 knockback
+Dall took 1 knockback
+Dall Swapped with Medil Militia Crisis - from (24, 28) to (30, 25)
+Dall used Censer Slam on Reactor Chaser Averlant - from (30, 25) to (31, 25)
+Reactor Chaser Averlant took 3 damage
+Reactor Chaser Averlant took 1 knockback
+Dall moved - from (30, 25) to (30, 28)
+Dall Swapped with Jen - from (30, 28) to (26, 25)
+Jen breached - from (24, 25) to (25, 25)
+Jen threw a Gale Grenade - from (25, 25) to (25, 27)
+Reactor Tracker Ajavon took 1 knockback
+Jen cast Chain Bolt on Reactor Tracker Ajavon, Reactor Chaser Esteban, Reactor Chaser Averlant - from (25, 25) to (25, 28)
+Reactor Tracker Ajavon took 2 knockback
+Reactor Chaser Esteban took 2 knockback
+Reactor Chaser Averlant took 2 knockback
+Reactor Tracker Ajavon was defenestrated - from (25, 29) to (25, 29)
+Reactor Tracker Ajavon took 3 damage
+Reactor Tracker Ajavon passed out
+Jen moved - from (25, 25) to (23, 28)
+Dall Swapped with Jen - from (26, 25) to (23, 28)
+Dall used Charge - from (23, 28) to (26, 28)
+Reactor Chaser Esteban took 1 damage
+Reactor Chaser Esteban took 6 knockback
+Dall moved - from (26, 28) to (31, 28)
+Reactor Chaser Esteban used Shock Hammer on Dall - from (32, 27) to (31, 28)
+Dall armour blocked 1 damage
+Dall took 1 damage
+Dall gained 1 mana from incoming damage
+Dall stability prevented 1 knockback
+Dall took 1 knockback
+Dall used Charge - from (26, 28) to (37, 28)
+Dall sealed a hostile entry point - from (37, 28) to (37, 28)
+Jen breached - from (24, 25) to (25, 25)
+Jen cast Chain Bolt on Reactor Tracker Ajavon, Reactor Chaser Esteban, Reactor Chaser Averlant - from (25, 25) to (25, 28)
+Reactor Tracker Ajavon took 2 knockback
+Reactor Chaser Esteban took 2 knockback
+Reactor Chaser Averlant took 2 knockback
+Reactor Tracker Ajavon was defenestrated - from (25, 29) to (25, 29)
+Reactor Tracker Ajavon took 3 damage
+Reactor Tracker Ajavon passed out
+Dall moved - from (26, 25) to (23, 28)
+Dall used Charge - from (23, 28) to (27, 28)
+Reactor Chaser Esteban took 1 damage
+Reactor Chaser Esteban took 7 knockback
+Reactor Chaser Averlant took 1 knockback
+Reactor Chaser Esteban hit something with 1 knockback left
+Reactor Chaser Esteban took 1 damage
+Dall used Throw Riot Block - from (27, 28) to (36, 28)
+Dall used Charge - from (27, 28) to (33, 28)
+Reactor Chaser Averlant took 1 damage
+Reactor Chaser Averlant took 9 knockback
+Reactor Chaser Averlant hit something with 8 knockback left
+Riot Block added 1 extra impact damage
+Reactor Chaser Averlant took 9 damage
+Reactor Chaser Averlant passed out
+Dall used Censer Slam on Reactor Chaser Esteban - from (33, 28) to (32, 27)
+Reactor Chaser Esteban took 3 damage
+Reactor Chaser Esteban passed out
+Reactor Chaser Esteban took 1 knockback
+Reactor Chaser Esteban hit something with 1 knockback left
+Dall used Grab Intel - from (33, 28) to (33, 29)
+Dall Swapped with Jen - from (33, 28) to (25, 25)
+Jen used Grab Intel - from (33, 28) to (33, 29)
+Jen moved - from (33, 28) to (37, 28)
+Jen took cover - from (37, 28) to (37, 28)
+Jen moved - from (33, 28) to (33, 24)
+Dall Swapped with Jen - from (25, 25) to (33, 28)
+Jen moved - from (25, 25) to (29, 27)
+Player ended their turn, starting enemy turn 1
+Medil Militia Clapet moved - from (31, 22) to (33, 22)
+End of enemy turn 1
+ 
+Start of player turn 2
+Dall moved - from (33, 28) to (33, 27)
+Dall used Charge - from (33, 27) to (34, 27)
+Reactor Chaser Moon took 1 damage
+Reactor Chaser Moon took 1 knockback
+Dall moved - from (33, 28) to (34, 24)
+Dall moved - from (33, 28) to (32, 29)
+Dall used Charge - from (32, 29) to (32, 25)
+Dall moved - from (33, 28) to (34, 26)
+Dall moved - from (33, 28) to (35, 26)
+Dall moved - from (33, 28) to (30, 27)
+Dall used Charge - from (30, 27) to (34, 27)
+Reactor Chaser Moon took 1 damage
+Reactor Chaser Moon took 7 knockback
+Reactor Chaser Moon hit something with 5 knockback left
+Reactor Chaser Moon took 5 damage
+Reactor Chaser Moon passed out
+Jen moved - from (29, 27) to (33, 28)
+Jen cast Static Blast on Reactor Chaser Gauss - from (33, 28) to (34, 21)
+Reactor Chaser Gauss took 2 knockback
+Dall used Charge - from (30, 27) to (34, 27)
+Reactor Chaser Moon took 1 damage
+Reactor Chaser Moon took 7 knockback
+Reactor Chaser Moon hit something with 5 knockback left
+Reactor Chaser Moon took 5 damage
+Reactor Chaser Moon passed out
+Dall Swapped with Medil Militia Clapet - from (34, 27) to (33, 22)
+Dall used Censer Slam on Reactor Chaser Gauss - from (33, 22) to (34, 21)
+Reactor Chaser Gauss took 3 damage
+Reactor Chaser Gauss took 1 knockback
+Jen moved - from (29, 27) to (33, 27)
+Reactor Chaser Gauss used Shock Hammer on Dall - from (34, 21) to (33, 22)
+Dall armour blocked 1 damage
+Dall took 1 damage
+Dall gained 1 mana from incoming damage
+Dall stability prevented 1 knockback
+Dall took 1 knockback
+Dall hit something with 1 knockback left
+Dall took 1 damage
+Dall gained 1 mana from incoming damage
+Jen cast Static Blast on Reactor Chaser Gauss - from (33, 27) to (34, 21)
+Reactor Chaser Gauss took 2 knockback
+Medil Militia Singye shot Reactor Chaser Gauss - from (37, 24) to (34, 19)
+Reactor Chaser Gauss took 2 damage
+Reactor Chaser Gauss passed out
+Player ended their turn, starting enemy turn 2
+Reactor Shotgunner Concept moved - from (37, 28) to (35, 27)
+End of enemy turn 2
+ 
+Start of player turn 3
+Jen moved - from (33, 27) to (35, 28)
+Jen cast Static Blast on Reactor Shotgunner Concept - from (35, 28) to (35, 27)
+Reactor Shotgunner Concept took 4 knockback
+Reactor Shotgunner Concept hit something with 4 knockback left
+Reactor Shotgunner Concept took 4 damage
+Reactor Shotgunner Concept passed out
+Dall used Censer Slam on Reactor Chaser Justice - from (33, 22) to (34, 21)
+Reactor Chaser Justice took 3 damage
+Reactor Chaser Justice took 1 knockback
+Reactor Chaser Justice used Shock Hammer on Dall - from (34, 21) to (33, 22)
+Dall armour blocked 1 damage
+Dall took 1 damage
+Dall gained 1 mana from incoming damage
+Dall stability prevented 1 knockback
+Dall took 1 knockback
+Dall hit something with 1 knockback left
+Dall took 1 damage
+Dall passed out
+Dall gained 1 mana from incoming damage
+Medil Militia Singye shot Reactor Chaser Justice - from (37, 24) to (34, 21)
+Reactor Chaser Justice took 2 damage
+Reactor Chaser Justice passed out
+Dall Swapped with Jen - from (33, 22) to (35, 28)
+Reactor Chaser Justice used Shock Hammer on Jen - from (34, 21) to (33, 22)
+Jen took 2 damage
+Jen took 2 knockback
+Jen hit something with 2 knockback left
+Jen took 2 damage
+Jen passed out
+Dall moved - from (33, 22) to (33, 27)
+Dall Swapped with Reactor Chaser Justice - from (33, 27) to (35, 21)
+Reactor Chaser Justice used Shock Hammer on Medil Militia Clapet - from (33, 27) to (34, 27)
+Medil Militia Clapet took 2 damage
+Medil Militia Clapet passed out
+Medil Militia Clapet took 2 knockback
+Dall moved - from (33, 22) to (33, 24)
+Dall used Grab Intel - from (33, 24) to (32, 24)
+Dall Swapped with Jen - from (33, 24) to (35, 28)
+Reactor Chaser Justice used Shock Hammer on Jen - from (34, 23) to (33, 24)
+Jen took 2 damage
+Jen took 2 knockback
+Jen hit something with 2 knockback left
+Jen took 2 damage
+Jen passed out
+Dall moved - from (33, 22) to (33, 27)
+Jen moved - from (35, 28) to (33, 25)
+Jen threw a Gale Grenade - from (33, 25) to (36, 21)
+Reactor Chaser Justice took 1 knockback
+Reactor Chaser Justice hit something with 1 knockback left
+Reactor Chaser Justice took 1 damage
+Reactor Chaser Justice passed out

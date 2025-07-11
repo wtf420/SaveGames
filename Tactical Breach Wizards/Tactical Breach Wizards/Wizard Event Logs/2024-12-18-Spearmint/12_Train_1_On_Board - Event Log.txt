@@ -1,0 +1,73 @@
+12_Train_1_On_Board
+ 
+Start of player turn 1
+Zan breached - from (1, 11) to (0, 11)
+Zan moved - from (0, 11) to (1, 7)
+Zan used 3 Bolt Burst on Chapel Tracker Sunkins - from (1, 7) to (0, 6)
+Chapel Tracker Sunkins took 1 damage
+Chapel Tracker Sunkins took 1 knockback
+Chapel Tracker Sunkins hit something with 1 knockback left
+Chapel Tracker Sunkins took 1 damage
+Banks repositioned - from (-1, 11) to (-1, 11)
+Banks repositioned - from (-1, 11) to (1, 11)
+Banks breached - from (1, 11) to (0, 11)
+Zan breached - from (1, 11) to (0, 11)
+Zan moved - from (0, 11) to (2, 9)
+Zan breached - from (1, 11) to (0, 11)
+Banks used Spectral Skull - from (-1, 11) to (2, 9)
+Chapel Tracker Andromeda took 2 damage
+Chapel Tracker Sunkins took 2 damage
+Banks moved - from (-1, 11) to (1, 7)
+Zan breached - from (1, 11) to (0, 11)
+Banks used Spectral Skull - from (-1, 11) to (2, 9)
+Chapel Tracker Andromeda took 2 damage
+Chapel Tracker Sunkins took 2 damage
+Banks moved - from (-1, 11) to (2, 9)
+Zan moved - from (0, 11) to (-1, 8)
+Zan used 3 Bolt Burst on Chapel Tracker Andromeda - from (-1, 8) to (1, 9)
+Chapel Tracker Andromeda took 1 damage
+Chapel Tracker Andromeda passed out
+Chapel Tracker Andromeda took 2 knockback
+Chapel Tracker Andromeda hit something with 2 knockback left
+Zan used Time Boost on Banks - from (-1, 8) to (2, 9)
+Banks used Sedative Cocktail on Chapel Tracker Sunkins - from (2, 9) to (0, 6)
+Chapel Tracker Sunkins took 2 knockback
+Chapel Tracker Sunkins is Sedated
+Chapel Tracker Sunkins hit something with 2 knockback left
+Chapel Tracker Sunkins took 2 damage
+Chapel Tracker Sunkins passed out
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Player ended their turn, starting enemy turn 1
+End of enemy turn 1
+ 
+Start of player turn 2
+Zan moved - from (-1, 8) to (1, 4)
+Zan used 3 Bolt Burst on Chapel Tracker Sitwala - from (1, 4) to (1, 5)
+Chapel Tracker Sitwala took 1 damage
+Chapel Tracker Sitwala took 1 knockback
+Banks used Sedative Cocktail on Chapel Tracker Sitwala - from (2, 9) to (1, 6)
+Chapel Tracker Sitwala took 1 knockback
+Chapel Tracker Sitwala is Sedated
+Zan took a free shot at Chapel Tracker Sitwala with Supporting Fire.
+Zan used 3 Bolt Burst on Chapel Tracker Sitwala - from (1, 4) to (1, 5)
+Chapel Tracker Sitwala took 1 damage
+Chapel Tracker Sitwala took 2 knockback
+Banks moved - from (2, 9) to (0, 5)
+Chapel Tracker Sitwala shot Banks - from (1, 7) to (0, 5)
+Banks took 2 damage
+Zan used 3 Bolt Burst on Chapel Tracker Sitwala - from (-1, 8) to (1, 5)
+Chapel Tracker Sitwala took 1 damage
+Chapel Tracker Sitwala took 1 knockback
+Chapel Tracker Sitwala hit something with 1 knockback left
+Chapel Tracker Sitwala took 1 damage
+Banks used Sedative Cocktail on Chapel Tracker Sitwala - from (2, 9) to (1, 5)
+Chapel Tracker Sitwala took 1 knockback
+Chapel Tracker Sitwala is Sedated
+Zan took a free shot at Chapel Tracker Sitwala with Supporting Fire.
+Zan used 3 Bolt Burst on Chapel Tracker Sitwala - from (-1, 8) to (1, 4)
+Chapel Tracker Sitwala took 1 damage
+Chapel Tracker Sitwala passed out
+Chapel Tracker Sitwala took 2 knockback
+Chapel Tracker Sitwala hit something with 2 knockback left
+Zan moved - from (-1, 8) to (1, 4)
+Banks moved - from (2, 9) to (0, 4)

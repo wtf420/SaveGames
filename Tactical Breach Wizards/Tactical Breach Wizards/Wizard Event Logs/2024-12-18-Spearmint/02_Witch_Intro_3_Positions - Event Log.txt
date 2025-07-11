@@ -1,0 +1,16 @@
+02_Witch_Intro_3_Positions
+ 
+Start of player turn 1
+Jen breached - from (-5, 3) to (-4, 3)
+Zan repositioned - from (-3, 3) to (-1, 6)
+Zan breached - from (-1, 6) to (-1, 7)
+Zan used 3 Bolt Burst on RPD Enforcer Andromeda - from (-1, 7) to (-3, 7)
+RPD Enforcer Andromeda armour blocked 1 damage
+RPD Enforcer Andromeda took 1 knockback
+Jen cast Static Blast on RPD Enforcer Andromeda - from (-4, 3) to (-4, 7)
+RPD Enforcer Andromeda took 2 knockback
+RPD Enforcer Andromeda was defenestrated - from (-4, 8) to (-4, 8)
+RPD Enforcer Andromeda took 3 damage
+RPD Enforcer Andromeda passed out
+Jen moved - from (-4, 3) to (-3, 6)
+Jen used Use Laptop - from (-3, 6) to (-3, 5)

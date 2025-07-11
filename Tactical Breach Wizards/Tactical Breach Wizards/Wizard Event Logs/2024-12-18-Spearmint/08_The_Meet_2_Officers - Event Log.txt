@@ -1,0 +1,36 @@
+08_The_Meet_2_Officers
+ 
+Start of player turn 1
+Banks breached - from (20, -4) to (20, -5)
+Banks repositioned - from (20, -4) to (23, -1)
+Banks breached - from (23, -1) to (22, -1)
+Banks moved - from (22, -1) to (21, -2)
+Banks used Spectral Skull on Reactor Officer Cassiopeia - from (21, -2) to (23, -5)
+Reactor Officer Cassiopeia armour blocked 1 damage
+Reactor Officer Cassiopeia took 1 damage
+Reactor Officer Glass armour blocked 1 damage
+Reactor Officer Glass took 1 damage
+Reactor Officer Benezech armour blocked 1 damage
+Reactor Officer Benezech took 1 damage
+Zan repositioned - from (20, -6) to (20, -4)
+Zan breached - from (20, -4) to (20, -5)
+Jen breached - from (20, -4) to (20, -5)
+Jen moved - from (20, -5) to (22, -7)
+Zan moved - from (20, -6) to (21, -5)
+Zan used 3 Bolt Burst on Reactor Officer Cassiopeia - from (21, -5) to (23, -5)
+Reactor Officer Cassiopeia armour blocked 1 damage
+Reactor Officer Cassiopeia took 1 knockback
+Jen cast Chain Bolt on Reactor Officer Cassiopeia, Reactor Officer Benezech, Reactor Officer Glass - from (22, -7) to (24, -5)
+Reactor Officer Cassiopeia took 2 knockback
+Reactor Officer Benezech took 2 knockback
+Reactor Officer Glass took 4 knockback
+Reactor Officer Glass was defenestrated - from (25, -7) to (25, -7)
+Reactor Officer Benezech hit something with 2 knockback left
+Reactor Officer Benezech took 2 damage
+Reactor Officer Benezech passed out
+Reactor Officer Cassiopeia hit something with 2 knockback left
+Reactor Officer Cassiopeia took 2 damage
+Reactor Officer Cassiopeia passed out
+Reactor Officer Glass took 2 damage
+Reactor Officer Glass passed out
+Jen moved - from (22, -7) to (28, -6)

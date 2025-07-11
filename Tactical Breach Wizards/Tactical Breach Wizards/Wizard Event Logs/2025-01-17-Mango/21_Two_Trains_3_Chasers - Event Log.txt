@@ -1,0 +1,93 @@
+21_Two_Trains_3_Chasers
+ 
+Start of player turn 1
+Jen moved - from (1, 4) to (0, 2)
+Jen cast Static Blast on Reactor Heavy Gunner Sanzey - from (0, 2) to (-1, 1)
+Reactor Heavy Gunner Sanzey stability prevented 1 knockback
+Reactor Heavy Gunner Sanzey took 3 knockback
+Reactor Heavy Gunner Sanzey was defenestrated - from (-2, 0) to (-2, 0)
+Reactor Heavy Gunner Sanzey took 4 damage
+Reactor Heavy Gunner Sanzey passed out
+Jen disabled a turret Turret - from (0, 2) to (1, 2)
+Jen moved - from (0, 2) to (2, 0)
+Jen used Broom Breach - from (2, 0) to (2, -4)
+Jen disabled a turret Turret - from (2, -4) to (1, -4)
+Jen threw a Gale Grenade - from (2, 0) to (1, -3)
+Reactor Tracker Silksteel took 1 knockback
+Turret stability prevented 1 knockback
+Reactor Tracker Messier took 1 knockback
+Reactor Tracker Messier was defenestrated - from (2, -3) to (2, -3)
+Reactor Tracker Silksteel hit something with 1 knockback left
+Reactor Tracker Silksteel took 1 damage
+Reactor Tracker Messier took 3 damage
+Reactor Tracker Messier passed out
+Jen used Broom Breach - from (2, 0) to (2, -4)
+Jen disabled a turret Turret - from (2, -4) to (1, -4)
+Rion cast Impaling Vine on Reactor Tracker Silksteel - from (-6, 3) to (0, -2)
+Reactor Tracker Silksteel took 1 damage
+Reactor Tracker Silksteel took 3 knockback
+Reactor Tracker Silksteel hit something with 3 knockback left
+Reactor Tracker Silksteel took 1 extra damage from Brittle, Brittle reduced to 0
+Reactor Tracker Silksteel is no longer Brittle
+Reactor Tracker Silksteel took 4 damage
+Reactor Tracker Silksteel passed out
+Rion moved - from (-6, 3) to (-6, -1)
+Banks moved - from (-4, -3) to (-4, -6)
+Rion used Grab Intel - from (-6, -1) to (-7, -1)
+Player ended their turn, starting enemy turn 1
+End of enemy turn 1
+ 
+Start of player turn 2
+Jen cast Static Blast on Reactor Chaser Circini - from (2, -4) to (1, -6)
+Reactor Chaser Circini took 2 knockback
+Reactor Chaser Circini hit something with 1 knockback left
+Reactor Chaser Circini took 1 damage
+Rion moved - from (-6, -1) to (-5, -4)
+Rion cast Impaling Vine on Reactor Chaser Circini - from (-5, -4) to (2, -5)
+Reactor Chaser Circini took 1 damage
+Reactor Chaser Circini took 3 knockback
+Jen moved - from (2, -4) to (2, -5)
+Jen cast Static Blast on Reactor Chaser Circini - from (2, -5) to (1, -5)
+Reactor Chaser Circini took 4 knockback
+Reactor Chaser Circini was defenestrated - from (-1, -5) to (-1, -5)
+Reactor Chaser Circini took 1 extra damage from Brittle, Brittle reduced to 0
+Reactor Chaser Circini is no longer Brittle
+Reactor Chaser Circini took 4 damage
+Reactor Chaser Circini passed out
+Jen moved - from (2, -5) to (1, -7)
+Banks used Sedative Cocktail on Reactor Tracker Sitwala - from (-4, -6) to (-5, -8)
+Reactor Tracker Sitwala took 1 knockback
+Reactor Tracker Sitwala is Sedated
+Rion bit on Reactor Tracker Sitwala - from (-5, -8) to (-6, -9)
+Reactor Tracker Sitwala took 1 damage
+Banks used Transference on Medil Militia Benichou - from (-4, -6) to (-4, -5)
+Banks used Transference on Reactor Tracker Sitwala - from (-4, -6) to (-6, -9)
+Banks moved - from (-4, -6) to (-5, -9)
+Rion bit on Reactor Tracker Sitwala - from (-5, -8) to (-6, -9)
+Reactor Tracker Sitwala took 1 damage
+Medil Militia Benichou shot Reactor Tracker Sitwala - from (-4, -5) to (-6, -9)
+Reactor Tracker Sitwala took 2 damage
+Reactor Tracker Sitwala passed out
+Player ended their turn, starting enemy turn 2
+End of enemy turn 2
+ 
+Start of player turn 3
+Rion moved - from (-5, -8) to (-6, -9)
+Reactor Chaser Lagrange used Shock Hammer on Banks - from (-6, -8) to (-5, -9)
+Banks took 2 damage
+Banks took 2 knockback
+Banks hit something with 2 knockback left
+Banks took 2 damage
+Banks passed out
+Rion cast Impaling Vine on Reactor Chaser Lagrange - from (-5, -8) to (-6, -8)
+Reactor Chaser Lagrange took 1 damage
+Reactor Chaser Lagrange took 3 knockback
+Rion took 1 knockback
+Reactor Chaser Lagrange hit something with 3 knockback left
+Reactor Chaser Lagrange took 1 extra damage from Brittle, Brittle reduced to 0
+Reactor Chaser Lagrange is no longer Brittle
+Reactor Chaser Lagrange took 4 damage
+Reactor Chaser Lagrange passed out
+Rion hit something with 1 knockback left
+Rion took 1 damage
+Rion moved - from (-5, -8) to (-6, -9)

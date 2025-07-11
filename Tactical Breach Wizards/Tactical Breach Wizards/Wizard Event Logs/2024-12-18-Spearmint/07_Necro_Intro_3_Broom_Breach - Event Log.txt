@@ -1,0 +1,62 @@
+07_Necro_Intro_3_Broom_Breach
+ 
+Start of player turn 1
+Jen breached - from (10, 0) to (10, -1)
+Jen moved - from (10, -1) to (12, -2)
+Jen used Broom Breach - from (12, -2) to (14, 5)
+Jen cast Static Blast on Reactor Sniper Jones - from (14, 5) to (13, 5)
+Reactor Sniper Jones took 2 knockback
+Reactor Tracker Lacayo took 1 knockback
+Reactor Sniper Jones hit something with 2 knockback left
+Reactor Sniper Jones took 2 damage
+Reactor Tracker Lacayo hit something with 1 knockback left
+Reactor Tracker Lacayo took 1 damage
+Jen used Broom Breach - from (14, 5) to (15, 2)
+Jen used Broom Breach - from (12, -2) to (15, 2)
+Jen cast Chain Bolt on Reactor Tracker Lacayo, Reactor Sniper Jones - from (15, 2) to (12, 5)
+Reactor Tracker Lacayo took 2 knockback
+Reactor Sniper Jones took 4 knockback
+Reactor Tracker Lacayo was defenestrated - from (12, 5) to (12, 5)
+Reactor Sniper Jones hit something with 3 knockback left
+Reactor Sniper Jones took 3 damage
+Reactor Sniper Jones passed out
+Reactor Tracker Lacayo took 3 damage
+Reactor Tracker Lacayo passed out
+Jen sealed a hostile entry point - from (15, 2) to (15, 2)
+Jen used Broom Breach - from (15, 2) to (14, 5)
+Jen used Use Laptop - from (14, 5) to (15, 5)
+Jen breached - from (10, 0) to (10, -1)
+Jen moved - from (10, -1) to (12, -2)
+Jen used Broom Breach - from (12, -2) to (15, 2)
+Jen used Broom Breach - from (12, -2) to (14, 5)
+Jen used Use Laptop - from (14, 5) to (15, 5)
+Reactor Sniper Jones shot Reactor Heavy Gunner Boden on overwatch
+Reactor Heavy Gunner Boden armour blocked 1 damage
+Reactor Heavy Gunner Boden took 3 damage
+Jen cast Static Blast on Reactor Heavy Gunner Boden - from (14, 5) to (13, 0)
+Reactor Heavy Gunner Boden stability prevented 1 knockback
+Reactor Heavy Gunner Boden took 1 knockback
+Jen cast Chain Bolt on Reactor Sniper Jones, Reactor Tracker Lacayo, Reactor Heavy Gunner Boden - from (14, 5) to (13, 5)
+Reactor Sniper Jones took 2 knockback
+Reactor Tracker Lacayo took 2 knockback
+Reactor Heavy Gunner Boden stability prevented 1 knockback
+Reactor Heavy Gunner Boden took 3 knockback
+Reactor Tracker Lacayo took 1 knockback
+Reactor Sniper Jones hit something with 2 knockback left
+Reactor Sniper Jones took 2 damage
+Reactor Tracker Lacayo hit something with 3 knockback left
+Reactor Tracker Lacayo took 3 damage
+Reactor Tracker Lacayo passed out
+Reactor Heavy Gunner Boden hit something with 1 knockback left
+Reactor Heavy Gunner Boden took 1 damage
+Reactor Heavy Gunner Boden passed out
+Jen used Broom Breach - from (14, 5) to (15, 2)
+Jen sealed a hostile entry point - from (15, 2) to (15, 2)
+Banks moved - from (10, -2) to (13, -1)
+Banks sealed a hostile entry point - from (13, -1) to (13, -1)
+Banks used Sedative Cocktail on Reactor Sniper Jones - from (13, -1) to (13, 5)
+Reactor Sniper Jones took 1 knockback
+Reactor Sniper Jones is Sedated
+Reactor Sniper Jones was defenestrated - from (13, 5) to (13, 5)
+Reactor Sniper Jones took 1 damage
+Reactor Sniper Jones passed out

@@ -1,0 +1,15 @@
+[10:32:21:221ms][Info][Core] Initializing mod.io services
+[10:32:21:222ms][Info][File] Initialized File Service
+[10:32:21:274ms][Trace][File] Begin read of 50 bytes from C:\Users\tgsjo\AppData\Local\mod.io\3791\tgsjo\..\..\globalsettings.json
+[10:32:21:274ms][Trace][File] Finish read from C:\Users\tgsjo\AppData\Local\mod.io\3791\tgsjo\..\..\globalsettings.json
+[10:32:21:274ms][Info][File] Overriding RootLocalStoragePath to C:\Users\Public\mod.io\
+[10:32:21:282ms][Info][Http] Initialized Http Service
+[10:32:21:282ms][Trace][User] Loading user data
+[10:32:21:316ms][Trace][File] Begin read of 109 bytes from C:\Users\tgsjo\AppData\Local\mod.io\3791\tgsjo\user.json
+[10:32:21:316ms][Trace][File] Finish read from C:\Users\tgsjo\AppData\Local\mod.io\3791\tgsjo\user.json
+[10:32:21:316ms][Trace][User] User Data file present but not valid. Initializing to default state
+[10:32:21:316ms][Info][User] Initialized User Data service
+[10:32:21:316ms][Info][File] Overriding RootLocalStoragePath to E:\SteamLibrary\steamapps\common\Ready Or Not\ReadyOrNot\Content\Paks\mod.io\
+[10:32:21:316ms][Trace][ModManagement] Loading mod collection from storage
+[10:32:21:316ms][Trace][ModManagement] Mod collection loaded
+[10:32:21:316ms][Info][Core] mod.io service initialization complete

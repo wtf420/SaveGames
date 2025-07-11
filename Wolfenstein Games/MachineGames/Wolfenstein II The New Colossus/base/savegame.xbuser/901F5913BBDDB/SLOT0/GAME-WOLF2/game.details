@@ -1,0 +1,12 @@
+checksum=-596538717
+completionRation=4%
+date=1644332590
+difficulty=3
+gamePlayTime=7322
+gameVersion=1145896965
+mapName=game/wolf/c03/c03p1
+mapNiceName=#str_chapter_c03_name
+matName=textures/guis/missionobj/c03p1/mission_c03p1_main_manhattan_obj_02_reachstatebuilding
+missionName=#str_mission_c03p1_main_manhattan_name
+objectiveDesc=#str_mission_c03p1_main_manhattan_obj_02_reachstatebuilding_summary
+objectiveName=#str_mission_c03p1_main_manhattan_obj_02_reachstatebuilding_name

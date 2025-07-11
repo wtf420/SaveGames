@@ -1,0 +1,5 @@
+(s)|{"appid":"658801fb-d143-4dc0-94ed-faadc67bd2ea","userid":"b6de1e891338c024395b2336cb669719","sessionid":72172707550584436,"platform":"WindowsPlayer","platformid":2,"sdk_ver":"u2019.2.9f1","session_count":2,"localprojectid":"35bbecda288ae43138837a737ca90803","build_guid":"e840dcb93d024ca46ae8db1084647a46","deviceid":"f0cca80c7e52064a128bc59bf502138dcb284257"}
+(g)|2
+{"type":"analytics.custom.v1","msg":{"custom_params":{"UserID":"f0cca80c7e52064a128bc59bf502138dcb284257","AttemptGametime":18.29022,"AttemptRealtime":76.29297,"AttemptNumber":6,"AttemptSuccessful":true,"FPSAverage":0.0,"FinishedBefore":false,"LevelName":"CezaryTraitorElevator_P_","Challenge":"","ActionList":"tss2k2k2k2kT4ssk4kaThshshshshkhshk2kTss3kk3kTs4k4Tsskhshk"},"ts":1600260938025,"t_since_start":1212946200,"name":"LevelPlaythrough"}}
+{"type":"analytics.appRunning.v1","msg":{"duration":1422,"local_time_offset":-25200000,"ts":1600261149110,"t_since_start":1424031300}}
+(1){"type":"analytics.appStop.v1","msg":{"ts":1600261149111,"t_since_start":1424032282}}

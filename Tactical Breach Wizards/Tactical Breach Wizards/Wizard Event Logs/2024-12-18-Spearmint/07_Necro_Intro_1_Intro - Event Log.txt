@@ -1,0 +1,100 @@
+07_Necro_Intro_1_Intro
+ 
+Start of player turn 1
+Banks breached - from (-5, -1) to (-5, -2)
+Banks used Death's Door - from (-5, -2) to (1, -2)
+Banks used Sedative Cocktail on Reactor Heavy Gunner Vietzen - from (-5, -2) to (0, -2)
+Reactor Tracker Gibbs is Sedated
+Reactor Tracker Fury is Sedated
+Reactor Heavy Gunner Vietzen stability prevented 1 knockback
+Reactor Heavy Gunner Vietzen is Sedated
+Banks moved - from (-5, -2) to (-4, -1)
+Banks took cover - from (-4, -1) to (-4, -1)
+Jen moved - from (-5, -3) to (-3, -4)
+Jen cast Chain Bolt on Reactor Tracker Gibbs, Reactor Heavy Gunner Vietzen, Reactor Tracker Fury - from (-3, -4) to (-1, -1)
+Reactor Tracker Gibbs took 3 knockback
+Reactor Heavy Gunner Vietzen took 2 knockback
+Reactor Tracker Fury took 5 knockback
+Reactor Heavy Gunner Vietzen fell into Death's Door
+Reactor Heavy Gunner Vietzen took 4 damage
+Reactor Heavy Gunner Vietzen passed out
+Reactor Heavy Gunner Vietzen hit something with 2 knockback left
+Reactor Tracker Fury was defenestrated - from (0, -5) to (0, -5)
+Reactor Tracker Gibbs hit something with 1 knockback left
+Reactor Tracker Gibbs took 1 damage
+Reactor Tracker Fury took 3 damage
+Reactor Tracker Fury passed out
+Jen moved - from (-5, -3) to (-4, -2)
+Jen cast Chain Bolt on Reactor Tracker Gibbs, Reactor Heavy Gunner Vietzen, Reactor Tracker Fury - from (-4, -2) to (-1, -1)
+Reactor Tracker Gibbs took 3 knockback
+Reactor Heavy Gunner Vietzen took 2 knockback
+Reactor Tracker Fury took 5 knockback
+Reactor Heavy Gunner Vietzen fell into Death's Door
+Reactor Heavy Gunner Vietzen took 4 damage
+Reactor Heavy Gunner Vietzen passed out
+Reactor Heavy Gunner Vietzen hit something with 2 knockback left
+Reactor Tracker Fury was defenestrated - from (0, -5) to (0, -5)
+Reactor Sniper Ashfall shot Reactor Tracker Gibbs on overwatch
+Reactor Tracker Gibbs took 4 damage
+Reactor Tracker Gibbs passed out
+Reactor Tracker Fury took 3 damage
+Reactor Tracker Fury passed out
+Jen used Grab Intel - from (-4, -2) to (-3, -2)
+Player ended their turn, starting enemy turn 1
+Reactor Tracker Crisis moved - from (0, 2) to (0, 1)
+End of enemy turn 1
+ 
+Start of player turn 2
+Jen moved - from (-4, -2) to (0, -3)
+Jen moved - from (-4, -2) to (0, -4)
+Jen cast Chain Bolt on Air Canister, Reactor Tracker Crisis - from (0, -4) to (3, -2)
+Air Canister took 2 knockback
+Reactor Tracker Crisis took 4 knockback
+Reactor Tracker Crisis hit something with 4 knockback left
+Reactor Tracker Crisis took 4 damage
+Reactor Tracker Crisis passed out
+Air Canister hit something with 2 knockback left
+Air Canister took 2 damage
+Air Canister exploded
+Explosive Barrel took 3 knockback
+Explosive Barrel hit something with 1 knockback left
+Explosive Barrel took 1 damage
+Explosive Barrel exploded
+Reactor Sniper Ashfall took 4 damage
+Reactor Sniper Ashfall passed out
+Reactor Sniper Ashfall took 1 knockback
+Reactor Sniper Ashfall hit something with 1 knockback left
+Jen cast Chain Bolt on Reactor Tracker Crisis, Air Canister - from (-4, -2) to (0, 1)
+Reactor Tracker Crisis took 2 knockback
+Air Canister took 4 knockback
+Explosive Barrel took 1 knockback
+Reactor Tracker Crisis hit something with 2 knockback left
+Reactor Tracker Crisis took 2 damage
+Air Canister hit something with 4 knockback left
+Air Canister took 4 damage
+Explosive Barrel hit something with 1 knockback left
+Explosive Barrel took 1 damage
+Air Canister exploded
+Explosive Barrel took 3 knockback
+Explosive Barrel exploded
+Reactor Tracker Crisis took 4 damage
+Reactor Tracker Crisis passed out
+Reactor Tracker Crisis took 1 knockback
+Reactor Tracker Crisis hit something with 1 knockback left
+Explosive Barrel hit something with 1 knockback left
+Explosive Barrel took 1 damage
+Explosive Barrel exploded
+Reactor Sniper Ashfall took 4 damage
+Reactor Sniper Ashfall passed out
+Reactor Sniper Ashfall took 1 knockback
+Reactor Sniper Ashfall hit something with 1 knockback left
+Jen moved - from (-4, -2) to (0, -4)
+Banks moved - from (-4, -1) to (0, 0)
+Player ended their turn, starting enemy turn 2
+End of enemy turn 2
+ 
+Start of player turn 3
+Jen moved - from (0, -4) to (2, -4)
+Jen used Use Laptop - from (2, -4) to (3, -4)
+Banks moved - from (0, 0) to (0, 2)
+Banks sealed a hostile entry point - from (0, 2) to (0, 2)

@@ -1,0 +1,701 @@
+15_The_Broadcast_5_The_Armoury
+ 
+Start of player turn 1
+Jen breached - from (0, 25) to (0, 24)
+Jen moved - from (0, 24) to (2, 25)
+Jen used Broom Breach - from (2, 25) to (4, 28)
+Zan breached - from (0, 22) to (0, 21)
+Jen cast Static Blast on Chapel Shepherd Concept - from (4, 28) to (6, 21)
+Chapel Shepherd Concept took 2 knockback
+Chapel Shepherd Concept hit something with 1 knockback left
+Chapel Shepherd Concept took 1 damage
+Zan took a free shot at Chapel Shepherd Concept with Supporting Fire.
+Zan used 3 Bolt Burst on Chapel Shepherd Concept - from (0, 21) to (6, 20)
+Chapel Shepherd Concept armour blocked 1 damage
+Chapel Shepherd Concept took 1 knockback
+Jen moved - from (4, 28) to (6, 28)
+Jen used Use Laptop - from (4, 28) to (4, 29)
+Jen moved - from (4, 28) to (6, 28)
+Jen used Use Laptop - from (6, 28) to (6, 29)
+Dall moved - from (0, 23) to (2, 20)
+Zan moved - from (0, 21) to (2, 25)
+Dall used Throw Riot Block - from (2, 20) to (9, 20)
+Dall used Charge - from (2, 20) to (6, 20)
+Chapel Shepherd Concept armour blocked 1 damage
+Chapel Shepherd Concept took 4 knockback
+Chapel Shepherd Concept hit something with 3 knockback left
+Riot Block added 1 extra impact damage
+Chapel Shepherd Concept took 4 damage
+Chapel Shepherd Concept passed out
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Zan used 3 Bolt Burst on Chapel Riot Priest Darlin - from (2, 25) to (10, 20)
+Chapel Riot Priest Darlin armour blocked 1 damage
+Chapel Riot Priest Darlin stability prevented 1 knockback
+Zan used 3 Bolt Burst on Chapel Riot Priest Darlin - from (2, 25) to (10, 20)
+Chapel Riot Priest Darlin armour blocked 1 damage
+Chapel Riot Priest Darlin stability prevented 1 knockback
+Banks moved - from (0, 20) to (3, 23)
+Banks used Sedative Cocktail - from (3, 23) to (7, 26)
+Chapel Tracker Cherry is Sedated
+Reactor Tracker Monoceros shot Chapel Tracker Cherry - from (9, 22) to (8, 27)
+Chapel Tracker Cherry took 2 damage
+Chapel Riot Priest Darlin slammed Reactor Tracker Monoceros - from (9, 21) to (9, 22)
+Reactor Tracker Monoceros took 3 damage
+Reactor Tracker Monoceros passed out
+Reactor Tracker Monoceros took 1 knockback
+Chapel Tracker Cherry took 1 damage
+Chapel Tracker Cherry passed out
+Player ended their turn, starting enemy turn 1
+Zan shot Chapel Shepherd Gauss on overwatch
+Chapel Shepherd Gauss armour blocked 1 damage
+Chapel Shepherd Gauss took 3 damage
+Chapel Absolver Phase moved - from (8, 29) to (5, 29)
+Chapel Riot Priest Darlin moved - from (9, 21) to (7, 22)
+End of enemy turn 1
+ 
+Start of player turn 2
+Jen cast Static Blast on Chapel Riot Priest Darlin - from (6, 28) to (7, 22)
+Chapel Riot Priest Darlin stability prevented 1 knockback
+Chapel Riot Priest Darlin took 1 knockback
+Chapel Riot Priest Darlin hit something with 1 knockback left
+Chapel Riot Priest Darlin took 1 damage
+Zan took a free shot at Chapel Riot Priest Darlin with Supporting Fire.
+Zan used 3 Bolt Burst on Chapel Riot Priest Darlin - from (2, 25) to (7, 22)
+Chapel Riot Priest Darlin armour blocked 1 damage
+Chapel Riot Priest Darlin stability prevented 1 knockback
+Chapel Shepherd Gauss shot Zan - from (11, 24) to (2, 25)
+Zan took 1 damage
+Zan took 1 knockback
+Jen cast Chain Bolt on Chapel Absolver Phase, Chapel Riot Priest Darlin, Chapel Shepherd Gauss, Chapel Tracker Pharo - from (6, 28) to (5, 29)
+Chapel Absolver Phase took 2 knockback
+Chapel Riot Priest Darlin stability prevented 1 knockback
+Chapel Riot Priest Darlin took 1 knockback
+Chapel Shepherd Gauss took 2 knockback
+Chapel Tracker Pharo took 2 knockback
+Chapel Riot Priest Darlin hit something with 1 knockback left
+Chapel Riot Priest Darlin took 1 damage
+Chapel Absolver Phase hit something with 2 knockback left
+Chapel Absolver Phase took 2 damage
+Chapel Absolver Phase passed out
+Chapel Tracker Pharo is no longer Invincible
+Chapel Tracker Pharo was defenestrated - from (4, 28) to (4, 28)
+Chapel Shepherd Gauss hit something with 1 knockback left
+Chapel Shepherd Gauss took 1 damage
+Chapel Tracker Pharo took 3 damage
+Chapel Tracker Pharo passed out
+Jen moved - from (6, 28) to (8, 28)
+Jen used Use Laptop - from (8, 28) to (9, 28)
+Jen cast Chain Bolt on Chapel Absolver Phase, Chapel Riot Priest Darlin, Chapel Shepherd Gauss, Chapel Tracker Pharo, Chapel Riot Priest Love, Weapons Cache - from (6, 28) to (5, 29)
+Chapel Absolver Phase took 2 knockback
+Chapel Riot Priest Darlin stability prevented 1 knockback
+Chapel Riot Priest Darlin took 1 knockback
+Chapel Shepherd Gauss took 2 knockback
+Chapel Tracker Pharo took 2 knockback
+Chapel Riot Priest Love stability prevented 1 knockback
+Chapel Riot Priest Love took 1 knockback
+Weapons Cache took 2 knockback
+Chapel Riot Priest Darlin hit something with 1 knockback left
+Chapel Riot Priest Darlin took 1 damage
+Chapel Absolver Phase hit something with 2 knockback left
+Chapel Absolver Phase took 2 damage
+Chapel Absolver Phase passed out
+Weapons Cache hit something with 2 knockback left
+Weapons Cache took 2 damage
+Jen gained 1 mana for destroying a Weapons Cache
+Weapons Cache exploded
+Jen took 1 damage
+Jen took 1 knockback
+Chapel Tracker Pharo took 1 knockback
+Jen hit something with 1 knockback left
+Jen took 1 damage
+Chapel Tracker Pharo is no longer Invincible
+Chapel Tracker Pharo was defenestrated - from (4, 27) to (4, 27)
+Chapel Shepherd Gauss hit something with 1 knockback left
+Chapel Shepherd Gauss took 1 damage
+Chapel Tracker Pharo took 3 damage
+Chapel Tracker Pharo passed out
+Jen cast Chain Bolt on Chapel Absolver Phase, Chapel Riot Priest Darlin, Chapel Shepherd Gauss, Chapel Tracker Pharo, Dall, Weapons Cache - from (6, 28) to (5, 29)
+Chapel Absolver Phase took 2 knockback
+Chapel Riot Priest Darlin stability prevented 1 knockback
+Chapel Riot Priest Darlin took 1 knockback
+Chapel Shepherd Gauss took 2 knockback
+Chapel Tracker Pharo took 2 knockback
+Dall stability prevented 1 knockback
+Dall took 1 knockback
+Weapons Cache took 2 knockback
+Dall hit something with 1 knockback left
+Dall took 1 damage
+Dall gained 1 mana from incoming damage
+Chapel Riot Priest Darlin hit something with 1 knockback left
+Chapel Riot Priest Darlin took 1 damage
+Chapel Absolver Phase hit something with 2 knockback left
+Chapel Absolver Phase took 2 damage
+Chapel Absolver Phase passed out
+Weapons Cache hit something with 2 knockback left
+Weapons Cache took 2 damage
+Jen gained 1 mana for destroying a Weapons Cache
+Weapons Cache exploded
+Jen took 1 damage
+Jen took 1 knockback
+Chapel Tracker Pharo took 1 knockback
+Jen hit something with 1 knockback left
+Jen took 1 damage
+Chapel Tracker Pharo is no longer Invincible
+Chapel Tracker Pharo was defenestrated - from (4, 27) to (4, 27)
+Chapel Shepherd Gauss hit something with 1 knockback left
+Chapel Shepherd Gauss took 1 damage
+Chapel Tracker Pharo took 3 damage
+Chapel Tracker Pharo passed out
+Jen moved - from (6, 28) to (8, 28)
+Jen used Use Laptop - from (8, 28) to (9, 28)
+Jen cast Static Blast on Chapel Riot Priest Darlin - from (8, 28) to (7, 22)
+Chapel Riot Priest Darlin stability prevented 1 knockback
+Chapel Riot Priest Darlin took 1 knockback
+Chapel Riot Priest Darlin hit something with 1 knockback left
+Chapel Riot Priest Darlin took 1 damage
+Chapel Riot Priest Darlin is no longer Gasmasked
+Zan took a free shot at Chapel Riot Priest Darlin with Supporting Fire.
+Zan used 3 Bolt Burst on Chapel Riot Priest Darlin - from (2, 25) to (7, 22)
+Chapel Riot Priest Darlin armour blocked 1 damage
+Chapel Riot Priest Darlin stability prevented 1 knockback
+Chapel Shepherd Gauss shot Zan - from (12, 25) to (2, 25)
+Zan took 1 damage
+Zan took 1 knockback
+Jen moved - from (8, 28) to (4, 28)
+Jen used Broom Breach - from (4, 28) to (9, 16)
+Jen cast Chain Bolt on Chapel Absolver Phase, Chapel Riot Priest Darlin, Chapel Riot Priest Love, Riot Block, Chapel Shepherd Gauss, Chapel Tracker Pharo - from (6, 28) to (5, 29)
+Chapel Absolver Phase took 2 knockback
+Chapel Riot Priest Darlin stability prevented 1 knockback
+Chapel Riot Priest Darlin took 1 knockback
+Chapel Riot Priest Love stability prevented 1 knockback
+Chapel Riot Priest Love took 1 knockback
+Riot Block took 2 knockback
+Chapel Shepherd Gauss took 2 knockback
+Chapel Tracker Pharo took 2 knockback
+Chapel Riot Priest Darlin hit something with 1 knockback left
+Chapel Riot Priest Darlin took 1 damage
+Chapel Absolver Phase hit something with 2 knockback left
+Chapel Absolver Phase took 2 damage
+Chapel Absolver Phase passed out
+Chapel Tracker Pharo is no longer Invincible
+Riot Block hit something with 1 knockback left
+Riot Block added 1 extra impact damage
+Riot Block took 2 damage
+Chapel Tracker Pharo was defenestrated - from (4, 28) to (4, 28)
+Chapel Shepherd Gauss hit something with 1 knockback left
+Chapel Shepherd Gauss took 1 damage
+Chapel Tracker Pharo took 3 damage
+Chapel Tracker Pharo passed out
+Jen moved - from (6, 28) to (8, 28)
+Jen used Use Laptop - from (8, 28) to (9, 28)
+Jen cast Chain Bolt on Chapel Absolver Phase, Chapel Riot Priest Darlin, Banks, Chapel Shepherd Gauss, Chapel Tracker Pharo, Chapel Riot Priest Love - from (6, 28) to (5, 29)
+Chapel Absolver Phase took 2 knockback
+Chapel Riot Priest Darlin stability prevented 1 knockback
+Chapel Riot Priest Darlin took 1 knockback
+Banks took 2 knockback
+Chapel Shepherd Gauss took 2 knockback
+Chapel Tracker Pharo took 2 knockback
+Chapel Riot Priest Love stability prevented 1 knockback
+Chapel Riot Priest Love took 1 knockback
+Chapel Riot Priest Darlin hit something with 1 knockback left
+Chapel Riot Priest Darlin took 1 damage
+Chapel Absolver Phase hit something with 2 knockback left
+Chapel Absolver Phase took 2 damage
+Chapel Absolver Phase passed out
+Chapel Tracker Pharo is no longer Invincible
+Chapel Shepherd Gauss hit something with 1 knockback left
+Chapel Shepherd Gauss took 1 damage
+Chapel Tracker Pharo was defenestrated - from (4, 28) to (4, 28)
+Chapel Tracker Pharo took 3 damage
+Chapel Tracker Pharo passed out
+Jen moved - from (6, 28) to (8, 28)
+Jen used Use Laptop - from (8, 28) to (9, 28)
+Jen cast Static Blast on Chapel Riot Priest Darlin - from (8, 28) to (7, 22)
+Chapel Riot Priest Darlin stability prevented 1 knockback
+Chapel Riot Priest Darlin took 1 knockback
+Chapel Riot Priest Darlin hit something with 1 knockback left
+Chapel Riot Priest Darlin took 1 damage
+Chapel Riot Priest Darlin is no longer Gasmasked
+Zan took a free shot at Chapel Riot Priest Darlin with Supporting Fire.
+Zan used 3 Bolt Burst on Chapel Riot Priest Darlin - from (2, 25) to (7, 22)
+Chapel Riot Priest Darlin armour blocked 1 damage
+Chapel Riot Priest Darlin stability prevented 1 knockback
+Chapel Shepherd Gauss shot Zan - from (12, 24) to (2, 25)
+Zan took 1 damage
+Zan took 1 knockback
+Jen moved - from (8, 28) to (4, 28)
+Jen used Broom Breach - from (4, 28) to (9, 16)
+Dall moved - from (6, 20) to (8, 20)
+Dall used Pick Up Riot Block - from (8, 20) to (9, 20)
+Dall used Throw Riot Block - from (8, 20) to (6, 20)
+Dall used Charge - from (8, 20) to (12, 20)
+Banks used Spectral Skull - from (1, 23) to (6, 19)
+Chapel Riot Priest Love armour blocked 1 damage
+Chapel Riot Priest Love took 1 damage
+Gasmasked prevented Chapel Riot Priest Love from gaining Unsteady
+Riot Block armour blocked 1 damage
+Riot Block took 1 damage
+Chapel Shepherd Gauss armour blocked 1 damage
+Chapel Shepherd Gauss took 1 damage
+Chapel Shepherd Gauss passed out
+Zan used 3 Bolt Burst on Chapel Riot Priest Darlin - from (1, 25) to (7, 22)
+Chapel Riot Priest Darlin armour blocked 1 damage
+Chapel Riot Priest Darlin stability prevented 1 knockback
+Banks moved - from (1, 23) to (1, 22)
+Banks used Grab Intel - from (1, 22) to (2, 22)
+Player ended their turn, starting enemy turn 2
+Zan shot Chapel Riot Priest Holgado on overwatch
+Chapel Riot Priest Holgado armour blocked 1 damage
+Chapel Riot Priest Holgado took 3 damage
+Chapel Riot Priest Holgado is no longer Gasmasked
+Chapel Riot Priest Holgado moved - from (11, 25) to (12, 23)
+Chapel Cleanser Cavness moved - from (5, 20) to (6, 21)
+Chapel Cleanser Cavness took cover - from (6, 21) to (6, 21)
+Chapel Riot Priest Darlin moved - from (7, 22) to (9, 21)
+Chapel Riot Priest Love moved - from (5, 20) to (2, 20)
+End of enemy turn 2
+ 
+Start of player turn 3
+Dall moved - from (12, 20) to (14, 23)
+Dall used Censer Slam - from (14, 23) to (14, 24)
+Weapons Cache took 3 damage
+Dall gained 1 mana for destroying a Weapons Cache
+Weapons Cache took 1 knockback
+Weapons Cache hit something with 1 knockback left
+Weapons Cache took 1 damage
+Weapons Cache exploded
+Dall armour blocked 1 damage
+Dall stability prevented 1 knockback
+Dall used Censer Slam - from (14, 23) to (14, 22)
+Weapons Cache took 3 damage
+Dall gained 1 mana for destroying a Weapons Cache
+Weapons Cache took 1 knockback
+Weapons Cache took 1 knockback
+Weapons Cache hit something with 1 knockback left
+Weapons Cache took 1 damage
+Weapons Cache hit something with 1 knockback left
+Weapons Cache took 1 damage
+Dall gained 1 mana for destroying a Weapons Cache
+Weapons Cache exploded
+Dall armour blocked 1 damage
+Dall stability prevented 1 knockback
+Weapons Cache exploded
+Banks moved - from (1, 22) to (4, 25)
+Banks used Sedative Cocktail - from (4, 25) to (2, 19)
+Gasmasked prevented Chapel Riot Priest Love from gaining Sedated
+Gasmasked prevented Chapel Riot Priest Love from gaining Unsteady
+Chapel Shepherd Lafoon shot Banks - from (9, 29) to (4, 25)
+Banks took 1 damage
+Banks took 1 knockback
+Banks hit something with 1 knockback left
+Banks took 1 damage
+Banks used Sedative Cocktail - from (4, 25) to (1, 18)
+Explosive Barrel took 1 knockback
+Explosive Barrel hit something with 1 knockback left
+Explosive Barrel took 1 damage
+Explosive Barrel exploded
+Weapons Cache took 4 damage
+Banks gained 1 mana for destroying a Weapons Cache
+Weapons Cache took 1 knockback
+Weapons Cache took 4 damage
+Banks gained 1 mana for destroying a Weapons Cache
+Weapons Cache took 1 knockback
+Weapons Cache hit something with 1 knockback left
+Weapons Cache took 1 damage
+Weapons Cache exploded
+Weapons Cache exploded
+Jen moved - from (9, 16) to (9, 20)
+Banks used Sedative Cocktail - from (4, 25) to (9, 22)
+Chapel Riot Priest Darlin is Sedated
+Jen cast Static Blast on Chapel Riot Priest Darlin - from (9, 20) to (9, 21)
+Chapel Riot Priest Darlin took 4 knockback
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Zan used 3 Bolt Burst on Chapel Cleanser Cavness - from (1, 25) to (6, 21)
+Chapel Cleanser Cavness took 1 damage
+Chapel Cleanser Cavness took 1 knockback
+Chapel Cleanser Cavness hit something with 1 knockback left
+Chapel Cleanser Cavness took 1 damage
+Jen cast Static Blast on Chapel Riot Priest Darlin - from (9, 20) to (9, 21)
+Chapel Riot Priest Darlin stability prevented 1 knockback
+Chapel Riot Priest Darlin took 3 knockback
+Zan took a free shot at Chapel Riot Priest Darlin with Supporting Fire.
+Zan used 3 Bolt Burst on Chapel Riot Priest Darlin - from (1, 25) to (9, 24)
+Chapel Riot Priest Darlin armour blocked 1 damage
+Chapel Riot Priest Darlin stability prevented 1 knockback
+Banks used Sedative Cocktail - from (4, 25) to (10, 18)
+Banks used Sedative Cocktail - from (4, 25) to (10, 22)
+Chapel Riot Priest Darlin is Sedated
+Jen cast Static Blast on Chapel Riot Priest Darlin - from (9, 20) to (9, 21)
+Chapel Riot Priest Darlin took 4 knockback
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Banks used Death's Door - from (4, 25) to (12, 24)
+Jen cast Static Blast on Chapel Riot Priest Holgado - from (9, 20) to (12, 23)
+Chapel Riot Priest Holgado stability prevented 1 knockback
+Chapel Riot Priest Holgado took 1 knockback
+Chapel Riot Priest Holgado hit something with 1 knockback left
+Chapel Riot Priest Holgado took 1 damage
+Zan took a free shot at Chapel Riot Priest Holgado with Supporting Fire.
+Zan used 3 Bolt Burst on Chapel Riot Priest Holgado - from (1, 25) to (12, 23)
+Chapel Riot Priest Holgado armour blocked 1 damage
+Chapel Riot Priest Holgado stability prevented 1 knockback
+Banks moved - from (1, 22) to (5, 20)
+Banks used Death's Door - from (1, 22) to (11, 24)
+Dall used Charge - from (12, 20) to (12, 22)
+Chapel Riot Priest Holgado armour blocked 1 damage
+Chapel Riot Priest Holgado stability prevented 1 knockback
+Chapel Riot Priest Holgado took 1 knockback
+Chapel Riot Priest Holgado fell into Death's Door
+Chapel Riot Priest Holgado took 5 damage
+Chapel Riot Priest Holgado passed out
+Jen threw a Gale Grenade - from (9, 16) to (10, 18)
+Weapons Cache took 1 knockback
+Weapons Cache took 1 knockback
+Weapons Cache hit something with 1 knockback left
+Weapons Cache took 1 damage
+Jen gained 1 mana for destroying a Weapons Cache
+Weapons Cache hit something with 1 knockback left
+Weapons Cache took 1 damage
+Jen gained 1 mana for destroying a Weapons Cache
+Weapons Cache exploded
+Weapons Cache exploded
+Jen moved - from (9, 16) to (9, 20)
+Jen cast Chain Bolt on Weapons Cache, Weapons Cache, Jen - from (9, 20) to (7, 17)
+Jen cast Chain Bolt on Weapons Cache, Weapons Cache, Jen, Chapel Riot Priest Love, Chapel Riot Priest Darlin - from (9, 20) to (7, 17)
+Weapons Cache took 2 knockback
+Weapons Cache took 2 knockback
+Jen took 2 knockback
+Chapel Riot Priest Love stability prevented 1 knockback
+Chapel Riot Priest Love took 1 knockback
+Chapel Riot Priest Darlin stability prevented 1 knockback
+Chapel Riot Priest Darlin took 1 knockback
+Weapons Cache hit something with 2 knockback left
+Weapons Cache took 2 damage
+Jen gained 1 mana for destroying a Weapons Cache
+Weapons Cache hit something with 2 knockback left
+Weapons Cache took 2 damage
+Jen gained 1 mana for destroying a Weapons Cache
+Weapons Cache exploded
+Weapons Cache exploded
+Chapel Riot Priest Darlin hit something with 1 knockback left
+Chapel Riot Priest Darlin took 1 damage
+Jen hit something with 1 knockback left
+Jen took 1 damage
+Jen cast Static Blast on Chapel Riot Priest Darlin - from (10, 21) to (9, 21)
+Chapel Riot Priest Darlin stability prevented 1 knockback
+Chapel Riot Priest Darlin took 3 knockback
+Chapel Riot Priest Darlin hit something with 3 knockback left
+Chapel Riot Priest Darlin took 3 damage
+Zan took a free shot at Chapel Riot Priest Darlin with Supporting Fire.
+Zan used 3 Bolt Burst on Chapel Riot Priest Darlin - from (1, 25) to (9, 21)
+Chapel Riot Priest Darlin armour blocked 1 damage
+Chapel Riot Priest Darlin stability prevented 1 knockback
+Jen moved - from (10, 21) to (11, 24)
+Zan used 3 Bolt Burst on Chapel Cleanser Cavness - from (1, 25) to (6, 21)
+Chapel Cleanser Cavness took 1 damage
+Chapel Cleanser Cavness took 1 knockback
+Chapel Cleanser Cavness hit something with 1 knockback left
+Chapel Cleanser Cavness took 1 damage
+Zan moved - from (1, 25) to (5, 24)
+Banks moved - from (1, 22) to (4, 25)
+Banks moved - from (1, 22) to (3, 22)
+Banks moved - from (1, 22) to (2, 25)
+Banks used Sedative Cocktail on Chapel Cleanser Cavness - from (2, 25) to (6, 21)
+Chapel Cleanser Cavness took 1 knockback
+Chapel Cleanser Cavness is Sedated
+Chapel Cleanser Cavness hit something with 1 knockback left
+Chapel Cleanser Cavness took 1 damage
+Chapel Cleanser Cavness passed out
+Banks used Death's Door - from (1, 22) to (10, 23)
+Jen cast Chain Bolt on Weapons Cache, Weapons Cache, Jen, Chapel Riot Priest Darlin - from (9, 20) to (7, 17)
+Weapons Cache took 2 knockback
+Weapons Cache took 2 knockback
+Jen took 2 knockback
+Chapel Riot Priest Darlin stability prevented 1 knockback
+Chapel Riot Priest Darlin took 1 knockback
+Weapons Cache hit something with 2 knockback left
+Weapons Cache took 2 damage
+Jen gained 1 mana for destroying a Weapons Cache
+Weapons Cache hit something with 2 knockback left
+Weapons Cache took 2 damage
+Jen gained 1 mana for destroying a Weapons Cache
+Weapons Cache exploded
+Weapons Cache exploded
+Jen hit something with 1 knockback left
+Jen took 1 damage
+Banks used Death's Door - from (1, 22) to (1, 21)
+Jen cast Chain Bolt on Weapons Cache, Weapons Cache, Jen, Chapel Riot Priest Love, Chapel Cleanser Cavness, Chapel Shepherd Lafoon - from (9, 20) to (7, 17)
+Weapons Cache took 2 knockback
+Weapons Cache took 2 knockback
+Jen took 2 knockback
+Chapel Riot Priest Love stability prevented 1 knockback
+Chapel Riot Priest Love took 1 knockback
+Chapel Cleanser Cavness took 2 knockback
+Chapel Shepherd Lafoon took 2 knockback
+Chapel Riot Priest Love fell into Death's Door
+Chapel Riot Priest Love took 7 damage
+Chapel Riot Priest Love is no longer Gasmasked
+Chapel Riot Priest Love passed out
+Chapel Cleanser Cavness hit something with 2 knockback left
+Chapel Cleanser Cavness took 2 damage
+Chapel Shepherd Lafoon hit something with 2 knockback left
+Chapel Shepherd Lafoon took 2 damage
+Weapons Cache hit something with 2 knockback left
+Weapons Cache took 2 damage
+Jen gained 1 mana for destroying a Weapons Cache
+Weapons Cache hit something with 2 knockback left
+Weapons Cache took 2 damage
+Jen gained 1 mana for destroying a Weapons Cache
+Weapons Cache exploded
+Weapons Cache exploded
+Jen hit something with 1 knockback left
+Jen took 1 damage
+Jen cast Static Blast on Chapel Riot Priest Darlin - from (10, 21) to (9, 21)
+Chapel Riot Priest Darlin stability prevented 1 knockback
+Chapel Riot Priest Darlin took 3 knockback
+Chapel Riot Priest Darlin hit something with 3 knockback left
+Chapel Riot Priest Darlin took 3 damage
+Zan took a free shot at Chapel Riot Priest Darlin with Supporting Fire.
+Zan used 3 Bolt Burst on Chapel Riot Priest Darlin - from (1, 25) to (9, 21)
+Chapel Riot Priest Darlin armour blocked 1 damage
+Chapel Riot Priest Darlin stability prevented 1 knockback
+Jen moved - from (10, 21) to (11, 24)
+Zan used 3 Bolt Burst on Chapel Cleanser Cavness - from (1, 25) to (6, 21)
+Chapel Cleanser Cavness took 1 damage
+Chapel Cleanser Cavness passed out
+Chapel Cleanser Cavness took 1 knockback
+Chapel Cleanser Cavness hit something with 1 knockback left
+Zan moved - from (1, 25) to (5, 24)
+Banks used Sedative Cocktail on Chapel Shepherd Lafoon - from (1, 22) to (9, 29)
+Chapel Shepherd Lafoon took 1 knockback
+Chapel Shepherd Lafoon is Sedated
+Chapel Shepherd Lafoon hit something with 1 knockback left
+Chapel Shepherd Lafoon took 1 damage
+Banks moved - from (1, 22) to (5, 21)
+Banks used Sedative Cocktail - from (5, 21) to (1, 19)
+Weapons Cache took 1 knockback
+Weapons Cache hit something with 1 knockback left
+Weapons Cache took 1 damage
+Banks gained 1 mana for destroying a Weapons Cache
+Weapons Cache exploded
+Explosive Barrel took 1 damage
+Explosive Barrel took 1 knockback
+Weapons Cache took 1 knockback
+Explosive Barrel hit something with 1 knockback left
+Explosive Barrel took 1 damage
+Explosive Barrel exploded
+Weapons Cache took 4 damage
+Banks gained 1 mana for destroying a Weapons Cache
+Weapons Cache took 1 knockback
+Weapons Cache hit something with 1 knockback left
+Weapons Cache took 1 damage
+Weapons Cache exploded
+Chapel Riot Priest Darlin slammed Dall - from (12, 21) to (12, 22)
+Dall armour blocked 1 damage
+Dall took 2 damage
+Dall gained 1 mana from incoming damage
+Dall stability prevented 1 knockback
+Banks moved - from (1, 22) to (4, 21)
+Banks used Sedative Cocktail on Chapel Riot Priest Darlin - from (4, 21) to (9, 21)
+Chapel Riot Priest Darlin stability prevented 1 knockback
+Chapel Riot Priest Darlin is Sedated
+Chapel Riot Priest Darlin slammed Dall - from (12, 21) to (12, 22)
+Dall armour blocked 1 damage
+Dall took 2 damage
+Dall gained 1 mana from incoming damage
+Dall stability prevented 1 knockback
+Chapel Riot Priest Darlin took 1 damage
+Player ended their turn, starting enemy turn 3
+Chapel Cleanser Marble moved - from (11, 25) to (10, 24)
+Chapel Cleanser Marble took cover - from (10, 24) to (10, 24)
+Zan shot Chapel Absolver Cetera on overwatch
+Chapel Absolver Cetera took 4 damage
+Chapel Absolver Cetera passed out
+Chapel Cleanser Fury moved - from (8, 29) to (6, 28)
+Chapel Cleanser Fury took cover - from (6, 28) to (6, 28)
+End of enemy turn 3
+ 
+Start of player turn 4
+Jen cast Chain Bolt on Chapel Cleanser Marble, Chapel Riot Priest Darlin, Banks, Zan, Chapel Cleanser Fury, Chapel Shepherd Lafoon - from (11, 24) to (10, 24)
+Chapel Cleanser Marble took 2 knockback
+Chapel Riot Priest Darlin took 2 knockback
+Banks took 2 knockback
+Zan took 2 knockback
+Chapel Cleanser Fury took 2 knockback
+Chapel Shepherd Lafoon took 2 knockback
+Chapel Riot Priest Darlin hit something with 2 knockback left
+Chapel Riot Priest Darlin took 2 damage
+Chapel Riot Priest Darlin passed out
+Chapel Shepherd Lafoon hit something with 2 knockback left
+Chapel Shepherd Lafoon took 2 damage
+Chapel Cleanser Fury hit something with 2 knockback left
+Chapel Cleanser Fury took 2 damage
+Zan hit something with 1 knockback left
+Zan took 1 damage
+Zan used 3 Bolt Burst on Chapel Shepherd Lafoon - from (5, 25) to (9, 29)
+Chapel Shepherd Lafoon armour blocked 1 damage
+Chapel Shepherd Lafoon took 1 knockback
+Chapel Shepherd Lafoon hit something with 1 knockback left
+Chapel Shepherd Lafoon took 1 damage
+Chapel Shepherd Lafoon passed out
+Banks used Resurrect - from (2, 21) to (5, 20)
+Chapel Absolver Cetera is Stunned for 1 turn
+Chapel Absolver Cetera came back Confused: considers everyone hostile, and is Stunned for 1 turn
+Banks moved - from (2, 21) to (6, 22)
+Banks used Resurrect - from (6, 22) to (9, 23)
+Banks used Resurrect - from (6, 22) to (6, 21)
+Chapel Cleanser Cavness is Stunned for 1 turn
+Chapel Cleanser Cavness came back Confused: considers everyone hostile, and is Stunned for 1 turn
+Banks used Sedative Cocktail on Chapel Cleanser Fury - from (6, 22) to (6, 28)
+Chapel Cleanser Fury took 1 knockback
+Chapel Cleanser Fury is Sedated
+Chapel Cleanser Fury hit something with 1 knockback left
+Chapel Cleanser Fury took 1 damage
+Chapel Cleanser Fury passed out
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Dall moved - from (12, 22) to (14, 23)
+Dall used Censer Slam - from (14, 23) to (14, 22)
+Weapons Cache took 3 damage
+Dall gained 1 mana for destroying a Weapons Cache
+Weapons Cache took 1 knockback
+Weapons Cache took 1 knockback
+Weapons Cache hit something with 1 knockback left
+Weapons Cache took 1 damage
+Weapons Cache hit something with 1 knockback left
+Weapons Cache took 1 damage
+Dall gained 1 mana for destroying a Weapons Cache
+Weapons Cache exploded
+Dall armour blocked 1 damage
+Dall stability prevented 1 knockback
+Weapons Cache exploded
+Dall moved - from (12, 22) to (14, 23)
+Dall used Censer Slam - from (14, 23) to (14, 22)
+Weapons Cache took 3 damage
+Dall gained 1 mana for destroying a Weapons Cache
+Weapons Cache took 1 knockback
+Weapons Cache took 1 knockback
+Weapons Cache hit something with 1 knockback left
+Weapons Cache took 1 damage
+Weapons Cache hit something with 1 knockback left
+Weapons Cache took 1 damage
+Dall gained 1 mana for destroying a Weapons Cache
+Weapons Cache exploded
+Dall armour blocked 1 damage
+Dall stability prevented 1 knockback
+Weapons Cache exploded
+Jen cast Chain Bolt on Chapel Cleanser Marble, Chapel Cleanser Fury, Banks, Dall, Weapons Cache - from (11, 24) to (8, 24)
+Chapel Cleanser Marble took 2 knockback
+Chapel Cleanser Fury took 2 knockback
+Banks took 2 knockback
+Dall stability prevented 1 knockback
+Dall took 1 knockback
+Weapons Cache took 2 knockback
+Dall hit something with 1 knockback left
+Dall took 1 damage
+Dall gained 1 mana from incoming damage
+Chapel Cleanser Fury hit something with 2 knockback left
+Chapel Cleanser Fury took 2 damage
+Chapel Cleanser Fury passed out
+Weapons Cache hit something with 2 knockback left
+Weapons Cache took 2 damage
+Jen gained 1 mana for destroying a Weapons Cache
+Weapons Cache exploded
+Dall armour blocked 1 damage
+Dall stability prevented 1 knockback
+Banks used Sedative Cocktail - from (6, 20) to (7, 23)
+Chapel Cleanser Marble is Sedated
+Chapel Cleanser Marble took 1 damage
+Player ended their turn, starting enemy turn 4
+Zan shot Chapel Tracker Kuranto on overwatch
+Chapel Tracker Kuranto took 4 damage
+Chapel Tracker Kuranto passed out
+Chapel Cleanser Marble moved - from (6, 24) to (5, 24)
+Chapel Cleanser Marble took cover - from (5, 24) to (5, 24)
+End of enemy turn 4
+ 
+Start of player turn 5
+Banks used Resurrect - from (6, 20) to (8, 20)
+Chapel Shepherd Concept is Stunned for 1 turn
+Chapel Shepherd Concept came back Confused: considers everyone hostile, and is Stunned for 1 turn
+Banks used Transference on Chapel Shepherd Necessity - from (6, 20) to (5, 21)
+Jen cast Chain Bolt on Chapel Shepherd Necessity, Chapel Tracker Asante, Chapel Cleanser Marble - from (11, 24) to (5, 21)
+Chapel Shepherd Necessity took 2 knockback
+Chapel Tracker Asante took 2 knockback
+Chapel Cleanser Marble took 3 knockback
+Weapons Cache took 1 knockback
+Chapel Tracker Asante hit something with 2 knockback left
+Chapel Tracker Asante took 2 damage
+Chapel Cleanser Marble hit something with 3 knockback left
+Chapel Cleanser Marble took 3 damage
+Chapel Cleanser Marble passed out
+Weapons Cache hit something with 1 knockback left
+Weapons Cache took 1 damage
+Jen gained 1 mana for destroying a Weapons Cache
+Weapons Cache exploded
+Chapel Tracker Asante took 1 damage
+Chapel Tracker Asante passed out
+Chapel Tracker Asante took 1 knockback
+Chapel Shepherd Necessity hit something with 1 knockback left
+Chapel Shepherd Necessity took 1 damage
+Chapel Shepherd Necessity shot Jen - from (4, 20) to (11, 24)
+Jen took 1 damage
+Jen took 1 knockback
+Jen moved - from (12, 25) to (8, 23)
+Banks moved - from (6, 20) to (9, 23)
+Dall moved - from (14, 23) to (11, 20)
+Dall used Charge - from (11, 20) to (5, 20)
+Chapel Shepherd Necessity armour blocked 1 damage
+Chapel Shepherd Necessity took 6 knockback
+Chapel Shepherd Necessity hit something with 3 knockback left
+Chapel Shepherd Necessity took 3 damage
+Zan took a free shot at Chapel Shepherd Necessity with Supporting Fire.
+Zan used 3 Bolt Burst on Chapel Shepherd Necessity - from (5, 25) to (1, 20)
+Chapel Shepherd Necessity armour blocked 1 damage
+Chapel Shepherd Necessity took 1 knockback
+Chapel Shepherd Necessity hit something with 1 knockback left
+Chapel Shepherd Necessity took 1 damage
+Chapel Shepherd Necessity passed out
+Zan used 3 Bolt Burst - from (5, 25) to (1, 18)
+Explosive Barrel took 1 damage
+Explosive Barrel took 1 knockback
+Explosive Barrel hit something with 1 knockback left
+Explosive Barrel took 1 damage
+Explosive Barrel exploded
+Weapons Cache took 4 damage
+Zan gained 1 mana for destroying a Weapons Cache
+Weapons Cache took 1 knockback
+Weapons Cache took 4 damage
+Zan gained 1 mana for destroying a Weapons Cache
+Weapons Cache took 1 knockback
+Weapons Cache hit something with 1 knockback left
+Weapons Cache took 1 damage
+Weapons Cache exploded
+Weapons Cache exploded
+Zan used 3 Bolt Burst - from (5, 25) to (1, 18)
+Explosive Barrel took 1 damage
+Explosive Barrel took 1 knockback
+Explosive Barrel hit something with 1 knockback left
+Explosive Barrel took 1 damage
+Explosive Barrel exploded
+Weapons Cache took 4 damage
+Zan gained 1 mana for destroying a Weapons Cache
+Weapons Cache took 1 knockback
+Weapons Cache took 4 damage
+Zan gained 1 mana for destroying a Weapons Cache
+Weapons Cache took 1 knockback
+Weapons Cache hit something with 1 knockback left
+Weapons Cache took 1 damage
+Weapons Cache exploded
+Weapons Cache exploded
+Banks used Sedative Cocktail on Chapel Shepherd Necessity - from (9, 23) to (4, 20)
+Chapel Shepherd Necessity took 1 knockback
+Chapel Shepherd Necessity is Sedated
+Chapel Shepherd Necessity hit something with 1 knockback left
+Chapel Shepherd Necessity took 1 damage
+Zan took a free shot at Chapel Shepherd Necessity with Supporting Fire.
+Zan used 3 Bolt Burst on Chapel Shepherd Necessity - from (5, 25) to (4, 20)
+Chapel Shepherd Necessity armour blocked 1 damage
+Chapel Shepherd Necessity took 2 knockback
+Chapel Shepherd Necessity hit something with 2 knockback left
+Chapel Shepherd Necessity took 2 damage
+Chapel Shepherd Necessity took 1 damage
+Chapel Shepherd Necessity passed out

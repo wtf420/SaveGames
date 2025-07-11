@@ -1,0 +1,75 @@
+07_Necro_Intro_2_Lead_Medicine
+ 
+Start of player turn 1
+Jen breached - from (4, 1) to (4, 0)
+Jen moved - from (4, 0) to (6, 0)
+Jen took 12 damage
+Jen passed out
+Banks moved - from (4, -1) to (6, 1)
+Banks used Resurrect - from (6, 1) to (5, 0)
+Banks used Sedative Cocktail on Reactor Tracker Esteban - from (6, 1) to (8, 3)
+Reactor Tracker Esteban took 1 knockback
+Reactor Tracker Esteban is Sedated
+Reactor Tracker Esteban was defenestrated - from (8, 3) to (8, 3)
+Reactor Tracker Esteban took 3 damage
+Reactor Tracker Esteban passed out
+Jen breached - from (4, 1) to (4, 0)
+Jen repositioned - from (4, 1) to (4, -1)
+Jen repositioned - from (4, -1) to (4, -1)
+Banks breached - from (4, 1) to (4, 0)
+Banks used Sedative Cocktail on Reactor Tracker Esteban - from (4, 0) to (8, 3)
+Reactor Tracker Esteban took 1 knockback
+Reactor Tracker Esteban is Sedated
+Reactor Tracker Esteban was defenestrated - from (8, 3) to (8, 3)
+Reactor Tracker Esteban took 3 damage
+Reactor Tracker Esteban passed out
+Jen moved - from (4, -1) to (8, -1)
+Jen took 12 damage
+Jen passed out
+Banks repositioned - from (4, -1) to (4, 1)
+Banks breached - from (4, 1) to (4, 0)
+Jen repositioned - from (4, -1) to (4, 1)
+Jen breached - from (4, 1) to (4, 0)
+Jen cast Static Blast on Reactor Tracker Esteban - from (4, 0) to (8, 3)
+Reactor Tracker Esteban took 2 knockback
+Reactor Tracker Esteban was defenestrated - from (8, 3) to (8, 3)
+Reactor Tracker Esteban took 3 damage
+Reactor Tracker Esteban passed out
+Jen moved - from (4, 0) to (8, -1)
+Jen took 12 damage
+Jen passed out
+Banks moved - from (4, -1) to (5, 3)
+Banks used Resurrect - from (5, 3) to (5, 0)
+Banks used Grab Intel - from (5, 3) to (6, 3)
+Banks took cover - from (5, 3) to (5, 3)
+Jen threw a Gale Grenade - from (5, 0) to (9, -1)
+Reactor Neutraliser Whiteblood took 1 knockback
+Banks stood up - from (5, 3) to (5, 3)
+Banks used Sedative Cocktail - from (5, 3) to (9, 2)
+Reactor Neutraliser Whiteblood is Sedated
+Banks took cover - from (5, 3) to (5, 3)
+Reactor Neutraliser Whiteblood took 1 damage
+Player ended their turn, starting enemy turn 1
+Reactor Neutraliser Whiteblood moved - from (9, 1) to (9, 2)
+End of enemy turn 1
+ 
+Start of player turn 2
+Banks used Sedative Cocktail on Reactor Tracker Cassini - from (5, 3) to (8, 2)
+Reactor Tracker Cassini took 1 knockback
+Reactor Tracker Cassini is Sedated
+Reactor Neutraliser Whiteblood is Sedated
+Reactor Neutraliser Whiteblood took 3 knockback
+Reactor Tracker Cassini hit something with 1 knockback left
+Reactor Tracker Cassini took 1 damage
+Reactor Neutraliser Whiteblood hit something with 3 knockback left
+Reactor Neutraliser Whiteblood took 3 damage
+Reactor Neutraliser Whiteblood passed out
+Jen cast Static Blast on Reactor Tracker Cassini - from (5, 0) to (8, 2)
+Reactor Tracker Cassini took 3 knockback
+Reactor Tracker Cassini was defenestrated - from (9, 3) to (9, 3)
+Reactor Tracker Cassini took 2 damage
+Reactor Tracker Cassini passed out
+Jen moved - from (5, 0) to (9, -1)
+Jen used Use Laptop - from (9, -1) to (9, -2)
+Banks moved - from (5, 3) to (9, 2)
+Banks sealed a hostile entry point - from (9, 2) to (9, 2)

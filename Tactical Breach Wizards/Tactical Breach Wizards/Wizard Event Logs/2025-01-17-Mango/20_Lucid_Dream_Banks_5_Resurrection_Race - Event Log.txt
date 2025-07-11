@@ -1,0 +1,202 @@
+20_Lucid_Dream_Banks_5_Resurrection_Race
+ 
+Start of player turn 1
+Reactor Medic Craze took cover - from (36, 1) to (36, 1)
+Banks breached - from (25, 4) to (25, 3)
+Banks moved - from (25, 3) to (30, 3)
+Banks used Resurrect - from (30, 3) to (33, 4)
+Reactor Heavy Gunner Weblace is Stunned for 1 turn
+Reactor Heavy Gunner Weblace came back Confused: considers everyone hostile, and is Stunned for 1 turn
+Banks used Resurrect - from (30, 3) to (31, 3)
+Banks used Sedative Cocktail on Reactor Tracker Parabola - from (30, 3) to (35, 7)
+Reactor Tracker Parabola took 1 knockback
+Reactor Tracker Parabola is Sedated
+Reactor Tracker Parabola was defenestrated - from (35, 7) to (35, 7)
+Reactor Tracker Parabola took 3 damage
+Reactor Tracker Parabola passed out
+Banks moved - from (31, 3) to (33, 0)
+Banks took cover - from (33, 0) to (33, 0)
+Banks moved - from (25, 2) to (26, 5)
+Banks breached - from (25, 4) to (25, 3)
+Banks moved - from (25, 3) to (28, 6)
+Banks used Sedative Cocktail on Reactor Tracker Parabola - from (28, 6) to (35, 7)
+Reactor Tracker Parabola took 1 knockback
+Reactor Tracker Parabola is Sedated
+Reactor Tracker Parabola was defenestrated - from (35, 7) to (35, 7)
+Reactor Tracker Parabola took 3 damage
+Reactor Tracker Parabola passed out
+Banks used Resurrect - from (28, 6) to (30, 7)
+Reactor Heavy Gunner Cassini is Stunned for 1 turn
+Reactor Heavy Gunner Cassini came back Confused: considers everyone hostile, and is Stunned for 1 turn
+Banks moved - from (25, 2) to (30, 3)
+Banks used Resurrect - from (30, 3) to (33, 4)
+Reactor Heavy Gunner Weblace is Stunned for 1 turn
+Reactor Heavy Gunner Weblace came back Confused: considers everyone hostile, and is Stunned for 1 turn
+Banks used Resurrect - from (30, 3) to (31, 3)
+Banks used Death's Door on Reactor Tracker Ancona - from (30, 3) to (30, -1)
+Banks used Death's Door on Reactor Tracker Ancona - from (31, 3) to (30, -1)
+Banks used Sedative Cocktail on Reactor Tracker Ancona - from (31, 3) to (30, -1)
+Reactor Tracker Ancona took 1 knockback
+Reactor Tracker Ancona is Sedated
+Reactor Tracker Ancona fell into Death's Door
+Reactor Tracker Ancona took 3 damage
+Reactor Tracker Ancona passed out
+Reactor Tracker Ancona hit something with 1 knockback left
+Banks used Resurrect - from (31, 3) to (33, 1)
+Reactor Tracker Ajavon is Stunned for 1 turn
+Reactor Tracker Ajavon came back Confused: considers everyone hostile, and is Stunned for 1 turn
+Banks moved - from (31, 3) to (30, 0)
+Banks used Sedative Cocktail - from (30, 3) to (36, 0)
+Reactor Medic Craze is Sedated
+Reactor Medic Craze healed Reactor Heavy Gunner Bader - from (36, 0) to (36, -1)
+Reactor Medic Gyasi healed Reactor Tracker Wakefield - from (36, 5) to (36, 6)
+Reactor Medic Craze took 1 damage
+Player ended their turn, starting enemy turn 1
+Reactor Heavy Gunner Bader moved - from (36, -1) to (33, -1)
+Reactor Heavy Gunner Bader launched a grenade - from (33, -1) to (29, 4)
+Reactor Medic Craze moved - from (36, 0) to (33, 0)
+Reactor Medic Craze took cover - from (33, 0) to (33, 0)
+Reactor Medic Gyasi moved - from (36, 5) to (33, 6)
+Reactor Medic Gyasi took cover - from (33, 6) to (33, 6)
+Reactor Tracker Ajavon is no longer Stunned
+Reactor Heavy Gunner Cassini is no longer Stunned
+Reactor Heavy Gunner Weblace is no longer Stunned
+End of enemy turn 1
+ 
+Start of player turn 2
+Banks used Sedative Cocktail on Reactor Medic Craze - from (30, 3) to (33, 0)
+Reactor Heavy Gunner Bader is Sedated
+Reactor Medic Craze took 2 knockback
+Reactor Medic Craze is Sedated
+Reactor Tracker Ajavon is Sedated
+Reactor Medic Craze hit something with 1 knockback left
+Reactor Medic Craze took 1 damage
+Banks took cover - from (30, 0) to (30, 0)
+Banks moved - from (30, 3) to (28, 2)
+Banks used Sedative Cocktail on Reactor Medic Gyasi - from (28, 6) to (33, 6)
+Reactor Medic Gyasi took 1 knockback
+Reactor Medic Gyasi is Sedated
+Banks moved - from (28, 6) to (28, 4)
+Banks stood up - from (30, 0) to (30, 0)
+Banks moved - from (30, 0) to (27, 2)
+Banks moved - from (30, 0) to (27, 1)
+Banks used Grab Intel - from (27, 1) to (26, 1)
+Reactor Tracker Ajavon shot Reactor Heavy Gunner Bader - from (33, 1) to (33, -1)
+Reactor Heavy Gunner Bader armour blocked 1 damage
+Reactor Heavy Gunner Bader took 1 damage
+Reactor Heavy Gunner Cassini used Saturating Fire on Reactor Tracker Wakefield - from (30, 7) to (36, 6)
+Reactor Tracker Wakefield took 4 damage
+Reactor Tracker Wakefield passed out
+Reactor Heavy Gunner Weblace used Saturating Fire on Reactor Tracker Ajavon - from (33, 4) to (33, 1)
+Reactor Tracker Ajavon took 4 damage
+Reactor Tracker Ajavon passed out
+Reactor Heavy Gunner Bader took 1 damage
+Reactor Heavy Gunner Bader passed out
+Reactor Medic Craze took 2 damage
+Reactor Medic Gyasi took 1 damage
+Player ended their turn, starting enemy turn 2
+Reactor Heavy Gunner Cassini moved - from (30, 7) to (32, 5)
+Reactor Heavy Gunner Cassini launched a grenade - from (32, 5) to (27, 2)
+Reactor Heavy Gunner Weblace moved - from (33, 4) to (32, 4)
+Reactor Heavy Gunner Weblace launched a grenade - from (32, 4) to (27, 3)
+Reactor Medic Craze moved - from (34, -1) to (36, 1)
+Reactor Medic Craze took cover - from (36, 1) to (36, 1)
+Reactor Medic Gyasi moved - from (34, 6) to (32, 7)
+Reactor Medic Gyasi took cover - from (32, 7) to (32, 7)
+End of enemy turn 2
+ 
+Start of player turn 3
+Banks moved - from (27, 1) to (31, -1)
+Banks used Sedative Cocktail on Reactor Heavy Gunner Weblace - from (31, -1) to (32, 4)
+Reactor Heavy Gunner Weblace stability prevented 1 knockback
+Reactor Heavy Gunner Weblace is Sedated
+Reactor Heavy Gunner Cassini is Sedated
+Banks used Sedative Cocktail on Reactor Medic Gyasi - from (31, -1) to (32, 7)
+Reactor Medic Gyasi took 2 knockback
+Reactor Medic Gyasi is Sedated
+Reactor Medic Gyasi hit something with 2 knockback left
+Reactor Medic Gyasi took 2 damage
+Banks used Resurrect - from (31, -1) to (33, -1)
+Reactor Heavy Gunner Bader is Stunned for 1 turn
+Reactor Heavy Gunner Bader came back Confused: considers everyone hostile, and is Stunned for 1 turn
+Banks used Resurrect - from (31, -1) to (33, 1)
+Reactor Tracker Ajavon is Stunned for 1 turn
+Reactor Tracker Ajavon came back Confused: considers everyone hostile, and is Stunned for 1 turn
+Banks took cover - from (31, -1) to (31, -1)
+Banks moved - from (28, 4) to (27, 5)
+Banks used Sedative Cocktail on Reactor Medic Gyasi - from (27, 5) to (32, 7)
+Reactor Medic Gyasi took 3 knockback
+Reactor Medic Gyasi is Sedated
+Banks moved - from (28, 2) to (28, 0)
+Banks used Sedative Cocktail on Reactor Tracker Ajavon - from (28, 0) to (33, 1)
+Reactor Tracker Ajavon took 2 knockback
+Reactor Tracker Ajavon is Sedated
+Air Canister took 1 knockback
+Reactor Tracker Ajavon hit something with 2 knockback left
+Reactor Tracker Ajavon took 2 damage
+Air Canister hit something with 1 knockback left
+Air Canister took 1 damage
+Air Canister exploded
+Reactor Tracker Ajavon took 5 knockback
+Reactor Tracker Ajavon hit something with 1 knockback left
+Reactor Tracker Ajavon took 1 damage
+Reactor Tracker Ajavon passed out
+Banks used Sedative Cocktail - from (28, 0) to (36, 0)
+Reactor Medic Craze is Sedated
+Reactor Heavy Gunner Cassini used Saturating Fire on Reactor Medic Gyasi - from (32, 5) to (35, 7)
+Reactor Medic Gyasi took 4 damage
+Reactor Medic Gyasi passed out
+Reactor Heavy Gunner Weblace used Saturating Fire on Reactor Tracker Ajavon - from (32, 4) to (33, 1)
+Reactor Tracker Ajavon took 4 damage
+Reactor Tracker Ajavon passed out
+Reactor Medic Craze healed Reactor Heavy Gunner Bader - from (34, 0) to (33, -1)
+Reactor Medic Craze took 3 damage
+Reactor Medic Craze passed out
+Banks used Sedative Cocktail on Reactor Medic Craze - from (28, 0) to (36, 1)
+Reactor Medic Craze took 3 knockback
+Reactor Medic Craze is Sedated
+Reactor Medic Craze hit something with 2 knockback left
+Reactor Medic Craze took 2 damage
+Reactor Medic Craze passed out
+Reactor Heavy Gunner Cassini used Saturating Fire on Reactor Medic Gyasi - from (32, 5) to (35, 7)
+Reactor Medic Gyasi took 4 damage
+Reactor Medic Gyasi passed out
+Reactor Heavy Gunner Weblace used Saturating Fire on Reactor Tracker Ajavon - from (32, 4) to (33, 1)
+Reactor Tracker Ajavon took 4 damage
+Reactor Tracker Ajavon passed out
+Player ended their turn, starting enemy turn 3
+Reactor Heavy Gunner Cassini launched a grenade - from (32, 5) to (31, 5)
+Reactor Heavy Gunner Cassini moved - from (32, 5) to (33, 4)
+Reactor Heavy Gunner Weblace moved - from (32, 4) to (33, 3)
+Reactor Heavy Gunner Weblace launched a grenade - from (33, 3) to (34, 3)
+End of enemy turn 3
+ 
+Start of player turn 4
+Banks used Death's Door - from (28, 0) to (34, 3)
+Banks moved - from (28, 0) to (26, 3)
+Banks used Sedative Cocktail on Reactor Heavy Gunner Weblace - from (26, 3) to (33, 3)
+Reactor Heavy Gunner Weblace stability prevented 1 knockback
+Reactor Heavy Gunner Weblace is Sedated
+Reactor Heavy Gunner Cassini is Sedated
+Banks moved - from (27, 5) to (27, 3)
+Banks used Sedative Cocktail on Reactor Heavy Gunner Weblace - from (27, 3) to (33, 3)
+Reactor Heavy Gunner Weblace took 1 knockback
+Reactor Heavy Gunner Weblace is Sedated
+Reactor Heavy Gunner Cassini is Sedated
+Banks used Death's Door - from (27, 3) to (34, 4)
+Banks used Transference on Reactor Heavy Gunner Cassini - from (27, 3) to (33, 4)
+Banks used Sedative Cocktail on Reactor Heavy Gunner Weblace - from (31, -1) to (34, 3)
+Reactor Heavy Gunner Cassini is Sedated
+Reactor Heavy Gunner Weblace took 2 knockback
+Reactor Heavy Gunner Weblace is Sedated
+Reactor Heavy Gunner Weblace fell into Death's Door
+Reactor Heavy Gunner Weblace took 4 damage
+Reactor Heavy Gunner Weblace passed out
+Reactor Heavy Gunner Weblace hit something with 2 knockback left
+Banks took cover - from (31, -1) to (31, -1)
+Reactor Heavy Gunner Cassini armour blocked 1 damage
+Reactor Heavy Gunner Cassini took 1 damage
+Reactor Heavy Gunner Cassini took 3 knockback
+Reactor Heavy Gunner Cassini hit something with 3 knockback left
+Reactor Heavy Gunner Cassini took 3 damage
+Reactor Heavy Gunner Cassini passed out

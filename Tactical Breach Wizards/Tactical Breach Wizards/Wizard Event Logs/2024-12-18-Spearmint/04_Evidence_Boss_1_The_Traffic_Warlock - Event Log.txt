@@ -1,0 +1,112 @@
+04_Evidence_Boss_1_The_Traffic_Warlock
+ 
+Start of player turn 1
+Jen breached - from (1, -6) to (2, -6)
+Jen moved - from (2, -6) to (5, -4)
+Jen cast Static Blast on Traffic Warlock - from (5, -4) to (2, 3)
+Traffic Warlock took 2 knockback
+Traffic Warlock hit something with 1 knockback left
+Traffic Warlock took 1 damage
+Zan moved - from (3, -6) to (3, -2)
+Zan used 3 Bolt Burst on Traffic Warlock - from (3, -2) to (1, 4)
+Traffic Warlock armour blocked 1 damage
+Traffic Warlock took 1 knockback
+Zan used Time Boost on Jen - from (3, -2) to (5, -4)
+Jen cast Static Blast on Traffic Warlock - from (5, -4) to (1, 5)
+Traffic Warlock took 2 knockback
+Traffic Warlock hit something with 2 knockback left
+Traffic Warlock took 2 damage
+Jen took cover - from (5, -4) to (5, -4)
+Zan took cover - from (3, -2) to (3, -2)
+Traffic Warlock used Crush Hour - from (1, 5) to (1, 4)
+Player ended their turn, starting enemy turn 1
+Traffic Warlock moved - from (1, 5) to (4, 5)
+End of enemy turn 1
+ 
+Start of player turn 2
+Zan used 3 Bolt Burst on RPD Tracker Cadiz - from (3, -2) to (5, -1)
+RPD Tracker Cadiz took 1 damage
+RPD Tracker Cadiz took 1 knockback
+RPD Tracker Cadiz hit something with 1 knockback left
+RPD Tracker Cadiz took 1 damage
+RPD Tracker Cadiz passed out
+Zan used 3 Bolt Burst on RPD Tracker Fluker - from (3, -2) to (-1, -2)
+RPD Tracker Fluker took 1 damage
+RPD Tracker Fluker took 1 knockback
+RPD Tracker Fluker hit something with 1 knockback left
+RPD Tracker Fluker took 1 damage
+RPD Tracker Fluker passed out
+Zan moved - from (3, -2) to (1, 2)
+Zan moved - from (3, -2) to (-1, -2)
+Jen moved - from (5, -4) to (2, -4)
+Jen cast Static Blast on RPD Tracker Cadiz - from (2, -4) to (5, -1)
+RPD Tracker Cadiz took 2 knockback
+RPD Tracker Cadiz hit something with 2 knockback left
+RPD Tracker Cadiz took 2 damage
+RPD Tracker Cadiz passed out
+Jen used Grab Intel - from (2, -4) to (3, -4)
+Traffic Warlock used Crush Hour - from (4, 5) to (4, 4)
+Player ended their turn, starting enemy turn 2
+Zan shot RPD Tracker Nightly on overwatch
+RPD Tracker Nightly took 4 damage
+RPD Tracker Nightly passed out
+Traffic Warlock moved - from (4, 5) to (2, 5)
+End of enemy turn 2
+ 
+Start of player turn 3
+Zan used 3 Bolt Burst on RPD Tracker Barmash - from (-1, -2) to (5, -1)
+RPD Tracker Barmash took 1 damage
+RPD Tracker Barmash took 1 knockback
+RPD Tracker Barmash hit something with 1 knockback left
+RPD Tracker Barmash took 1 damage
+RPD Tracker Barmash passed out
+Jen cast Static Blast on Traffic Warlock - from (2, -4) to (2, 5)
+Traffic Warlock took 2 knockback
+Traffic Warlock hit something with 2 knockback left
+Traffic Warlock took 2 damage
+Jen threw a Gale Grenade - from (2, -4) to (2, 4)
+Traffic Warlock took 1 knockback
+Traffic Warlock hit something with 1 knockback left
+Traffic Warlock took 1 damage
+Traffic Warlock passed out
+Jen moved - from (2, -4) to (5, -2)
+Player ended their turn, starting enemy turn 3
+RPD Enforcer Concept moved - from (2, 5) to (4, 3)
+Zan shot RPD Tracker La'Dontae on overwatch
+RPD Tracker La'Dontae took 4 damage
+RPD Tracker La'Dontae passed out
+End of enemy turn 3
+ 
+Start of player turn 4
+Jen cast Chain Bolt on RPD Tracker Stone, RPD Enforcer Concept - from (5, -2) to (5, 1)
+RPD Tracker Stone took 2 knockback
+RPD Enforcer Concept took 4 knockback
+RPD Enforcer Concept hit something with 4 knockback left
+RPD Enforcer Concept took 4 damage
+RPD Enforcer Concept passed out
+Jen moved - from (5, -2) to (5, 0)
+Jen sealed a hostile entry point - from (5, 0) to (5, 0)
+Jen used Grab Intel - from (5, 0) to (4, 0)
+Zan used 3 Bolt Burst on RPD Tracker Stone - from (-1, -2) to (5, 3)
+RPD Tracker Stone took 1 damage
+RPD Tracker Stone took 1 knockback
+RPD Tracker Stone was defenestrated - from (5, 3) to (5, 3)
+RPD Tracker Stone took 1 damage
+RPD Tracker Stone passed out
+Zan moved - from (-1, -2) to (-1, -1)
+Zan sealed a hostile entry point - from (-1, -1) to (-1, -1)
+Player ended their turn, starting enemy turn 4
+End of enemy turn 4
+ 
+Start of player turn 5
+Zan moved - from (-1, -1) to (-1, -4)
+Zan used Grab Intel - from (-1, -4) to (0, -4)
+Jen moved - from (5, 0) to (5, 5)
+Player ended their turn, starting enemy turn 5
+End of enemy turn 5
+ 
+Start of player turn 6
+Jen moved - from (5, 5) to (2, 5)
+Jen sealed a hostile entry point - from (2, 5) to (2, 5)
+Zan moved - from (-1, -4) to (-1, 2)
+Zan used Grab Intel - from (-1, 2) to (0, 2)

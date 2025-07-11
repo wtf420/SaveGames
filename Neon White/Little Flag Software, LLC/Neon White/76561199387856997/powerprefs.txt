@@ -1,0 +1,9 @@
+{
+  "versionDontChange": 2,
+  "seedForLevelRushLevelOrder_NegativeValuesMeansRandomizeSeed": -1,
+  "fpsCounter": false,
+  "totalTimeCounter": false,
+  "dontSwitchCardsOnPickup": false,
+  "autoFastForwardDialogue": false,
+  "dontUploadToLeaderboard": false
+}

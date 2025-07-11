@@ -1,0 +1,1945 @@
+Initialize engine version: 2017.4.40f1 (6e14067f8a9a)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1650 Ti (ID=0x1f95)
+    Vendor:   NVIDIA
+    VRAM:     3962 MB
+    Driver:   31.0.15.1694
+Begin MonoManager ReloadAssembly
+- Completed reload, in  1.921 seconds
+OnLevelWasLoaded was found on Sky
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 375)
+
+WARNING: Shader Unsupported: 'Marmoset/Transparent/Cutout/Specular IBL' - Pass 'FORWARD' has no vertex shader
+WARNING: Shader Unsupported: 'Marmoset/Transparent/Cutout/Specular IBL' - Pass 'FORWARD' has no vertex shader
+WARNING: Shader Unsupported: 'Marmoset/Transparent/Cutout/Specular IBL' - Pass 'PREPASS' has no vertex shader
+WARNING: Shader Unsupported: 'Marmoset/Transparent/Cutout/Specular IBL' - Pass 'PREPASS' has no vertex shader
+WARNING: Shader Unsupported: 'Marmoset/Transparent/Cutout/Specular IBL' - Pass 'DEFERRED' has no vertex shader
+WARNING: Shader Unsupported: 'Marmoset/Transparent/Cutout/Specular IBL' - Pass 'META' has no vertex shader
+WARNING: Shader Unsupported: 'Marmoset/Transparent/Cutout/Specular IBL' - All passes removed
+WARNING: Shader Unsupported: 'Marmoset/Transparent/Cutout/Diffuse IBL' - Pass 'FORWARD' has no vertex shader
+WARNING: Shader Unsupported: 'Marmoset/Transparent/Cutout/Diffuse IBL' - Pass 'FORWARD' has no vertex shader
+WARNING: Shader Unsupported: 'Marmoset/Transparent/Cutout/Diffuse IBL' - Pass 'PREPASS' has no vertex shader
+WARNING: Shader Unsupported: 'Marmoset/Transparent/Cutout/Diffuse IBL' - Pass 'PREPASS' has no vertex shader
+WARNING: Shader Unsupported: 'Marmoset/Transparent/Cutout/Diffuse IBL' - Pass 'DEFERRED' has no vertex shader
+WARNING: Shader Unsupported: 'Marmoset/Transparent/Cutout/Diffuse IBL' - Pass 'META' has no vertex shader
+WARNING: Shader Unsupported: 'Marmoset/Transparent/Cutout/Diffuse IBL' - All passes removed
+WARNING: Shader Unsupported: 'Marmoset/Transparent/Cutout/Bumped Diffuse IBL' - Pass 'FORWARD' has no vertex shader
+WARNING: Shader Unsupported: 'Marmoset/Transparent/Cutout/Bumped Diffuse IBL' - Pass 'FORWARD' has no vertex shader
+WARNING: Shader Unsupported: 'Marmoset/Transparent/Cutout/Bumped Diffuse IBL' - Pass 'PREPASS' has no vertex shader
+WARNING: Shader Unsupported: 'Marmoset/Transparent/Cutout/Bumped Diffuse IBL' - Pass 'PREPASS' has no vertex shader
+WARNING: Shader Unsupported: 'Marmoset/Transparent/Cutout/Bumped Diffuse IBL' - Pass 'DEFERRED' has no vertex shader
+WARNING: Shader Unsupported: 'Marmoset/Transparent/Cutout/Bumped Diffuse IBL' - Pass 'META' has no vertex shader
+WARNING: Shader Unsupported: 'Marmoset/Transparent/Cutout/Bumped Diffuse IBL' - All passes removed
+WARNING: Shader Unsupported: 'Marmoset/Transparent/Cutout/Bumped Diffuse IBL Trees' - Pass 'FORWARD' has no vertex shader
+WARNING: Shader Unsupported: 'Marmoset/Transparent/Cutout/Bumped Diffuse IBL Trees' - Pass 'FORWARD' has no vertex shader
+WARNING: Shader Unsupported: 'Marmoset/Transparent/Cutout/Bumped Diffuse IBL Trees' - Pass 'PREPASS' has no vertex shader
+WARNING: Shader Unsupported: 'Marmoset/Transparent/Cutout/Bumped Diffuse IBL Trees' - Pass 'PREPASS' has no vertex shader
+WARNING: Shader Unsupported: 'Marmoset/Transparent/Cutout/Bumped Diffuse IBL Trees' - Pass 'DEFERRED' has no vertex shader
+WARNING: Shader Unsupported: 'Marmoset/Transparent/Cutout/Bumped Diffuse IBL Trees' - Pass 'META' has no vertex shader
+WARNING: Shader Unsupported: 'Marmoset/Transparent/Cutout/Bumped Diffuse IBL Cross Cards' - Pass 'FORWARD' has no vertex shader
+WARNING: Shader Unsupported: 'Marmoset/Transparent/Cutout/Bumped Diffuse IBL Cross Cards' - Pass 'FORWARD' has no vertex shader
+WARNING: Shader Unsupported: 'Marmoset/Transparent/Cutout/Bumped Diffuse IBL Cross Cards' - Pass 'PREPASS' has no vertex shader
+WARNING: Shader Unsupported: 'Marmoset/Transparent/Cutout/Bumped Diffuse IBL Cross Cards' - Pass 'PREPASS' has no vertex shader
+WARNING: Shader Unsupported: 'Marmoset/Transparent/Cutout/Bumped Diffuse IBL Cross Cards' - Pass 'DEFERRED' has no vertex shader
+WARNING: Shader Unsupported: 'Marmoset/Transparent/Cutout/Bumped Diffuse IBL Cross Cards' - Pass 'META' has no vertex shader
+WARNING: Shader Unsupported: 'Marmoset/Transparent/Cutout/Bumped Diffuse IBL Cross Cards' - All passes removed
+WARNING: Shader Unsupported: 'Marmoset/Transparent/Cutout/Bumped Diffuse IBL Double Faces' - Pass 'FORWARD' has no vertex shader
+WARNING: Shader Unsupported: 'Marmoset/Transparent/Cutout/Bumped Diffuse IBL Double Faces' - Pass 'FORWARD' has no vertex shader
+WARNING: Shader Unsupported: 'Marmoset/Transparent/Cutout/Bumped Diffuse IBL Double Faces' - Pass 'PREPASS' has no vertex shader
+WARNING: Shader Unsupported: 'Marmoset/Transparent/Cutout/Bumped Diffuse IBL Double Faces' - Pass 'PREPASS' has no vertex shader
+WARNING: Shader Unsupported: 'Marmoset/Transparent/Cutout/Bumped Diffuse IBL Double Faces' - Pass 'DEFERRED' has no vertex shader
+WARNING: Shader Unsupported: 'Marmoset/Transparent/Cutout/Bumped Diffuse IBL Double Faces' - Pass 'META' has no vertex shader
+WARNING: Shader Unsupported: 'Marmoset/Transparent/Cutout/Bumped Specular IBL' - Pass 'FORWARD' has no vertex shader
+WARNING: Shader Unsupported: 'Marmoset/Transparent/Cutout/Bumped Specular IBL' - Pass 'FORWARD' has no vertex shader
+WARNING: Shader Unsupported: 'Marmoset/Transparent/Cutout/Bumped Specular IBL' - Pass 'PREPASS' has no vertex shader
+WARNING: Shader Unsupported: 'Marmoset/Transparent/Cutout/Bumped Specular IBL' - Pass 'PREPASS' has no vertex shader
+WARNING: Shader Unsupported: 'Marmoset/Transparent/Cutout/Bumped Specular IBL' - Pass 'DEFERRED' has no vertex shader
+WARNING: Shader Unsupported: 'Marmoset/Transparent/Cutout/Bumped Specular IBL' - Pass 'META' has no vertex shader
+WARNING: Shader Unsupported: 'Marmoset/Transparent/Cutout/Bumped Specular IBL' - All passes removed
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.805900 ms
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 6628 -> priority: 1 
+  Thread -> id: 2008 -> priority: 1 
+  Thread -> id: 5b0c -> priority: 1 
+  Thread -> id: 5660 -> priority: 1 
+The referenced script on this Behaviour (Game Object 'SteamManager') is missing!
+ 
+(Filename:  Line: 1758)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.474300 ms
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 485)
+
+vgRewiredInput::Init()
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ rewiredInputManager: RewiredInputManager (Rewired.InputManager)
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+player has joystick count: 0
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+switching to PC controls due to: Keyboard, previously: 
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+last keyboard use time: 0
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+player has joystick count: 0
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 3965.
+Total: 13.115800 ms (FindLiveObjects: 0.276000 ms CreateObjectMapping: 0.060700 ms MarkObjects: 12.764100 ms  DeleteObjects: 0.014700 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 3965.
+Total: 13.548000 ms (FindLiveObjects: 0.253400 ms CreateObjectMapping: 0.123900 ms MarkObjects: 13.165700 ms  DeleteObjects: 0.004600 ms)
+
+checking op: Initialize gaming runtime hresult: 0
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+checking op: Create store context hresult: 0
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+loading scene, updating vsync count to 2
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.577100 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 4009.
+Total: 14.437500 ms (FindLiveObjects: 0.296100 ms CreateObjectMapping: 0.174900 ms MarkObjects: 13.950900 ms  DeleteObjects: 0.015500 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.661000 ms
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 485)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 485)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 485)
+
+Welcome to Firewatch, version: v1.1.2
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 39 unused Assets to reduce memory usage. Loaded Objects now: 7198.
+Total: 17.419500 ms (FindLiveObjects: 0.778600 ms CreateObjectMapping: 0.242900 ms MarkObjects: 16.314200 ms  DeleteObjects: 0.083700 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 7198.
+Total: 13.866000 ms (FindLiveObjects: 0.384300 ms CreateObjectMapping: 0.176500 ms MarkObjects: 13.298900 ms  DeleteObjects: 0.006100 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 7198.
+Total: 13.994700 ms (FindLiveObjects: 0.418900 ms CreateObjectMapping: 0.227900 ms MarkObjects: 13.341200 ms  DeleteObjects: 0.006500 ms)
+
+checking op: Sign in. hresult: -2147467260
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Sign in. failed. Error code: hr=0x80004004
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Refresh Localized UI Text, baseString: LOADING
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+currentText='LOADING'
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AFTER LOCALIZE --- currentText='LOADING'
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+loading scene, updating vsync count to 2
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 29 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 9.114400 ms
+
+Unloading 386 unused Assets to reduce memory usage. Loaded Objects now: 37314.
+Total: 32.220700 ms (FindLiveObjects: 1.496200 ms CreateObjectMapping: 0.350400 ms MarkObjects: 23.169200 ms  DeleteObjects: 7.204800 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 37315.
+Total: 23.084400 ms (FindLiveObjects: 1.218600 ms CreateObjectMapping: 0.288800 ms MarkObjects: 21.551100 ms  DeleteObjects: 0.025600 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at vgTargetableManager.Register (.vgTargetable newTargetable) [0x00000] in <filename unknown>:0 
+  at vgTargetable.RegisterForTargeting () [0x00000] in <filename unknown>:0 
+  at vgTargetable.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at vgTargetableManager.Register (.vgTargetable newTargetable) [0x00000] in <filename unknown>:0 
+  at vgTargetable.RegisterForTargeting () [0x00000] in <filename unknown>:0 
+  at vgTargetable.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at vgTargetableManager.Register (.vgTargetable newTargetable) [0x00000] in <filename unknown>:0 
+  at vgTargetable.RegisterForTargeting () [0x00000] in <filename unknown>:0 
+  at vgTargetable.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at vgTargetableManager.Register (.vgTargetable newTargetable) [0x00000] in <filename unknown>:0 
+  at vgTargetable.RegisterForTargeting () [0x00000] in <filename unknown>:0 
+  at vgTargetable.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+loading scene, updating vsync count to 2
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Preload SECTR_Parking Garage/Elevator/TwineBackpack/Backpack"
+ 
+(Filename:  Line: 0)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 485)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 485)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 485)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 485)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 485)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 485)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 485)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 485)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 485)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 485)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 485)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 485)
+
+Unloading 15 Unused Serialized files (Serialized files now loaded: 0)
+loading scene, updating vsync count to 2
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 485)
+
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 46454.
+Total: 32.635700 ms (FindLiveObjects: 2.403400 ms CreateObjectMapping: 0.617800 ms MarkObjects: 29.570900 ms  DeleteObjects: 0.043300 ms)
+
+_SendDistanceTraveledStats(), mDistanceTraveledStatSinceUpload: 21
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+calling: XblEventsWriteInGameEvent, eventId: UpdateStepsTaken measurementsJson: {"NumSteps":28}
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+attempting to save to cloud: SaveGame1 - windows fileName: C:/Users/Admin/AppData/LocalLow/CampoSanto/Firewatch/saves_xb1/1.sav
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+gdkSaveManagerInitialized: False
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+checking op: Save completed, remaining: 0 hresult: -2147024809
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Save completed, remaining: 0 failed. Error code: hr=0x80070057
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+There should only be one PlayMakerGUI per scene!
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Assets/__Scenes/Intro/Chunks/Intro_SECTR_Parking Garage.unity/SECTR_Parking Garage_Chunk/Player Prefab/PlayerModel/henry/henryroot/henryPelvis/henrySpineA/henrySpineB/henrySpineC/henrySpineD/henrySpiderRight1/henrySpiderRight2/henrySpiderRightIK/henryArmRightCollarbone/henryArmRight1/henryArmRight2/henryArmRightHand/henryHandRightAttachment/Backpack"
+ 
+(Filename:  Line: 0)
+
+_SendDistanceTraveledStats(), mDistanceTraveledStatSinceUpload: 63
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+calling: XblEventsWriteInGameEvent, eventId: UpdateStepsTaken measurementsJson: {"NumSteps":84}
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at vgTargetableManager.Register (.vgTargetable newTargetable) [0x00000] in <filename unknown>:0 
+  at vgTargetable.RegisterForTargeting () [0x00000] in <filename unknown>:0 
+  at vgTargetable.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at vgPhysicsManager.GetPhysicsMask (Int32 sourceLayer) [0x00000] in <filename unknown>:0 
+  at vgPhysicsManager.GetPhysicsMask (UnityEngine.GameObject source) [0x00000] in <filename unknown>:0 
+  at vgRigidBody.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at vgTargetableManager.Register (.vgTargetable newTargetable) [0x00000] in <filename unknown>:0 
+  at vgTargetable.RegisterForTargeting () [0x00000] in <filename unknown>:0 
+  at vgTargetable.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+loading scene, updating vsync count to 2
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 485)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 485)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 485)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 485)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 485)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 485)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 485)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 485)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 485)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 485)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 485)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 485)
+
+Unloading 16 Unused Serialized files (Serialized files now loaded: 0)
+loading scene, updating vsync count to 2
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 625 unused Assets to reduce memory usage. Loaded Objects now: 48866.
+Total: 36.456500 ms (FindLiveObjects: 1.785500 ms CreateObjectMapping: 0.585500 ms MarkObjects: 33.178300 ms  DeleteObjects: 0.906900 ms)
+
+_SendDistanceTraveledStats(), mDistanceTraveledStatSinceUpload: 21
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+calling: XblEventsWriteInGameEvent, eventId: UpdateStepsTaken measurementsJson: {"NumSteps":28}
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+attempting to save to cloud: SaveGame1 - windows fileName: C:/Users/Admin/AppData/LocalLow/CampoSanto/Firewatch/saves_xb1/1.sav
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+gdkSaveManagerInitialized: False
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+checking op: Save completed, remaining: 0 hresult: -2147024809
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Save completed, remaining: 0 failed. Error code: hr=0x80070057
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_SendDistanceTraveledStats(), mDistanceTraveledStatSinceUpload: 84
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+calling: XblEventsWriteInGameEvent, eventId: UpdateStepsTaken measurementsJson: {"NumSteps":112}
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at vgTargetableManager.Register (.vgTargetable newTargetable) [0x00000] in <filename unknown>:0 
+  at vgTargetable.RegisterForTargeting () [0x00000] in <filename unknown>:0 
+  at vgTargetable.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at vgTargetableManager.Register (.vgEdgeTag newEdge) [0x00000] in <filename unknown>:0 
+  at vgEdgeTag.RegisterForTargeting () [0x00000] in <filename unknown>:0 
+  at vgEdgeTag.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at vgTargetableManager.Register (.vgTargetable newTargetable) [0x00000] in <filename unknown>:0 
+  at vgTargetable.RegisterForTargeting () [0x00000] in <filename unknown>:0 
+  at vgTargetable.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+loading scene, updating vsync count to 2
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 485)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 485)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 485)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 485)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 485)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 485)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 485)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 485)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 485)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 485)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 485)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 485)
+
+Unloading 16 Unused Serialized files (Serialized files now loaded: 0)
+loading scene, updating vsync count to 2
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 1091 unused Assets to reduce memory usage. Loaded Objects now: 42731.
+Total: 38.538500 ms (FindLiveObjects: 1.541100 ms CreateObjectMapping: 0.713200 ms MarkObjects: 33.011700 ms  DeleteObjects: 3.272300 ms)
+
+attempting to save to cloud: SaveGame1 - windows fileName: C:/Users/Admin/AppData/LocalLow/CampoSanto/Firewatch/saves_xb1/1.sav
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+gdkSaveManagerInitialized: False
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+checking op: Save completed, remaining: 0 hresult: -2147024809
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Save completed, remaining: 0 failed. Error code: hr=0x80070057
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_SendDistanceTraveledStats(), mDistanceTraveledStatSinceUpload: 84
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+calling: XblEventsWriteInGameEvent, eventId: UpdateStepsTaken measurementsJson: {"NumSteps":112}
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_SendDistanceTraveledStats(), mDistanceTraveledStatSinceUpload: 84
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+calling: XblEventsWriteInGameEvent, eventId: UpdateStepsTaken measurementsJson: {"NumSteps":112}
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at vgTargetableManager.Register (.vgTargetable newTargetable) [0x00000] in <filename unknown>:0 
+  at vgTargetable.RegisterForTargeting () [0x00000] in <filename unknown>:0 
+  at vgTargetable.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+loading scene, updating vsync count to 2
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at vgTargetableManager.Register (.vgTargetable newTargetable) [0x00000] in <filename unknown>:0 
+  at vgTargetable.RegisterForTargeting () [0x00000] in <filename unknown>:0 
+  at vgTargetable.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 485)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 485)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 485)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 485)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 485)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 485)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 485)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 485)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 485)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 485)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 485)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 485)
+
+Unloading 9 Unused Serialized files (Serialized files now loaded: 0)
+loading scene, updating vsync count to 2
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 1184 unused Assets to reduce memory usage. Loaded Objects now: 34993.
+Total: 38.120500 ms (FindLiveObjects: 1.441300 ms CreateObjectMapping: 0.628500 ms MarkObjects: 31.875900 ms  DeleteObjects: 4.174400 ms)
+
+_SendDistanceTraveledStats(), mDistanceTraveledStatSinceUpload: 21
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+calling: XblEventsWriteInGameEvent, eventId: UpdateStepsTaken measurementsJson: {"NumSteps":28}
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+loading scene, updating vsync count to 2
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_SendDistanceTraveledStats(), mDistanceTraveledStatSinceUpload: 21
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+calling: XblEventsWriteInGameEvent, eventId: UpdateStepsTaken measurementsJson: {"NumSteps":28}
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at vgTargetableManager.Register (.vgTargetable newTargetable) [0x00000] in <filename unknown>:0 
+  at vgTargetable.RegisterForTargeting () [0x00000] in <filename unknown>:0 
+  at vgTargetable.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at vgTargetableManager.Register (.vgEdgeTag newEdge) [0x00000] in <filename unknown>:0 
+  at vgEdgeTag.RegisterForTargeting () [0x00000] in <filename unknown>:0 
+  at vgEdgeTag.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+loading scene, updating vsync count to 2
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 485)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 485)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 485)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 485)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 485)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 485)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 485)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 485)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 485)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 485)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 485)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 485)
+
+Unloading 8 Unused Serialized files (Serialized files now loaded: 0)
+loading scene, updating vsync count to 2
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 1229 unused Assets to reduce memory usage. Loaded Objects now: 28467.
+Total: 36.612600 ms (FindLiveObjects: 1.223600 ms CreateObjectMapping: 0.390400 ms MarkObjects: 32.223400 ms  DeleteObjects: 2.775000 ms)
+
+attempting to save to cloud: SaveGame1 - windows fileName: C:/Users/Admin/AppData/LocalLow/CampoSanto/Firewatch/saves_xb1/1.sav
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+gdkSaveManagerInitialized: False
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+checking op: Save completed, remaining: 0 hresult: -2147024809
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Save completed, remaining: 0 failed. Error code: hr=0x80070057
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_SendDistanceTraveledStats(), mDistanceTraveledStatSinceUpload: 84
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+calling: XblEventsWriteInGameEvent, eventId: UpdateStepsTaken measurementsJson: {"NumSteps":112}
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_SendDistanceTraveledStats(), mDistanceTraveledStatSinceUpload: 84
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+calling: XblEventsWriteInGameEvent, eventId: UpdateStepsTaken measurementsJson: {"NumSteps":112}
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Refresh Localized UI Text, baseString: LOADING
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+currentText='LOADING'
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AFTER LOCALIZE --- currentText='LOADING'
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+loading scene, updating vsync count to 2
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.886300 ms
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 485)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 485)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 485)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 485)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 485)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 485)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 485)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 485)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 485)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 485)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 485)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 485)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 485)
+
+loading scene, updating vsync count to 2
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 2075 unused Assets to reduce memory usage. Loaded Objects now: 15073.
+Total: 34.129500 ms (FindLiveObjects: 0.768100 ms CreateObjectMapping: 0.426000 ms MarkObjects: 24.785400 ms  DeleteObjects: 8.149900 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 18035.
+Total: 27.429400 ms (FindLiveObjects: 0.851400 ms CreateObjectMapping: 0.383200 ms MarkObjects: 26.172800 ms  DeleteObjects: 0.021700 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 18035.
+Total: 26.915100 ms (FindLiveObjects: 0.848900 ms CreateObjectMapping: 0.321100 ms MarkObjects: 25.727800 ms  DeleteObjects: 0.016700 ms)
+
+_SendDistanceTraveledStats(), mDistanceTraveledStatSinceUpload: 21
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+calling: XblEventsWriteInGameEvent, eventId: UpdateStepsTaken measurementsJson: {"NumSteps":28}
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 485)
+
+attempting to save to cloud: C:/Users/Admin/AppData/LocalLow/CampoSanto/Firewatch\saves_xb1\1_Day_0.sav - windows fileName: C:/Users/Admin/AppData/LocalLow/CampoSanto/Firewatch\saves_xb1\1_Day_0.sav
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+gdkSaveManagerInitialized: False
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+checking op: Save completed, remaining: 0 hresult: -2147024809
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Save completed, remaining: 0 failed. Error code: hr=0x80070057
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UpdateRichPresence: QUEST_Day0_EnterTower
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+attempting to save to cloud: SaveGame1 - windows fileName: C:/Users/Admin/AppData/LocalLow/CampoSanto/Firewatch/saves_xb1/1.sav
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+gdkSaveManagerInitialized: False
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+checking op: Save completed, remaining: 0 hresult: -2147024809
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Save completed, remaining: 0 failed. Error code: hr=0x80070057
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_SendDistanceTraveledStats(), mDistanceTraveledStatSinceUpload: 84
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+calling: XblEventsWriteInGameEvent, eventId: UpdateStepsTaken measurementsJson: {"NumSteps":112}
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+attempting to save to cloud: SaveGame1 - windows fileName: C:/Users/Admin/AppData/LocalLow/CampoSanto/Firewatch/saves_xb1/1.sav
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+gdkSaveManagerInitialized: False
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+checking op: Save completed, remaining: 0 hresult: -2147024809
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Save completed, remaining: 0 failed. Error code: hr=0x80070057
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_SendRadioStats(), mRadioTimeStatSinceUpload: 11.7295532226563
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_SendDistanceTraveledStats(), mDistanceTraveledStatSinceUpload: 42
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+calling: XblEventsWriteInGameEvent, eventId: UpdateStepsTaken measurementsJson: {"NumSteps":56}
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_SendRadioStats(), mRadioTimeStatSinceUpload: 49.9818725585938
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 28 Unused Serialized files (Serialized files now loaded: 0)
+loading scene, updating vsync count to 2
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 2281 unused Assets to reduce memory usage. Loaded Objects now: 15301.
+Total: 42.882000 ms (FindLiveObjects: 1.083500 ms CreateObjectMapping: 0.450000 ms MarkObjects: 27.112100 ms  DeleteObjects: 14.236200 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 15301.
+Total: 28.984500 ms (FindLiveObjects: 1.261000 ms CreateObjectMapping: 0.505200 ms MarkObjects: 27.185800 ms  DeleteObjects: 0.031900 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 15301.
+Total: 39.780000 ms (FindLiveObjects: 1.029600 ms CreateObjectMapping: 0.364700 ms MarkObjects: 38.363900 ms  DeleteObjects: 0.021500 ms)
+
+_SendDistanceTraveledStats(), mDistanceTraveledStatSinceUpload: 21
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+calling: XblEventsWriteInGameEvent, eventId: UpdateStepsTaken measurementsJson: {"NumSteps":28}
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 485)
+
+UpdateRichPresence: QUEST_Day1_GetRadio
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+attempting to save to cloud: C:/Users/Admin/AppData/LocalLow/CampoSanto/Firewatch\saves_xb1\1_Day_1.sav - windows fileName: C:/Users/Admin/AppData/LocalLow/CampoSanto/Firewatch\saves_xb1\1_Day_1.sav
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+gdkSaveManagerInitialized: False
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+checking op: Save completed, remaining: 0 hresult: -2147024809
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Save completed, remaining: 0 failed. Error code: hr=0x80070057
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+attempting to save to cloud: SaveGame1 - windows fileName: C:/Users/Admin/AppData/LocalLow/CampoSanto/Firewatch/saves_xb1/1.sav
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+gdkSaveManagerInitialized: False
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+checking op: Save completed, remaining: 0 hresult: -2147024809
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Save completed, remaining: 0 failed. Error code: hr=0x80070057
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_SendRadioStats(), mRadioTimeStatSinceUpload: 38.8837280273438
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UpdateRichPresence: QUEST_Day1_ReportFirefinder
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UpdateRichPresence: QUEST_Day1_Fireworks
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_SendRadioStats(), mRadioTimeStatSinceUpload: 44.8817138671875
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_SendRadioStats(), mRadioTimeStatSinceUpload: 23.1472778320313
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+There should only be one PlayMakerGUI per scene!
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+attempting to save to cloud: SaveGame1 - windows fileName: C:/Users/Admin/AppData/LocalLow/CampoSanto/Firewatch/saves_xb1/1.sav
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+gdkSaveManagerInitialized: False
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+checking op: Save completed, remaining: 0 hresult: -2147024809
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Save completed, remaining: 0 failed. Error code: hr=0x80070057
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_SendDistanceTraveledStats(), mDistanceTraveledStatSinceUpload: 21
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+calling: XblEventsWriteInGameEvent, eventId: UpdateStepsTaken measurementsJson: {"NumSteps":28}
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_SendDistanceTraveledStats(), mDistanceTraveledStatSinceUpload: 84
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+calling: XblEventsWriteInGameEvent, eventId: UpdateStepsTaken measurementsJson: {"NumSteps":112}
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_SendDistanceTraveledStats(), mDistanceTraveledStatSinceUpload: 84
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+calling: XblEventsWriteInGameEvent, eventId: UpdateStepsTaken measurementsJson: {"NumSteps":112}
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_SendDistanceTraveledStats(), mDistanceTraveledStatSinceUpload: 84
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+calling: XblEventsWriteInGameEvent, eventId: UpdateStepsTaken measurementsJson: {"NumSteps":112}
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_SendDistanceTraveledStats(), mDistanceTraveledStatSinceUpload: 84
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+calling: XblEventsWriteInGameEvent, eventId: UpdateStepsTaken measurementsJson: {"NumSteps":112}
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_SendDistanceTraveledStats(), mDistanceTraveledStatSinceUpload: 21
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+calling: XblEventsWriteInGameEvent, eventId: UpdateStepsTaken measurementsJson: {"NumSteps":28}
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_SendDistanceTraveledStats(), mDistanceTraveledStatSinceUpload: 84
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+calling: XblEventsWriteInGameEvent, eventId: UpdateStepsTaken measurementsJson: {"NumSteps":112}
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_SendDistanceTraveledStats(), mDistanceTraveledStatSinceUpload: 84
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+calling: XblEventsWriteInGameEvent, eventId: UpdateStepsTaken measurementsJson: {"NumSteps":112}
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_SendDistanceTraveledStats(), mDistanceTraveledStatSinceUpload: 84
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+calling: XblEventsWriteInGameEvent, eventId: UpdateStepsTaken measurementsJson: {"NumSteps":112}
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_SendDistanceTraveledStats(), mDistanceTraveledStatSinceUpload: 84
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+calling: XblEventsWriteInGameEvent, eventId: UpdateStepsTaken measurementsJson: {"NumSteps":112}
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_SendRadioStats(), mRadioTimeStatSinceUpload: 12.0657958984375
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_SendDistanceTraveledStats(), mDistanceTraveledStatSinceUpload: 84
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+calling: XblEventsWriteInGameEvent, eventId: UpdateStepsTaken measurementsJson: {"NumSteps":112}
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+attempting to save to cloud: SaveGame1 - windows fileName: C:/Users/Admin/AppData/LocalLow/CampoSanto/Firewatch/saves_xb1/1.sav
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+gdkSaveManagerInitialized: False
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+checking op: Save completed, remaining: 0 hresult: -2147024809
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Save completed, remaining: 0 failed. Error code: hr=0x80070057
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_SendDistanceTraveledStats(), mDistanceTraveledStatSinceUpload: 84
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+calling: XblEventsWriteInGameEvent, eventId: UpdateStepsTaken measurementsJson: {"NumSteps":112}
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_SendRadioStats(), mRadioTimeStatSinceUpload: 22.22509765625
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 33 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 1116 unused Assets to reduce memory usage. Loaded Objects now: 64475.
+Total: 62.722500 ms (FindLiveObjects: 4.165200 ms CreateObjectMapping: 1.067400 ms MarkObjects: 54.987700 ms  DeleteObjects: 2.501900 ms)
+
+_SendDistanceTraveledStats(), mDistanceTraveledStatSinceUpload: 84
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+calling: XblEventsWriteInGameEvent, eventId: UpdateStepsTaken measurementsJson: {"NumSteps":112}
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_SendDistanceTraveledStats(), mDistanceTraveledStatSinceUpload: 84
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+calling: XblEventsWriteInGameEvent, eventId: UpdateStepsTaken measurementsJson: {"NumSteps":112}
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_SendDistanceTraveledStats(), mDistanceTraveledStatSinceUpload: 84
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+calling: XblEventsWriteInGameEvent, eventId: UpdateStepsTaken measurementsJson: {"NumSteps":112}
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_SendRadioStats(), mRadioTimeStatSinceUpload: 20.739013671875
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_SendDistanceTraveledStats(), mDistanceTraveledStatSinceUpload: 63
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+calling: XblEventsWriteInGameEvent, eventId: UpdateStepsTaken measurementsJson: {"NumSteps":84}
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_SendRadioStats(), mRadioTimeStatSinceUpload: 36.179443359375
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_SendDistanceTraveledStats(), mDistanceTraveledStatSinceUpload: 84
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+calling: XblEventsWriteInGameEvent, eventId: UpdateStepsTaken measurementsJson: {"NumSteps":112}
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_SendRadioStats(), mRadioTimeStatSinceUpload: 26.6490478515625
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_SendDistanceTraveledStats(), mDistanceTraveledStatSinceUpload: 21
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+calling: XblEventsWriteInGameEvent, eventId: UpdateStepsTaken measurementsJson: {"NumSteps":28}
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_SendDistanceTraveledStats(), mDistanceTraveledStatSinceUpload: 84
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+calling: XblEventsWriteInGameEvent, eventId: UpdateStepsTaken measurementsJson: {"NumSteps":112}
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_SendRadioStats(), mRadioTimeStatSinceUpload: 11.667236328125
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_SendDistanceTraveledStats(), mDistanceTraveledStatSinceUpload: 84
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+calling: XblEventsWriteInGameEvent, eventId: UpdateStepsTaken measurementsJson: {"NumSteps":112}
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_SendDistanceTraveledStats(), mDistanceTraveledStatSinceUpload: 84
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+calling: XblEventsWriteInGameEvent, eventId: UpdateStepsTaken measurementsJson: {"NumSteps":112}
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_SendRadioStats(), mRadioTimeStatSinceUpload: 24.5155029296875
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_SendDistanceTraveledStats(), mDistanceTraveledStatSinceUpload: 84
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+calling: XblEventsWriteInGameEvent, eventId: UpdateStepsTaken measurementsJson: {"NumSteps":112}
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_SendDistanceTraveledStats(), mDistanceTraveledStatSinceUpload: 84
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+calling: XblEventsWriteInGameEvent, eventId: UpdateStepsTaken measurementsJson: {"NumSteps":112}
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_SendDistanceTraveledStats(), mDistanceTraveledStatSinceUpload: 84
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+calling: XblEventsWriteInGameEvent, eventId: UpdateStepsTaken measurementsJson: {"NumSteps":112}
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_SendRadioStats(), mRadioTimeStatSinceUpload: 14.4327392578125
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_SendDistanceTraveledStats(), mDistanceTraveledStatSinceUpload: 84
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+calling: XblEventsWriteInGameEvent, eventId: UpdateStepsTaken measurementsJson: {"NumSteps":112}
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_SendDistanceTraveledStats(), mDistanceTraveledStatSinceUpload: 84
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+calling: XblEventsWriteInGameEvent, eventId: UpdateStepsTaken measurementsJson: {"NumSteps":112}
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_SendDistanceTraveledStats(), mDistanceTraveledStatSinceUpload: 84
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+calling: XblEventsWriteInGameEvent, eventId: UpdateStepsTaken measurementsJson: {"NumSteps":112}
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_SendDistanceTraveledStats(), mDistanceTraveledStatSinceUpload: 84
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+calling: XblEventsWriteInGameEvent, eventId: UpdateStepsTaken measurementsJson: {"NumSteps":112}
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_SendDistanceTraveledStats(), mDistanceTraveledStatSinceUpload: 84
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+calling: XblEventsWriteInGameEvent, eventId: UpdateStepsTaken measurementsJson: {"NumSteps":112}
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_SendDistanceTraveledStats(), mDistanceTraveledStatSinceUpload: 84
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+calling: XblEventsWriteInGameEvent, eventId: UpdateStepsTaken measurementsJson: {"NumSteps":112}
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_SendDistanceTraveledStats(), mDistanceTraveledStatSinceUpload: 84
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+calling: XblEventsWriteInGameEvent, eventId: UpdateStepsTaken measurementsJson: {"NumSteps":112}
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_SendRadioStats(), mRadioTimeStatSinceUpload: 13.465576171875
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+attempting to save to cloud: SaveGame1 - windows fileName: C:/Users/Admin/AppData/LocalLow/CampoSanto/Firewatch/saves_xb1/1.sav
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+gdkSaveManagerInitialized: False
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+checking op: Save completed, remaining: 0 hresult: -2147024809
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Save completed, remaining: 0 failed. Error code: hr=0x80070057
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_SendDistanceTraveledStats(), mDistanceTraveledStatSinceUpload: 84
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+calling: XblEventsWriteInGameEvent, eventId: UpdateStepsTaken measurementsJson: {"NumSteps":112}
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_SendRadioStats(), mRadioTimeStatSinceUpload: 10.3948974609375
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_SendDistanceTraveledStats(), mDistanceTraveledStatSinceUpload: 84
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+calling: XblEventsWriteInGameEvent, eventId: UpdateStepsTaken measurementsJson: {"NumSteps":112}
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UpdateRichPresence: QUEST_Day1_GetBackToTower
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_SendRadioStats(), mRadioTimeStatSinceUpload: 25.533447265625
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_SendDistanceTraveledStats(), mDistanceTraveledStatSinceUpload: 84
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+calling: XblEventsWriteInGameEvent, eventId: UpdateStepsTaken measurementsJson: {"NumSteps":112}
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_SendRadioStats(), mRadioTimeStatSinceUpload: 19.9661865234375
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_SendDistanceTraveledStats(), mDistanceTraveledStatSinceUpload: 21
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+calling: XblEventsWriteInGameEvent, eventId: UpdateStepsTaken measurementsJson: {"NumSteps":28}
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+attempting to save to cloud: SaveGame1 - windows fileName: C:/Users/Admin/AppData/LocalLow/CampoSanto/Firewatch/saves_xb1/1.sav
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+gdkSaveManagerInitialized: False
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+checking op: Save completed, remaining: 0 hresult: -2147024809
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Save completed, remaining: 0 failed. Error code: hr=0x80070057
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_SendDistanceTraveledStats(), mDistanceTraveledStatSinceUpload: 84
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+calling: XblEventsWriteInGameEvent, eventId: UpdateStepsTaken measurementsJson: {"NumSteps":112}
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_SendRadioStats(), mRadioTimeStatSinceUpload: 26.21533203125
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 16 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 140 unused Assets to reduce memory usage. Loaded Objects now: 89790.
+Total: 76.295500 ms (FindLiveObjects: 5.357000 ms CreateObjectMapping: 1.809200 ms MarkObjects: 68.687500 ms  DeleteObjects: 0.441600 ms)
+
+_SendDistanceTraveledStats(), mDistanceTraveledStatSinceUpload: 84
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+calling: XblEventsWriteInGameEvent, eventId: UpdateStepsTaken measurementsJson: {"NumSteps":112}
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_SendDistanceTraveledStats(), mDistanceTraveledStatSinceUpload: 84
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+calling: XblEventsWriteInGameEvent, eventId: UpdateStepsTaken measurementsJson: {"NumSteps":112}
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_SendDistanceTraveledStats(), mDistanceTraveledStatSinceUpload: 84
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+calling: XblEventsWriteInGameEvent, eventId: UpdateStepsTaken measurementsJson: {"NumSteps":112}
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_SendDistanceTraveledStats(), mDistanceTraveledStatSinceUpload: 84
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+calling: XblEventsWriteInGameEvent, eventId: UpdateStepsTaken measurementsJson: {"NumSteps":112}
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_SendDistanceTraveledStats(), mDistanceTraveledStatSinceUpload: 84
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+calling: XblEventsWriteInGameEvent, eventId: UpdateStepsTaken measurementsJson: {"NumSteps":112}
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_SendDistanceTraveledStats(), mDistanceTraveledStatSinceUpload: 84
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+calling: XblEventsWriteInGameEvent, eventId: UpdateStepsTaken measurementsJson: {"NumSteps":112}
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_SendRadioStats(), mRadioTimeStatSinceUpload: 12.203369140625
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 12 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 532 unused Assets to reduce memory usage. Loaded Objects now: 54977.
+Total: 63.571500 ms (FindLiveObjects: 3.281100 ms CreateObjectMapping: 0.717300 ms MarkObjects: 58.208500 ms  DeleteObjects: 1.364400 ms)
+
+_SendDistanceTraveledStats(), mDistanceTraveledStatSinceUpload: 84
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+calling: XblEventsWriteInGameEvent, eventId: UpdateStepsTaken measurementsJson: {"NumSteps":112}
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_SendDistanceTraveledStats(), mDistanceTraveledStatSinceUpload: 84
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+calling: XblEventsWriteInGameEvent, eventId: UpdateStepsTaken measurementsJson: {"NumSteps":112}
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_SendRadioStats(), mRadioTimeStatSinceUpload: 32.93017578125
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_SendDistanceTraveledStats(), mDistanceTraveledStatSinceUpload: 84
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+calling: XblEventsWriteInGameEvent, eventId: UpdateStepsTaken measurementsJson: {"NumSteps":112}
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_SendRadioStats(), mRadioTimeStatSinceUpload: 17.583984375
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_SendDistanceTraveledStats(), mDistanceTraveledStatSinceUpload: 63
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+calling: XblEventsWriteInGameEvent, eventId: UpdateStepsTaken measurementsJson: {"NumSteps":84}
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_SendDistanceTraveledStats(), mDistanceTraveledStatSinceUpload: 84
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+calling: XblEventsWriteInGameEvent, eventId: UpdateStepsTaken measurementsJson: {"NumSteps":112}
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_SendDistanceTraveledStats(), mDistanceTraveledStatSinceUpload: 84
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+calling: XblEventsWriteInGameEvent, eventId: UpdateStepsTaken measurementsJson: {"NumSteps":112}
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_SendDistanceTraveledStats(), mDistanceTraveledStatSinceUpload: 84
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+calling: XblEventsWriteInGameEvent, eventId: UpdateStepsTaken measurementsJson: {"NumSteps":112}
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_SendRadioStats(), mRadioTimeStatSinceUpload: 13.469482421875
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_SendDistanceTraveledStats(), mDistanceTraveledStatSinceUpload: 63
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+calling: XblEventsWriteInGameEvent, eventId: UpdateStepsTaken measurementsJson: {"NumSteps":84}
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_SendRadioStats(), mRadioTimeStatSinceUpload: 14.11474609375
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_SendDistanceTraveledStats(), mDistanceTraveledStatSinceUpload: 21
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+calling: XblEventsWriteInGameEvent, eventId: UpdateStepsTaken measurementsJson: {"NumSteps":28}
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 21 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 164 unused Assets to reduce memory usage. Loaded Objects now: 65755.
+Total: 67.871000 ms (FindLiveObjects: 3.829000 ms CreateObjectMapping: 0.846400 ms MarkObjects: 61.738000 ms  DeleteObjects: 1.457400 ms)
+
+attempting to save to cloud: SaveGame1 - windows fileName: C:/Users/Admin/AppData/LocalLow/CampoSanto/Firewatch/saves_xb1/1.sav
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+gdkSaveManagerInitialized: False
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+checking op: Save completed, remaining: 0 hresult: -2147024809
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Save completed, remaining: 0 failed. Error code: hr=0x80070057
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_SendRadioStats(), mRadioTimeStatSinceUpload: 36.564208984375
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_SendDistanceTraveledStats(), mDistanceTraveledStatSinceUpload: 63
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+calling: XblEventsWriteInGameEvent, eventId: UpdateStepsTaken measurementsJson: {"NumSteps":84}
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_SendRadioStats(), mRadioTimeStatSinceUpload: 24.19873046875
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_SendDistanceTraveledStats(), mDistanceTraveledStatSinceUpload: 84
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+calling: XblEventsWriteInGameEvent, eventId: UpdateStepsTaken measurementsJson: {"NumSteps":112}
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_SendDistanceTraveledStats(), mDistanceTraveledStatSinceUpload: 84
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+calling: XblEventsWriteInGameEvent, eventId: UpdateStepsTaken measurementsJson: {"NumSteps":112}
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_SendRadioStats(), mRadioTimeStatSinceUpload: 30.799072265625
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_SendDistanceTraveledStats(), mDistanceTraveledStatSinceUpload: 84
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+calling: XblEventsWriteInGameEvent, eventId: UpdateStepsTaken measurementsJson: {"NumSteps":112}
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_SendDistanceTraveledStats(), mDistanceTraveledStatSinceUpload: 84
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+calling: XblEventsWriteInGameEvent, eventId: UpdateStepsTaken measurementsJson: {"NumSteps":112}
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 18 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 173 unused Assets to reduce memory usage. Loaded Objects now: 112614.
+Total: 87.345100 ms (FindLiveObjects: 6.492800 ms CreateObjectMapping: 1.786900 ms MarkObjects: 77.927500 ms  DeleteObjects: 1.137700 ms)
+
+_SendDistanceTraveledStats(), mDistanceTraveledStatSinceUpload: 84
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+calling: XblEventsWriteInGameEvent, eventId: UpdateStepsTaken measurementsJson: {"NumSteps":112}
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_SendDistanceTraveledStats(), mDistanceTraveledStatSinceUpload: 84
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+calling: XblEventsWriteInGameEvent, eventId: UpdateStepsTaken measurementsJson: {"NumSteps":112}
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_SendRadioStats(), mRadioTimeStatSinceUpload: 13.083251953125
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_SendDistanceTraveledStats(), mDistanceTraveledStatSinceUpload: 84
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+calling: XblEventsWriteInGameEvent, eventId: UpdateStepsTaken measurementsJson: {"NumSteps":112}
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_SendRadioStats(), mRadioTimeStatSinceUpload: 21.0185546875
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_SendRadioStats(), mRadioTimeStatSinceUpload: 43.028564453125
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 510 unused Assets to reduce memory usage. Loaded Objects now: 100467.
+Total: 75.573200 ms (FindLiveObjects: 5.819600 ms CreateObjectMapping: 1.341900 ms MarkObjects: 64.327000 ms  DeleteObjects: 4.084400 ms)
+
+_SendDistanceTraveledStats(), mDistanceTraveledStatSinceUpload: 21
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+calling: XblEventsWriteInGameEvent, eventId: UpdateStepsTaken measurementsJson: {"NumSteps":28}
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_SendDistanceTraveledStats(), mDistanceTraveledStatSinceUpload: 84
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+calling: XblEventsWriteInGameEvent, eventId: UpdateStepsTaken measurementsJson: {"NumSteps":112}
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+attempting to save to cloud: SaveGame1 - windows fileName: C:/Users/Admin/AppData/LocalLow/CampoSanto/Firewatch/saves_xb1/1.sav
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+gdkSaveManagerInitialized: False
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+checking op: Save completed, remaining: 0 hresult: -2147024809
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Save completed, remaining: 0 failed. Error code: hr=0x80070057
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_SendRadioStats(), mRadioTimeStatSinceUpload: 11.30078125
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_SendDistanceTraveledStats(), mDistanceTraveledStatSinceUpload: 42
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+calling: XblEventsWriteInGameEvent, eventId: UpdateStepsTaken measurementsJson: {"NumSteps":56}
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_SendRadioStats(), mRadioTimeStatSinceUpload: 13.63232421875
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UpdateRichPresence: QUEST_Day1_ReportBreakIn
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_SendRadioStats(), mRadioTimeStatSinceUpload: 27.2158203125
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_SendDistanceTraveledStats(), mDistanceTraveledStatSinceUpload: 21
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+calling: XblEventsWriteInGameEvent, eventId: UpdateStepsTaken measurementsJson: {"NumSteps":28}
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 17 Unused Serialized files (Serialized files now loaded: 0)
+loading scene, updating vsync count to 2
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 2252 unused Assets to reduce memory usage. Loaded Objects now: 17861.
+Total: 56.354900 ms (FindLiveObjects: 1.913400 ms CreateObjectMapping: 0.524200 ms MarkObjects: 41.419200 ms  DeleteObjects: 12.498000 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 17861.
+Total: 43.063000 ms (FindLiveObjects: 1.702000 ms CreateObjectMapping: 0.425600 ms MarkObjects: 40.914700 ms  DeleteObjects: 0.020600 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 17861.
+Total: 48.783400 ms (FindLiveObjects: 1.865700 ms CreateObjectMapping: 0.552500 ms MarkObjects: 46.345000 ms  DeleteObjects: 0.019900 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 17861.
+Total: 41.992900 ms (FindLiveObjects: 1.741000 ms CreateObjectMapping: 0.411200 ms MarkObjects: 39.812300 ms  DeleteObjects: 0.028000 ms)
+
+ vgPickup 'Pickup_FishingPole' loaded up out of world, moving it back to initial position, y=85.33
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ vgPickup 'book_pickup' loaded up out of world, moving it back to initial position, y=169.4756
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ vgPickup 'book_pickup' loaded up out of world, moving it back to initial position, y=169.698
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ vgPickup 'book_pickup' loaded up out of world, moving it back to initial position, y=169.3711
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ vgPickup 'Pickup_RonDaveBottle (2)' loaded up out of world, moving it back to initial position, y=84.91725
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ vgPickup 'book_pickup' loaded up out of world, moving it back to initial position, y=169.741
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ vgPickup 'Pickup_PineCone (2)' loaded up out of world, moving it back to initial position, y=73.12
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ vgPickup 'book_pickup' loaded up out of world, moving it back to initial position, y=169.66
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ vgPickup 'Pickup_Turtle' loaded up out of world, moving it back to initial position, y=78.613
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ vgPickup 'Pickup_GateRock' loaded up out of world, moving it back to initial position, y=92.268
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ vgPickup 'Pickup_PineCone' loaded up out of world, moving it back to initial position, y=73.12
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 485)
+
+_SendRadioStats(), mRadioTimeStatSinceUpload: 41.047119140625
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+calling: XblEventsWriteInGameEvent, eventId: AchDay1Unlocked measurementsJson: {}
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+attempting to save to cloud: C:/Users/Admin/AppData/LocalLow/CampoSanto/Firewatch\saves_xb1\1_Day_2.sav - windows fileName: C:/Users/Admin/AppData/LocalLow/CampoSanto/Firewatch\saves_xb1\1_Day_2.sav
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+gdkSaveManagerInitialized: False
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+checking op: Save completed, remaining: 0 hresult: -2147024809
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Save completed, remaining: 0 failed. Error code: hr=0x80070057
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+attempting to save to cloud: SaveGame1 - windows fileName: C:/Users/Admin/AppData/LocalLow/CampoSanto/Firewatch/saves_xb1/1.sav
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+gdkSaveManagerInitialized: False
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+checking op: Save completed, remaining: 0 hresult: -2147024809
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Save completed, remaining: 0 failed. Error code: hr=0x80070057
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_SendDistanceTraveledStats(), mDistanceTraveledStatSinceUpload: 21
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+calling: XblEventsWriteInGameEvent, eventId: UpdateStepsTaken measurementsJson: {"NumSteps":28}
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UpdateRichPresence: QUEST_Day2_WireHike
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_SendRadioStats(), mRadioTimeStatSinceUpload: 48.94921875
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+attempting to save to cloud: SaveGame1 - windows fileName: C:/Users/Admin/AppData/LocalLow/CampoSanto/Firewatch/saves_xb1/1.sav
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+gdkSaveManagerInitialized: False
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+checking op: Save completed, remaining: 0 hresult: -2147024809
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Save completed, remaining: 0 failed. Error code: hr=0x80070057
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at vgTargetUI.GetDisplayName () [0x00000] in <filename unknown>:0 
+  at vgVolumeTargetable.GetConcept () [0x00000] in <filename unknown>:0 
+  at vgTargetableManager.UnRegisterInternal (.vgVolumeTargetable newTarget) [0x00000] in <filename unknown>:0 
+  at vgTargetableManager.UnRegister (.vgVolumeTargetable newTarget) [0x00000] in <filename unknown>:0 
+  at vgVolumeTargetable.OnDisable () [0x00000] in <filename unknown>:0 
+UnityEngine.GameObject:SetActive(Boolean)
+SECTR_Chunk:_DestroyChunk(Boolean)
+SECTR_Chunk:OnDisable()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at vgDialogTreeManager.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+

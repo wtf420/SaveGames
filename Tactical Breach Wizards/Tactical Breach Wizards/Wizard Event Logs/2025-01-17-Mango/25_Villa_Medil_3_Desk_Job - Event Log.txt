@@ -1,0 +1,301 @@
+25_Villa_Medil_3_Desk_Job
+ 
+Start of player turn 1
+Banks breached - from (20, 1) to (20, 0)
+Jen breached - from (20, -2) to (20, -3)
+Jen moved - from (20, -3) to (23, -6)
+Jen cast Static Blast on Reactor Tracker Clapet - from (23, -6) to (22, 3)
+Reactor Tracker Clapet took 2 knockback
+Reactor Tracker Clapet hit something with 2 knockback left
+Reactor Tracker Clapet took 2 damage
+Jen used Broom Breach - from (23, -6) to (32, -6)
+Jen moved - from (32, -6) to (34, -4)
+Jen sealed a hostile entry point - from (34, -4) to (34, -4)
+Jen cast Static Blast on Heavy Turret - from (23, -6) to (34, -5)
+Heavy Turret stability prevented 1 knockback
+Heavy Turret took 1 knockback
+Heavy Turret hit something with 1 knockback left
+Heavy Turret took 1 damage
+Jen used Broom Breach - from (23, -6) to (32, -6)
+Jen moved - from (20, -3) to (23, -6)
+Jen took cover - from (23, -6) to (23, -6)
+Jen stood up - from (23, -6) to (23, -6)
+Jen used Broom Breach - from (23, -6) to (32, -6)
+Jen cast Static Blast on Heavy Turret - from (32, -6) to (34, -5)
+Heavy Turret stability prevented 1 knockback
+Heavy Turret took 1 knockback
+Heavy Turret hit something with 1 knockback left
+Heavy Turret took 1 damage
+Jen moved - from (32, -6) to (34, -4)
+Jen sealed a hostile entry point - from (34, -4) to (34, -4)
+Jen moved - from (20, -3) to (23, -6)
+Jen used Broom Breach - from (23, -6) to (32, -6)
+Jen cast Static Blast on Reactor Shotgunner La'Dontae - from (32, -6) to (32, 0)
+Reactor Shotgunner La'Dontae took 2 knockback
+Jen moved - from (32, -6) to (34, -4)
+Jen sealed a hostile entry point - from (34, -4) to (34, -4)
+Banks breached - from (20, 1) to (20, 0)
+Banks moved - from (20, 0) to (22, -1)
+Banks took cover - from (22, -1) to (22, -1)
+Banks stood up - from (22, -1) to (22, -1)
+Banks used Death's Door on Reactor Tracker Clapet - from (22, -1) to (22, 3)
+Banks breached - from (20, 1) to (20, 0)
+Banks moved - from (20, 0) to (22, -2)
+Banks used Death's Door on Reactor Tracker Clapet - from (22, -2) to (22, 3)
+Jen cast Static Blast on Reactor Tracker Clapet - from (32, -6) to (22, 3)
+Reactor Tracker Clapet took 2 knockback
+Reactor Tracker Clapet fell into Death's Door
+Reactor Tracker Clapet took 3 damage
+Reactor Tracker Clapet passed out
+Reactor Tracker Clapet hit something with 2 knockback left
+Banks used Death's Door - from (22, -2) to (27, 3)
+Jen cast Static Blast on Reactor Shotgunner Phact - from (32, -6) to (27, 2)
+Reactor Shotgunner Phact took 2 knockback
+Reactor Shotgunner Phact hit something with 2 knockback left
+Reactor Shotgunner Phact took 2 damage
+Jen moved - from (20, -3) to (23, -6)
+Banks breached - from (20, 1) to (20, 0)
+Banks used Death's Door - from (20, 0) to (27, 3)
+Banks used Death's Door - from (20, 0) to (26, 2)
+Jen cast Static Blast on Reactor Shotgunner Phact - from (23, -6) to (27, 2)
+Reactor Shotgunner Phact took 2 knockback
+Reactor Shotgunner Phact fell into Death's Door
+Reactor Shotgunner Phact took 4 damage
+Reactor Shotgunner Phact passed out
+Jen used Broom Breach - from (23, -6) to (32, -6)
+Jen moved - from (32, -6) to (34, -4)
+Jen moved - from (32, -6) to (34, -4)
+Jen sealed a hostile entry point - from (34, -4) to (34, -4)
+Rion bit on Reactor Tracker Clapet - from (22, 2) to (22, 3)
+Reactor Tracker Clapet took 1 damage
+Rion moved - from (20, -4) to (22, -1)
+Rion cast Impaling Vine on Heavy Turret - from (22, -1) to (34, -5)
+Heavy Turret armour blocked 1 damage
+Heavy Turret stability prevented 1 knockback
+Heavy Turret took 2 knockback
+Rion cast Impaling Vine on Reactor Shotgunner La'Dontae - from (22, -1) to (32, 0)
+Reactor Shotgunner La'Dontae took 1 damage
+Reactor Shotgunner La'Dontae took 3 knockback
+Reactor Shotgunner La'Dontae hit something with 3 knockback left
+Reactor Shotgunner La'Dontae took 1 extra damage from Brittle, Brittle reduced to 0
+Reactor Shotgunner La'Dontae is no longer Brittle
+Reactor Shotgunner La'Dontae took 4 damage
+Reactor Shotgunner La'Dontae passed out
+Rion bit on Reactor Tracker Clapet - from (22, 2) to (22, 3)
+Reactor Tracker Clapet took 1 damage
+Banks moved - from (20, 0) to (22, -4)
+Banks used Transference on Heavy Turret - from (20, 0) to (34, -5)
+Banks moved - from (20, 0) to (23, -3)
+Banks took cover - from (23, -3) to (23, -3)
+Banks moved - from (20, 0) to (21, 1)
+Banks used Grab Intel - from (21, 1) to (21, 2)
+Banks took cover - from (21, 1) to (21, 1)
+Banks moved - from (20, 0) to (22, -4)
+Banks used Transference on Reactor Tracker Clapet - from (22, -4) to (22, 3)
+Banks took cover - from (22, -4) to (22, -4)
+Rion took cover - from (22, -1) to (22, -1)
+Banks used Transference on Reactor Tracker Clapet - from (22, -4) to (22, 3)
+Rion took cover - from (22, -1) to (22, -1)
+Banks took cover - from (22, -4) to (22, -4)
+Heavy Turret used Rocket Shot on Jen - from (34, -5) to (34, -4)
+Heavy Turret armour blocked 1 damage
+Heavy Turret stability prevented 1 knockback
+3 damage and 2 knockback to Jen was transferred to Reactor Tracker Clapet
+Reactor Tracker Clapet took 3 damage
+Reactor Tracker Clapet passed out
+Reactor Tracker Clapet took 2 knockback
+Reactor Tracker Clapet hit something with 2 knockback left
+Heavy Turret used Rocket Shot - from (34, 2) to (23, -1)
+Rion took 1 damage
+Rion took 1 knockback
+Rion stood up - from (22, -1) to (22, -1)
+Rion took cover - from (22, -1) to (22, -1)
+Banks stood up - from (22, -4) to (22, -4)
+Banks used Sedative Cocktail on Heavy Turret - from (22, -4) to (34, 2)
+Heavy Turret stability prevented 1 knockback
+Inorganic prevented Heavy Turret from gaining Sedated
+Inorganic prevented Heavy Turret from gaining Unsteady
+Heavy Turret used Rocket Shot on Jen - from (34, -5) to (34, -4)
+Heavy Turret armour blocked 1 damage
+Heavy Turret stability prevented 1 knockback
+3 damage and 2 knockback to Jen was transferred to Reactor Tracker Clapet
+Reactor Tracker Clapet took 3 damage
+Reactor Tracker Clapet passed out
+Reactor Tracker Clapet took 2 knockback
+Reactor Tracker Clapet hit something with 2 knockback left
+Heavy Turret used Rocket Shot on Banks - from (34, 2) to (22, -4)
+Banks took 3 damage
+Banks took 2 knockback
+Banks hit something with 1 knockback left
+Banks took 1 damage
+Banks passed out
+Banks took cover - from (22, -4) to (22, -4)
+Heavy Turret used Rocket Shot on Jen - from (34, -5) to (34, -4)
+Heavy Turret armour blocked 1 damage
+Heavy Turret stability prevented 1 knockback
+3 damage and 2 knockback to Jen was transferred to Reactor Tracker Clapet
+Reactor Tracker Clapet took 3 damage
+Reactor Tracker Clapet passed out
+Reactor Tracker Clapet took 2 knockback
+Reactor Tracker Clapet hit something with 2 knockback left
+Heavy Turret used Rocket Shot - from (34, 2) to (23, -1)
+Rion took 1 damage
+Rion took 1 knockback
+Banks breached - from (20, 1) to (20, 0)
+Banks used Death's Door - from (20, 0) to (27, 3)
+Jen cast Static Blast on Reactor Shotgunner Phact - from (23, -6) to (27, 2)
+Reactor Shotgunner Phact took 2 knockback
+Reactor Shotgunner Phact fell into Death's Door
+Reactor Shotgunner Phact took 4 damage
+Reactor Shotgunner Phact passed out
+Jen used Broom Breach - from (23, -6) to (32, -6)
+Jen moved - from (32, -6) to (30, -3)
+Jen used Grab Intel - from (30, -3) to (31, -3)
+Rion bit on Reactor Shotgunner La'Dontae - from (32, 1) to (32, 0)
+Reactor Shotgunner La'Dontae took 1 damage
+Rion moved - from (32, 1) to (30, 0)
+Banks moved - from (20, 0) to (22, -2)
+Banks used Transference on Reactor Tracker Clapet - from (22, -2) to (22, 3)
+Banks used Transference on Heavy Turret - from (22, -2) to (34, -5)
+Banks used Sedative Cocktail on Reactor Tracker Clapet - from (22, -2) to (22, 3)
+Reactor Tracker Clapet took 1 knockback
+Reactor Tracker Clapet is Sedated
+Reactor Tracker Clapet hit something with 1 knockback left
+Reactor Tracker Clapet took 1 damage
+Banks took cover - from (22, -2) to (22, -2)
+Heavy Turret used Rocket Shot on Jen - from (34, -5) to (30, -3)
+3 damage and 2 knockback to Jen was transferred to Heavy Turret
+Heavy Turret armour blocked 1 damage
+Heavy Turret took 2 damage
+Heavy Turret stability prevented 1 knockback
+Heavy Turret took 1 knockback
+Heavy Turret used Rocket Shot on Jen - from (34, 2) to (30, -3)
+Jen took 3 damage
+Jen took 2 knockback
+Jen hit something with 2 knockback left
+Jen took 2 damage
+Jen passed out
+Reactor Shotgunner La'Dontae used Shotgun Blast on Heavy Turret - from (33, 1) to (34, 2)
+Heavy Turret armour blocked 1 damage
+Heavy Turret took 2 damage
+Heavy Turret stability prevented 1 knockback
+Reactor Tracker Clapet shot Banks - from (22, 3) to (22, -2)
+Banks took 2 damage
+Reactor Tracker Clapet took 2 damage
+Reactor Tracker Clapet passed out
+Jen took cover - from (30, -3) to (30, -3)
+Heavy Turret used Rocket Shot - from (34, -5) to (31, -3)
+1 damage and 1 knockback to Jen was transferred to Heavy Turret
+Heavy Turret armour blocked 1 damage
+Heavy Turret stability prevented 1 knockback
+Heavy Turret used Rocket Shot - from (34, 2) to (23, -2)
+Banks took 1 damage
+Banks took 1 knockback
+Reactor Shotgunner La'Dontae used Shotgun Blast on Heavy Turret - from (33, 1) to (34, 2)
+Heavy Turret armour blocked 1 damage
+Heavy Turret took 2 damage
+Heavy Turret stability prevented 1 knockback
+Reactor Tracker Clapet shot Banks - from (22, 3) to (21, -2)
+Banks took 2 damage
+Reactor Tracker Clapet took 2 damage
+Reactor Tracker Clapet passed out
+Rion used Change Form - from (30, 0) to (30, 0)
+Rion cast Impaling Vine on Reactor Tracker Clapet - from (30, 0) to (22, 3)
+Reactor Tracker Clapet took 1 damage
+Reactor Tracker Clapet took 5 knockback
+Rion took cover - from (30, 0) to (30, 0)
+Jen moved - from (32, -6) to (34, -4)
+Jen sealed a hostile entry point - from (34, -4) to (34, -4)
+Rion bit on Reactor Shotgunner La'Dontae - from (32, 1) to (32, 0)
+Reactor Shotgunner La'Dontae took 1 damage
+Rion used Change Form - from (32, 1) to (32, 1)
+Rion cast Impaling Vine on Reactor Tracker Clapet - from (32, 1) to (22, 3)
+Reactor Tracker Clapet took 1 damage
+Reactor Tracker Clapet took 3 knockback
+Rion moved - from (32, 1) to (30, 0)
+Rion took cover - from (30, 0) to (30, 0)
+Banks moved - from (20, 0) to (22, -2)
+Banks used Sedative Cocktail on Reactor Tracker Clapet - from (22, -2) to (25, 3)
+Reactor Tracker Clapet took 1 knockback
+Reactor Tracker Clapet is Sedated
+Reactor Tracker Clapet hit something with 1 knockback left
+Reactor Tracker Clapet took 1 extra damage from Brittle, Brittle reduced to 0
+Reactor Tracker Clapet is no longer Brittle
+Reactor Tracker Clapet took 2 damage
+Reactor Tracker Clapet passed out
+Banks used Transference on Heavy Turret - from (22, -2) to (34, -5)
+Banks took cover - from (22, -2) to (22, -2)
+Rion stood up - from (30, 0) to (30, 0)
+Rion took cover - from (30, 0) to (30, 0)
+Heavy Turret used Rocket Shot on Jen - from (34, -5) to (34, -4)
+Heavy Turret armour blocked 1 damage
+Heavy Turret stability prevented 1 knockback
+3 damage and 2 knockback to Jen was transferred to Heavy Turret
+Heavy Turret armour blocked 1 damage
+Heavy Turret took 2 damage
+Heavy Turret stability prevented 1 knockback
+Heavy Turret took 1 knockback
+Jen took 1 knockback
+Heavy Turret hit something with 1 knockback left
+Heavy Turret took 1 damage
+Heavy Turret used Rocket Shot - from (34, 2) to (31, 0)
+Rion took 1 damage
+Rion took 1 knockback
+Reactor Shotgunner La'Dontae took 1 damage
+Reactor Shotgunner La'Dontae took 1 knockback
+Player ended their turn, starting enemy turn 1
+Reactor Shotgunner La'Dontae moved - from (33, 0) to (33, 1)
+End of enemy turn 1
+ 
+Start of player turn 2
+Jen moved - from (34, -3) to (32, -3)
+Jen cast Static Blast on Heavy Turret - from (32, -3) to (34, -5)
+Heavy Turret stability prevented 1 knockback
+Heavy Turret took 1 knockback
+Heavy Turret hit something with 1 knockback left
+Heavy Turret took 1 damage
+Heavy Turret passed out
+Jen moved - from (32, -3) to (34, 1)
+Jen sealed a hostile entry point - from (34, 1) to (34, 1)
+Jen threw a Gale Grenade Heavy Turret - from (34, 1) to (34, 2)
+Reactor Shotgunner La'Dontae took 1 knockback
+Jen took 1 knockback
+Heavy Turret armour blocked 1 damage
+Heavy Turret took 1 damage
+Banks used Spectral Skull on Heavy Turret - from (22, -2) to (34, 2)
+Rion took 2 damage
+Reactor Shotgunner La'Dontae took 2 damage
+Reactor Shotgunner La'Dontae passed out
+Heavy Turret armour blocked 1 damage
+Heavy Turret took 1 damage
+Inorganic prevented Heavy Turret from gaining Unsteady
+Rion cast Brittling Dart on Heavy Turret - from (29, 0) to (34, 2)
+Rion cast Impaling Vine on Heavy Turret - from (29, 0) to (34, 2)
+Brittle: 1 armour lost (Heavy Turret)
+Heavy Turret took 1 extra damage from Brittle, Brittle reduced to 0
+Heavy Turret is no longer Brittle
+Heavy Turret took 1 damage
+Heavy Turret stability prevented 1 knockback
+Heavy Turret took 2 knockback
+Jen threw a Gale Grenade - from (34, 1) to (33, 0)
+Reactor Shotgunner La'Dontae took 1 knockback
+Jen took 1 knockback
+Jen hit something with 1 knockback left
+Jen took 1 damage
+Rion cast Brittling Dart on Heavy Turret - from (29, 0) to (34, 2)
+Rion cast Impaling Vine on Heavy Turret - from (29, 0) to (34, 2)
+Brittle: 1 armour lost (Heavy Turret)
+Heavy Turret took 1 extra damage from Brittle, Brittle reduced to 0
+Heavy Turret is no longer Brittle
+Heavy Turret took 1 damage
+Heavy Turret stability prevented 1 knockback
+Heavy Turret took 2 knockback
+Rion used Spore Bomb on Reactor Shotgunner La'Dontae - from (29, 0) to (33, 1)
+Heavy Turret took 1 extra damage from Brittle, Brittle reduced to 0
+Heavy Turret is no longer Brittle
+Heavy Turret took 4 damage
+Heavy Turret passed out
+Reactor Shotgunner La'Dontae took 3 damage
+Reactor Shotgunner La'Dontae passed out
+Jen moved - from (32, -3) to (34, 1)
+Jen sealed a hostile entry point - from (34, 1) to (34, 1)

@@ -1,0 +1,63 @@
+06_Liboli_Intro_2_Mainframe
+ 
+Start of player turn 1
+Zan breached - from (9, 2) to (9, 1)
+Zan  - from (9, 1) to (13, 2)
+Zan moved - from (9, 1) to (12, 1)
+Zan used Grab Intel - from (12, 1) to (12, 2)
+Zan used 3 Bolt Burst on Turret - from (12, 1) to (17, 0)
+Turret armour blocked 1 damage
+Turret stability prevented 1 knockback
+Jen moved - from (9, 0) to (14, 1)
+Jen moved - from (9, 0) to (14, 1)
+Jen cast Static Blast on Reactor Tracker Fluker - from (14, 1) to (16, 4)
+Reactor Tracker Fluker took 2 knockback
+Reactor Tracker Fluker hit something with 1 knockback left
+Reactor Tracker Fluker took 1 damage
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Zan moved - from (9, 1) to (13, 0)
+Jen cast Static Blast on Reactor Tracker Fluker - from (14, 1) to (16, 4)
+Reactor Tracker Fluker took 2 knockback
+Reactor Tracker Fluker hit something with 1 knockback left
+Reactor Tracker Fluker took 1 damage
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Zan moved - from (9, 1) to (12, 1)
+Zan used Grab Intel - from (12, 1) to (12, 2)
+Zan used Time Boost on Jen - from (12, 1) to (14, 1)
+Jen cast Static Blast on Reactor Tracker Fluker - from (14, 1) to (17, 5)
+Reactor Tracker Fluker took 2 knockback
+Reactor Tracker Fluker hit something with 2 knockback left
+Reactor Tracker Fluker took 2 damage
+Reactor Tracker Fluker passed out
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Turret shot False Prophet - from (17, 0) to (13, 2)
+False Prophet took 3 damage
+False Prophet passed out
+False Prophet took 1 knockback
+False Prophet hit something with 1 knockback left
+Player ended their turn, starting enemy turn 1
+End of enemy turn 1
+ 
+Start of player turn 2
+Jen moved - from (14, 1) to (15, 5)
+Jen used Hack Turret - from (15, 5) to (15, 6)
+Jen cast Static Blast on Reactor Tracker Midthunder - from (15, 5) to (17, 5)
+Reactor Tracker Midthunder took 2 knockback
+Reactor Tracker Midthunder hit something with 2 knockback left
+Reactor Tracker Midthunder took 2 damage
+Zan took a free shot at Reactor Tracker Midthunder with Supporting Fire.
+Zan used 3 Bolt Burst on Reactor Tracker Midthunder - from (12, 1) to (17, 5)
+Reactor Tracker Midthunder took 1 damage
+Reactor Tracker Midthunder passed out
+Reactor Tracker Midthunder took 1 knockback
+Reactor Tracker Midthunder hit something with 1 knockback left
+Zan moved - from (12, 1) to (15, 4)
+Player ended their turn, starting enemy turn 2
+Zan shot Reactor Tracker Hightower on overwatch
+Reactor Tracker Hightower took 4 damage
+Reactor Tracker Hightower passed out
+End of enemy turn 2
+ 
+Start of player turn 3
+Jen moved - from (15, 5) to (17, 4)
+Jen sealed a hostile entry point - from (17, 4) to (17, 4)

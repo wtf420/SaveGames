@@ -1,0 +1,507 @@
+10_The_Pyromancer_1_The_Less_Lethal_Pyromancer
+ 
+Start of player turn 1
+Banks breached - from (15, -10) to (16, -10)
+Banks used Sedative Cocktail on Traffic Warlock - from (16, -10) to (19, -5)
+Traffic Warlock took 1 knockback
+Traffic Warlock is Sedated
+Traffic Warlock hit something with 1 knockback left
+Traffic Warlock took 1 damage
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Jen breached - from (10, -10) to (11, -10)
+Banks is no longer Neutralised
+Banks moved - from (16, -10) to (17, -8)
+Banks used Death's Door - from (17, -8) to (21, -5)
+Jen moved - from (11, -10) to (13, -6)
+Zan moved - from (12, -10) to (10, -7)
+Zan used 3 Bolt Burst on Reactor Neutraliser Jones - from (10, -7) to (11, -1)
+Reactor Neutraliser Jones took 1 damage
+Reactor Neutraliser Jones took 1 knockback
+Reactor Neutraliser Jones was burned by a patch of Mildfire
+Reactor Neutraliser Jones took 1 damage
+Reactor Neutraliser Jones passed out
+Jen is no longer Neutralised
+Jen cast Static Blast on Traffic Warlock - from (13, -6) to (19, -5)
+Traffic Warlock took 3 knockback
+Traffic Warlock fell into Death's Door
+Traffic Warlock took 7 damage
+Traffic Warlock passed out
+Banks used Transference on Less Lethal Pyromancer - from (17, -8) to (14, 0)
+Banks repositioned - from (15, -10) to (10, -10)
+Banks breached - from (10, -10) to (11, -10)
+Banks moved - from (11, -10) to (13, -6)
+Zan moved - from (12, -10) to (11, -6)
+Banks is no longer Neutralised
+Jen breached - from (15, -10) to (16, -10)
+Banks breached - from (15, -10) to (16, -10)
+Banks moved - from (16, -10) to (18, -8)
+Banks took cover - from (18, -8) to (18, -8)
+Banks is no longer Neutralised
+Jen breached - from (10, -10) to (11, -10)
+Zan moved - from (12, -10) to (13, -6)
+Jen is no longer Neutralised
+Jen moved - from (11, -10) to (11, -6)
+Zan is no longer Neutralised
+Banks stood up - from (18, -8) to (18, -8)
+Banks used Sedative Cocktail on Traffic Warlock - from (18, -8) to (19, -5)
+Traffic Warlock took 1 knockback
+Traffic Warlock is Sedated
+Zan took a free shot at Traffic Warlock with Supporting Fire.
+Zan used 3 Bolt Burst on Traffic Warlock - from (13, -6) to (19, -4)
+Traffic Warlock armour blocked 1 damage
+Traffic Warlock took 2 knockback
+Traffic Warlock hit something with 2 knockback left
+Traffic Warlock took 2 damage
+Zan used 3 Bolt Burst on Reactor Neutraliser Jones - from (13, -6) to (11, -1)
+Reactor Neutraliser Jones took 1 damage
+Reactor Neutraliser Jones took 1 knockback
+Reactor Neutraliser Jones was burned by a patch of Mildfire
+Reactor Neutraliser Jones took 1 damage
+Reactor Neutraliser Jones passed out
+Jen is no longer Neutralised
+Banks used Death's Door - from (18, -8) to (21, -5)
+Jen cast Chain Bolt on Less Lethal Pyromancer, Turret, Traffic Warlock - from (11, -6) to (14, 0)
+Less Lethal Pyromancer stability prevented 1 knockback
+Less Lethal Pyromancer took 1 knockback
+Turret stability prevented 1 knockback
+Turret took 1 knockback
+Traffic Warlock took 4 knockback
+Turret hit something with 1 knockback left
+Turret took 1 damage
+Traffic Warlock hit something with 2 knockback left
+Traffic Warlock took 2 damage
+Jen cast Static Blast on - from (11, -6) to (16, -3)
+Explosive Barrel took 2 knockback
+Turret stability prevented 1 knockback
+Explosive Barrel hit something with 2 knockback left
+Explosive Barrel took 2 damage
+Explosive Barrel exploded
+Turret armour blocked 1 damage
+Turret took 3 damage
+Turret stability prevented 1 knockback
+Zan used Time Boost on Jen - from (13, -6) to (11, -6)
+Jen moved - from (11, -10) to (11, -6)
+Zan moved - from (12, -10) to (13, -6)
+Banks stood up - from (18, -8) to (18, -8)
+Banks used Death's Door - from (18, -8) to (22, -7)
+Zan used 3 Bolt Burst on Reactor Neutraliser Jones - from (13, -6) to (11, -1)
+Reactor Neutraliser Jones took 1 damage
+Reactor Neutraliser Jones took 1 knockback
+Reactor Neutraliser Jones was burned by a patch of Mildfire
+Reactor Neutraliser Jones took 1 damage
+Reactor Neutraliser Jones passed out
+Jen is no longer Neutralised
+Jen cast Chain Bolt on Less Lethal Pyromancer, Turret, Traffic Warlock - from (11, -6) to (14, 0)
+Less Lethal Pyromancer stability prevented 1 knockback
+Less Lethal Pyromancer took 1 knockback
+Turret stability prevented 1 knockback
+Turret took 1 knockback
+Traffic Warlock took 4 knockback
+Turret hit something with 1 knockback left
+Turret took 1 damage
+Traffic Warlock fell into Death's Door
+Traffic Warlock took 8 damage
+Traffic Warlock passed out
+Banks used Transference on Less Lethal Pyromancer - from (18, -8) to (15, 1)
+Banks used Sedative Cocktail on Less Lethal Pyromancer - from (18, -8) to (14, 0)
+Less Lethal Pyromancer stability prevented 1 knockback
+Gasmasked prevented Less Lethal Pyromancer from gaining Sedated
+Gasmasked prevented Less Lethal Pyromancer from gaining Unsteady
+Zan took a free shot at Less Lethal Pyromancer with Supporting Fire.
+Zan used 3 Bolt Burst on Less Lethal Pyromancer - from (13, -6) to (14, 0)
+Less Lethal Pyromancer took 1 damage
+Less Lethal Pyromancer stability prevented 1 knockback
+Jen cast Chain Bolt on Less Lethal Pyromancer, Explosive Barrel, Traffic Warlock - from (11, -6) to (14, 0)
+Less Lethal Pyromancer stability prevented 1 knockback
+Less Lethal Pyromancer took 1 knockback
+Explosive Barrel took 2 knockback
+Traffic Warlock took 4 knockback
+Explosive Barrel hit something with 2 knockback left
+Explosive Barrel took 2 damage
+Explosive Barrel exploded
+Turret armour blocked 1 damage
+Turret took 3 damage
+Turret stability prevented 1 knockback
+Traffic Warlock fell into Death's Door
+Traffic Warlock took 8 damage
+Traffic Warlock passed out
+Jen threw a Gale Grenade Less Lethal Pyromancer - from (11, -6) to (15, 1)
+Zan used Time Boost on Jen - from (13, -6) to (11, -6)
+Jen cast Static Blast on - from (11, -6) to (13, -4)
+Explosive Barrel took 2 knockback
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Zan used Time Boost on Jen - from (13, -6) to (11, -6)
+Jen cast Static Blast on - from (11, -6) to (13, -4)
+Explosive Barrel took 2 knockback
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Jen threw a Gale Grenade - from (11, -6) to (15, -3)
+Explosive Barrel took 1 knockback
+Turret shot Zan - from (17, -2) to (13, -6)
+Zan took 3 damage
+Zan took 1 knockback
+Less Lethal Pyromancer used Throw Mildfire - from (15, 1) to (13, -6)
+Banks used Transference on Less Lethal Pyromancer - from (18, -8) to (15, 1)
+Zan used Grab Intel - from (13, -6) to (14, -6)
+Jen used Grab Intel - from (11, -6) to (11, -5)
+Banks used Grab Intel - from (18, -8) to (18, -7)
+Turret shot Zan - from (17, -2) to (13, -6)
+3 damage and 1 knockback to Zan was transferred to Less Lethal Pyromancer
+Less Lethal Pyromancer took 3 damage
+Less Lethal Pyromancer is no longer Gasmasked
+Less Lethal Pyromancer stability prevented 1 knockback
+Less Lethal Pyromancer used Throw Mildfire on Zan - from (15, 1) to (13, -6)
+Banks used Grab Intel - from (18, -8) to (18, -7)
+Zan  - from (13, -6) to (14, -3)
+Zan used Grab Intel - from (13, -6) to (14, -6)
+Jen used Grab Intel - from (11, -6) to (11, -5)
+Turret shot False Prophet - from (17, -2) to (14, -3)
+False Prophet took 3 damage
+False Prophet passed out
+False Prophet took 1 knockback
+Player ended their turn, starting enemy turn 1
+Reactor Heavy Gunner Vasser moved - from (15, 2) to (16, -1)
+Reactor Heavy Gunner Vasser launched a grenade - from (16, -1) to (12, -7)
+Less Lethal Pyromancer moved - from (15, 1) to (15, -2)
+Less Lethal Pyromancer was protected from Mildfire damage
+End of enemy turn 1
+ 
+Start of player turn 2
+Banks moved - from (18, -8) to (21, -8)
+Banks used Hack Turret - from (21, -8) to (21, -9)
+Zan moved - from (13, -6) to (16, -5)
+Zan moved - from (13, -6) to (16, -5)
+Jen cast Static Blast on - from (11, -6) to (13, -4)
+Explosive Barrel took 2 knockback
+Less Lethal Pyromancer stability prevented 1 knockback
+Explosive Barrel hit something with 1 knockback left
+Explosive Barrel took 1 damage
+Explosive Barrel exploded
+Less Lethal Pyromancer took 4 damage
+Less Lethal Pyromancer is no longer Gasmasked
+Less Lethal Pyromancer stability prevented 1 knockback
+Jen threw a Gale Grenade - from (11, -6) to (12, -5)
+Jen took 1 knockback
+Explosive Barrel took 1 knockback
+Jen hit something with 1 knockback left
+Jen took 1 damage
+Jen cast Chain Bolt on Explosive Barrel, Less Lethal Pyromancer, Reactor Heavy Gunner Vasser - from (11, -6) to (14, -3)
+Explosive Barrel took 2 knockback
+Less Lethal Pyromancer stability prevented 1 knockback
+Less Lethal Pyromancer took 1 knockback
+Reactor Heavy Gunner Vasser stability prevented 1 knockback
+Reactor Heavy Gunner Vasser took 3 knockback
+Reactor Heavy Gunner Vasser hit something with 3 knockback left
+Reactor Heavy Gunner Vasser took 3 damage
+Reactor Heavy Gunner Vasser stability prevented 1 knockback
+Less Lethal Pyromancer hit something with 1 knockback left
+Less Lethal Pyromancer took 1 damage
+Less Lethal Pyromancer stability prevented 1 knockback
+Explosive Barrel hit something with 2 knockback left
+Explosive Barrel took 2 damage
+Explosive Barrel exploded
+Less Lethal Pyromancer took 4 damage
+Less Lethal Pyromancer is no longer Gasmasked
+Less Lethal Pyromancer stability prevented 1 knockback
+Zan used 3 Bolt Burst on Less Lethal Pyromancer - from (16, -5) to (15, -2)
+Less Lethal Pyromancer took 1 damage
+Less Lethal Pyromancer stability prevented 1 knockback
+Banks moved - from (18, -8) to (21, -8)
+Banks used Hack Turret - from (21, -8) to (21, -9)
+Banks used Sedative Cocktail on Reactor Heavy Gunner Vasser - from (21, -8) to (16, -1)
+Gasmasked prevented Less Lethal Pyromancer from gaining Sedated
+Gasmasked prevented Less Lethal Pyromancer from gaining Unsteady
+Reactor Heavy Gunner Vasser stability prevented 1 knockback
+Reactor Heavy Gunner Vasser is Sedated
+Zan took a free shot at Reactor Heavy Gunner Vasser with Supporting Fire.
+Zan used 3 Bolt Burst on Reactor Heavy Gunner Vasser - from (13, -6) to (16, -1)
+Reactor Heavy Gunner Vasser armour blocked 1 damage
+Reactor Heavy Gunner Vasser took 1 knockback
+Reactor Heavy Gunner Vasser hit something with 1 knockback left
+Reactor Heavy Gunner Vasser took 1 damage
+Zan used 3 Bolt Burst on Less Lethal Pyromancer - from (13, -6) to (15, -2)
+Less Lethal Pyromancer took 1 damage
+Less Lethal Pyromancer stability prevented 1 knockback
+Jen cast Chain Bolt on Explosive Barrel, Less Lethal Pyromancer, Reactor Heavy Gunner Vasser - from (11, -6) to (13, -4)
+Explosive Barrel took 2 knockback
+Less Lethal Pyromancer stability prevented 1 knockback
+Less Lethal Pyromancer took 1 knockback
+Reactor Heavy Gunner Vasser took 4 knockback
+Reactor Heavy Gunner Vasser hit something with 4 knockback left
+Reactor Heavy Gunner Vasser took 4 damage
+Reactor Heavy Gunner Vasser passed out
+Zan used 3 Bolt Burst - from (13, -6) to (15, -2)
+Explosive Barrel took 1 damage
+Explosive Barrel took 1 knockback
+Less Lethal Pyromancer stability prevented 1 knockback
+Explosive Barrel hit something with 1 knockback left
+Explosive Barrel took 1 damage
+Explosive Barrel exploded
+Less Lethal Pyromancer took 4 damage
+Less Lethal Pyromancer is no longer Gasmasked
+Less Lethal Pyromancer stability prevented 1 knockback
+Zan moved - from (13, -6) to (16, -5)
+Zan moved - from (13, -6) to (14, -3)
+Jen moved - from (11, -6) to (13, -2)
+Less Lethal Pyromancer used Throw Mildfire on Zan - from (16, -1) to (14, -3)
+Player ended their turn, starting enemy turn 2
+Zan shot Reactor Neutraliser Ossard on overwatch
+Reactor Neutraliser Ossard took 4 damage
+Reactor Neutraliser Ossard passed out
+End of enemy turn 2
+ 
+Start of player turn 3
+Jen moved - from (13, -2) to (13, 1)
+Jen cast Static Blast on Less Lethal Pyromancer - from (13, 1) to (16, -1)
+Less Lethal Pyromancer stability prevented 1 knockback
+Less Lethal Pyromancer took 1 knockback
+Less Lethal Pyromancer hit something with 1 knockback left
+Less Lethal Pyromancer took 1 damage
+Zan took a free shot at Less Lethal Pyromancer with Supporting Fire.
+Zan took 1 damage
+Zan used 3 Bolt Burst on Less Lethal Pyromancer - from (14, -3) to (16, -1)
+Less Lethal Pyromancer took 1 damage
+Less Lethal Pyromancer stability prevented 1 knockback
+Zan took 1 damage
+Zan used 3 Bolt Burst on Less Lethal Pyromancer - from (14, -3) to (16, -1)
+Less Lethal Pyromancer took 1 damage
+Less Lethal Pyromancer stability prevented 1 knockback
+Banks used Sedative Cocktail on Less Lethal Pyromancer - from (21, -8) to (16, -1)
+Less Lethal Pyromancer stability prevented 1 knockback
+Less Lethal Pyromancer is Sedated
+Zan took a free shot at Less Lethal Pyromancer with Supporting Fire.
+Zan took 1 damage
+Zan used 3 Bolt Burst on Less Lethal Pyromancer - from (14, -3) to (16, -1)
+Less Lethal Pyromancer took 1 damage
+Less Lethal Pyromancer took 1 knockback
+Less Lethal Pyromancer hit something with 1 knockback left
+Less Lethal Pyromancer took 1 damage
+Zan took 1 damage
+Zan used 3 Bolt Burst on Less Lethal Pyromancer - from (14, -3) to (16, -1)
+Less Lethal Pyromancer took 1 damage
+Less Lethal Pyromancer took 1 knockback
+Less Lethal Pyromancer hit something with 1 knockback left
+Less Lethal Pyromancer took 1 damage
+Jen moved - from (13, -2) to (13, 1)
+Jen used Grab Intel - from (13, 1) to (13, 0)
+Jen cast Chain Bolt on Less Lethal Pyromancer - from (13, 1) to (16, -1)
+Less Lethal Pyromancer took 4 knockback
+Less Lethal Pyromancer hit something with 4 knockback left
+Less Lethal Pyromancer took 4 damage
+Jen threw a Gale Grenade - from (13, 1) to (15, -1)
+Less Lethal Pyromancer took 1 knockback
+Less Lethal Pyromancer hit something with 1 knockback left
+Less Lethal Pyromancer took 1 damage
+Zan took 1 damage
+Zan used Time Boost on Jen - from (14, -3) to (13, 1)
+Banks moved - from (21, -8) to (18, -5)
+Banks used Sedative Cocktail on Less Lethal Pyromancer - from (18, -5) to (16, -1)
+Less Lethal Pyromancer stability prevented 1 knockback
+Less Lethal Pyromancer is Sedated
+Zan took a free shot at Less Lethal Pyromancer with Supporting Fire.
+Zan took 1 damage
+Zan used 3 Bolt Burst on Less Lethal Pyromancer - from (14, -3) to (16, -1)
+Less Lethal Pyromancer took 1 damage
+Less Lethal Pyromancer took 1 knockback
+Less Lethal Pyromancer hit something with 1 knockback left
+Less Lethal Pyromancer took 1 damage
+Jen moved - from (13, -2) to (13, 1)
+Zan took 1 damage
+Zan used Time Boost on Banks - from (14, -3) to (18, -5)
+Jen cast Static Blast on Less Lethal Pyromancer - from (13, 1) to (16, -1)
+Less Lethal Pyromancer took 2 knockback
+Less Lethal Pyromancer hit something with 2 knockback left
+Less Lethal Pyromancer took 2 damage
+Zan took a free shot at Less Lethal Pyromancer with Supporting Fire.
+Zan took 1 damage
+Zan used 3 Bolt Burst on Less Lethal Pyromancer - from (14, -3) to (16, -1)
+Less Lethal Pyromancer took 1 damage
+Less Lethal Pyromancer took 1 knockback
+Less Lethal Pyromancer hit something with 1 knockback left
+Less Lethal Pyromancer took 1 damage
+Jen moved - from (13, -2) to (13, 1)
+Jen used Grab Intel - from (13, 1) to (13, 0)
+Zan took 1 damage
+Zan used 3 Bolt Burst on Less Lethal Pyromancer - from (14, -3) to (16, -1)
+Less Lethal Pyromancer took 1 damage
+Less Lethal Pyromancer took 1 knockback
+Less Lethal Pyromancer hit something with 1 knockback left
+Less Lethal Pyromancer took 1 damage
+Zan took 1 damage
+Zan used Time Boost on Jen - from (14, -3) to (13, 1)
+Banks moved - from (21, -8) to (17, -6)
+Banks was burned by a patch of Mildfire
+Banks took 1 damage
+Zan took 1 damage
+Zan moved - from (14, -3) to (15, -4)
+Zan was protected from Mildfire damage
+Banks used Sedative Cocktail on Less Lethal Pyromancer - from (17, -6) to (16, -1)
+Less Lethal Pyromancer stability prevented 1 knockback
+Less Lethal Pyromancer is Sedated
+Zan took a free shot at Less Lethal Pyromancer with Supporting Fire.
+Zan took 1 damage
+Zan used 3 Bolt Burst on Less Lethal Pyromancer - from (15, -4) to (16, -1)
+Less Lethal Pyromancer took 1 damage
+Less Lethal Pyromancer took 1 knockback
+Zan took 1 damage
+Zan used 3 Bolt Burst on Less Lethal Pyromancer - from (14, -3) to (16, -1)
+Less Lethal Pyromancer took 1 damage
+Less Lethal Pyromancer stability prevented 1 knockback
+Banks used Sedative Cocktail on Less Lethal Pyromancer - from (17, -6) to (16, -1)
+Less Lethal Pyromancer stability prevented 1 knockback
+Less Lethal Pyromancer is Sedated
+Zan took a free shot at Less Lethal Pyromancer with Supporting Fire.
+Zan took 1 damage
+Zan used 3 Bolt Burst on Less Lethal Pyromancer - from (14, -3) to (16, -1)
+Less Lethal Pyromancer took 1 damage
+Less Lethal Pyromancer took 1 knockback
+Less Lethal Pyromancer hit something with 1 knockback left
+Less Lethal Pyromancer took 1 damage
+Zan took 1 damage
+Zan used 3 Bolt Burst on Less Lethal Pyromancer - from (14, -3) to (16, -1)
+Less Lethal Pyromancer took 1 damage
+Less Lethal Pyromancer took 1 knockback
+Less Lethal Pyromancer hit something with 1 knockback left
+Less Lethal Pyromancer took 1 damage
+Zan took 1 damage
+Zan moved - from (14, -3) to (15, -4)
+Zan was protected from Mildfire damage
+Jen moved - from (13, -2) to (13, 1)
+Jen used Grab Intel - from (13, 1) to (13, 0)
+Jen cast Static Blast on Less Lethal Pyromancer - from (13, 1) to (16, -1)
+Less Lethal Pyromancer took 2 knockback
+Less Lethal Pyromancer hit something with 2 knockback left
+Less Lethal Pyromancer took 2 damage
+Zan took a free shot at Less Lethal Pyromancer with Supporting Fire.
+Zan took 1 damage
+Zan passed out
+Zan used 3 Bolt Burst on Less Lethal Pyromancer - from (15, -4) to (16, -1)
+Less Lethal Pyromancer took 1 damage
+Less Lethal Pyromancer took 1 knockback
+Banks used Resurrect on Zan - from (17, -6) to (15, -4)
+Zan took 4 damage
+Zan passed out
+Zan took 1 damage
+Zan passed out
+Zan used Time Boost on Jen - from (15, -4) to (13, 1)
+Jen moved - from (13, -2) to (13, 1)
+Jen cast Static Blast on Less Lethal Pyromancer - from (13, 1) to (16, -1)
+Less Lethal Pyromancer took 2 knockback
+Less Lethal Pyromancer hit something with 2 knockback left
+Less Lethal Pyromancer took 2 damage
+Zan took a free shot at Less Lethal Pyromancer with Supporting Fire.
+Zan took 1 damage
+Zan used 3 Bolt Burst on Less Lethal Pyromancer - from (14, -3) to (16, -1)
+Less Lethal Pyromancer took 1 damage
+Less Lethal Pyromancer took 1 knockback
+Less Lethal Pyromancer hit something with 1 knockback left
+Less Lethal Pyromancer took 1 damage
+Zan took 1 damage
+Zan used Time Boost on Jen - from (14, -3) to (13, 1)
+Zan took 1 damage
+Zan passed out
+Zan moved - from (14, -3) to (15, -4)
+Zan was burned by a patch of Mildfire
+Jen moved - from (13, -2) to (13, 1)
+Jen cast Static Blast on Less Lethal Pyromancer - from (13, 1) to (16, -1)
+Less Lethal Pyromancer stability prevented 1 knockback
+Less Lethal Pyromancer took 1 knockback
+Less Lethal Pyromancer hit something with 1 knockback left
+Less Lethal Pyromancer took 1 damage
+Banks used Sedative Cocktail on Less Lethal Pyromancer - from (17, -6) to (16, -1)
+Less Lethal Pyromancer stability prevented 1 knockback
+Less Lethal Pyromancer is Sedated
+Zan took a free shot at Less Lethal Pyromancer with Supporting Fire.
+Zan took 1 damage
+Zan used 3 Bolt Burst on Less Lethal Pyromancer - from (14, -3) to (16, -1)
+Less Lethal Pyromancer took 1 damage
+Less Lethal Pyromancer took 1 knockback
+Less Lethal Pyromancer hit something with 1 knockback left
+Less Lethal Pyromancer took 1 damage
+Jen cast Static Blast on Less Lethal Pyromancer - from (13, 1) to (16, -1)
+Less Lethal Pyromancer took 2 knockback
+Less Lethal Pyromancer hit something with 2 knockback left
+Less Lethal Pyromancer took 2 damage
+Zan took a free shot at Less Lethal Pyromancer with Supporting Fire.
+Zan took 1 damage
+Zan used 3 Bolt Burst on Less Lethal Pyromancer - from (14, -3) to (16, -1)
+Less Lethal Pyromancer took 1 damage
+Less Lethal Pyromancer took 1 knockback
+Less Lethal Pyromancer hit something with 1 knockback left
+Less Lethal Pyromancer took 1 damage
+Zan took 1 damage
+Zan used Time Boost on Jen - from (14, -3) to (13, 1)
+Zan took 1 damage
+Zan passed out
+Zan moved - from (14, -3) to (15, -4)
+Zan was burned by a patch of Mildfire
+Banks used Sedative Cocktail on Less Lethal Pyromancer - from (17, -6) to (16, -1)
+Less Lethal Pyromancer stability prevented 1 knockback
+Less Lethal Pyromancer is Sedated
+Zan took a free shot at Less Lethal Pyromancer with Supporting Fire.
+Zan took 1 damage
+Zan used 3 Bolt Burst on Less Lethal Pyromancer - from (14, -3) to (16, -1)
+Less Lethal Pyromancer took 1 damage
+Less Lethal Pyromancer took 1 knockback
+Less Lethal Pyromancer hit something with 1 knockback left
+Less Lethal Pyromancer took 1 damage
+Jen moved - from (13, -2) to (13, 1)
+Zan took 1 damage
+Zan moved - from (14, -3) to (15, -4)
+Zan was protected from Mildfire damage
+Zan took 1 damage
+Zan used 3 Bolt Burst on Less Lethal Pyromancer - from (14, -3) to (16, -1)
+Less Lethal Pyromancer took 1 damage
+Less Lethal Pyromancer took 1 knockback
+Less Lethal Pyromancer hit something with 1 knockback left
+Less Lethal Pyromancer took 1 damage
+Zan took 1 damage
+Zan moved - from (14, -3) to (15, -4)
+Zan was protected from Mildfire damage
+Zan took 1 damage
+Zan passed out
+Zan used Time Boost on Jen - from (15, -4) to (13, 1)
+Banks used Sedative Cocktail on Less Lethal Pyromancer - from (17, -6) to (16, -1)
+Less Lethal Pyromancer stability prevented 1 knockback
+Less Lethal Pyromancer is Sedated
+Zan took a free shot at Less Lethal Pyromancer with Supporting Fire.
+Zan took 1 damage
+Zan used 3 Bolt Burst on Less Lethal Pyromancer - from (14, -3) to (16, -1)
+Less Lethal Pyromancer took 1 damage
+Less Lethal Pyromancer took 1 knockback
+Less Lethal Pyromancer hit something with 1 knockback left
+Less Lethal Pyromancer took 1 damage
+Zan took 1 damage
+Zan used 3 Bolt Burst on Less Lethal Pyromancer - from (14, -3) to (16, -1)
+Less Lethal Pyromancer took 1 damage
+Less Lethal Pyromancer took 1 knockback
+Less Lethal Pyromancer hit something with 1 knockback left
+Less Lethal Pyromancer took 1 damage
+Zan took 1 damage
+Zan moved - from (14, -3) to (15, -4)
+Zan was protected from Mildfire damage
+Banks used Resurrect on Zan - from (17, -6) to (15, -4)
+Zan took 4 damage
+Zan passed out
+Jen moved - from (13, -2) to (13, 1)
+Jen cast Static Blast on Less Lethal Pyromancer - from (13, 1) to (16, -1)
+Less Lethal Pyromancer took 2 knockback
+Less Lethal Pyromancer hit something with 2 knockback left
+Less Lethal Pyromancer took 2 damage
+Zan took a free shot at Less Lethal Pyromancer with Supporting Fire.
+Zan used 3 Bolt Burst on Less Lethal Pyromancer - from (15, -4) to (16, -1)
+Less Lethal Pyromancer took 1 damage
+Less Lethal Pyromancer took 1 knockback
+Jen used Grab Intel - from (13, 1) to (13, 0)
+Zan used Time Boost on Jen - from (15, -4) to (13, 1)
+Jen cast Static Blast on Less Lethal Pyromancer - from (13, 1) to (16, 0)
+Less Lethal Pyromancer took 2 knockback
+Less Lethal Pyromancer hit something with 2 knockback left
+Less Lethal Pyromancer took 2 damage
+Zan took a free shot at Less Lethal Pyromancer with Supporting Fire.
+Zan used 3 Bolt Burst on Less Lethal Pyromancer - from (15, -4) to (16, 0)
+Less Lethal Pyromancer took 1 damage
+Less Lethal Pyromancer passed out
+Less Lethal Pyromancer took 1 knockback
+Banks used Resurrect on Zan - from (17, -6) to (15, -4)
+Zan took 4 damage
+Zan passed out

@@ -1,0 +1,48 @@
+12_Train_2_Sappers
+Chapel Cleanser Fluker took cover - from (0, -45) to (0, -45)
+ 
+Start of player turn 1
+Jen used Broom Breach - from (2, -48) to (2, -42)
+Jen cast Chain Bolt on Chapel Tracker Kuiper, Chapel Cleanser Fluker, Chapel Tracker Signori - from (2, -42) to (0, -43)
+Chapel Tracker Kuiper took 2 knockback
+Chapel Cleanser Fluker took 2 knockback
+Chapel Tracker Signori took 2 knockback
+Explosive Barrel took 1 knockback
+Chapel Tracker Signori hit something with 2 knockback left
+Chapel Tracker Signori took 2 damage
+Chapel Cleanser Fluker hit something with 2 knockback left
+Chapel Cleanser Fluker took 2 damage
+Explosive Barrel hit something with 1 knockback left
+Explosive Barrel took 1 damage
+Explosive Barrel exploded
+Chapel Tracker Signori took 4 damage
+Chapel Tracker Signori passed out
+Chapel Tracker Signori took 1 knockback
+Chapel Tracker Kuiper hit something with 1 knockback left
+Chapel Tracker Kuiper took 1 damage
+Jen moved - from (2, -42) to (1, -41)
+Chapel Cleanser Fluker launched a Cleansing Vessel Jen - from (0, -45) to (1, -41)
+Air Canister took 1 damage
+Jen took 1 damage
+Jen is no longer Mana Drain
+Air Canister exploded
+Jen took 3 knockback
+Jen hit something with 3 knockback left
+Jen took 3 damage
+Jen passed out
+Jen moved - from (2, -42) to (2, -41)
+Jen cast Chain Bolt on Air Canister, Chapel Tracker Kuiper, Chapel Cleanser Fluker - from (2, -42) to (0, -42)
+Air Canister took 2 knockback
+Chapel Tracker Kuiper took 2 knockback
+Chapel Cleanser Fluker took 2 knockback
+Chapel Cleanser Fluker hit something with 2 knockback left
+Chapel Cleanser Fluker took 2 damage
+Chapel Cleanser Fluker took 1 knockback
+Chapel Tracker Kuiper hit something with 1 knockback left
+Chapel Tracker Kuiper took 1 damage
+Chapel Cleanser Fluker hit something with 1 knockback left
+Chapel Cleanser Fluker took 1 damage
+Chapel Cleanser Fluker passed out
+Air Canister took 1 damage
+Jen moved - from (2, -42) to (1, -41)
+Jen took cover - from (1, -41) to (1, -41)

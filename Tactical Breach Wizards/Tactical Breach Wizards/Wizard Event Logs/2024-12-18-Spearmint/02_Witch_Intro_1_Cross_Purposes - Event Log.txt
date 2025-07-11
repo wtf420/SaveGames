@@ -1,0 +1,9 @@
+02_Witch_Intro_1_Cross_Purposes
+ 
+Start of player turn 1
+Jen moved - from (4, 0) to (2, 1)
+Jen cast Static Blast on Less Lethal Pyromancer - from (2, 1) to (2, -1)
+Less Lethal Pyromancer took 2 knockback
+Less Lethal Pyromancer was defenestrated - from (2, -2) to (2, -2)
+Less Lethal Pyromancer took 15 damage
+Less Lethal Pyromancer passed out

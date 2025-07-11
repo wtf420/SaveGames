@@ -1,0 +1,83 @@
+# Game_Liboli_Intro.txt
+# 2025-01-02 22:33:17 (+07:00)
+# v:2024-12-18-Spearmint
+
+<ConversationManager>
+  lastDialogFile = DreamIntro
+</ConversationManager>
+<PerkManager>
+  respecPoints = 1
+  # Perks
+  acquiredPerk[] = UnlockChainShock
+  acquiredPerk[] = seerOverwatch
+  acquiredPerk[] = ChainShockForce
+  acquiredPerk[] = UnlockGaleGrenade
+  acquiredPerk[] = UnlockTimeBoost
+  acquiredPerk[] = SupportingFire
+  # Temporary Perks (Used when replaying missions)
+  # Available Perk Points
+  WitchCopPerkPoints = 0
+  NavySeerPerkPoints = 0
+  # Total Perk Points (Additive for entire campaign)
+  WitchCopTotalPerkPoints = 1
+  NavySeerTotalPerkPoints = 1
+</PerkManager>
+<ProgressManager>
+  version = 2024-12-18-Spearmint
+  currentLevel = Dream Intro|1 Warlock|Official
+  # Unlockables
+  unlocked[] = NavySeer
+  unlocked[] = WitchCop
+  unlocked[] = Map_Panel
+  unlocked[] = Mission_Select_Panel
+  unlocked[] = Chat_Panel
+  unlocked[] = MissionDream2A
+  unlocked[] = ChatCatsName
+  unlocked[] = ChatMemorialFlashback
+  # Chats
+  # Speeches
+</ProgressManager>
+<StageManager>
+  currentStage = Text_Blacksite_Location_Card
+  incompleteMetaMenuStage = False
+  # Complete Stages
+  completedStage[] = Text_Prologue_Location_Card
+  completedStage[] = Game_Prologue
+  completedStage[] = Intro_Title_Logo_Screen
+  completedStage[] = ChapterScreen_1
+  completedStage[] = Text_Rushwater_PD_Location_Card
+  completedStage[] = Dlog_WitchStatementPI
+  completedStage[] = Dlog_WitchAndChiefCoda
+  completedStage[] = Game_Witch_Intro
+  completedStage[] = Text_Rushwater_Cells_Fading_Title_Card
+  completedStage[] = Dlog_WitchMeetsNecro
+  completedStage[] = Mission_End_Screen_Witch_Intro
+  completedStage[] = Dlog_SubwayDebrief
+  completedStage[] = Perk_Witch_Intro
+  completedStage[] = Text_Ma's_Location_Card
+  completedStage[] = Dlog_WitchAndSeerAtMas
+  completedStage[] = Map_MapStageWitch1
+  completedStage[] = Dlog_MasPostMap
+  completedStage[] = Text_Evidence_Lockup_Location_Card
+  completedStage[] = Game_Evidence_Lockup
+  completedStage[] = Dlog_ArchivesFoundFile
+  completedStage[] = Dlog_Morgue
+  completedStage[] = Dlog_Archives_Boss_Chat
+  completedStage[] = Game_Evidence_Boss
+  completedStage[] = Mission_End_Screen_Archives
+  completedStage[] = Perk_Evidence_Boss
+  completedStage[] = Dlog_SubwayArchivesDebrief
+  completedStage[] = Text_Ma's_Location_Card_2
+  completedStage[] = Dlog_WitchMeetsMa
+  completedStage[] = Map_MapStageWitch2
+  completedStage[] = Dlog_WitchMeetsMaCoda
+  completedStage[] = ChapterScreen_2
+  completedStage[] = Text_Liboli_Ferry_Location_Card
+  completedStage[] = Dlog_FerryBrief
+  completedStage[] = Dlog_FerryBriefCoda
+  completedStage[] = Chat_MemorialFlashback
+  completedStage[] = Text_Dream_Intro_fading_title_card
+  completedStage[] = Game_Dream_Intro
+  completedStage[] = SdMsn_Dream2A
+</StageManager>
+

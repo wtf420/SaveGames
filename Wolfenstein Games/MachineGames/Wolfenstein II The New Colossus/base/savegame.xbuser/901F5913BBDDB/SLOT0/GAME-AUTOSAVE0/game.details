@@ -1,0 +1,12 @@
+checksum=-110934913
+completionRation=48%
+date=1644394537
+difficulty=3
+gamePlayTime=43734
+gameVersion=1145896965
+mapName=game/wolf/submarine/submarine
+mapNiceName=#str_location_c13p1_name
+matName=textures/guis/mission/submarine/mission_main_endgame
+missionName=#str_mission_endgame_main_evashammer_name
+objectiveDesc=#str_mission_endgame_main_evashammer_summary
+objectiveName=#str_mission_c06p3_main_monster_summary

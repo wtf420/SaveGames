@@ -1,0 +1,148 @@
+22_Lucid_Dream_Dall_2_The_Hotspot
+ 
+Start of player turn 1
+Dream Dall Swapped with Dall - from (-29, 9) to (-31, 9)
+Dream Dall Swapped with Chapel Riot Priest Kuranto - from (-31, 9) to (-26, 6)
+Dream Dall used Use Laptop - from (-26, 6) to (-27, 6)
+Dall used Charge - from (-29, 9) to (-30, 9)
+Chapel Riot Priest Kuranto armour blocked 1 damage
+Chapel Riot Priest Kuranto stability prevented 1 knockback
+Dream Dall Swapped with Dall - from (-26, 6) to (-29, 9)
+Dream Dall used Charge - from (-29, 9) to (-30, 9)
+Chapel Riot Priest Kuranto armour blocked 1 damage
+Chapel Riot Priest Kuranto stability prevented 1 knockback
+Dream Dall Swapped with Chapel Riot Priest Kuranto - from (-26, 6) to (-31, 9)
+Chapel Tracker Gordo shot Chapel Riot Priest Kuranto - from (-24, 4) to (-26, 6)
+Chapel Riot Priest Kuranto armour blocked 1 damage
+Chapel Riot Priest Kuranto took 1 damage
+Chapel Tracker Love shot Chapel Riot Priest Kuranto - from (-26, 4) to (-26, 6)
+Chapel Riot Priest Kuranto armour blocked 1 damage
+Chapel Riot Priest Kuranto took 1 damage
+Chapel Riot Priest Kuranto is no longer Gasmasked
+Chapel Tracker Elm shot Chapel Riot Priest Kuranto - from (-24, 6) to (-26, 6)
+Chapel Riot Priest Kuranto armour blocked 1 damage
+Chapel Riot Priest Kuranto took 1 damage
+Chapel Tracker Dust shot Chapel Riot Priest Kuranto - from (-26, 8) to (-26, 6)
+Chapel Riot Priest Kuranto armour blocked 1 damage
+Chapel Riot Priest Kuranto took 1 damage
+Chapel Tracker Clawless shot Chapel Riot Priest Kuranto - from (-24, 8) to (-26, 6)
+Chapel Riot Priest Kuranto armour blocked 1 damage
+Chapel Riot Priest Kuranto took 1 damage
+Chapel Tracker Sacino shot Chapel Riot Priest Kuranto - from (-28, 4) to (-26, 6)
+Chapel Riot Priest Kuranto armour blocked 1 damage
+Chapel Riot Priest Kuranto took 1 damage
+Chapel Tracker Excelsis shot Chapel Riot Priest Kuranto - from (-28, 6) to (-26, 6)
+Chapel Riot Priest Kuranto armour blocked 1 damage
+Chapel Riot Priest Kuranto took 1 damage
+Chapel Tracker Gibbs shot Chapel Riot Priest Kuranto - from (-28, 8) to (-26, 6)
+Chapel Riot Priest Kuranto armour blocked 1 damage
+Chapel Riot Priest Kuranto took 1 damage
+Chapel Riot Priest Kuranto passed out
+Dall moved - from (-29, 9) to (-30, 8)
+Dall used Charge - from (-30, 8) to (-30, -1)
+Weapons Cache took 1 damage
+Dall gained 1 mana for destroying a Weapons Cache
+Weapons Cache took 12 knockback
+Weapons Cache hit something with 11 knockback left
+Weapons Cache took 11 damage
+Weapons Cache exploded
+Dall used Throw Riot Block - from (-30, -1) to (-25, -1)
+Dream Dall Swapped with Chapel Riot Priest Kuranto - from (-29, 9) to (-26, 6)
+Dream Dall used Use Laptop - from (-26, 6) to (-27, 6)
+Dream Dall Swapped with Dall - from (-26, 6) to (-31, 9)
+Dream Dall used Use Laptop - from (-26, 6) to (-27, 6)
+Dall moved - from (-31, 9) to (-30, 8)
+Dall used Charge - from (-30, 8) to (-30, -1)
+Weapons Cache took 1 damage
+Dall gained 1 mana for destroying a Weapons Cache
+Weapons Cache took 12 knockback
+Weapons Cache hit something with 11 knockback left
+Weapons Cache took 11 damage
+Weapons Cache exploded
+Dall used Throw Riot Block - from (-30, -1) to (-25, -1)
+Dream Dall Swapped with Chapel Riot Priest Kuranto - from (-26, 6) to (-29, 9)
+Chapel Tracker Gordo shot Chapel Riot Priest Kuranto - from (-24, 4) to (-26, 6)
+Chapel Riot Priest Kuranto armour blocked 1 damage
+Chapel Riot Priest Kuranto took 1 damage
+Chapel Tracker Love shot Chapel Riot Priest Kuranto - from (-26, 4) to (-26, 6)
+Chapel Riot Priest Kuranto armour blocked 1 damage
+Chapel Riot Priest Kuranto took 1 damage
+Chapel Riot Priest Kuranto is no longer Gasmasked
+Chapel Tracker Elm shot Chapel Riot Priest Kuranto - from (-24, 6) to (-26, 6)
+Chapel Riot Priest Kuranto armour blocked 1 damage
+Chapel Riot Priest Kuranto took 1 damage
+Chapel Tracker Dust shot Chapel Riot Priest Kuranto - from (-26, 8) to (-26, 6)
+Chapel Riot Priest Kuranto armour blocked 1 damage
+Chapel Riot Priest Kuranto took 1 damage
+Chapel Tracker Clawless shot Chapel Riot Priest Kuranto - from (-24, 8) to (-26, 6)
+Chapel Riot Priest Kuranto armour blocked 1 damage
+Chapel Riot Priest Kuranto took 1 damage
+Chapel Tracker Sacino shot Chapel Riot Priest Kuranto - from (-28, 4) to (-26, 6)
+Chapel Riot Priest Kuranto armour blocked 1 damage
+Chapel Riot Priest Kuranto took 1 damage
+Chapel Tracker Excelsis shot Chapel Riot Priest Kuranto - from (-28, 6) to (-26, 6)
+Chapel Riot Priest Kuranto armour blocked 1 damage
+Chapel Riot Priest Kuranto took 1 damage
+Chapel Tracker Gibbs shot Chapel Riot Priest Kuranto - from (-28, 8) to (-26, 6)
+Chapel Riot Priest Kuranto armour blocked 1 damage
+Chapel Riot Priest Kuranto took 1 damage
+Chapel Riot Priest Kuranto passed out
+Dream Dall Swapped with Dall - from (-26, 6) to (-30, 8)
+Dream Dall used Charge - from (-30, 8) to (-30, -1)
+Weapons Cache took 1 damage
+Dream Dall gained 1 mana for destroying a Weapons Cache
+Weapons Cache took 12 knockback
+Weapons Cache hit something with 11 knockback left
+Weapons Cache took 11 damage
+Weapons Cache exploded
+Dream Dall Swapped with Dall - from (-30, -1) to (-26, 6)
+Dall used Throw Riot Block - from (-30, -1) to (-25, -1)
+Dream Dall Swapped with - from (-26, 6) to (-25, -1)
+Dream Dall used Grab Intel - from (-25, -1) to (-25, -2)
+Dream Dall used Use Laptop - from (-25, -1) to (-24, -1)
+Dream Dall Swapped with - from (-25, -1) to (-26, 6)
+Dream Dall Swapped with Chapel Riot Priest Kuranto - from (-26, 6) to (-29, 9)
+Chapel Tracker Gordo shot Chapel Riot Priest Kuranto - from (-24, 4) to (-26, 6)
+Chapel Riot Priest Kuranto armour blocked 1 damage
+Chapel Riot Priest Kuranto took 1 damage
+Chapel Tracker Love shot Chapel Riot Priest Kuranto - from (-26, 4) to (-26, 6)
+Chapel Riot Priest Kuranto armour blocked 1 damage
+Chapel Riot Priest Kuranto took 1 damage
+Chapel Riot Priest Kuranto is no longer Gasmasked
+Chapel Tracker Elm shot Chapel Riot Priest Kuranto - from (-24, 6) to (-26, 6)
+Chapel Riot Priest Kuranto armour blocked 1 damage
+Chapel Riot Priest Kuranto took 1 damage
+Chapel Tracker Dust shot Chapel Riot Priest Kuranto - from (-26, 8) to (-26, 6)
+Chapel Riot Priest Kuranto armour blocked 1 damage
+Chapel Riot Priest Kuranto took 1 damage
+Chapel Tracker Clawless shot Chapel Riot Priest Kuranto - from (-24, 8) to (-26, 6)
+Chapel Riot Priest Kuranto armour blocked 1 damage
+Chapel Riot Priest Kuranto took 1 damage
+Chapel Tracker Sacino shot Chapel Riot Priest Kuranto - from (-28, 4) to (-26, 6)
+Chapel Riot Priest Kuranto armour blocked 1 damage
+Chapel Riot Priest Kuranto took 1 damage
+Chapel Tracker Excelsis shot Chapel Riot Priest Kuranto - from (-28, 6) to (-26, 6)
+Chapel Riot Priest Kuranto armour blocked 1 damage
+Chapel Riot Priest Kuranto took 1 damage
+Chapel Tracker Gibbs shot Chapel Riot Priest Kuranto - from (-28, 8) to (-26, 6)
+Chapel Riot Priest Kuranto armour blocked 1 damage
+Chapel Riot Priest Kuranto took 1 damage
+Chapel Riot Priest Kuranto passed out
+Dall used Charge - from (-30, -1) to (-30, -8)
+Dream Dall moved - from (-29, 9) to (-30, 8)
+Dream Dall used Charge - from (-30, 8) to (-30, -7)
+Dall armour blocked 1 damage
+Dall stability prevented 1 knockback
+Dall took 17 knockback
+Dall hit something with 17 knockback left
+Dall took 17 damage
+Dall passed out
+Dall gained 1 mana from incoming damage
+Dream Dall used Throw Riot Block - from (-30, 8) to (-30, -7)
+Dream Dall used Charge - from (-30, 8) to (-30, -6)
+Riot Block armour blocked 1 damage
+Riot Block took 17 knockback
+Dall stability prevented 1 knockback
+Riot Block hit something with 17 knockback left
+Riot Block took 17 damage
+Riot Block recalled (Dream Dall)

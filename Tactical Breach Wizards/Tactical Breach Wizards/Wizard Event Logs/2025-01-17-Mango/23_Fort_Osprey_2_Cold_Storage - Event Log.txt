@@ -1,0 +1,164 @@
+23_Fort_Osprey_2_Cold_Storage
+ 
+Start of player turn 1
+Dall breached - from (-12, 5) to (-13, 5)
+Dall used Charge - from (-13, 5) to (-13, 2)
+Reactor Heavy Gunner Glass armour blocked 1 damage
+Reactor Heavy Gunner Glass stability prevented 1 knockback
+Reactor Heavy Gunner Glass took 5 knockback
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Dall used Throw Riot Block - from (-13, 5) to (-13, 0)
+Dall used Charge - from (-13, 5) to (-13, 2)
+Reactor Heavy Gunner Glass armour blocked 1 damage
+Reactor Heavy Gunner Glass stability prevented 1 knockback
+Reactor Heavy Gunner Glass took 5 knockback
+Reactor Heavy Gunner Glass hit something with 5 knockback left
+Riot Block added 1 extra impact damage
+Reactor Heavy Gunner Glass took 6 damage
+Reactor Heavy Gunner Glass passed out
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Zan moved - from (-14, 5) to (-12, 3)
+Rion breached - from (-8, 5) to (-9, 5)
+Rion cast Impaling Vine on Reactor Shotgunner Castle - from (-9, 5) to (-9, 1)
+Reactor Shotgunner Castle took 1 damage
+Reactor Shotgunner Castle took 3 knockback
+Zan shot Reactor Shotgunner Castle on overwatch
+Reactor Shotgunner Castle took 1 extra damage from Brittle, Brittle reduced to 0
+Reactor Shotgunner Castle is no longer Brittle
+Reactor Shotgunner Castle took 5 damage
+Reactor Shotgunner Castle passed out
+Rion moved - from (-9, 5) to (-8, 1)
+Dall moved - from (-13, 2) to (-13, -1)
+Dall used Pick Up Riot Block - from (-13, -1) to (-13, 0)
+Dall used Grab Intel - from (-13, -1) to (-14, -1)
+Zan used Grab Intel - from (-12, 3) to (-11, 3)
+Player ended their turn, starting enemy turn 1
+Reactor Superheavy Sycamore moved - from (-8, -2) to (-9, 0)
+Reactor Superheavy Sycamore used Launch Missiles - from (-9, 0) to (-11, 4)
+Reactor Shotgunner Lafoon moved - from (-15, -3) to (-13, -2)
+End of enemy turn 1
+ 
+Start of player turn 2
+Zan used Defuse Mine - from (-12, 3) to (-11, 4)
+Rion moved - from (-8, 1) to (-9, 4)
+Zan moved - from (-12, 3) to (-12, 1)
+Rion cast Impaling Vine on Reactor Superheavy Sycamore - from (-9, 4) to (-9, 0)
+Reactor Superheavy Sycamore armour blocked 1 damage
+Reactor Superheavy Sycamore stability prevented 2 knockback
+Reactor Superheavy Sycamore took 1 knockback
+Zan shot Reactor Superheavy Sycamore on overwatch
+Brittle: 2 armour lost (Reactor Superheavy Sycamore)
+Reactor Superheavy Sycamore took 1 extra damage from Brittle, Brittle reduced to 0
+Reactor Superheavy Sycamore is no longer Brittle
+Reactor Superheavy Sycamore took 3 damage
+Zan used 3 Bolt Burst on Reactor Superheavy Sycamore - from (-12, 1) to (-9, 1)
+Reactor Superheavy Sycamore took 2 damage
+Reactor Superheavy Sycamore stability prevented 1 knockback
+Dall Swapped with Rion - from (-13, -1) to (-9, 4)
+Dall used Throw Riot Block - from (-9, 4) to (-9, 0)
+Dall used Charge - from (-9, 4) to (-9, 2)
+Reactor Superheavy Sycamore took 1 damage
+Reactor Superheavy Sycamore stability prevented 2 knockback
+Zan took a free shot at Reactor Superheavy Sycamore with Supporting Fire.
+Zan used 3 Bolt Burst on Reactor Superheavy Sycamore - from (-12, 1) to (-9, 1)
+Reactor Superheavy Sycamore took 2 damage
+Reactor Superheavy Sycamore stability prevented 1 knockback
+Rion cast Brittling Dart on Reactor Superheavy Sycamore - from (-9, 4) to (-9, 0)
+Rion cast Impaling Vine on Reactor Superheavy Sycamore - from (-9, 4) to (-9, 0)
+Brittle: 2 armour lost (Reactor Superheavy Sycamore)
+Reactor Superheavy Sycamore took 1 extra damage from Brittle, Brittle reduced to 0
+Reactor Superheavy Sycamore is no longer Brittle
+Reactor Superheavy Sycamore stability prevented 2 knockback
+Reactor Superheavy Sycamore took 1 knockback
+Zan shot Reactor Superheavy Sycamore on overwatch
+Reactor Superheavy Sycamore took 1 extra damage from Brittle, Brittle reduced to 0
+Reactor Superheavy Sycamore is no longer Brittle
+Reactor Superheavy Sycamore took 5 damage
+Dall Swapped with Rion - from (-13, -1) to (-9, 4)
+Dall used Throw Riot Block - from (-9, 4) to (-9, -1)
+Dall used Charge - from (-9, 4) to (-9, 1)
+Brittle: 2 armour lost (Reactor Superheavy Sycamore)
+Reactor Superheavy Sycamore took 1 extra damage from Brittle, Brittle reduced to 0
+Reactor Superheavy Sycamore is no longer Brittle
+Reactor Superheavy Sycamore stability prevented 2 knockback
+Reactor Superheavy Sycamore took 4 knockback
+Reactor Superheavy Sycamore hit something with 4 knockback left
+Riot Block added 1 extra impact damage
+Reactor Superheavy Sycamore took 5 damage
+Dall used Throw Riot Block - from (-9, 4) to (-9, -2)
+Dall used Charge - from (-9, 4) to (-9, 1)
+Brittle: 2 armour lost (Reactor Superheavy Sycamore)
+Reactor Superheavy Sycamore took 1 extra damage from Brittle, Brittle reduced to 0
+Reactor Superheavy Sycamore is no longer Brittle
+Reactor Superheavy Sycamore stability prevented 2 knockback
+Reactor Superheavy Sycamore took 4 knockback
+Reactor Superheavy Sycamore hit something with 3 knockback left
+Riot Block added 1 extra impact damage
+Reactor Superheavy Sycamore took 4 damage
+Rion cast Impaling Vine on Reactor Superheavy Sycamore - from (-9, 4) to (-9, 0)
+Brittle: 2 armour lost (Reactor Superheavy Sycamore)
+Reactor Superheavy Sycamore took 1 extra damage from Brittle, Brittle reduced to 0
+Reactor Superheavy Sycamore is no longer Brittle
+Reactor Superheavy Sycamore stability prevented 2 knockback
+Reactor Superheavy Sycamore took 1 knockback
+Zan shot Reactor Superheavy Sycamore on overwatch
+Reactor Superheavy Sycamore took 1 extra damage from Brittle, Brittle reduced to 0
+Reactor Superheavy Sycamore is no longer Brittle
+Reactor Superheavy Sycamore took 5 damage
+Rion cast Impaling Vine on Reactor Superheavy Sycamore - from (-9, 4) to (-9, 0)
+Reactor Superheavy Sycamore armour blocked 1 damage
+Rion cast Impaling Vine on Reactor Superheavy Sycamore - from (-9, 4) to (-9, 0)
+Reactor Superheavy Sycamore armour blocked 1 damage
+Reactor Superheavy Sycamore stability prevented 2 knockback
+Reactor Superheavy Sycamore took 1 knockback
+Zan shot Reactor Superheavy Sycamore on overwatch
+Brittle: 2 armour lost (Reactor Superheavy Sycamore)
+Reactor Superheavy Sycamore took 1 extra damage from Brittle, Brittle reduced to 0
+Reactor Superheavy Sycamore is no longer Brittle
+Reactor Superheavy Sycamore took 3 damage
+Dall Swapped with Rion - from (-13, -1) to (-9, 4)
+Dall used Throw Riot Block - from (-9, 4) to (-9, -1)
+Dall used Charge - from (-9, 4) to (-9, 2)
+Reactor Superheavy Sycamore took 1 damage
+Reactor Superheavy Sycamore stability prevented 2 knockback
+Zan took a free shot at Reactor Superheavy Sycamore with Supporting Fire.
+Zan used 3 Bolt Burst on Reactor Superheavy Sycamore - from (-12, 1) to (-9, 1)
+Reactor Superheavy Sycamore took 2 damage
+Reactor Superheavy Sycamore stability prevented 1 knockback
+Dall used Throw Riot Block - from (-9, 4) to (-9, 0)
+Dall used Charge - from (-9, 4) to (-9, 2)
+Reactor Superheavy Sycamore took 1 damage
+Reactor Superheavy Sycamore stability prevented 2 knockback
+Zan took a free shot at Reactor Superheavy Sycamore with Supporting Fire.
+Zan used 3 Bolt Burst on Reactor Superheavy Sycamore - from (-12, 1) to (-9, 1)
+Reactor Superheavy Sycamore took 2 damage
+Reactor Superheavy Sycamore stability prevented 1 knockback
+Rion cast Brittling Dart on Reactor Superheavy Sycamore - from (-9, 4) to (-9, 1)
+Dall Swapped with Rion - from (-13, -1) to (-9, 4)
+Dall used Charge - from (-9, 4) to (-9, 2)
+Reactor Superheavy Sycamore took 1 extra damage from Brittle, Brittle reduced to 0
+Reactor Superheavy Sycamore is no longer Brittle
+Reactor Superheavy Sycamore took 2 damage
+Reactor Superheavy Sycamore stability prevented 2 knockback
+Zan took a free shot at Reactor Superheavy Sycamore with Supporting Fire.
+Zan used 3 Bolt Burst on Reactor Superheavy Sycamore - from (-12, 1) to (-9, 1)
+Reactor Superheavy Sycamore took 2 damage
+Reactor Superheavy Sycamore stability prevented 1 knockback
+Dall used Censer Slam on Reactor Superheavy Sycamore - from (-9, 2) to (-9, 1)
+Reactor Superheavy Sycamore took 3 damage
+Reactor Superheavy Sycamore passed out
+Reactor Superheavy Sycamore stability prevented 1 knockback
+Rion bit on Reactor Shotgunner Lafoon - from (-13, -1) to (-13, -2)
+Reactor Shotgunner Lafoon took 1 damage
+Zan used 3 Bolt Burst on Reactor Shotgunner Lafoon - from (-12, 1) to (-13, -2)
+Reactor Shotgunner Lafoon took 2 damage
+Reactor Shotgunner Lafoon took 1 knockback
+Rion used Change Form - from (-13, -1) to (-13, -1)
+Rion used Spore Bomb on Reactor Shotgunner Lafoon - from (-13, -1) to (-13, -3)
+Craft Coffin took 3 damage
+Rion gained 1 mana for destroying a Craft Coffin
+Reactor Shotgunner Lafoon took 3 damage
+Reactor Shotgunner Lafoon passed out
+Craft Coffin exploded
+Rion is Stunned for 1 turn
+Rion is no longer Stunned

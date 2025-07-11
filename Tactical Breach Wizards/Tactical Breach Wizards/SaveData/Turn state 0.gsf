@@ -1,0 +1,615 @@
+# Turn state 0.gsf
+# 2025-03-03 22:00:09 (+07:00)
+# v:2025-01-17-Mango
+
+<LevelHeader>
+  type = TurnState
+  levelFileName = Finale - Roof|2 The Black Ops Chronomancer|Official
+  name = Turn 0
+  description = 
+  returnMode = Campaign
+  timestamp = 133854876097820089
+</LevelHeader>
+
+#
+# Configuration
+#
+  <config:CasualSpeechManager>
+    # LevelAndTurnState
+  </config:CasualSpeechManager>
+  <config:InstructionManager>
+    # LevelAndTurnState
+    tutorialName = None
+    instructionsCompleted = 0
+    instructionLevelObjectiveInstructionCompleted = False
+  </config:InstructionManager>
+  <config:LevelManager>
+    # LevelAndTurnState
+    yAngle = 270
+    levelCameraRotation = 0.9175056:0.265705138:0.284266263:-0.08232212 #(32.3, 34.4, 0.0)
+    levelCameraPosition = -6.89413643:0.599999964:-2.09605551
+    levelCameraFieldOfView = 11.8343172
+    levelCameraPositionIsLook = True
+    badgeTimeLimit = 30
+    badgeTurnLimit = 2
+    badgeDefenestrationLimit = 0.5
+    tilesetName = CentralReserveRoofTileset
+    disableAutoWall = True
+    carryOverWizardPositions = False
+    dialogName = RooftopFinaleMidGame
+    conversationStyle = MidGame
+    initialSelectedWizard = None
+    ignoreReinforcementDifficulty = False
+    ignoreActionsDifficulty = False
+    musicTrackCategory = Prologue
+    musicTrackName = Final Level
+    breachIntroTrackCategory = Main Menu
+    breachIntroTrackName = Music
+    playMusicSeamless = False
+    commentaryName = The boss
+    commentaryDev[] = Tom
+    tilesetProhibitedTag[] = tall
+    isFinale = True
+    # Remove Perks
+    removePerk[] = SeerFinaleKnockBackDummy
+    # Single Level Perks
+    singleLevelPerk[] = FinaleSeerKnockback
+    # ObjectiveList
+    Objective[] = FinaleKillLivOnce
+    FinaleKillLivOnceKilledLiv = False
+    Objective[] = FinaleDefeatLiv
+    # ConfidenceGoalList
+    ConfidenceGoal[] = PredictiveShotFinaleGoal
+    PredictiveShotFinaleGoalirreversiblyCompleted = False
+    ConfidenceGoal[] = ScapegoatFinaleGoal
+    ScapegoatFinaleGoalirreversiblyCompleted = False
+    ConfidenceGoal[] = SporeBombFinaleGoal
+    SporeBombFinaleGoalirreversiblyCompleted = False
+    ConfidenceGoal[] = ChainShockFinaleGoal
+    ChainShockFinaleGoalirreversiblyCompleted = False
+    ConfidenceGoal[] = SwapFinaleGoal
+    SwapFinaleGoalirreversiblyCompleted = False
+    # Level Stats
+    EnemiesDown = 0
+    EnemiesDefenestrated = 0
+    DamageTaken = 0
+    # Ability Stats
+    Available[] = SeerShot
+    Available[] = TimeBoost
+    Available[] = FalseProphet
+    Available[] = SeerOverwatch
+    # Level Wizards
+    levelWizards[] = NavySeer
+    # Rooms
+    unsealedRooms[] = -14:-6
+    # MidGameConversation
+    MidGameConvoDialogName = RooftopFinaleMidGame
+    # Achievement Tracking
+    achTurnCounter = -1
+    achBoltCount = 0
+    achDefenCount = 0
+    achSedCount = 0
+  </config:LevelManager>
+  <config:SpeechManager>
+    # LevelAndTurnState
+    ScriptName = FinaleRooftopSpeech
+    stage = 0
+  </config:SpeechManager>
+  <config:TurnManager>
+    # TurnStateOnly
+    TurnCount = 0
+    SurviveTurnCount = 0
+    wizardsPresentAtStartOfLevel = 1
+    wizardsBlinkedOut = 0
+    wizardsBlinkedOutBeforeTurn = 0
+    cachesDestroyed = 0
+    banksDeathsDoored = False
+    dialogTurnsCompleted = 0
+    wizardsEnteredLevelAtLeastOnce = False
+  </config:TurnManager>
+# END - Configuration
+
+#
+# NonStatic
+#
+  <prefab:Air Barrel>
+    # Prefab
+    instanceID = 620
+    transformPosition = -14:0:-6
+    transformRotation = -0.7071068:0:0.7071068:0 #(0.0, 270.0, 0.0)
+    # ActiveObject
+    currentHealth = 1
+    currentArmour = 0
+    maxHealth = 1
+    secondsTilDestroy = -1
+  </prefab:Air Barrel>
+  <prefab:Air Barrel>
+    # Prefab
+    instanceID = 734
+    transformPosition = -9:0:8
+    transformRotation = -4.371139E-08:0:1:0 #(0.0, 180.0, 0.0)
+    # ActiveObject
+    currentHealth = 1
+    currentArmour = 0
+    maxHealth = 1
+    secondsTilDestroy = -1
+  </prefab:Air Barrel>
+  <prefab:Air Barrel>
+    # Prefab
+    instanceID = 735
+    transformPosition = -9:0:2
+    transformRotation = 0.7071068:0:0.7071068:0 #(0.0, 90.0, 0.0)
+    # ActiveObject
+    currentHealth = 1
+    currentArmour = 0
+    maxHealth = 1
+    secondsTilDestroy = -1
+  </prefab:Air Barrel>
+  <prefab:Cover>
+    # Prefab
+    instanceID = 121
+    transformPosition = -7:0:-2
+    transformRotation = -0.7071068:0:0.7071067:0 #(0.0, 270.0, 0.0)
+    artPrefabName = CentralReserveRoofTileset/CoverDouble1
+    hiddenCoverObjectPosition = -8:0:-2
+  </prefab:Cover>
+  <prefab:Cover>
+    # Prefab
+    instanceID = 122
+    transformPosition = -3:0:1
+    transformRotation = 0.7071068:0:0.7071068:0 #(0.0, 90.0, 0.0)
+    artElementPosition = -2:0:1
+    hiddenCoverObjectPosition = 9999:9999:9999
+  </prefab:Cover>
+  <prefab:Cover>
+    # Prefab
+    instanceID = 123
+    transformPosition = -8:0:-1
+    transformRotation = -0.7071068:0:-0.7071068:0 #(0.0, 90.0, 0.0)
+    artPrefabName = CentralReserveRoofTileset/CoverDouble1
+    hiddenCoverObjectPosition = -7:0:-1
+  </prefab:Cover>
+  <prefab:Cover>
+    # Prefab
+    instanceID = 125
+    transformPosition = -2:0:1
+    transformRotation = -0.7071068:0:0.7071068:0 #(0.0, 270.0, 0.0)
+    artPrefabName = CentralReserveRoofTileset/CoverDouble3
+    hiddenCoverObjectPosition = -3:0:1
+  </prefab:Cover>
+  <prefab:Cover>
+    # Prefab
+    instanceID = 371
+    transformPosition = -8:0:-2
+    transformRotation = 0.7071068:0:0.7071068:0 #(0.0, 90.0, 0.0)
+    artElementPosition = -7:0:-2
+    hiddenCoverObjectPosition = 9999:9999:9999
+  </prefab:Cover>
+  <prefab:Cover>
+    # Prefab
+    instanceID = 548
+    transformPosition = -1:0:4
+    transformRotation = -0.7071068:0:-0.7071068:0 #(0.0, 90.0, 0.0)
+    artPrefabName = CentralReserveRoofTileset/CoverDouble1
+    hiddenCoverObjectPosition = 0:0:4
+  </prefab:Cover>
+  <prefab:Cover>
+    # Prefab
+    instanceID = 549
+    transformPosition = -12:0:0
+    transformRotation = -1:0:0:0 #(0.0, 0.0, 0.0)
+    artPrefabName = CentralReserveRoofTileset/Cover4
+    hiddenCoverObjectPosition = 9999:9999:9999
+  </prefab:Cover>
+  <prefab:Cover>
+    # Prefab
+    instanceID = 550
+    transformPosition = -2:0:-4
+    transformRotation = -4.371139E-08:0:1:0 #(0.0, 180.0, 0.0)
+    artElementPosition = -2:0:-5
+    hiddenCoverObjectPosition = 9999:9999:9999
+  </prefab:Cover>
+  <prefab:Cover>
+    # Prefab
+    instanceID = 551
+    transformPosition = 0:0:4
+    transformRotation = -0.7071068:0:0.7071068:0 #(0.0, 270.0, 0.0)
+    artElementPosition = -1:0:4
+    hiddenCoverObjectPosition = 9999:9999:9999
+  </prefab:Cover>
+  <prefab:Cover>
+    # Prefab
+    instanceID = 552
+    transformPosition = -12:0:3
+    transformRotation = 0.7071068:0:0.7071068:0 #(0.0, 90.0, 0.0)
+    artPrefabName = CentralReserveRoofTileset/Cover3
+    hiddenCoverObjectPosition = 9999:9999:9999
+  </prefab:Cover>
+  <prefab:Cover>
+    # Prefab
+    instanceID = 605
+    transformPosition = -7:0:-1
+    transformRotation = 0.7071068:0:0.7071068:0 #(0.0, 90.0, 0.0)
+    artElementPosition = -8:0:-1
+    hiddenCoverObjectPosition = 9999:9999:9999
+  </prefab:Cover>
+  <prefab:Cover>
+    # Prefab
+    instanceID = 611
+    transformPosition = -6:0:-6
+    transformRotation = -4.371139E-08:0:1:0 #(0.0, 180.0, 0.0)
+    artElementPosition = -6:0:-5
+    hiddenCoverObjectPosition = 9999:9999:9999
+  </prefab:Cover>
+  <prefab:Cover>
+    # Prefab
+    instanceID = 612
+    transformPosition = -6:0:-5
+    transformRotation = 8.42937E-08:0:-1:0 #(0.0, 180.0, 0.0)
+    artPrefabName = CentralReserveRoofTileset/CoverDouble2
+    hiddenCoverObjectPosition = -6:0:-6
+  </prefab:Cover>
+  <prefab:Cover>
+    # Prefab
+    instanceID = 613
+    transformPosition = -2:0:-5
+    transformRotation = -1:0:-8.42937E-08:0 #(0.0, 0.0, 0.0)
+    artPrefabName = CentralReserveRoofTileset/CoverDouble2
+    hiddenCoverObjectPosition = -2:0:-4
+  </prefab:Cover>
+  <prefab:Cover>
+    # Prefab
+    instanceID = 714
+    transformPosition = 3:0:-5
+    transformRotation = -1:0:0:0 #(0.0, 0.0, 0.0)
+    artPrefabName = CentralReserveRoofTileset/CoverDouble1
+    hiddenCoverObjectPosition = 3:0:-4
+  </prefab:Cover>
+  <prefab:Cover>
+    # Prefab
+    instanceID = 715
+    transformPosition = 3:0:-4
+    transformRotation = -4.371139E-08:0:1:0 #(0.0, 180.0, 0.0)
+    artElementPosition = 3:0:-5
+    hiddenCoverObjectPosition = 9999:9999:9999
+  </prefab:Cover>
+  <prefab:Cover>
+    # Prefab
+    instanceID = 716
+    transformPosition = -8:0:2
+    transformRotation = -0.7071068:0:0.7071067:0 #(0.0, 270.0, 0.0)
+    artPrefabName = CentralReserveRoofTileset/Cover2
+    hiddenCoverObjectPosition = 9999:9999:9999
+  </prefab:Cover>
+  <prefab:Cover>
+    # Prefab
+    instanceID = 717
+    transformPosition = -13:0:7
+    transformRotation = 0.7071068:0:0.7071068:0 #(0.0, 90.0, 0.0)
+    artPrefabName = CentralReserveRoofTileset/Cover2
+    hiddenCoverObjectPosition = 9999:9999:9999
+  </prefab:Cover>
+  <prefab:Cover>
+    # Prefab
+    instanceID = 719
+    transformPosition = -11:0:6
+    transformRotation = -0.7071068:0:0.7071068:0 #(0.0, 270.0, 0.0)
+    artElementPosition = -10:0:6
+    hiddenCoverObjectPosition = 9999:9999:9999
+  </prefab:Cover>
+  <prefab:Cover>
+    # Prefab
+    instanceID = 736
+    transformPosition = -10:0:6
+    transformRotation = -0.7071068:0:0.7071068:0 #(0.0, 270.0, 0.0)
+    artPrefabName = CentralReserveRoofTileset/CoverDouble2
+    hiddenCoverObjectPosition = -11:0:6
+  </prefab:Cover>
+  <prefab:Cover>
+    # Prefab
+    instanceID = 772
+    transformPosition = -4:0:-8
+    transformRotation = -4.371139E-08:0:1:0 #(0.0, 180.0, 0.0)
+    artElementPosition = -4:0:-9
+    hiddenCoverObjectPosition = 9999:9999:9999
+  </prefab:Cover>
+  <prefab:Cover>
+    # Prefab
+    instanceID = 773
+    transformPosition = -4:0:-9
+    transformRotation = -1:0:0:0 #(0.0, 0.0, 0.0)
+    artPrefabName = CentralReserveRoofTileset/CoverDouble2
+    hiddenCoverObjectPosition = -4:0:-8
+  </prefab:Cover>
+  <prefab:Double Cover>
+    # Prefab
+    instanceID = 777
+    transformPosition = -11:0:-2
+    transformRotation = -4.371139E-08:0:1:0 #(0.0, 180.0, 0.0)
+    artPrefabName = CentralReserveRoofTileset/CoverDouble3
+    hiddenCoverObjectPosition = 9999:9999:9999
+  </prefab:Double Cover>
+  <prefab:Explosive Barrel>
+    # ActiveObject
+    currentHealth = 1
+    currentArmour = 0
+    maxHealth = 1
+    secondsTilDestroy = -1
+    # Prefab
+    instanceID = 617
+    transformPosition = -2:0:-6
+    transformRotation = 1:0:0:0 #(0.0, 0.0, 0.0)
+  </prefab:Explosive Barrel>
+  <prefab:Finale Friendly Door>
+    # Prefab
+    instanceID = 778
+    transformPosition = -5:0:4
+    transformRotation = 1:0:0:0 #(0.0, 0.0, 0.0)
+    artPrefabName = CentralReserveRoofTileset/doorNeutral
+    hiddenCoverObjectPosition = 9999:9999:9999
+    used = False
+    # EnemyDoor
+    spawnQueue[] = Necromedic
+    spawnQueue[] = Melee Wizard
+    spawnQueue[] = Druid
+    spawnQueue[] = Riot Priest
+    totalEnemiesToSpawn = 4
+    totalEnemiesToSpawnInHardMode = 4
+    locked = False
+    enemiesSpawnedSoFar = 0
+    nextSpawnIndex = 0
+    reinforcementsPrevented = False
+    reinforcementsPreventedCount = 0
+  </prefab:Finale Friendly Door>
+  <prefab:Helicopter>
+    used = False
+    # EnemyDoor
+    spawnQueue[] = Reactor Tracker
+    spawnQueue[] = Heavy Gunner
+    spawnQueue[] = Heavy Gunner
+    spawnQueue[] = Reactor Superheavy
+    spawnQueue[] = Heavy Gunner
+    spawnQueue[] = Reactor Superheavy
+    spawnQueue[] = Shotgunner
+    totalEnemiesToSpawn = 9
+    totalEnemiesToSpawnInHardMode = 27
+    locked = False
+    enemiesSpawnedSoFar = 0
+    nextSpawnIndex = 0
+    reinforcementsPrevented = False
+    reinforcementsPreventedCount = 0
+    # Prefab
+    instanceID = 643
+    transformPosition = -3:0:-8
+    transformRotation = -0.7071068:0:0.7071068:0 #(0.0, 270.0, 0.0)
+  </prefab:Helicopter>
+  <prefab:Liv Kennedy Final Boss>
+    # ActiveObject
+    currentHealth = 4
+    currentArmour = 0
+    maxHealth = 4
+    secondsTilDestroy = -1
+    # Person
+    physicalState = standing
+    mana = 0
+    actionPoints = 0
+    abilitiesUsedThisTurn = 1
+    anyActionTaken = False
+    isReinforcement = False
+    turnCompleted = False
+    allegiance = Enemies
+    predictedAbilityName = LivChainShock
+    MoveUsesRemaining = 1
+    LivChainShockUsedThisTurn = False
+    # Conditions
+    Condition[] = DeathClone
+    DeathCloneCount = 4
+    # Enemy
+    displayName = Liv Kennedy
+    hasSeenWizard = True
+    hasBeenAttacked = False
+    # LivBoss
+    WasKilled = False
+    slowmoTriggered = False
+    # Prefab
+    instanceID = 645
+    transformPosition = -3:0:-2
+    transformRotation = -0.7071068:0:0.7071068:0 #(0.0, 270.0, 0.0)
+  </prefab:Liv Kennedy Final Boss>
+  <prefab:Navy Seer>
+    # ActiveObject
+    currentHealth = 4
+    currentArmour = 0
+    maxHealth = 4
+    secondsTilDestroy = -1
+    # Person
+    physicalState = standing
+    mana = 1
+    actionPoints = 1
+    abilitiesUsedThisTurn = 0
+    anyActionTaken = False
+    isReinforcement = False
+    turnCompleted = False
+    allegiance = Wizards
+    MoveUsesRemaining = 1
+    supportingFireUsesLeftThisTurn = 1
+    SeerOverwatchUsesRemaining = 1
+    SeerOverwatchUsedThisTurn = False
+    SeerOverwatchDirection = null
+    SeerOverwatchLastDirection = null
+    SeerOverwatchTimeSinceShot = 0.2
+    # PerkSet
+    perk[] = seerOverwatch
+    perk[] = UnlockTimeBoost
+    perk[] = UnlockFalseProphet
+    perk[] = SupportingFire
+    perk[] = FalseProphetInteract
+    perk[] = InfiniteSupportingFire
+    perk[] = TimeBoostBigTime
+    perk[] = ArcaneBurstDamage
+    perk[] = FalseProphetHealth
+    perk[] = SeerFinaleKnockBackDummy
+    perk[] = PredictiveShotRefresh
+    perk[] = FinaleSeerKnockback
+    # Wizard
+    seenByAI = True
+    illusion = False
+    lastAbilityUsed = 
+    stoodUpThisTurn = False
+    # Prefab
+    instanceID = 73
+    transformPosition = -12:0:-2
+    transformRotation = 0.7071068:0:0.7071068:0 #(0.0, 90.0, 0.0)
+  </prefab:Navy Seer>
+  <prefab:Signal Flare>
+    SignalFlareused = False
+    # Prefab
+    instanceID = 779
+    transformPosition = -13:0:1
+    transformRotation = 1:0:0:0 #(0.0, 0.0, 0.0)
+  </prefab:Signal Flare>
+  <prefab:Signal Flare>
+    SignalFlareused = False
+    # Prefab
+    instanceID = 780
+    transformPosition = -7:0:-3
+    transformRotation = -0.7071068:0:0.7071068:0 #(0.0, 270.0, 0.0)
+  </prefab:Signal Flare>
+  <prefab:Signal Flare>
+    SignalFlareused = False
+    # Prefab
+    instanceID = 781
+    transformPosition = -10:0:5
+    transformRotation = 0.7071068:0:0.7071068:0 #(0.0, 90.0, 0.0)
+  </prefab:Signal Flare>
+  <prefab:Signal Flare>
+    SignalFlareused = False
+    # Prefab
+    instanceID = 782
+    transformPosition = -13:0:6
+    transformRotation = -4.371139E-08:0:1:0 #(0.0, 180.0, 0.0)
+  </prefab:Signal Flare>
+  <prefab:Signal Flare>
+    SignalFlareused = False
+    # Prefab
+    instanceID = 783
+    transformPosition = -4:0:2
+    transformRotation = 0.7071068:0:0.7071068:0 #(0.0, 90.0, 0.0)
+  </prefab:Signal Flare>
+  <prefab:Signal Flare>
+    SignalFlareused = False
+    # Prefab
+    instanceID = 784
+    transformPosition = 0:0:3
+    transformRotation = -4.371139E-08:0:1:0 #(0.0, 180.0, 0.0)
+  </prefab:Signal Flare>
+  <prefab:Signal Flare>
+    SignalFlareused = False
+    # Prefab
+    instanceID = 785
+    transformPosition = -3:0:-5
+    transformRotation = -4.371139E-08:0:1:0 #(0.0, 180.0, 0.0)
+  </prefab:Signal Flare>
+  <prefab:Signal Flare>
+    SignalFlareused = False
+    # Prefab
+    instanceID = 786
+    transformPosition = -8:0:-9
+    transformRotation = -0.7071068:0:0.7071068:0 #(0.0, 270.0, 0.0)
+  </prefab:Signal Flare>
+  <prefab:Signal Flare>
+    SignalFlareused = False
+    # Prefab
+    instanceID = 787
+    transformPosition = 2:0:-4
+    transformRotation = -4.371139E-08:0:1:0 #(0.0, 180.0, 0.0)
+  </prefab:Signal Flare>
+  <prefab:Signal Flare>
+    SignalFlareused = False
+    # Prefab
+    instanceID = 788
+    transformPosition = -11:0:-4
+    transformRotation = -4.371139E-08:0:1:0 #(0.0, 180.0, 0.0)
+  </prefab:Signal Flare>
+  <prefab:Stun Barrel>
+    # Prefab
+    instanceID = 743
+    transformPosition = -7:0:-6
+    transformRotation = -4.371139E-08:0:1:0 #(0.0, 180.0, 0.0)
+    # ActiveObject
+    currentHealth = 1
+    currentArmour = 0
+    maxHealth = 1
+    secondsTilDestroy = -1
+  </prefab:Stun Barrel>
+  <prefab:Stun Barrel>
+    # Prefab
+    instanceID = 744
+    transformPosition = -7:0:-5
+    transformRotation = -4.371139E-08:0:1:0 #(0.0, 180.0, 0.0)
+    # ActiveObject
+    currentHealth = 1
+    currentArmour = 0
+    maxHealth = 1
+    secondsTilDestroy = -1
+  </prefab:Stun Barrel>
+  <prefab:Unsealable Enemy Door>
+    # Prefab
+    instanceID = 789
+    transformPosition = 0:0:2
+    transformRotation = 0.7071068:0:0.7071068:0 #(0.0, 90.0, 0.0)
+    artPrefabName = CentralReserveRoofTileset/doorReinforcement
+    hiddenCoverObjectPosition = 9999:9999:9999
+    used = False
+    # EnemyDoor
+    spawnQueue[] = Reactor Superheavy
+    totalEnemiesToSpawn = 1
+    totalEnemiesToSpawnInHardMode = 3
+    locked = True
+    enemiesSpawnedSoFar = 0
+    nextSpawnIndex = 0
+    reinforcementsPrevented = False
+    reinforcementsPreventedCount = 0
+  </prefab:Unsealable Enemy Door>
+  <prefab:Unsealable Enemy Door>
+    # Prefab
+    instanceID = 790
+    transformPosition = 0:0:-1
+    transformRotation = 0.7071068:0:0.7071068:0 #(0.0, 90.0, 0.0)
+    artPrefabName = CentralReserveRoofTileset/doorReinforcement
+    hiddenCoverObjectPosition = 9999:9999:9999
+    used = False
+    # EnemyDoor
+    spawnQueue[] = Reactor Superheavy
+    totalEnemiesToSpawn = 1
+    totalEnemiesToSpawnInHardMode = 3
+    locked = True
+    enemiesSpawnedSoFar = 0
+    nextSpawnIndex = 0
+    reinforcementsPrevented = False
+    reinforcementsPreventedCount = 0
+  </prefab:Unsealable Enemy Door>
+  <prefab:Unsealable Enemy Door>
+    # Prefab
+    instanceID = 792
+    transformPosition = -3:0:4
+    transformRotation = 1:0:0:0 #(0.0, 0.0, 0.0)
+    artPrefabName = CentralReserveRoofTileset/doorReinforcement
+    hiddenCoverObjectPosition = 9999:9999:9999
+    used = False
+    # EnemyDoor
+    spawnQueue[] = Reactor Tracker
+    spawnQueue[] = Heavy Gunner
+    spawnQueue[] = Chaser
+    spawnQueue[] = Reactor Superheavy
+    spawnQueue[] = Reactor Medic
+    totalEnemiesToSpawn = 0
+    totalEnemiesToSpawnInHardMode = 5
+    locked = False
+    enemiesSpawnedSoFar = 0
+    nextSpawnIndex = 0
+    reinforcementsPrevented = False
+    reinforcementsPreventedCount = 0
+  </prefab:Unsealable Enemy Door>
+# END - NonStatic
+

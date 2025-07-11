@@ -1,0 +1,28 @@
+02_Witch_Intro_4_Self_Fulfilling_Prophecy
+ 
+Start of player turn 1
+Zan breached - from (-7, 4) to (-7, 5)
+Jen moved - from (-7, 6) to (-11, 4)
+Jen took cover - from (-11, 4) to (-11, 4)
+Zan shot RPD Enforcer Boden on overwatch
+RPD Enforcer Boden armour blocked 1 damage
+RPD Enforcer Boden took 3 damage
+RPD Enforcer Boden passed out
+Player ended their turn, starting enemy turn 1
+RPD Enforcer Janevski moved - from (-13, 4) to (-11, 5)
+End of enemy turn 1
+ 
+Start of player turn 2
+Jen cast Static Blast on RPD Enforcer Janevski - from (-11, 4) to (-11, 5)
+RPD Enforcer Janevski took 2 knockback
+Jen took cover - from (-11, 4) to (-11, 4)
+Zan shot RPD Enforcer Janevski on overwatch
+RPD Enforcer Janevski armour blocked 1 damage
+RPD Enforcer Janevski took 3 damage
+RPD Enforcer Janevski passed out
+Player ended their turn, starting enemy turn 2
+End of enemy turn 2
+ 
+Start of player turn 3
+Jen moved - from (-11, 4) to (-13, 4)
+Jen sealed a hostile entry point - from (-13, 4) to (-13, 4)

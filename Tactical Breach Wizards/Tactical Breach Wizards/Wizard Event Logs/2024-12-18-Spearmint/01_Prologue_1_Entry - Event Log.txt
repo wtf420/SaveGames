@@ -1,0 +1,23 @@
+01_Prologue_1_Entry
+ 
+Start of player turn 1
+Zan breached - from (4, -2) to (4, -1)
+Liv Kennedy cast Execute on Mafia Sprig Spadaccini - from (2, -3) to (0, 1)
+Mafia Sprig Spadaccini took 10 damage
+Mafia Sprig Spadaccini passed out
+Mafia Sprig Spadaccini took 2 knockback
+Mafia Sprig Spadaccini hit something with 2 knockback left
+Liv Kennedy cast Execute on Mafia Sprig Clawless - from (2, -3) to (0, -3)
+Mafia Sprig Clawless took 10 damage
+Mafia Sprig Clawless passed out
+Mafia Sprig Clawless took 2 knockback
+Mafia Sprig Clawless hit something with 1 knockback left
+Liv Kennedy took cover - from (2, -3) to (2, -3)
+Zan used 3 Bolt Burst on Mafia Sprig Laguna - from (4, -1) to (-1, 0)
+Mafia Sprig Laguna took 1 damage
+Mafia Sprig Laguna took 1 knockback
+Mafia Sprig Laguna was defenestrated - from (-1, 0) to (-1, 0)
+Mafia Sprig Laguna took 1 damage
+Mafia Sprig Laguna passed out
+Zan moved - from (4, -1) to (-1, 0)
+Zan used Use Laptop - from (-1, 0) to (-1, -1)

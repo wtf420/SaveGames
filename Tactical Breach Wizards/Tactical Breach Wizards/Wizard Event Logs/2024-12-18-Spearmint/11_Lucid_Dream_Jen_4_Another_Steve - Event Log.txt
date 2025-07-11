@@ -1,0 +1,144 @@
+11_Lucid_Dream_Jen_4_Another_Steve
+ 
+Start of player turn 1
+Jen breached - from (7, 22) to (7, 21)
+Jen moved - from (7, 21) to (9, 17)
+Jen cast Static Blast on - from (9, 17) to (11, 14)
+Air Canister took 2 knockback
+Air Canister hit something with 2 knockback left
+Air Canister took 2 damage
+Air Canister exploded
+Traffic Warlock took 3 knockback
+Traffic Warlock hit something with 2 knockback left
+Traffic Warlock took 2 damage
+Jen moved - from (9, 17) to (11, 16)
+Jen used Broom Breach - from (11, 16) to (18, 15)
+Jen moved - from (7, 20) to (11, 21)
+Jen cast Static Blast on RPD Tracker Fury - from (11, 21) to (12, 20)
+RPD Tracker Fury took 4 knockback
+RPD Sharpshooter Cuba shot RPD Tracker Fury on overwatch
+RPD Tracker Fury took 2 damage
+RPD Tracker Fury passed out
+RPD Tracker Fury was defenestrated - from (13, 19) to (13, 19)
+Jen moved - from (11, 21) to (15, 20)
+Jen moved - from (11, 21) to (13, 19)
+Jen used Broom Breach - from (13, 19) to (18, 18)
+Traffic Warlock used Crush Hour - from (9, 12) to (9, 13)
+Air Canister took 2 damage
+Air Canister took 1 knockback
+Air Canister hit something with 1 knockback left
+Air Canister took 1 damage
+Air Canister exploded
+Player ended their turn, starting enemy turn 1
+RPD Enforcer Beltzer moved - from (21, 21) to (19, 19)
+Traffic Warlock moved - from (21, 13) to (17, 11)
+Traffic Warlock moved - from (9, 12) to (8, 17)
+End of enemy turn 1
+ 
+Start of player turn 2
+Jen moved - from (18, 18) to (20, 16)
+Jen cast Static Blast on Jen - from (18, 15) to (20, 16)
+Jen took 2 knockback
+Jen hit something with 2 knockback left
+Jen took 2 damage
+Jen used Use Laptop - from (20, 16) to (21, 16)
+Jen cast Static Blast on RPD Enforcer Beltzer - from (20, 16) to (19, 19)
+RPD Enforcer Beltzer took 2 knockback
+Jen cast Static Blast on RPD Sharpshooter Cuba - from (18, 15) to (13, 14)
+RPD Sharpshooter Cuba took 2 knockback
+RPD Sharpshooter Cuba hit something with 1 knockback left
+RPD Sharpshooter Cuba took 1 damage
+Jen threw a Gale Grenade - from (18, 15) to (14, 14)
+RPD Sharpshooter Cuba took 1 knockback
+Jen threw a Gale Grenade - from (18, 15) to (13, 13)
+RPD Sharpshooter Cuba took 1 knockback
+RPD Sharpshooter Cuba was defenestrated - from (13, 14) to (13, 14)
+RPD Sharpshooter Cuba took 2 damage
+RPD Sharpshooter Cuba passed out
+Jen moved - from (18, 15) to (20, 16)
+Jen used Use Laptop - from (20, 16) to (21, 16)
+Jen cast Static Blast on RPD Enforcer Beltzer - from (20, 16) to (19, 19)
+RPD Enforcer Beltzer took 2 knockback
+Jen moved - from (20, 16) to (21, 13)
+Jen sealed a hostile entry point - from (21, 13) to (21, 13)
+Jen cast Static Blast on RPD Enforcer Beltzer - from (18, 18) to (19, 21)
+RPD Enforcer Beltzer took 2 knockback
+RPD Enforcer Beltzer hit something with 2 knockback left
+RPD Enforcer Beltzer took 2 damage
+Jen threw a Gale Grenade - from (18, 18) to (20, 21)
+RPD Enforcer Beltzer took 1 knockback
+Jen threw a Gale Grenade - from (18, 18) to (20, 22)
+RPD Enforcer Beltzer took 1 knockback
+Jen moved - from (18, 18) to (21, 21)
+Jen cast Static Blast on RPD Enforcer Beltzer - from (21, 21) to (18, 20)
+RPD Enforcer Beltzer took 2 knockback
+Jen sealed a hostile entry point - from (21, 21) to (21, 21)
+Traffic Warlock used Crush Hour - from (8, 17) to (9, 17)
+Traffic Warlock used Crush Hour - from (17, 11) to (17, 12)
+RPD Enforcer Beltzer armour blocked 1 damage
+RPD Enforcer Beltzer took 1 damage
+RPD Enforcer Beltzer took 1 knockback
+Explosive Barrel took 2 damage
+Explosive Barrel took 1 knockback
+Explosive Barrel hit something with 1 knockback left
+Explosive Barrel took 1 damage
+Explosive Barrel exploded
+RPD Enforcer Beltzer armour blocked 1 damage
+RPD Enforcer Beltzer took 3 damage
+RPD Enforcer Beltzer passed out
+RPD Enforcer Beltzer took 1 knockback
+Player ended their turn, starting enemy turn 2
+Traffic Warlock moved - from (8, 17) to (8, 13)
+Traffic Warlock moved - from (17, 11) to (20, 11)
+End of enemy turn 2
+ 
+Start of player turn 3
+Jen moved - from (21, 21) to (17, 19)
+Jen cast Static Blast on Traffic Warlock - from (17, 19) to (20, 11)
+Traffic Warlock took 2 knockback
+Traffic Warlock hit something with 2 knockback left
+Traffic Warlock took 2 damage
+Jen used Broom Breach - from (17, 19) to (11, 17)
+Jen moved - from (21, 21) to (17, 19)
+Jen used Broom Breach - from (17, 19) to (11, 17)
+Jen cast Static Blast on Traffic Warlock - from (11, 17) to (8, 13)
+Traffic Warlock took 2 knockback
+Traffic Warlock hit something with 2 knockback left
+Traffic Warlock took 2 damage
+Jen cast Static Blast on Traffic Warlock - from (11, 17) to (8, 13)
+Traffic Warlock took 2 knockback
+Traffic Warlock hit something with 2 knockback left
+Traffic Warlock took 2 damage
+Jen moved - from (21, 13) to (18, 15)
+Jen used Broom Breach - from (17, 19) to (11, 17)
+Jen moved - from (21, 13) to (18, 15)
+Jen used Broom Breach on Jen - from (18, 15) to (11, 17)
+Jen took 3 knockback
+Jen cast Static Blast on Traffic Warlock - from (8, 17) to (8, 13)
+Traffic Warlock took 2 knockback
+Traffic Warlock hit something with 1 knockback left
+Traffic Warlock took 1 damage
+Jen moved - from (8, 17) to (8, 13)
+Jen cast Static Blast on Traffic Warlock - from (11, 17) to (8, 12)
+Traffic Warlock took 2 knockback
+Traffic Warlock hit something with 2 knockback left
+Traffic Warlock took 2 damage
+Jen moved - from (11, 17) to (11, 14)
+Traffic Warlock used Crush Hour - from (8, 12) to (9, 12)
+Traffic Warlock armour blocked 2 damage
+Traffic Warlock took 1 knockback
+Traffic Warlock hit something with 1 knockback left
+Traffic Warlock took 1 damage
+Traffic Warlock used Crush Hour - from (20, 11) to (20, 12)
+Player ended their turn, starting enemy turn 3
+Traffic Warlock moved - from (8, 12) to (13, 13)
+Traffic Warlock moved - from (20, 11) to (21, 13)
+End of enemy turn 3
+ 
+Start of player turn 4
+Jen moved - from (11, 14) to (11, 10)
+Jen moved - from (8, 13) to (9, 10)
+Traffic Warlock used Crush Hour - from (13, 13) to (12, 13)
+Traffic Warlock used Crush Hour - from (21, 13) to (20, 13)
+Traffic Warlock armour blocked 2 damage
+Traffic Warlock took 1 knockback

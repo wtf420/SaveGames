@@ -1,0 +1,7 @@
+# Ratings.txt
+# 2025-01-02 21:24:23 (+07:00)
+# v:2024-12-18-Spearmint
+
+<RatingsManager>
+</RatingsManager>
+

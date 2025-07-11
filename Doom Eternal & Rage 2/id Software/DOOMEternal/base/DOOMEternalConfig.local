@@ -1,0 +1,8 @@
+// This file is for local settings only and will not be cloud synchronized
+configVersion 9
+r_waterLodViewDistance "16"
+r_mode "16"
+r_motionBlurQuality "1"
+r_blurRadialScale "0"
+r_SSDOQuality "2"
+r_SSRQuality "1"

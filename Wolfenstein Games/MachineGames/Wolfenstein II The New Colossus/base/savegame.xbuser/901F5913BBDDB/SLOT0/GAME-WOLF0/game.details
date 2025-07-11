@@ -1,0 +1,12 @@
+checksum=49177779
+completionRation=2%
+date=1644329796
+difficulty=3
+gamePlayTime=4531
+gameVersion=1145896965
+mapName=game/wolf/c02/c02p2
+mapNiceName=#str_chapter_c02_name
+matName=textures/guis/missionobj/c02p2/mission_c02p2_main_obj_01_stoptransmission
+missionName=#str_mission_c02p2_main_01_sectionf_name
+objectiveDesc=#str_mission_c02p2_main_01_obj_01_stoptransmission_summary
+objectiveName=#str_mission_c02p2_main_01_obj_01_stoptransmission_name

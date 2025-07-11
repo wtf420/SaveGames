@@ -1,0 +1,40 @@
+log file 'qconsole.log' opened on Wed Feb  9 01:40:41 2022
+
+CrashHandler: Storing data and writing local report.
+WARNING: No address, error: 126
+idStackTracer::GetSource: Failed
+WARNING: No address, error: 126
+idStackTracer::GetSource: Failed
+WARNING: No address, error: 126
+idStackTracer::GetSource: Failed
+WARNING: No address, error: 126
+idStackTracer::GetSource: Failed
+WARNING: No address, error: 126
+idStackTracer::GetSource: Failed
+WARNING: No address, error: 126
+idStackTracer::GetSource: Failed
+WARNING: No address, error: 126
+idStackTracer::GetSource: Failed
+WARNING: No address, error: 126
+idStackTracer::GetSource: Failed
+WARNING: No address, error: 126
+idStackTracer::GetSource: Failed
+WARNING: No address, error: 126
+idStackTracer::GetSource: Failed
+WARNING: No address, error: 126
+idStackTracer::GetSource: Failed
+WARNING: No address, error: 126
+idStackTracer::GetSource: Failed
+WARNING: No address, error: 126
+idStackTracer::GetSource: Failed
+WARNING: No address, error: 126
+idStackTracer::GetSource: Failed
+WARNING: No address, error: 126
+idStackTracer::GetSource: Failed
+WARNING: No address, error: 126
+idStackTracer::GetSource: Failed
+WARNING: No address, error: 126
+idStackTracer::GetSource: Failed
+WARNING: No address, error: 126
+idStackTracer::GetSource: Failed
+CrashHandler: Complete.

@@ -1,0 +1,90 @@
+20_Lucid_Dream_Banks_4_Circle_Of_Death
+ 
+Start of player turn 1
+Banks breached - from (14, 18) to (14, 17)
+Banks used Sedative Cocktail on Reactor Heavy Gunner Kuiper - from (14, 16) to (10, 17)
+Reactor Heavy Gunner Kuiper stability prevented 1 knockback
+Reactor Heavy Gunner Kuiper is Sedated
+Banks moved - from (14, 17) to (15, 20)
+Banks moved - from (14, 17) to (15, 20)
+Banks used Death's Door - from (15, 20) to (21, 12)
+Banks used Sedative Cocktail on Reactor Tracker Wakefield - from (15, 20) to (20, 12)
+Reactor Tracker Wakefield took 1 knockback
+Reactor Tracker Wakefield is Sedated
+Reactor Tracker Wakefield fell into Death's Door
+Reactor Tracker Wakefield took 3 damage
+Reactor Tracker Wakefield passed out
+Reactor Tracker Wakefield hit something with 1 knockback left
+Banks used Resurrect - from (15, 20) to (15, 21)
+Banks used Grab Intel - from (15, 20) to (14, 20)
+Rion cast Impaling Vine on Reactor Heavy Gunner Kuiper - from (15, 21) to (10, 17)
+Reactor Heavy Gunner Kuiper armour blocked 1 damage
+Reactor Heavy Gunner Kuiper took 3 knockback
+Reactor Heavy Gunner Kuiper was defenestrated - from (11, 18) to (11, 18)
+Reactor Heavy Gunner Kuiper took 1 extra damage from Brittle, Brittle reduced to 0
+Reactor Heavy Gunner Kuiper is no longer Brittle
+Reactor Heavy Gunner Kuiper took 5 damage
+Reactor Heavy Gunner Kuiper passed out
+Rion bit on Reactor Tracker Jones - from (13, 22) to (12, 22)
+Reactor Tracker Jones took 1 damage
+Banks took cover - from (15, 20) to (15, 20)
+Banks moved - from (14, 16) to (19, 17)
+Banks used Grab Intel - from (19, 17) to (19, 16)
+Banks stood up - from (15, 20) to (15, 20)
+Banks used Transference on Banks - from (15, 20) to (19, 17)
+Banks used Transference on Reactor Tracker Jones - from (15, 20) to (12, 22)
+Reactor Tracker Jones shot Banks - from (12, 22) to (15, 20)
+Damage to Banks was transferred to Reactor Tracker Jones
+Reactor Tracker Jones took 2 damage
+Reactor Tracker Jones passed out
+Player ended their turn, starting enemy turn 1
+Reactor Heavy Gunner Boresteel moved - from (12, 13) to (14, 13)
+Reactor Heavy Gunner Boresteel launched a grenade - from (14, 13) to (15, 21)
+End of enemy turn 1
+ 
+Start of player turn 2
+Banks is no longer Neutralised
+Banks used Sedative Cocktail on Reactor Heavy Gunner Boresteel - from (19, 17) to (14, 13)
+Reactor Heavy Gunner Boresteel stability prevented 1 knockback
+Reactor Heavy Gunner Boresteel is Sedated
+Banks used Sedative Cocktail on Reactor Neutraliser Sacino - from (15, 20) to (11, 22)
+Reactor Neutraliser Sacino took 1 knockback
+Reactor Neutraliser Sacino is Sedated
+Reactor Neutraliser Sacino hit something with 1 knockback left
+Reactor Neutraliser Sacino took 1 damage
+Banks moved - from (19, 17) to (20, 16)
+Banks used Sedative Cocktail on Reactor Heavy Gunner Boresteel - from (20, 16) to (14, 13)
+Reactor Heavy Gunner Boresteel stability prevented 1 knockback
+Reactor Heavy Gunner Boresteel is Sedated
+Banks used Spectral Skull on Reactor Neutraliser Sacino - from (15, 20) to (11, 22)
+Reactor Neutraliser Sacino took 2 damage
+Reactor Neutraliser Sacino passed out
+Rion is no longer Neutralised
+Rion cast Impaling Vine on Reactor Heavy Gunner Boresteel - from (13, 22) to (14, 13)
+Reactor Heavy Gunner Boresteel armour blocked 1 damage
+Reactor Heavy Gunner Boresteel took 3 knockback
+Reactor Heavy Gunner Boresteel was defenestrated - from (14, 13) to (14, 13)
+Reactor Heavy Gunner Boresteel took 1 extra damage from Brittle, Brittle reduced to 0
+Reactor Heavy Gunner Boresteel is no longer Brittle
+Reactor Heavy Gunner Boresteel took 5 damage
+Reactor Heavy Gunner Boresteel passed out
+Banks moved - from (15, 20) to (16, 17)
+Rion moved - from (13, 22) to (14, 23)
+Banks used Resurrect - from (20, 16) to (20, 18)
+Jen threw a Gale Grenade - from (20, 18) to (22, 16)
+Reactor Tracker Smilla took 1 knockback
+Reactor Tracker Smilla was defenestrated - from (22, 17) to (22, 17)
+Reactor Tracker Smilla took 3 damage
+Reactor Tracker Smilla passed out
+Jen moved - from (20, 18) to (17, 18)
+Jen cast Static Blast on Reactor Tracker Warding - from (17, 18) to (17, 23)
+Reactor Tracker Warding took 2 knockback
+Reactor Tracker Warding hit something with 2 knockback left
+Reactor Tracker Warding took 2 damage
+Banks used Death's Door - from (16, 17) to (17, 24)
+Jen cast Static Blast on Reactor Tracker Warding - from (17, 18) to (17, 23)
+Reactor Tracker Warding took 2 knockback
+Reactor Tracker Warding fell into Death's Door
+Reactor Tracker Warding took 3 damage
+Reactor Tracker Warding passed out
+Reactor Tracker Warding hit something with 2 knockback left

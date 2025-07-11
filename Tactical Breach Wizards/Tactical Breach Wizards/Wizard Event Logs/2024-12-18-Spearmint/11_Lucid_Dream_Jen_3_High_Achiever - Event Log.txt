@@ -1,0 +1,145 @@
+11_Lucid_Dream_Jen_3_High_Achiever
+ 
+Start of player turn 1
+Jen breached - from (-5, 14) to (-4, 14)
+Jen cast Chain Bolt on Reactor Officer Meridian, Reactor Officer Elm - from (-4, 14) to (-5, 19)
+Reactor Officer Meridian took 2 knockback
+Reactor Officer Elm took 2 knockback
+Reactor Officer Meridian hit something with 2 knockback left
+Reactor Officer Meridian took 2 damage
+Reactor Officer Elm hit something with 2 knockback left
+Reactor Officer Elm took 2 damage
+Jen moved - from (-4, 14) to (-4, 19)
+Jen cast Static Blast on Reactor Officer Meridian - from (-4, 19) to (-5, 19)
+Reactor Officer Meridian took 4 knockback
+Reactor Officer Meridian hit something with 4 knockback left
+Reactor Officer Meridian took 4 damage
+Reactor Officer Meridian passed out
+Jen moved - from (-4, 19) to (-3, 21)
+Jen breached - from (-3, 21) to (-3, 20)
+Jen moved - from (-3, 14) to (-4, 19)
+Jen cast Static Blast on Reactor Officer Elm - from (-4, 19) to (-4, 24)
+Reactor Officer Elm took 2 knockback
+Reactor Officer Elm hit something with 2 knockback left
+Reactor Officer Elm took 2 damage
+Jen moved - from (-4, 19) to (-1, 18)
+Jen used Broom Breach - from (-1, 18) to (4, 17)
+Jen moved - from (-4, 14) to (-4, 19)
+Jen cast Static Blast on Reactor Officer Meridian - from (-4, 19) to (-5, 19)
+Reactor Officer Meridian took 4 knockback
+Reactor Officer Meridian hit something with 4 knockback left
+Reactor Officer Meridian took 4 damage
+Reactor Officer Meridian passed out
+Jen cast Static Blast on Reactor Officer Elm - from (-4, 19) to (-4, 24)
+Reactor Officer Elm took 2 knockback
+Reactor Officer Elm hit something with 2 knockback left
+Reactor Officer Elm took 2 damage
+Jen moved - from (-4, 19) to (-3, 21)
+Jen breached - from (-3, 21) to (-3, 20)
+Jen moved - from (-3, 14) to (-4, 19)
+Jen cast Static Blast on Reactor Officer Meridian - from (-4, 19) to (-5, 19)
+Reactor Officer Meridian took 4 knockback
+Reactor Officer Meridian hit something with 4 knockback left
+Reactor Officer Meridian took 4 damage
+Reactor Officer Meridian passed out
+Jen moved - from (-4, 19) to (-5, 23)
+Jen breached - from (-5, 23) to (-5, 24)
+Player ended their turn, starting enemy turn 1
+End of enemy turn 1
+ 
+Start of player turn 2
+Jen moved - from (-5, 24) to (-7, 22)
+Jen used Hack Turret - from (-7, 22) to (-6, 22)
+Jen cast Static Blast on - from (-7, 22) to (-6, 26)
+Air Canister took 2 knockback
+Air Canister hit something with 2 knockback left
+Air Canister took 2 damage
+Air Canister exploded
+Jen moved - from (-7, 22) to (-3, 24)
+Jen cast Static Blast on Jen - from (-3, 20) to (-3, 24)
+Jen took 2 knockback
+Jen moved - from (-3, 20) to (-1, 18)
+Jen used Broom Breach - from (-1, 18) to (4, 17)
+Jen moved - from (-3, 20) to (0, 20)
+Jen used Grab Intel - from (0, 20) to (0, 19)
+Jen cast Static Blast on - from (0, 20) to (-2, 22)
+Air Canister took 2 knockback
+Air Canister hit something with 2 knockback left
+Air Canister took 2 damage
+Air Canister exploded
+Jen moved - from (0, 20) to (-1, 18)
+Jen used Broom Breach - from (-1, 18) to (4, 17)
+Turret shot Reactor Officer Elm - from (5, 26) to (-1, 24)
+Reactor Officer Elm armour blocked 1 damage
+Reactor Officer Elm took 2 damage
+Reactor Officer Elm passed out
+Reactor Officer Elm took 1 knockback
+Player ended their turn, starting enemy turn 2
+End of enemy turn 2
+ 
+Start of player turn 3
+Jen moved - from (-3, 24) to (2, 24)
+Jen cast Static Blast on Reactor Officer Cassiopeia - from (2, 24) to (5, 23)
+Reactor Officer Cassiopeia took 2 knockback
+Reactor Officer Cassiopeia hit a Electrified Wall
+Reactor Officer Cassiopeia armour blocked 1 damage
+Reactor Officer Cassiopeia took 1 damage
+Reactor Officer Cassiopeia is Stunned for 1 turn
+Reactor Officer Cassiopeia hit something with 1 knockback left
+Reactor Officer Cassiopeia took 1 damage
+Jen moved - from (2, 24) to (6, 22)
+Jen moved - from (2, 24) to (5, 24)
+Jen moved - from (4, 17) to (5, 19)
+Jen cast Static Blast on Reactor Officer Silksteel - from (5, 19) to (5, 20)
+Reactor Officer Silksteel took 4 knockback
+Reactor Officer Midthunder took 1 knockback
+Reactor Officer Silksteel hit something with 3 knockback left
+Reactor Officer Silksteel took 3 damage
+Reactor Officer Silksteel passed out
+Jen cast Chain Bolt on Reactor Officer Silksteel, Reactor Officer Cassiopeia - from (5, 19) to (5, 20)
+Reactor Officer Silksteel took 2 knockback
+Reactor Officer Cassiopeia took 2 knockback
+Reactor Officer Midthunder took 1 knockback
+Reactor Officer Silksteel hit something with 1 knockback left
+Reactor Officer Silksteel took 1 damage
+Reactor Officer Cassiopeia hit something with 1 knockback left
+Reactor Officer Cassiopeia took 1 damage
+Reactor Officer Cassiopeia passed out
+Reactor Officer Silksteel used  - from (6, 18) to (6, 18)
+Jen cast Static Blast on Reactor Officer Silksteel - from (5, 19) to (5, 20)
+Reactor Officer Silksteel took 4 knockback
+Reactor Officer Midthunder took 1 knockback
+Reactor Officer Silksteel hit something with 3 knockback left
+Reactor Officer Silksteel took 3 damage
+Reactor Officer Silksteel passed out
+Turret shot Reactor Officer Cassiopeia - from (5, 26) to (6, 23)
+Reactor Officer Cassiopeia armour blocked 1 damage
+Reactor Officer Cassiopeia took 2 damage
+Reactor Officer Cassiopeia passed out
+Reactor Officer Cassiopeia took 1 knockback
+Player ended their turn, starting enemy turn 3
+End of enemy turn 3
+ 
+Start of player turn 4
+Jen cast Static Blast on Reactor Officer Midthunder - from (5, 19) to (5, 20)
+Reactor Officer Midthunder took 4 knockback
+Jen took 1 knockback
+Reactor Officer Midthunder hit something with 1 knockback left
+Reactor Officer Midthunder took 1 damage
+Jen cast Static Blast on Reactor Officer Midthunder - from (5, 25) to (5, 23)
+Reactor Officer Midthunder took 2 knockback
+Jen cast Static Blast on Reactor Officer Midthunder - from (5, 19) to (5, 20)
+Reactor Officer Midthunder took 4 knockback
+Jen took 1 knockback
+Reactor Officer Midthunder hit something with 1 knockback left
+Reactor Officer Midthunder took 1 damage
+Jen moved - from (5, 25) to (3, 23)
+Jen cast Static Blast on Reactor Officer Midthunder - from (3, 23) to (5, 23)
+Reactor Officer Midthunder took 2 knockback
+Reactor Officer Midthunder hit a Electrified Wall
+Reactor Officer Midthunder armour blocked 1 damage
+Reactor Officer Midthunder took 1 damage
+Reactor Officer Midthunder is Stunned for 1 turn
+Reactor Officer Midthunder hit something with 1 knockback left
+Reactor Officer Midthunder took 1 damage
+Reactor Officer Midthunder passed out

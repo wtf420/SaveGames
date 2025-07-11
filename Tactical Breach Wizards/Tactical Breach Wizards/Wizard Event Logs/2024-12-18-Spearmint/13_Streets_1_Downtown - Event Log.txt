@@ -1,0 +1,77 @@
+13_Streets_1_Downtown
+ 
+Start of player turn 1
+Banks moved - from (0, 15) to (1, 12)
+Banks used Spectral Skull on Chapel Cleanser Cherry - from (1, 12) to (5, 11)
+Chapel Cleanser Cherry took 2 damage
+Chapel Tracker Gyasi took 2 damage
+Chapel Tracker Caron took 2 damage
+Banks moved - from (0, 15) to (1, 12)
+Banks used Spectral Skull - from (1, 12) to (6, 10)
+Chapel Cleanser Cherry took 2 damage
+Chapel Tracker Gyasi took 2 damage
+Chapel Tracker Caron took 2 damage
+Jen moved - from (0, 13) to (3, 10)
+Jen cast Chain Bolt on Chapel Cleanser Cherry, Chapel Tracker Gyasi, Chapel Tracker Caron - from (3, 10) to (5, 11)
+Chapel Cleanser Cherry took 3 knockback
+Chapel Tracker Gyasi took 3 knockback
+Chapel Tracker Caron took 3 knockback
+Chapel Tracker Gyasi was defenestrated - from (7, 9) to (7, 9)
+Chapel Cleanser Cherry hit something with 3 knockback left
+Chapel Cleanser Cherry took 3 damage
+Chapel Cleanser Cherry passed out
+Chapel Tracker Caron hit something with 2 knockback left
+Chapel Tracker Caron took 2 damage
+Chapel Tracker Caron passed out
+Chapel Tracker Gyasi took 1 damage
+Chapel Tracker Gyasi passed out
+Jen moved - from (0, 13) to (1, 9)
+Zan moved - from (0, 14) to (3, 11)
+Zan  - from (3, 11) to (7, 10)
+False Prophet sealed a hostile entry point - from (7, 10) to (7, 10)
+Zan moved - from (0, 14) to (0, 12)
+Banks moved - from (0, 15) to (-1, 12)
+Banks moved - from (0, 15) to (-1, 13)
+Banks moved - from (0, 15) to (-1, 11)
+Banks moved - from (0, 15) to (1, 12)
+Banks used Spectral Skull - from (1, 12) to (6, 10)
+Chapel Cleanser Cherry took 2 damage
+Chapel Tracker Gyasi took 2 damage
+Chapel Tracker Caron took 2 damage
+Zan moved - from (0, 14) to (1, 10)
+Zan  - from (1, 10) to (4, 12)
+False Prophet sealed a hostile entry point - from (4, 12) to (4, 12)
+Jen moved - from (0, 13) to (3, 10)
+Jen moved - from (0, 13) to (3, 12)
+Jen cast Chain Bolt on Chapel Cleanser Cherry, Chapel Tracker Gyasi, Chapel Tracker Caron - from (3, 12) to (5, 11)
+Chapel Cleanser Cherry took 3 knockback
+Chapel Tracker Gyasi took 3 knockback
+Chapel Tracker Caron took 3 knockback
+Chapel Tracker Gyasi was defenestrated - from (7, 9) to (7, 9)
+Zan shot Chapel Cleanser Cherry on overwatch
+Chapel Cleanser Cherry took 4 damage
+Chapel Cleanser Cherry passed out
+Chapel Tracker Caron hit something with 2 knockback left
+Chapel Tracker Caron took 2 damage
+Chapel Tracker Caron passed out
+Chapel Cleanser Cherry was defenestrated - from (7, 9) to (7, 9)
+Chapel Tracker Gyasi took 1 damage
+Chapel Tracker Gyasi passed out
+False Prophet vanished
+Player ended their turn, starting enemy turn 1
+Chapel Cleanser Waybright moved - from (7, 10) to (5, 10)
+Chapel Cleanser Waybright took cover - from (5, 10) to (5, 10)
+End of enemy turn 1
+ 
+Start of player turn 2
+Jen moved - from (3, 12) to (7, 10)
+Jen sealed a hostile entry point - from (7, 10) to (7, 10)
+Jen cast Static Blast on Chapel Cleanser Waybright - from (7, 10) to (5, 10)
+Chapel Cleanser Waybright took 2 knockback
+Chapel Cleanser Waybright hit something with 2 knockback left
+Chapel Cleanser Waybright took 2 damage
+Zan took a free shot at Chapel Cleanser Waybright with Supporting Fire.
+Zan used 3 Bolt Burst on Chapel Cleanser Waybright - from (1, 10) to (5, 10)
+Chapel Cleanser Waybright took 1 damage
+Chapel Cleanser Waybright passed out
+Chapel Cleanser Waybright took 1 knockback

@@ -1,0 +1,120 @@
+06_Liboli_Intro_1_Twin_Turrets
+ 
+Start of player turn 1
+Zan breached - from (-2, 5) to (-2, 4)
+Zan moved - from (-2, 4) to (2, 3)
+Zan used 3 Bolt Burst on Reactor Tracker Manifold - from (2, 3) to (4, 6)
+Reactor Tracker Manifold took 1 damage
+Reactor Tracker Manifold took 1 knockback
+Reactor Tracker Manifold was defenestrated - from (4, 6) to (4, 6)
+Reactor Tracker Manifold took 2 damage
+Reactor Tracker Manifold passed out
+Zan took cover - from (2, 3) to (2, 3)
+Jen moved - from (-2, 3) to (1, 5)
+Jen cast Chain Bolt on Turret, Reactor Tracker Kreka - from (1, 5) to (7, 5)
+Turret stability prevented 1 knockback
+Turret took 1 knockback
+Reactor Tracker Kreka took 4 knockback
+Reactor Tracker Kreka hit something with 3 knockback left
+Reactor Tracker Kreka took 3 damage
+Reactor Tracker Kreka passed out
+Jen used Grab Intel - from (1, 5) to (2, 5)
+Jen took cover - from (1, 5) to (1, 5)
+Player ended their turn, starting enemy turn 1
+End of enemy turn 1
+ 
+Start of player turn 2
+Jen moved - from (1, 5) to (4, 5)
+Jen cast Static Blast on Turret - from (4, 5) to (8, 5)
+Turret stability prevented 1 knockback
+Turret took 1 knockback
+Turret hit something with 1 knockback left
+Turret took 1 damage
+Zan took a free shot at Turret with Supporting Fire.
+Zan used 3 Bolt Burst on Turret - from (2, 3) to (8, 5)
+Turret armour blocked 1 damage
+Turret stability prevented 1 knockback
+Jen took cover - from (4, 5) to (4, 5)
+Zan used Time Boost on Jen - from (2, 3) to (4, 5)
+Zan moved - from (2, 3) to (1, 6)
+Zan took cover - from (1, 6) to (1, 6)
+Zan stood up - from (1, 6) to (1, 6)
+Zan used 3 Bolt Burst on Turret - from (1, 6) to (8, 5)
+Turret armour blocked 1 damage
+Turret stability prevented 1 knockback
+Zan took cover - from (1, 6) to (1, 6)
+Player ended their turn, starting enemy turn 2
+End of enemy turn 2
+ 
+Start of player turn 3
+Jen moved - from (4, 5) to (8, 6)
+Jen disabled a turret Turret - from (8, 6) to (8, 5)
+Jen cast Static Blast on Reactor Tracker Borealis - from (8, 6) to (6, 5)
+Reactor Tracker Borealis took 2 knockback
+Reactor Tracker Borealis hit something with 2 knockback left
+Reactor Tracker Borealis took 2 damage
+Zan took a free shot at Reactor Tracker Borealis with Supporting Fire.
+Zan used 3 Bolt Burst on Reactor Tracker Borealis - from (1, 6) to (6, 5)
+Reactor Tracker Borealis took 1 damage
+Reactor Tracker Borealis passed out
+Reactor Tracker Borealis took 1 knockback
+Zan moved - from (1, 6) to (4, 5)
+Jen moved - from (4, 5) to (7, 5)
+Jen disabled a turret Turret - from (7, 5) to (8, 5)
+Jen took cover - from (7, 5) to (7, 5)
+Jen moved - from (4, 5) to (8, 6)
+Jen cast Static Blast on Reactor Tracker Borealis - from (8, 6) to (6, 5)
+Reactor Tracker Borealis took 2 knockback
+Reactor Tracker Borealis hit something with 2 knockback left
+Reactor Tracker Borealis took 2 damage
+Zan took a free shot at Reactor Tracker Borealis with Supporting Fire.
+Zan used 3 Bolt Burst on Reactor Tracker Borealis - from (1, 6) to (6, 5)
+Reactor Tracker Borealis took 1 damage
+Reactor Tracker Borealis passed out
+Reactor Tracker Borealis took 1 knockback
+Jen disabled a turret Turret - from (8, 6) to (8, 5)
+Zan moved - from (1, 6) to (3, 6)
+Player ended their turn, starting enemy turn 3
+End of enemy turn 3
+ 
+Start of player turn 4
+Zan moved - from (3, 6) to (7, 6)
+Zan moved - from (3, 6) to (5, 6)
+Jen moved - from (8, 6) to (8, 3)
+Jen moved - from (8, 6) to (7, 4)
+Zan moved - from (3, 6) to (5, 6)
+Zan took cover - from (5, 6) to (5, 6)
+Jen moved - from (8, 6) to (7, 4)
+Jen moved - from (8, 6) to (7, 4)
+Jen cast Static Blast on Turret - from (7, 4) to (7, -1)
+Turret stability prevented 1 knockback
+Turret took 1 knockback
+Jen took cover - from (7, 4) to (7, 4)
+Player ended their turn, starting enemy turn 4
+End of enemy turn 4
+ 
+Start of player turn 5
+Jen moved - from (7, 4) to (6, 1)
+Jen cast Static Blast on Reactor Tracker Chalamala - from (6, 1) to (8, 6)
+Reactor Tracker Chalamala took 2 knockback
+Reactor Tracker Chalamala hit something with 2 knockback left
+Reactor Tracker Chalamala took 2 damage
+Zan took a free shot at Reactor Tracker Chalamala with Supporting Fire.
+Zan used 3 Bolt Burst on Reactor Tracker Chalamala - from (5, 6) to (8, 6)
+Reactor Tracker Chalamala took 1 damage
+Reactor Tracker Chalamala passed out
+Reactor Tracker Chalamala took 1 knockback
+Reactor Tracker Chalamala hit something with 1 knockback left
+Jen took cover - from (6, 1) to (6, 1)
+Zan used 3 Bolt Burst on Turret - from (5, 6) to (7, -2)
+Turret armour blocked 1 damage
+Turret stability prevented 1 knockback
+Zan took cover - from (5, 6) to (5, 6)
+Player ended their turn, starting enemy turn 5
+End of enemy turn 5
+ 
+Start of player turn 6
+Zan moved - from (5, 6) to (7, 6)
+Zan sealed a hostile entry point - from (7, 6) to (7, 6)
+Jen moved - from (6, 1) to (7, -1)
+Jen disabled a turret Turret - from (7, -1) to (7, -2)

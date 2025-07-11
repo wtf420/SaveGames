@@ -1,0 +1,1009 @@
+28_Finale_Mines_2_The_Motherlode
+ 
+Start of player turn 1
+Rion breached - from (1, -9) to (2, -9)
+Rion bit on Less Lethal Pyromancer - from (2, -1) to (2, 0)
+Less Lethal Pyromancer took 1 damage
+Rion moved - from (2, -1) to (4, 2)
+Rion used Change Form - from (4, 2) to (4, 2)
+Rion cast Impaling Vine on Reactor Shotgunner Cassini - from (4, 2) to (-4, 1)
+Reactor Shotgunner Cassini took 1 damage
+Reactor Shotgunner Cassini took 3 knockback
+Banks moved - from (3, -9) to (-1, -7)
+Banks used Sedative Cocktail on Reactor Shotgunner Cassini - from (-1, -7) to (-1, 1)
+Reactor Shotgunner Cassini took 1 extra damage from Brittle, Brittle reduced to 0
+Reactor Shotgunner Cassini is no longer Brittle
+Reactor Shotgunner Cassini took 2 damage
+Reactor Shotgunner Cassini took 1 knockback
+Reactor Shotgunner Cassini is Sedated
+Medil Militia Beltzer shot Reactor Shotgunner Cassini - from (-8, 0) to (-1, 2)
+Reactor Shotgunner Cassini took 2 damage
+Reactor Shotgunner Cassini passed out
+Medil Militia Alphecca shot Reactor Shotgunner Albrecht - from (-8, -1) to (-1, -3)
+Reactor Shotgunner Albrecht took 2 damage
+Rion bit on Less Lethal Pyromancer - from (2, -1) to (2, 0)
+Less Lethal Pyromancer took 1 damage
+Rion moved - from (2, -1) to (4, 2)
+Rion used Change Form - from (4, 2) to (4, 2)
+Rion cast Impaling Vine on Reactor Shotgunner Cassini - from (4, 2) to (-4, 1)
+Reactor Shotgunner Cassini took 1 damage
+Reactor Shotgunner Cassini took 3 knockback
+Banks moved - from (3, -9) to (-1, -7)
+Banks used Sedative Cocktail on Reactor Shotgunner Cassini - from (-1, -7) to (-1, 1)
+Reactor Shotgunner Cassini took 1 extra damage from Brittle, Brittle reduced to 0
+Reactor Shotgunner Cassini is no longer Brittle
+Reactor Shotgunner Cassini took 2 damage
+Reactor Shotgunner Cassini took 1 knockback
+Reactor Shotgunner Cassini is Sedated
+Banks used Sedative Cocktail on Reactor Shotgunner Albrecht - from (-1, -7) to (-1, -3)
+Reactor Shotgunner Albrecht took 1 damage
+Reactor Shotgunner Albrecht took 1 knockback
+Reactor Shotgunner Albrecht is Sedated
+Banks used Sedative Cocktail on Reactor Shotgunner Cassini - from (-1, -7) to (-1, 1)
+Reactor Shotgunner Cassini took 1 extra damage from Brittle, Brittle reduced to 0
+Reactor Shotgunner Cassini is no longer Brittle
+Reactor Shotgunner Cassini took 2 damage
+Reactor Shotgunner Cassini took 1 knockback
+Reactor Shotgunner Cassini is Sedated
+Medil Militia Beltzer shot Reactor Shotgunner Cassini - from (-8, 0) to (-1, 2)
+Reactor Shotgunner Cassini took 2 damage
+Reactor Shotgunner Cassini passed out
+Medil Militia Alphecca shot Reactor Shotgunner Albrecht - from (-8, -1) to (-1, -3)
+Reactor Shotgunner Albrecht took 2 damage
+Player ended their turn, starting enemy turn 1
+Reactor Medic Costello moved - from (5, 4) to (6, 1)
+Reactor Heavy Gunner Grounder moved - from (-3, 5) to (-6, 2)
+Reactor Heavy Gunner Grounder launched a grenade - from (-6, 2) to (-9, 0)
+Medil Militia Beltzer moved - from (-8, 0) to (-7, 1)
+Medil Militia Alphecca moved - from (-8, -1) to (-8, -2)
+Reactor Shotgunner Albrecht moved - from (-1, -3) to (-3, -5)
+Less Lethal Pyromancer moved - from (2, 0) to (3, 0)
+End of enemy turn 1
+ 
+Start of player turn 2
+Banks used Sedative Cocktail on Reactor Shotgunner Albrecht - from (-1, -7) to (-3, -5)
+Reactor Shotgunner Albrecht took 1 damage
+Reactor Shotgunner Albrecht took 1 knockback
+Reactor Shotgunner Albrecht is Sedated
+Banks moved - from (-1, -7) to (2, -5)
+Banks used Sedative Cocktail on Less Lethal Pyromancer - from (2, -5) to (3, 0)
+Less Lethal Pyromancer took 1 damage
+Less Lethal Pyromancer stability prevented 1 knockback
+Gasmasked prevented Less Lethal Pyromancer from gaining Sedated
+Gasmasked prevented Less Lethal Pyromancer from gaining Unsteady
+Rion moved - from (4, 2) to (0, 3)
+Rion cast Impaling Vine on Less Lethal Pyromancer - from (0, 3) to (3, 0)
+Less Lethal Pyromancer took 1 damage
+Less Lethal Pyromancer stability prevented 1 knockback
+Less Lethal Pyromancer took 2 knockback
+Rion cast Impaling Vine on Reactor Heavy Gunner Grounder - from (4, 2) to (-6, 2)
+Reactor Heavy Gunner Grounder armour blocked 1 damage
+Reactor Heavy Gunner Grounder stability prevented 1 knockback
+Reactor Heavy Gunner Grounder took 2 knockback
+Banks used Sedative Cocktail on Reactor Heavy Gunner Grounder - from (-1, -7) to (-4, 2)
+Brittle: 1 armour lost (Reactor Heavy Gunner Grounder)
+Reactor Heavy Gunner Grounder took 1 extra damage from Brittle, Brittle reduced to 0
+Reactor Heavy Gunner Grounder is no longer Brittle
+Reactor Heavy Gunner Grounder took 1 damage
+Reactor Heavy Gunner Grounder stability prevented 1 knockback
+Reactor Heavy Gunner Grounder is Sedated
+Banks moved - from (-1, -7) to (2, -6)
+Banks moved - from (-1, -7) to (1, -7)
+Banks moved - from (-1, -7) to (4, -7)
+Jen took 100 damage
+Jen passed out
+Dall armour blocked 1 damage
+Dall took 99 damage
+Dall passed out
+Dall gained 1 mana from incoming damage
+Medil Militia Beltzer shot Reactor Heavy Gunner Grounder - from (-7, 1) to (-4, 2)
+Reactor Heavy Gunner Grounder took 2 damage
+Medil Militia Alphecca shot Reactor Heavy Gunner Grounder - from (-8, -2) to (-4, 2)
+Reactor Heavy Gunner Grounder took 2 damage
+Reactor Heavy Gunner Grounder passed out
+Reactor Medic Costello zapped Rion - from (5, 2) to (4, 2)
+Rion took 1 damage
+Rion took 1 knockback
+Player ended their turn, starting enemy turn 2
+Reactor Shotgunner Albrecht moved - from (-3, -5) to (-5, -2)
+Less Lethal Pyromancer moved - from (3, 0) to (3, -1)
+Reactor Medic Costello moved - from (5, 2) to (2, 0)
+Reactor Medic Costello took cover - from (2, 0) to (2, 0)
+End of enemy turn 2
+ 
+Start of player turn 3
+Rion moved - from (3, 2) to (1, 3)
+Rion moved - from (3, 2) to (-1, 3)
+Banks used Sedative Cocktail on Reactor Medic Costello - from (4, -7) to (2, 0)
+Reactor Medic Costello took 1 damage
+Reactor Medic Costello took 1 knockback
+Reactor Medic Costello is Sedated
+Less Lethal Pyromancer took 1 damage
+Gasmasked prevented Less Lethal Pyromancer from gaining Sedated
+Gasmasked prevented Less Lethal Pyromancer from gaining Unsteady
+Banks used Sedative Cocktail on Reactor Medic Costello - from (4, -7) to (2, 0)
+Reactor Medic Costello took 1 damage
+Reactor Medic Costello took 1 knockback
+Reactor Medic Costello is Sedated
+Less Lethal Pyromancer took 1 damage
+Gasmasked prevented Less Lethal Pyromancer from gaining Sedated
+Gasmasked prevented Less Lethal Pyromancer from gaining Unsteady
+Rion moved - from (3, 2) to (-1, 3)
+Rion cast Impaling Vine on Reactor Medic Costello - from (-1, 3) to (2, 1)
+Reactor Medic Costello took 1 damage
+Reactor Medic Costello took 5 knockback
+Reactor Medic Costello hit something with 3 knockback left
+Reactor Medic Costello took 1 extra damage from Brittle, Brittle reduced to 0
+Reactor Medic Costello is no longer Brittle
+Reactor Medic Costello took 4 damage
+Reactor Medic Costello passed out
+Banks used Transference on Less Lethal Pyromancer - from (4, -7) to (3, -1)
+Banks used Transference on Reactor Chaser Necessity - from (4, -7) to (2, 3)
+Banks used Transference on Reactor Chaser Necessity - from (4, -7) to (2, 3)
+Reactor Chaser Necessity used Shock Hammer on Rion - from (0, 3) to (-1, 3)
+2 damage and 2 knockback to Rion was transferred to Reactor Chaser Necessity
+Reactor Chaser Necessity took 2 damage
+Reactor Chaser Necessity took 2 knockback
+Rion took 1 knockback
+Reactor Chaser Necessity hit something with 2 knockback left
+Reactor Chaser Necessity took 2 damage
+Reactor Chaser Necessity passed out
+Medil Militia Beltzer shot Reactor Shotgunner Albrecht - from (-7, 1) to (-5, -2)
+Reactor Shotgunner Albrecht took 2 damage
+Reactor Shotgunner Albrecht passed out
+Banks used Transference on Less Lethal Pyromancer - from (4, -7) to (3, -1)
+Reactor Chaser Necessity used Shock Hammer on Rion - from (0, 3) to (-1, 3)
+2 damage and 2 knockback to Rion was transferred to Less Lethal Pyromancer
+Less Lethal Pyromancer took 2 damage
+Less Lethal Pyromancer is no longer Gasmasked
+Less Lethal Pyromancer stability prevented 1 knockback
+Less Lethal Pyromancer took 1 knockback
+Less Lethal Pyromancer hit something with 1 knockback left
+Less Lethal Pyromancer took 1 damage
+Medil Militia Beltzer shot Reactor Shotgunner Albrecht - from (-7, 1) to (-5, -2)
+Reactor Shotgunner Albrecht took 2 damage
+Reactor Shotgunner Albrecht passed out
+Medil Militia Alphecca shot Reactor Chaser Necessity - from (-8, -2) to (0, 3)
+Reactor Chaser Necessity took 2 damage
+Less Lethal Pyromancer used Throw Mildfire - from (3, -1) to (1, 3)
+Player ended their turn, starting enemy turn 3
+Reactor Heavy Gunner Alphecca moved - from (5, 4) to (3, 3)
+Reactor Heavy Gunner Alphecca launched a grenade - from (3, 3) to (-8, 2)
+Medil Militia Beltzer moved - from (-7, 1) to (-6, 1)
+Medil Militia Nightly moved - from (-8, 1) to (-8, 0)
+Less Lethal Pyromancer moved - from (3, -1) to (3, 0)
+End of enemy turn 3
+ 
+Start of player turn 4
+Rion moved - from (-1, 3) to (-4, 0)
+Rion cast Impaling Vine on Reactor Heavy Gunner Alphecca - from (-4, 0) to (3, 3)
+Reactor Heavy Gunner Alphecca armour blocked 1 damage
+Reactor Heavy Gunner Alphecca stability prevented 1 knockback
+Reactor Heavy Gunner Alphecca took 2 knockback
+Banks moved - from (4, -7) to (-1, -7)
+Banks moved - from (4, -7) to (1, -4)
+Banks moved - from (4, -7) to (-1, -7)
+Banks used Sedative Cocktail - from (-1, -7) to (0, 2)
+Reactor Chaser Necessity took 1 damage
+Reactor Chaser Necessity is Sedated
+Brittle: 1 armour lost (Reactor Heavy Gunner Alphecca)
+Reactor Heavy Gunner Alphecca took 1 extra damage from Brittle, Brittle reduced to 0
+Reactor Heavy Gunner Alphecca is no longer Brittle
+Reactor Heavy Gunner Alphecca took 1 damage
+Reactor Heavy Gunner Alphecca is Sedated
+Rion cast Brittling Dart on Reactor Heavy Gunner Alphecca - from (-4, 0) to (1, 1)
+Rion took cover - from (-4, 0) to (-4, 0)
+Rion stood up - from (-4, 0) to (-4, 0)
+Medil Militia Beltzer shot Reactor Chaser Necessity - from (-6, 1) to (0, 3)
+Reactor Chaser Necessity took 2 damage
+Reactor Chaser Necessity passed out
+Medil Militia Alphecca shot Reactor Tracker Midthunder - from (-8, -2) to (-3, 4)
+Reactor Tracker Midthunder took 2 damage
+Medil Militia Nightly shot Reactor Tracker Midthunder - from (-8, 0) to (-3, 4)
+Reactor Tracker Midthunder took 2 damage
+Reactor Tracker Midthunder passed out
+Less Lethal Pyromancer used Throw Mildfire on Reactor Heavy Gunner Alphecca - from (3, 0) to (1, 1)
+Reactor Heavy Gunner Alphecca took 1 extra damage from Brittle, Brittle reduced to 0
+Reactor Heavy Gunner Alphecca is no longer Brittle
+Reactor Heavy Gunner Alphecca took 2 damage
+Reactor Heavy Gunner Alphecca used Saturating Fire on Rion - from (1, 1) to (-4, 0)
+Rion took 4 damage
+Rion passed out
+Reactor Heavy Gunner Alphecca took 2 damage
+Reactor Heavy Gunner Alphecca passed out
+Rion took cover - from (-4, 0) to (-4, 0)
+Medil Militia Beltzer shot Reactor Chaser Necessity - from (-6, 1) to (0, 3)
+Reactor Chaser Necessity took 2 damage
+Reactor Chaser Necessity passed out
+Medil Militia Alphecca shot Reactor Tracker Midthunder - from (-8, -2) to (-3, 4)
+Reactor Tracker Midthunder took 2 damage
+Medil Militia Nightly shot Reactor Tracker Midthunder - from (-8, 0) to (-3, 4)
+Reactor Tracker Midthunder took 2 damage
+Reactor Tracker Midthunder passed out
+Less Lethal Pyromancer used Throw Mildfire on Reactor Heavy Gunner Alphecca - from (3, 0) to (1, 1)
+Reactor Heavy Gunner Alphecca took 1 extra damage from Brittle, Brittle reduced to 0
+Reactor Heavy Gunner Alphecca is no longer Brittle
+Reactor Heavy Gunner Alphecca took 2 damage
+Reactor Heavy Gunner Alphecca used Saturating Fire on Medil Militia Nightly - from (1, 1) to (-8, 0)
+Medil Militia Nightly took 4 damage
+Medil Militia Nightly passed out
+Reactor Heavy Gunner Alphecca took 2 damage
+Reactor Heavy Gunner Alphecca passed out
+Rion stood up - from (-4, 0) to (-4, 0)
+Rion moved - from (-1, 3) to (-4, 0)
+Rion cast Brittling Dart on Reactor Heavy Gunner Alphecca - from (-4, 0) to (3, 3)
+Rion cast Impaling Vine on Reactor Heavy Gunner Alphecca - from (-4, 0) to (3, 3)
+Brittle: 1 armour lost (Reactor Heavy Gunner Alphecca)
+Reactor Heavy Gunner Alphecca took 1 extra damage from Brittle, Brittle reduced to 0
+Reactor Heavy Gunner Alphecca is no longer Brittle
+Reactor Heavy Gunner Alphecca took 1 damage
+Reactor Heavy Gunner Alphecca stability prevented 1 knockback
+Reactor Heavy Gunner Alphecca took 2 knockback
+Banks moved - from (4, -7) to (-1, -7)
+Banks used Sedative Cocktail - from (-1, -7) to (0, 2)
+Reactor Chaser Necessity took 1 damage
+Reactor Chaser Necessity is Sedated
+Reactor Heavy Gunner Alphecca took 1 extra damage from Brittle, Brittle reduced to 0
+Reactor Heavy Gunner Alphecca is no longer Brittle
+Reactor Heavy Gunner Alphecca took 2 damage
+Reactor Heavy Gunner Alphecca is Sedated
+Medil Militia Beltzer shot Reactor Chaser Necessity - from (-6, 1) to (0, 3)
+Reactor Chaser Necessity took 2 damage
+Reactor Chaser Necessity passed out
+Medil Militia Alphecca shot Reactor Heavy Gunner Alphecca - from (-8, -2) to (1, 1)
+Reactor Heavy Gunner Alphecca took 2 damage
+Reactor Heavy Gunner Alphecca passed out
+Medil Militia Nightly shot Reactor Tracker Midthunder - from (-8, 0) to (-3, 4)
+Reactor Tracker Midthunder took 2 damage
+Reactor Tracker Midthunder shot Medil Militia Beltzer - from (-3, 4) to (-6, 1)
+Medil Militia Beltzer took 2 damage
+Medil Militia Beltzer passed out
+Medil Militia Beltzer shot Reactor Chaser Necessity - from (-6, 1) to (0, 3)
+Reactor Chaser Necessity took 2 damage
+Reactor Chaser Necessity passed out
+Medil Militia Alphecca shot Reactor Heavy Gunner Alphecca - from (-8, -2) to (1, 1)
+Reactor Heavy Gunner Alphecca took 2 damage
+Reactor Heavy Gunner Alphecca passed out
+Medil Militia Nightly shot Reactor Tracker Midthunder - from (-8, 0) to (-3, 4)
+Reactor Tracker Midthunder took 2 damage
+Reactor Tracker Midthunder shot Medil Militia Beltzer - from (-3, 4) to (-6, 1)
+Medil Militia Beltzer took 2 damage
+Medil Militia Beltzer passed out
+Medil Militia Beltzer shot Reactor Chaser Necessity - from (-6, 1) to (0, 3)
+Reactor Chaser Necessity took 2 damage
+Reactor Chaser Necessity passed out
+Medil Militia Alphecca shot Reactor Heavy Gunner Alphecca - from (-8, -2) to (1, 1)
+Reactor Heavy Gunner Alphecca took 2 damage
+Reactor Heavy Gunner Alphecca passed out
+Medil Militia Nightly shot Reactor Tracker Midthunder - from (-8, 0) to (-3, 4)
+Reactor Tracker Midthunder took 2 damage
+Reactor Tracker Midthunder shot Medil Militia Beltzer - from (-3, 4) to (-6, 1)
+Medil Militia Beltzer took 2 damage
+Medil Militia Beltzer passed out
+Player ended their turn, starting enemy turn 4
+Reactor Superheavy Bayer moved - from (-3, 5) to (-4, 2)
+Reactor Superheavy Bayer used Launch Missiles - from (-4, 2) to (-3, 1)
+Less Lethal Pyromancer moved - from (3, 0) to (3, -3)
+End of enemy turn 4
+ 
+Start of player turn 5
+Banks moved - from (-1, -7) to (-3, -5)
+Banks used Resurrect - from (-3, -5) to (-1, -4)
+Rion cast Impaling Vine on Reactor Tracker Midthunder - from (-4, 0) to (-3, 4)
+Reactor Tracker Midthunder took 1 damage
+Reactor Tracker Midthunder passed out
+Rion cast Brittling Dart on Reactor Superheavy Bayer - from (-4, 0) to (-4, 2)
+Banks used Resurrect - from (-3, -5) to (-2, -3)
+Dall Swapped with Less Lethal Pyromancer - from (-1, -4) to (3, -3)
+Dall used Censer Slam on Reactor Chaser Kuranto - from (3, -3) to (3, -4)
+Reactor Chaser Kuranto took 5 damage
+Reactor Chaser Kuranto passed out
+Reactor Chaser Kuranto took 1 knockback
+Rion cast Impaling Vine on Reactor Tracker Midthunder - from (-4, 0) to (-3, 4)
+Reactor Tracker Midthunder took 1 damage
+Reactor Tracker Midthunder passed out
+Jen moved - from (-2, -3) to (-3, -1)
+Jen cast Static Blast on Reactor Superheavy Bayer - from (-3, -1) to (-4, 2)
+Reactor Superheavy Bayer stability prevented 2 knockback
+Jen cast Static Blast on Less Lethal Pyromancer - from (-3, -1) to (-1, -4)
+Less Lethal Pyromancer stability prevented 1 knockback
+Less Lethal Pyromancer took 1 knockback
+Less Lethal Pyromancer hit something with 1 knockback left
+Less Lethal Pyromancer took 1 damage
+Banks used Sedative Cocktail on Less Lethal Pyromancer - from (-3, -5) to (-1, -4)
+Less Lethal Pyromancer took 1 damage
+Less Lethal Pyromancer stability prevented 1 knockback
+Less Lethal Pyromancer is Sedated
+Rion cast Brittling Dart on Reactor Superheavy Bayer - from (-4, 0) to (-4, 2)
+Banks used Sedative Cocktail on Reactor Superheavy Bayer - from (-3, -5) to (-4, 2)
+Brittle: 2 armour lost (Reactor Superheavy Bayer)
+Reactor Superheavy Bayer took 2 extra damage from Brittle, Brittle reduced to 1
+Reactor Superheavy Bayer took 1 damage
+Reactor Superheavy Bayer stability prevented 1 knockback
+Reactor Superheavy Bayer is Sedated
+Dall moved - from (3, -3) to (1, -4)
+Rion moved - from (-4, 0) to (-1, 0)
+Rion took 2 damage
+Rion moved - from (-4, 0) to (-6, 1)
+Rion took cover - from (-6, 1) to (-6, 1)
+Jen cast Static Blast on Reactor Superheavy Bayer - from (-3, -1) to (-4, 2)
+Reactor Superheavy Bayer took 2 knockback
+Dall used Throw Riot Block - from (1, -4) to (-4, 4)
+Jen cast Static Blast on Reactor Superheavy Bayer - from (-3, -1) to (-4, 2)
+Reactor Superheavy Bayer took 2 knockback
+Reactor Superheavy Bayer hit something with 1 knockback left
+Riot Block added 1 extra impact damage
+Reactor Superheavy Bayer took 1 extra damage from Brittle, Brittle reduced to 0
+Reactor Superheavy Bayer is no longer Brittle
+Reactor Superheavy Bayer took 3 damage
+Rion stood up - from (-6, 1) to (-6, 1)
+Rion took cover - from (-6, 1) to (-6, 1)
+Jen took cover - from (-3, -1) to (-3, -1)
+Dall used Throw Riot Block - from (1, -4) to (-4, 3)
+Jen cast Static Blast on Reactor Superheavy Bayer - from (-3, -1) to (-4, 2)
+Reactor Superheavy Bayer took 2 knockback
+Reactor Superheavy Bayer hit something with 2 knockback left
+Riot Block added 1 extra impact damage
+Reactor Superheavy Bayer took 1 extra damage from Brittle, Brittle reduced to 0
+Reactor Superheavy Bayer is no longer Brittle
+Reactor Superheavy Bayer took 4 damage
+Rion stood up - from (-6, 1) to (-6, 1)
+Medil Militia Alphecca shot Reactor Superheavy Bayer - from (-8, -2) to (-4, 2)
+Reactor Superheavy Bayer took 2 damage
+Medil Militia Nightly shot Less Lethal Pyromancer - from (-8, 0) to (-1, -4)
+Less Lethal Pyromancer took 2 damage
+Medil Militia Davis shot Reactor Superheavy Bayer - from (-8, 1) to (-4, 2)
+Reactor Superheavy Bayer took 2 damage
+Reactor Superheavy Bayer passed out
+Less Lethal Pyromancer used Throw Mildfire on Dall - from (-1, -4) to (1, -4)
+Player ended their turn, starting enemy turn 5
+Reactor Superheavy Polk moved - from (7, -3) to (4, -4)
+Reactor Superheavy Polk used Launch Missiles - from (4, -4) to (-5, 0)
+End of enemy turn 5
+ 
+Start of player turn 6
+Rion cast Brittling Dart on Reactor Superheavy Polk - from (-6, 1) to (4, -4)
+Dall took 1 damage
+Dall gained 1 mana from incoming damage
+Dall used Charge - from (1, -4) to (3, -4)
+Dall was protected from Mildfire damage
+Dall was protected from Mildfire damage
+Brittle: 2 armour lost (Reactor Superheavy Polk)
+Reactor Superheavy Polk took 1 extra damage from Brittle, Brittle reduced to 0
+Reactor Superheavy Polk is no longer Brittle
+Reactor Superheavy Polk stability prevented 2 knockback
+Rion cast Impaling Vine on Reactor Chaser Nightly - from (-6, 1) to (-5, 4)
+Reactor Chaser Nightly took 1 damage
+Reactor Chaser Nightly took 3 knockback
+Reactor Chaser Nightly hit something with 1 knockback left
+Reactor Chaser Nightly took 1 extra damage from Brittle, Brittle reduced to 0
+Reactor Chaser Nightly is no longer Brittle
+Reactor Chaser Nightly took 2 damage
+Dall took 1 damage
+Dall gained 1 mana from incoming damage
+Dall used Censer Slam on Reactor Superheavy Polk - from (3, -4) to (4, -4)
+Reactor Superheavy Polk took 5 damage
+Reactor Superheavy Polk stability prevented 1 knockback
+Reactor Chaser Nightly used Shock Hammer on Rion - from (-6, 2) to (-6, 1)
+Rion took 2 damage
+Rion took 2 knockback
+Rion took 2 damage
+Rion passed out
+Rion cast Impaling Vine on Reactor Chaser Nightly - from (-6, 1) to (-5, 4)
+Reactor Chaser Nightly took 1 damage
+Reactor Chaser Nightly took 3 knockback
+Reactor Chaser Nightly hit something with 1 knockback left
+Reactor Chaser Nightly took 1 extra damage from Brittle, Brittle reduced to 0
+Reactor Chaser Nightly is no longer Brittle
+Reactor Chaser Nightly took 2 damage
+Banks used Sedative Cocktail - from (-3, -5) to (-5, 3)
+Reactor Chaser Nightly took 1 damage
+Reactor Chaser Nightly passed out
+Riot Block armour blocked 1 damage
+Rion cast Brittling Dart on Reactor Superheavy Polk - from (-6, 1) to (4, -4)
+Dall took 1 damage
+Dall gained 1 mana from incoming damage
+Dall used Censer Slam on Reactor Superheavy Polk - from (3, -4) to (4, -4)
+Reactor Superheavy Polk took 1 extra damage from Brittle, Brittle reduced to 0
+Reactor Superheavy Polk is no longer Brittle
+Reactor Superheavy Polk took 6 damage
+Reactor Superheavy Polk stability prevented 1 knockback
+Rion cast Brittling Dart on Reactor Superheavy Polk - from (-6, 1) to (4, -4)
+Dall took 1 damage
+Dall gained 1 mana from incoming damage
+Dall Swapped with Jen - from (3, -4) to (-3, -1)
+Jen moved - from (3, -4) to (4, -8)
+Jen cast Static Blast on Reactor Superheavy Polk - from (4, -8) to (4, -4)
+Reactor Superheavy Polk stability prevented 2 knockback
+Jen cast Static Blast on Less Lethal Pyromancer - from (-3, -1) to (-1, -4)
+Less Lethal Pyromancer stability prevented 1 knockback
+Less Lethal Pyromancer took 1 knockback
+Less Lethal Pyromancer hit something with 1 knockback left
+Less Lethal Pyromancer took 1 damage
+Jen cast Static Blast on Less Lethal Pyromancer - from (-3, -1) to (-1, -4)
+Less Lethal Pyromancer stability prevented 1 knockback
+Less Lethal Pyromancer took 1 knockback
+Less Lethal Pyromancer hit something with 1 knockback left
+Less Lethal Pyromancer took 1 damage
+Banks took cover - from (-3, -5) to (-3, -5)
+Rion cast Brittling Dart on Less Lethal Pyromancer - from (-6, 1) to (-1, -4)
+Rion cast Brittling Dart on Reactor Superheavy Polk - from (-6, 1) to (4, -4)
+Rion cast Brittling Dart on Less Lethal Pyromancer - from (-6, 1) to (-1, -4)
+Jen moved - from (-3, -1) to (-6, -2)
+Jen cast Static Blast on Less Lethal Pyromancer - from (-3, -1) to (-1, -4)
+Less Lethal Pyromancer stability prevented 1 knockback
+Less Lethal Pyromancer took 1 knockback
+Less Lethal Pyromancer hit something with 1 knockback left
+Less Lethal Pyromancer took 1 extra damage from Brittle, Brittle reduced to 0
+Less Lethal Pyromancer is no longer Brittle
+Less Lethal Pyromancer took 2 damage
+Rion cast Brittling Dart on Reactor Superheavy Polk - from (-6, 1) to (4, -4)
+Jen moved - from (-3, -1) to (-2, -4)
+Dall took 1 damage
+Dall gained 1 mana from incoming damage
+Dall used Censer Slam on Reactor Superheavy Polk - from (3, -4) to (4, -4)
+Reactor Superheavy Polk took 1 extra damage from Brittle, Brittle reduced to 0
+Reactor Superheavy Polk is no longer Brittle
+Reactor Superheavy Polk took 6 damage
+Reactor Superheavy Polk stability prevented 1 knockback
+Rion cast Brittling Dart on Less Lethal Pyromancer - from (-6, 1) to (-1, -4)
+Jen moved - from (-3, -1) to (-2, -4)
+Jen cast Static Blast on Less Lethal Pyromancer - from (-2, -4) to (-1, -4)
+Less Lethal Pyromancer stability prevented 1 knockback
+Less Lethal Pyromancer took 3 knockback
+Less Lethal Pyromancer hit something with 3 knockback left
+Less Lethal Pyromancer took 1 extra damage from Brittle, Brittle reduced to 0
+Less Lethal Pyromancer is no longer Brittle
+Less Lethal Pyromancer took 4 damage
+Dall took 1 damage
+Dall gained 1 mana from incoming damage
+Dall moved - from (3, -4) to (3, 1)
+Jen moved - from (-2, -4) to (-3, -1)
+Medil Militia Nightly shot Reactor Superheavy Polk - from (-8, 0) to (4, -4)
+Reactor Superheavy Polk took 2 damage
+Reactor Superheavy Polk passed out
+Medil Militia Davis shot Less Lethal Pyromancer - from (-8, 1) to (-1, -4)
+Less Lethal Pyromancer took 2 damage
+Less Lethal Pyromancer used Throw Mildfire on Banks - from (-1, -4) to (-3, -5)
+Rion cast Brittling Dart on Less Lethal Pyromancer - from (-6, 1) to (-1, -4)
+Jen threw a Gale Grenade Less Lethal Pyromancer - from (-3, -1) to (-1, -4)
+Less Lethal Pyromancer took 1 extra damage from Brittle, Brittle reduced to 0
+Less Lethal Pyromancer is no longer Brittle
+Less Lethal Pyromancer took 3 damage
+Jen threw a Gale Grenade - from (-3, -1) to (-2, -4)
+Banks took 1 knockback
+Less Lethal Pyromancer stability prevented 1 knockback
+Rion cast Brittling Dart on Less Lethal Pyromancer - from (-6, 1) to (-1, -4)
+Jen threw a Gale Grenade Less Lethal Pyromancer - from (-3, -1) to (-1, -4)
+Less Lethal Pyromancer took 1 extra damage from Brittle, Brittle reduced to 0
+Less Lethal Pyromancer is no longer Brittle
+Less Lethal Pyromancer took 3 damage
+Rion cast Impaling Vine on Reactor Chaser Nightly - from (-6, 1) to (-4, 5)
+Reactor Chaser Nightly took 1 damage
+Reactor Chaser Nightly took 3 knockback
+Reactor Chaser Nightly hit something with 3 knockback left
+Reactor Chaser Nightly took 1 extra damage from Brittle, Brittle reduced to 0
+Reactor Chaser Nightly is no longer Brittle
+Reactor Chaser Nightly took 4 damage
+Reactor Chaser Nightly passed out
+Rion cast Brittling Dart on Reactor Superheavy Polk - from (-6, 1) to (4, -4)
+Dall took 1 damage
+Dall gained 1 mana from incoming damage
+Dall used Charge - from (1, -4) to (3, -4)
+Dall was protected from Mildfire damage
+Dall was protected from Mildfire damage
+Brittle: 2 armour lost (Reactor Superheavy Polk)
+Reactor Superheavy Polk took 1 extra damage from Brittle, Brittle reduced to 0
+Reactor Superheavy Polk is no longer Brittle
+Reactor Superheavy Polk stability prevented 2 knockback
+Rion cast Brittling Dart on Reactor Superheavy Polk - from (-6, 1) to (4, -4)
+Dall took 1 damage
+Dall gained 1 mana from incoming damage
+Dall used Censer Slam on Reactor Superheavy Polk - from (3, -4) to (4, -4)
+Reactor Superheavy Polk took 1 extra damage from Brittle, Brittle reduced to 0
+Reactor Superheavy Polk is no longer Brittle
+Reactor Superheavy Polk took 6 damage
+Reactor Superheavy Polk stability prevented 1 knockback
+Rion cast Brittling Dart on Less Lethal Pyromancer - from (-6, 1) to (-1, -4)
+Banks used Sedative Cocktail - from (-3, -5) to (0, -4)
+Less Lethal Pyromancer took 1 extra damage from Brittle, Brittle reduced to 0
+Less Lethal Pyromancer is no longer Brittle
+Less Lethal Pyromancer took 2 damage
+Less Lethal Pyromancer is Sedated
+Dall took 1 damage
+Dall gained 1 mana from incoming damage
+Dall moved - from (3, -4) to (3, 1)
+Rion cast Brittling Dart on Reactor Superheavy Polk - from (-6, 1) to (4, -4)
+Banks moved - from (-3, -5) to (-3, -2)
+Banks used Sedative Cocktail on Reactor Superheavy Polk - from (-3, -2) to (4, -4)
+Reactor Superheavy Polk took 1 extra damage from Brittle, Brittle reduced to 0
+Reactor Superheavy Polk is no longer Brittle
+Reactor Superheavy Polk took 2 damage
+Reactor Superheavy Polk passed out
+Reactor Superheavy Polk stability prevented 1 knockback
+Banks used Sedative Cocktail on Reactor Superheavy Polk - from (-3, -2) to (4, -4)
+Reactor Superheavy Polk took 1 extra damage from Brittle, Brittle reduced to 0
+Reactor Superheavy Polk is no longer Brittle
+Reactor Superheavy Polk took 2 damage
+Reactor Superheavy Polk passed out
+Reactor Superheavy Polk stability prevented 1 knockback
+Banks used Sedative Cocktail on Less Lethal Pyromancer - from (-3, -2) to (-1, -4)
+Less Lethal Pyromancer took 1 extra damage from Brittle, Brittle reduced to 0
+Less Lethal Pyromancer is no longer Brittle
+Less Lethal Pyromancer took 2 damage
+Less Lethal Pyromancer stability prevented 1 knockback
+Less Lethal Pyromancer is Sedated
+Banks used Sedative Cocktail - from (-3, -2) to (-2, -4)
+Less Lethal Pyromancer took 1 extra damage from Brittle, Brittle reduced to 0
+Less Lethal Pyromancer is no longer Brittle
+Less Lethal Pyromancer took 2 damage
+Less Lethal Pyromancer is Sedated
+Banks used Sedative Cocktail on Less Lethal Pyromancer - from (-3, -2) to (-1, -4)
+Less Lethal Pyromancer took 1 extra damage from Brittle, Brittle reduced to 0
+Less Lethal Pyromancer is no longer Brittle
+Less Lethal Pyromancer took 2 damage
+Less Lethal Pyromancer stability prevented 1 knockback
+Less Lethal Pyromancer is Sedated
+Rion cast Brittling Dart on Reactor Superheavy Polk - from (-6, 1) to (4, -4)
+Jen moved - from (-3, -1) to (-4, -4)
+Jen moved - from (-3, -1) to (-4, -3)
+Jen cast Static Blast on Reactor Superheavy Polk - from (-4, -3) to (4, -4)
+Reactor Superheavy Polk stability prevented 2 knockback
+Jen cast Chain Bolt on Less Lethal Pyromancer, Reactor Superheavy Polk - from (-3, -1) to (-1, -4)
+Less Lethal Pyromancer took 3 knockback
+Reactor Superheavy Polk stability prevented 2 knockback
+Less Lethal Pyromancer hit something with 3 knockback left
+Less Lethal Pyromancer took 3 damage
+Rion cast Brittling Dart on Reactor Superheavy Polk - from (-6, 1) to (4, -4)
+Jen cast Static Blast on Less Lethal Pyromancer - from (-3, -1) to (-1, -4)
+Less Lethal Pyromancer took 3 knockback
+Less Lethal Pyromancer hit something with 3 knockback left
+Less Lethal Pyromancer took 3 damage
+Jen cast Chain Bolt on Less Lethal Pyromancer, Reactor Superheavy Polk - from (-3, -1) to (-1, -4)
+Less Lethal Pyromancer took 3 knockback
+Reactor Superheavy Polk stability prevented 2 knockback
+Less Lethal Pyromancer hit something with 3 knockback left
+Less Lethal Pyromancer took 3 damage
+Jen cast Static Blast on Less Lethal Pyromancer - from (-3, -1) to (-1, -4)
+Less Lethal Pyromancer took 3 knockback
+Less Lethal Pyromancer hit something with 3 knockback left
+Less Lethal Pyromancer took 3 damage
+Jen threw a Gale Grenade Less Lethal Pyromancer - from (-3, -1) to (-1, -4)
+Less Lethal Pyromancer took 2 damage
+Medil Militia Nightly shot Less Lethal Pyromancer - from (-8, 0) to (-1, -4)
+Less Lethal Pyromancer took 2 damage
+Less Lethal Pyromancer passed out
+Reactor Superheavy Polk used Saturating Fire on Banks - from (4, -4) to (-3, -2)
+Banks took 4 damage
+Banks passed out
+Rion used Blink Out - from (-6, 1) to (-6, 1)
+Jen moved - from (-3, -1) to (-4, -1)
+Medil Militia Nightly shot Less Lethal Pyromancer - from (-8, 0) to (-1, -4)
+Less Lethal Pyromancer took 2 damage
+Less Lethal Pyromancer passed out
+Reactor Superheavy Polk used Saturating Fire on Banks - from (4, -4) to (-3, -2)
+Banks took 4 damage
+Banks passed out
+Banks took cover - from (-3, -2) to (-3, -2)
+Medil Militia Nightly shot Less Lethal Pyromancer - from (-8, 0) to (-1, -4)
+Less Lethal Pyromancer took 2 damage
+Less Lethal Pyromancer passed out
+Reactor Superheavy Polk used Saturating Fire on Jen - from (4, -4) to (-4, -1)
+Jen took 4 damage
+Jen passed out
+Rion cast Impaling Vine on Reactor Chaser Nightly - from (-6, 1) to (-4, 5)
+Reactor Chaser Nightly took 1 damage
+Reactor Chaser Nightly took 3 knockback
+Reactor Chaser Nightly hit something with 3 knockback left
+Reactor Chaser Nightly took 1 extra damage from Brittle, Brittle reduced to 0
+Reactor Chaser Nightly is no longer Brittle
+Reactor Chaser Nightly took 4 damage
+Reactor Chaser Nightly passed out
+Rion cast Brittling Dart on Reactor Chaser Nightly - from (-6, 1) to (-4, 5)
+Rion cast Impaling Vine on Reactor Chaser Nightly - from (-6, 1) to (-4, 4)
+Reactor Chaser Nightly took 1 extra damage from Brittle, Brittle reduced to 0
+Reactor Chaser Nightly is no longer Brittle
+Reactor Chaser Nightly took 2 damage
+Reactor Chaser Nightly took 3 knockback
+Reactor Chaser Nightly hit something with 3 knockback left
+Riot Block added 1 extra impact damage
+Reactor Chaser Nightly took 1 extra damage from Brittle, Brittle reduced to 0
+Reactor Chaser Nightly is no longer Brittle
+Reactor Chaser Nightly took 5 damage
+Reactor Chaser Nightly passed out
+Rion cast Brittling Dart on Less Lethal Pyromancer - from (-6, 1) to (-1, -4)
+Jen moved - from (-3, -1) to (-4, -4)
+Jen cast Static Blast on Less Lethal Pyromancer - from (-4, -4) to (-1, -4)
+Less Lethal Pyromancer stability prevented 1 knockback
+Less Lethal Pyromancer took 1 knockback
+Less Lethal Pyromancer hit something with 1 knockback left
+Less Lethal Pyromancer took 1 extra damage from Brittle, Brittle reduced to 0
+Less Lethal Pyromancer is no longer Brittle
+Less Lethal Pyromancer took 2 damage
+Rion cast Brittling Dart on Reactor Superheavy Polk - from (-6, 1) to (4, -4)
+Dall took 1 damage
+Dall gained 1 mana from incoming damage
+Dall used Charge - from (1, -4) to (3, -4)
+Dall was protected from Mildfire damage
+Dall was protected from Mildfire damage
+Brittle: 2 armour lost (Reactor Superheavy Polk)
+Reactor Superheavy Polk took 1 extra damage from Brittle, Brittle reduced to 0
+Reactor Superheavy Polk is no longer Brittle
+Reactor Superheavy Polk stability prevented 2 knockback
+Dall took 1 damage
+Dall gained 1 mana from incoming damage
+Dall used Censer Slam on Reactor Superheavy Polk - from (3, -4) to (4, -4)
+Reactor Superheavy Polk took 5 damage
+Reactor Superheavy Polk stability prevented 1 knockback
+Rion moved - from (-6, 1) to (-4, 2)
+Dall took 1 damage
+Dall gained 1 mana from incoming damage
+Dall Swapped with Rion - from (1, -4) to (-4, 2)
+Dall took 1 damage
+Dall gained 1 mana from incoming damage
+Dall used Pick Up Riot Block - from (-4, 2) to (-4, 3)
+Dall took 1 damage
+Dall gained 1 mana from incoming damage
+Dall Swapped with Rion - from (-4, 2) to (1, -4)
+Dall took 1 damage
+Dall passed out
+Dall gained 1 mana from incoming damage
+Dall used Throw Riot Block - from (1, -4) to (5, -4)
+Dall took 1 damage
+Dall gained 1 mana from incoming damage
+Dall moved - from (1, -4) to (5, -4)
+Dall was protected from Mildfire damage
+Dall was protected from Mildfire damage
+Dall took 1 damage
+Dall gained 1 mana from incoming damage
+Dall Swapped with Rion - from (5, -4) to (-4, 2)
+Dall took 1 damage
+Dall gained 1 mana from incoming damage
+Dall used Pick Up Riot Block - from (-4, 2) to (-4, 3)
+Dall took 1 damage
+Dall passed out
+Dall gained 1 mana from incoming damage
+Dall Swapped with Rion - from (-4, 2) to (5, -4)
+Banks used Sedative Cocktail on Less Lethal Pyromancer - from (-3, -5) to (-1, -4)
+Less Lethal Pyromancer took 1 extra damage from Brittle, Brittle reduced to 0
+Less Lethal Pyromancer is no longer Brittle
+Less Lethal Pyromancer took 2 damage
+Less Lethal Pyromancer stability prevented 1 knockback
+Less Lethal Pyromancer is Sedated
+Rion cast Brittling Dart on Less Lethal Pyromancer - from (-4, 2) to (-1, -4)
+Banks used Sedative Cocktail on Less Lethal Pyromancer - from (-3, -5) to (-1, -4)
+Less Lethal Pyromancer took 2 extra damage from Brittle, Brittle reduced to 1
+Less Lethal Pyromancer took 3 damage
+Less Lethal Pyromancer stability prevented 1 knockback
+Less Lethal Pyromancer is Sedated
+Banks moved - from (-3, -5) to (1, -7)
+Rion cast Brittling Dart on Reactor Chaser Nightly - from (-6, 1) to (-4, 5)
+Rion cast Impaling Vine on Reactor Chaser Nightly - from (-6, 1) to (-4, 4)
+Reactor Chaser Nightly took 1 extra damage from Brittle, Brittle reduced to 0
+Reactor Chaser Nightly is no longer Brittle
+Reactor Chaser Nightly took 2 damage
+Reactor Chaser Nightly took 3 knockback
+Reactor Chaser Nightly hit something with 3 knockback left
+Riot Block added 1 extra impact damage
+Reactor Chaser Nightly took 1 extra damage from Brittle, Brittle reduced to 0
+Reactor Chaser Nightly is no longer Brittle
+Reactor Chaser Nightly took 5 damage
+Reactor Chaser Nightly passed out
+Rion moved - from (-6, 1) to (-5, 3)
+Dall took 1 damage
+Dall gained 1 mana from incoming damage
+Dall Swapped with Rion - from (1, -4) to (-5, 3)
+Dall took 1 damage
+Dall gained 1 mana from incoming damage
+Dall used Pick Up Riot Block - from (-5, 3) to (-4, 3)
+Jen moved - from (-3, -1) to (-3, -4)
+Dall took 1 damage
+Dall gained 1 mana from incoming damage
+Dall Swapped with Jen - from (-5, 3) to (-3, -4)
+Banks used Resurrect on Dall - from (-3, -5) to (-3, -4)
+Dall took 4 damage
+Dall passed out
+Dall gained 1 mana from incoming damage
+Dall Swapped with Rion - from (-3, -4) to (1, -4)
+Dall used Throw Riot Block - from (1, -4) to (5, -4)
+Dall Swapped with Jen - from (1, -4) to (-5, 3)
+Dall Swapped with Rion - from (-5, 3) to (-3, -4)
+Dall Swapped with Jen - from (-3, -4) to (1, -4)
+Dall used Charge - from (1, -4) to (3, -4)
+Dall was burned by a patch of Mildfire
+Dall took 1 damage
+Dall gained 1 mana from incoming damage
+Dall was burned by a patch of Mildfire
+Dall took 1 damage
+Dall gained 1 mana from incoming damage
+Reactor Superheavy Polk armour blocked 1 damage
+Reactor Superheavy Polk stability prevented 2 knockback
+Rion cast Brittling Dart on Reactor Superheavy Polk - from (-5, 3) to (4, -4)
+Dall used Charge - from (1, -4) to (3, -4)
+Dall was burned by a patch of Mildfire
+Dall took 1 damage
+Dall gained 1 mana from incoming damage
+Dall was burned by a patch of Mildfire
+Dall took 1 damage
+Dall gained 1 mana from incoming damage
+Brittle: 2 armour lost (Reactor Superheavy Polk)
+Reactor Superheavy Polk took 1 extra damage from Brittle, Brittle reduced to 0
+Reactor Superheavy Polk is no longer Brittle
+Reactor Superheavy Polk stability prevented 2 knockback
+Rion cast Brittling Dart on Reactor Superheavy Polk - from (-5, 3) to (4, -4)
+Dall used Censer Slam on Reactor Superheavy Polk - from (3, -4) to (4, -4)
+Reactor Superheavy Polk took 1 extra damage from Brittle, Brittle reduced to 0
+Reactor Superheavy Polk is no longer Brittle
+Reactor Superheavy Polk took 6 damage
+Reactor Superheavy Polk stability prevented 1 knockback
+Dall moved - from (3, -4) to (0, -7)
+Rion cast Brittling Dart on Less Lethal Pyromancer - from (-5, 3) to (-1, -4)
+Rion cast Brittling Dart on Reactor Superheavy Polk - from (-5, 3) to (4, -4)
+Jen cast Chain Bolt on Less Lethal Pyromancer, Reactor Superheavy Polk - from (-3, -4) to (-1, -4)
+Less Lethal Pyromancer stability prevented 1 knockback
+Less Lethal Pyromancer took 1 knockback
+Reactor Superheavy Polk stability prevented 2 knockback
+Less Lethal Pyromancer hit something with 1 knockback left
+Less Lethal Pyromancer took 1 extra damage from Brittle, Brittle reduced to 0
+Less Lethal Pyromancer is no longer Brittle
+Less Lethal Pyromancer took 2 damage
+Jen cast Static Blast on Less Lethal Pyromancer - from (-3, -4) to (-1, -4)
+Less Lethal Pyromancer stability prevented 1 knockback
+Less Lethal Pyromancer took 1 knockback
+Less Lethal Pyromancer hit something with 1 knockback left
+Less Lethal Pyromancer took 1 extra damage from Brittle, Brittle reduced to 0
+Less Lethal Pyromancer is no longer Brittle
+Less Lethal Pyromancer took 2 damage
+Jen moved - from (-3, -4) to (-3, -1)
+Banks used Sedative Cocktail on Less Lethal Pyromancer - from (-3, -5) to (-1, -4)
+Less Lethal Pyromancer took 1 damage
+Less Lethal Pyromancer stability prevented 1 knockback
+Less Lethal Pyromancer is Sedated
+Banks took cover - from (-3, -5) to (-3, -5)
+Banks stood up - from (-3, -5) to (-3, -5)
+Banks used Blink Out - from (-3, -5) to (-3, -5)
+Medil Militia Nightly shot Reactor Superheavy Polk - from (-8, 0) to (4, -4)
+Reactor Superheavy Polk took 1 extra damage from Brittle, Brittle reduced to 0
+Reactor Superheavy Polk is no longer Brittle
+Reactor Superheavy Polk took 3 damage
+Reactor Superheavy Polk passed out
+Medil Militia Davis shot Less Lethal Pyromancer - from (-8, 1) to (-1, -4)
+Less Lethal Pyromancer took 2 damage
+Less Lethal Pyromancer used Throw Mildfire on Jen - from (-1, -4) to (-3, -1)
+Less Lethal Pyromancer took 2 damage
+Player ended their turn, starting enemy turn 6
+Reactor Shotgunner Sundermass moved - from (7, -3) to (5, -5)
+Less Lethal Pyromancer moved - from (-1, -4) to (-2, -4)
+Reactor Heavy Gunner Outerbridge launched a grenade - from (-4, 4) to (-9, 0)
+End of enemy turn 6
+ 
+Start of player turn 7
+Rion cast Brittling Dart on Reactor Heavy Gunner Outerbridge - from (-5, 3) to (-4, 4)
+Rion moved - from (-5, 3) to (-5, 0)
+Rion cast Impaling Vine on Reactor Chaser Love - from (-5, 0) to (4, 3)
+Reactor Chaser Love took 1 damage
+Reactor Chaser Love took 3 knockback
+Reactor Chaser Love was burned by a patch of Mildfire
+Reactor Chaser Love took 1 extra damage from Brittle, Brittle reduced to 0
+Reactor Chaser Love is no longer Brittle
+Reactor Chaser Love took 2 damage
+Reactor Chaser Love was burned by a patch of Mildfire
+Reactor Chaser Love took 1 damage
+Reactor Chaser Love passed out
+Jen took 1 damage
+Jen moved - from (-3, -1) to (-4, 3)
+Jen was protected from Mildfire damage
+Jen was protected from Mildfire damage
+Jen took 1 damage
+Jen cast Static Blast on Reactor Heavy Gunner Outerbridge - from (-4, 3) to (-4, 4)
+Reactor Heavy Gunner Outerbridge stability prevented 1 knockback
+Reactor Heavy Gunner Outerbridge took 3 knockback
+Reactor Heavy Gunner Outerbridge hit something with 2 knockback left
+Reactor Heavy Gunner Outerbridge took 1 extra damage from Brittle, Brittle reduced to 0
+Reactor Heavy Gunner Outerbridge is no longer Brittle
+Reactor Heavy Gunner Outerbridge took 3 damage
+Jen took 1 damage
+Jen threw a Gale Grenade Reactor Heavy Gunner Outerbridge - from (-4, 3) to (-4, 5)
+Reactor Heavy Gunner Outerbridge armour blocked 1 damage
+Reactor Heavy Gunner Outerbridge took 1 damage
+Reactor Heavy Gunner Outerbridge passed out
+Jen took 1 damage
+Jen passed out
+Jen used Blink Out - from (-4, 3) to (-4, 3)
+Dall moved - from (0, -7) to (4, -5)
+Dall used Censer Slam on Reactor Shotgunner Sundermass - from (4, -5) to (5, -5)
+Reactor Shotgunner Sundermass took 5 damage
+Reactor Shotgunner Sundermass passed out
+Reactor Shotgunner Sundermass took 1 knockback
+Medil Militia Fairplay took 2 damage
+Medil Militia Fairplay passed out
+Medil Militia Fairplay took 1 knockback
+Medil Militia Nightly took 2 damage
+Medil Militia Nightly passed out
+Medil Militia Nightly took 1 knockback
+Medil Militia Davis took 2 damage
+Medil Militia Davis passed out
+Medil Militia Davis took 1 knockback
+Medil Militia Nightly hit something with 1 knockback left
+Rion used Spore Bomb on Less Lethal Pyromancer - from (-5, 0) to (-2, -4)
+Less Lethal Pyromancer took 2 damage
+Less Lethal Pyromancer passed out
+Medil Militia Fairplay took 2 damage
+Medil Militia Fairplay passed out
+Medil Militia Fairplay took 1 knockback
+Medil Militia Nightly took 2 damage
+Medil Militia Nightly passed out
+Medil Militia Nightly took 1 knockback
+Medil Militia Davis took 2 damage
+Medil Militia Davis passed out
+Medil Militia Davis took 1 knockback
+Medil Militia Nightly hit something with 1 knockback left
+Jen took 1 damage
+Jen moved - from (-3, -1) to (-7, 1)
+Jen was protected from Mildfire damage
+Jen was protected from Mildfire damage
+Jen took 1 damage
+Jen cast Static Blast on Reactor Heavy Gunner Outerbridge - from (-7, 1) to (-4, 4)
+Reactor Heavy Gunner Outerbridge stability prevented 1 knockback
+Reactor Heavy Gunner Outerbridge took 1 knockback
+Jen took 1 damage
+Jen moved - from (-7, 1) to (-9, -1)
+Dall Swapped with Medil Militia Davis - from (0, -7) to (-8, 1)
+Dall Swapped with Rion - from (-8, 1) to (-5, 3)
+Dall Swapped with Medil Militia Nightly - from (-5, 3) to (-8, 0)
+Rion cast Impaling Vine on Reactor Chaser Love - from (-8, 1) to (3, 2)
+Reactor Chaser Love took 1 damage
+Reactor Chaser Love took 3 knockback
+Reactor Chaser Love was burned by a patch of Mildfire
+Reactor Chaser Love took 1 extra damage from Brittle, Brittle reduced to 0
+Reactor Chaser Love is no longer Brittle
+Reactor Chaser Love took 2 damage
+Rion cast Brittling Dart on Reactor Heavy Gunner Outerbridge - from (-5, 3) to (-4, 4)
+Jen took 1 damage
+Jen moved - from (-3, -1) to (-4, 1)
+Jen was protected from Mildfire damage
+Jen was protected from Mildfire damage
+Jen took 1 damage
+Jen cast Static Blast on Reactor Heavy Gunner Outerbridge - from (-4, 1) to (-4, 4)
+Reactor Heavy Gunner Outerbridge stability prevented 1 knockback
+Reactor Heavy Gunner Outerbridge took 1 knockback
+Jen took 1 damage
+Jen moved - from (-3, -1) to (-4, 3)
+Jen was protected from Mildfire damage
+Jen was protected from Mildfire damage
+Jen took 1 damage
+Jen cast Static Blast on Reactor Heavy Gunner Outerbridge - from (-4, 3) to (-4, 4)
+Reactor Heavy Gunner Outerbridge stability prevented 1 knockback
+Reactor Heavy Gunner Outerbridge took 3 knockback
+Reactor Heavy Gunner Outerbridge hit something with 2 knockback left
+Reactor Heavy Gunner Outerbridge took 1 extra damage from Brittle, Brittle reduced to 0
+Reactor Heavy Gunner Outerbridge is no longer Brittle
+Reactor Heavy Gunner Outerbridge took 3 damage
+Jen took 1 damage
+Jen threw a Gale Grenade Reactor Heavy Gunner Outerbridge - from (-4, 3) to (-4, 5)
+Reactor Heavy Gunner Outerbridge armour blocked 1 damage
+Reactor Heavy Gunner Outerbridge took 1 damage
+Reactor Heavy Gunner Outerbridge passed out
+Jen took 1 damage
+Jen threw a Gale Grenade - from (-4, 3) to (-9, 0)
+Medil Militia Fairplay took 1 knockback
+Medil Militia Nightly took 1 knockback
+Medil Militia Davis took 1 knockback
+Medil Militia Nightly hit something with 1 knockback left
+Medil Militia Nightly took 1 damage
+Jen took 1 damage
+Jen passed out
+Jen used Blink Out - from (-4, 3) to (-4, 3)
+Rion cast Impaling Vine on Reactor Chaser Love - from (-5, 3) to (2, 1)
+Reactor Chaser Love took 1 damage
+Reactor Chaser Love took 3 knockback
+Jen took 1 damage
+Jen cast Static Blast on Reactor Heavy Gunner Outerbridge - from (-4, 3) to (-4, 4)
+Reactor Heavy Gunner Outerbridge stability prevented 1 knockback
+Reactor Heavy Gunner Outerbridge took 3 knockback
+Reactor Heavy Gunner Outerbridge hit something with 2 knockback left
+Reactor Heavy Gunner Outerbridge took 1 extra damage from Brittle, Brittle reduced to 0
+Reactor Heavy Gunner Outerbridge is no longer Brittle
+Reactor Heavy Gunner Outerbridge took 3 damage
+Jen took 1 damage
+Jen threw a Gale Grenade - from (-3, -1) to (-9, 0)
+Medil Militia Fairplay took 1 knockback
+Medil Militia Nightly took 1 knockback
+Medil Militia Davis took 1 knockback
+Medil Militia Nightly hit something with 1 knockback left
+Medil Militia Nightly took 1 damage
+Jen took 1 damage
+Jen moved - from (-3, -1) to (-4, 3)
+Jen was protected from Mildfire damage
+Jen was protected from Mildfire damage
+Dall moved - from (0, -7) to (4, -5)
+Rion cast Impaling Vine on Reactor Chaser Love - from (-5, 3) to (3, 2)
+Reactor Chaser Love took 1 damage
+Reactor Chaser Love took 3 knockback
+Reactor Chaser Love was burned by a patch of Mildfire
+Reactor Chaser Love took 1 extra damage from Brittle, Brittle reduced to 0
+Reactor Chaser Love is no longer Brittle
+Reactor Chaser Love took 2 damage
+Rion cast Impaling Vine on Reactor Chaser Love - from (-5, 3) to (4, 3)
+Reactor Chaser Love took 1 damage
+Reactor Chaser Love took 3 knockback
+Reactor Chaser Love was burned by a patch of Mildfire
+Reactor Chaser Love took 1 extra damage from Brittle, Brittle reduced to 0
+Reactor Chaser Love is no longer Brittle
+Reactor Chaser Love took 2 damage
+Reactor Chaser Love was burned by a patch of Mildfire
+Reactor Chaser Love took 1 damage
+Reactor Chaser Love passed out
+Dall moved - from (0, -7) to (4, -5)
+Dall used Censer Slam on Reactor Shotgunner Sundermass - from (4, -5) to (5, -5)
+Reactor Shotgunner Sundermass took 5 damage
+Reactor Shotgunner Sundermass passed out
+Reactor Shotgunner Sundermass took 1 knockback
+Jen took 1 damage
+Jen moved - from (-3, -1) to (-4, 3)
+Jen was protected from Mildfire damage
+Jen was protected from Mildfire damage
+Jen took 1 damage
+Jen cast Static Blast on Reactor Heavy Gunner Outerbridge - from (-4, 3) to (-4, 4)
+Reactor Heavy Gunner Outerbridge stability prevented 1 knockback
+Reactor Heavy Gunner Outerbridge took 3 knockback
+Reactor Heavy Gunner Outerbridge hit something with 2 knockback left
+Reactor Heavy Gunner Outerbridge took 1 extra damage from Brittle, Brittle reduced to 0
+Reactor Heavy Gunner Outerbridge is no longer Brittle
+Reactor Heavy Gunner Outerbridge took 3 damage
+Jen took 1 damage
+Jen passed out
+Jen used Blink Out - from (-4, 3) to (-4, 3)
+Rion moved - from (-5, 3) to (-5, 0)
+Rion used Spore Bomb - from (-5, 3) to (-1, -4)
+Less Lethal Pyromancer took 2 damage
+Less Lethal Pyromancer passed out
+Dall Swapped with Rion - from (4, -5) to (-5, 3)
+Medil Militia Nightly took 2 damage
+Medil Militia Nightly passed out
+Medil Militia Nightly took 1 knockback
+Medil Militia Nightly hit something with 1 knockback left
+Reactor Heavy Gunner Outerbridge used Saturating Fire on Dall - from (-4, 5) to (-5, 3)
+Dall armour blocked 1 damage
+Dall took 3 damage
+Dall passed out
+Dall gained 1 mana from incoming damage
+Rion used Spore Bomb - from (-5, 3) to (-3, 5)
+Reactor Heavy Gunner Outerbridge armour blocked 1 damage
+Reactor Heavy Gunner Outerbridge took 1 damage
+Reactor Heavy Gunner Outerbridge passed out
+Medil Militia Nightly took 2 damage
+Medil Militia Nightly passed out
+Medil Militia Nightly took 1 knockback
+Medil Militia Nightly hit something with 1 knockback left
+Medil Militia Nightly took 2 damage
+Medil Militia Nightly passed out
+Medil Militia Nightly took 1 knockback
+Medil Militia Nightly hit something with 1 knockback left
+Medil Militia Nightly took 2 damage
+Medil Militia Nightly passed out
+Medil Militia Nightly took 1 knockback
+Medil Militia Nightly hit something with 1 knockback left
+Player ended their turn, starting enemy turn 7
+Reactor Medic Lemorgne moved - from (5, 4) to (6, 0)
+End of enemy turn 7
+ 
+Start of player turn 8
+Dall moved - from (4, -5) to (6, -5)
+Dall used Charge - from (6, -5) to (6, -1)
+Reactor Medic Lemorgne took 1 damage
+Reactor Medic Lemorgne took 7 knockback
+Reactor Medic Lemorgne hit something with 3 knockback left
+Reactor Medic Lemorgne took 3 damage
+Dall used Charge - from (6, -1) to (6, 3)
+Reactor Medic Lemorgne took 1 damage
+Reactor Medic Lemorgne took 7 knockback
+Reactor Medic Lemorgne hit something with 7 knockback left
+Reactor Medic Lemorgne took 7 damage
+Reactor Medic Lemorgne passed out
+Rion used Blink Out - from (-5, 3) to (-5, 3)
+Player ended their turn, starting enemy turn 8
+End of enemy turn 8
+ 
+Start of player turn 9
+Dall used Blink Out - from (6, 3) to (6, 3)

@@ -1,0 +1,125 @@
+29_Finale_Roof_1_Vesker_s_Landing
+ 
+Start of player turn 1
+Zan used 3 Bolt Burst on Reactor Heavy Gunner Eycleshimer - from (-31, 12) to (-31, 7)
+Reactor Heavy Gunner Eycleshimer armour blocked 1 damage
+Reactor Heavy Gunner Eycleshimer took 1 damage
+Reactor Heavy Gunner Eycleshimer stability prevented 1 knockback
+Reactor Heavy Gunner Eycleshimer took 3 knockback
+Reactor Heavy Gunner Eycleshimer was defenestrated - from (-31, 5) to (-31, 5)
+Reactor Heavy Gunner Eycleshimer took 3 damage
+Reactor Heavy Gunner Eycleshimer passed out
+Zan moved - from (-31, 12) to (-31, 7)
+Zan  - from (-31, 7) to (-28, 5)
+False Prophet used Extinguish Signal Flare - from (-28, 5) to (-28, 5)
+Zan used Extinguish Signal Flare - from (-31, 7) to (-31, 7)
+Reactor Tracker Excelsis shot False Prophet - from (-26, 6) to (-28, 5)
+False Prophet took 2 damage
+False Prophet passed out
+Player ended their turn, starting enemy turn 1
+Reactor Shotgunner Flavien moved - from (-20, 3) to (-23, 3)
+Reactor Heavy Gunner Pharo moved - from (-26, 5) to (-29, 5)
+Reactor Heavy Gunner Pharo launched a grenade - from (-29, 5) to (-32, 8)
+End of enemy turn 1
+ 
+Start of player turn 2
+Zan used 3 Bolt Burst on Reactor Heavy Gunner Pharo - from (-31, 7) to (-29, 5)
+Reactor Heavy Gunner Pharo armour blocked 1 damage
+Reactor Heavy Gunner Pharo took 1 damage
+Reactor Heavy Gunner Pharo stability prevented 1 knockback
+Reactor Heavy Gunner Pharo took 3 knockback
+Reactor Heavy Gunner Pharo was defenestrated - from (-29, 5) to (-29, 5)
+Reactor Heavy Gunner Pharo took 3 damage
+Reactor Heavy Gunner Pharo passed out
+Zan moved - from (-31, 7) to (-27, 5)
+Zan  - from (-27, 5) to (-25, 8)
+False Prophet used Extinguish Signal Flare - from (-25, 8) to (-25, 8)
+Zan  - from (-27, 5) to (-26, 2)
+False Prophet used Extinguish Signal Flare - from (-26, 2) to (-26, 2)
+Zan  - from (-27, 5) to (-24, 4)
+False Prophet used Extinguish Signal Flare - from (-24, 4) to (-24, 4)
+Reactor Shotgunner Flavien used Shotgun Blast on False Prophet - from (-23, 3) to (-24, 4)
+False Prophet took 3 damage
+False Prophet passed out
+False Prophet took 1 knockback
+False Prophet hit something with 1 knockback left
+Reactor Tracker Excelsis shot False Prophet - from (-26, 6) to (-25, 8)
+False Prophet took 2 damage
+False Prophet passed out
+False Prophet vanished
+Player ended their turn, starting enemy turn 2
+Reactor Shotgunner Flavien moved - from (-23, 3) to (-26, 4)
+Reactor Shotgunner Starspelt moved - from (-28, 8) to (-28, 6)
+End of enemy turn 2
+ 
+Start of player turn 3
+Zan moved - from (-27, 5) to (-25, 2)
+Zan moved - from (-27, 5) to (-24, 3)
+Zan used 3 Bolt Burst - from (-24, 3) to (-25, 5)
+Explosive Barrel took 2 damage
+Explosive Barrel took 4 knockback
+Reactor Tracker Excelsis took 1 knockback
+Explosive Barrel hit something with 4 knockback left
+Explosive Barrel took 4 damage
+Explosive Barrel exploded
+Reactor Shotgunner Flavien took 4 damage
+Reactor Shotgunner Flavien passed out
+Reactor Shotgunner Flavien took 1 knockback
+Reactor Tracker Excelsis took 4 damage
+Reactor Tracker Excelsis passed out
+Reactor Tracker Excelsis took 1 knockback
+Reactor Tracker Excelsis hit something with 2 knockback left
+Zan  - from (-24, 3) to (-22, 2)
+False Prophet used Extinguish Signal Flare - from (-22, 2) to (-22, 2)
+Zan used Time Boost - from (-24, 3) to (-24, 3)
+Zan  - from (-24, 3) to (-28, 5)
+Reactor Shotgunner Starspelt used Shotgun Blast on False Prophet - from (-28, 6) to (-28, 5)
+False Prophet took 3 damage
+False Prophet passed out
+False Prophet took 1 knockback
+False Prophet was defenestrated - from (-28, 5) to (-28, 5)
+False Prophet vanished
+Player ended their turn, starting enemy turn 3
+Reactor Shotgunner Starspelt moved - from (-28, 6) to (-25, 4)
+Reactor Medic Regor moved - from (-30, 5) to (-28, 6)
+Reactor Medic Regor took cover - from (-28, 6) to (-28, 6)
+End of enemy turn 3
+ 
+Start of player turn 4
+Zan moved - from (-24, 3) to (-20, 3)
+Zan shot Reactor Shotgunner Starspelt on overwatch
+Reactor Shotgunner Starspelt took 4 damage
+Reactor Shotgunner Starspelt passed out
+Predictive Bolt use refunded by Conviction perk, for knocking someone out.
+Reactor Medic Regor healed Reactor Shotgunner Flavien - from (-27, 4) to (-27, 3)
+Zan used 3 Bolt Burst on Reactor Shotgunner Starspelt - from (-20, 3) to (-25, 4)
+Reactor Shotgunner Starspelt took 2 damage
+Reactor Shotgunner Starspelt took 4 knockback
+Reactor Shotgunner Starspelt was defenestrated - from (-27, 4) to (-27, 4)
+Reactor Shotgunner Starspelt took 2 damage
+Reactor Shotgunner Starspelt passed out
+Reactor Medic Regor healed Reactor Shotgunner Flavien - from (-27, 4) to (-27, 3)
+Zan shot Reactor Shotgunner Flavien on overwatch
+Reactor Shotgunner Flavien took 4 damage
+Reactor Shotgunner Flavien passed out
+Predictive Bolt use refunded by Conviction perk, for knocking someone out.
+Player ended their turn, starting enemy turn 4
+Reactor Heavy Gunner Stonelock moved - from (-27, 3) to (-25, 4)
+Reactor Heavy Gunner Stonelock launched a grenade - from (-25, 4) to (-21, 2)
+Reactor Medic Regor moved - from (-27, 4) to (-26, 3)
+Reactor Medic Regor took cover - from (-26, 3) to (-26, 3)
+End of enemy turn 4
+ 
+Start of player turn 5
+Zan moved - from (-20, 3) to (-19, 3)
+Zan used 3 Bolt Burst on Reactor Heavy Gunner Stonelock - from (-19, 3) to (-25, 4)
+Reactor Heavy Gunner Stonelock armour blocked 1 damage
+Reactor Heavy Gunner Stonelock took 1 damage
+Reactor Heavy Gunner Stonelock stability prevented 1 knockback
+Reactor Heavy Gunner Stonelock took 3 knockback
+Reactor Heavy Gunner Stonelock was defenestrated - from (-27, 4) to (-27, 4)
+Reactor Heavy Gunner Stonelock took 3 damage
+Reactor Heavy Gunner Stonelock passed out
+Zan shot Reactor Medic Regor on overwatch
+Reactor Medic Regor took 4 damage
+Reactor Medic Regor healed Reactor Shotgunner Flavien - from (-26, 3) to (-27, 3)

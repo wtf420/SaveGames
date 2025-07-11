@@ -1,0 +1,32 @@
+# Game_Witch_Intro.txt
+# 2025-01-02 21:35:04 (+07:00)
+# v:2024-12-18-Spearmint
+
+<ConversationManager>
+  lastDialogFile = Prologue4
+</ConversationManager>
+<PerkManager>
+  respecPoints = 0
+  # Perks
+  # Temporary Perks (Used when replaying missions)
+  # Available Perk Points
+  # Total Perk Points (Additive for entire campaign)
+</PerkManager>
+<ProgressManager>
+  version = 2024-12-18-Spearmint
+  currentLevel = Prologue|4 The Asset|Official
+  # Unlockables
+  unlocked[] = NavySeer
+  # Chats
+  # Speeches
+</ProgressManager>
+<StageManager>
+  currentStage = Text_Rushwater_PD_Location_Card
+  incompleteMetaMenuStage = False
+  # Complete Stages
+  completedStage[] = Text_Prologue_Location_Card
+  completedStage[] = Game_Prologue
+  completedStage[] = Intro_Title_Logo_Screen
+  completedStage[] = ChapterScreen_1
+</StageManager>
+

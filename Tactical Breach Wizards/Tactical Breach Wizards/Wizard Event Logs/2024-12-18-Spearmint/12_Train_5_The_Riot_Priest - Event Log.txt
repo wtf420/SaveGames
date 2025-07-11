@@ -1,0 +1,183 @@
+12_Train_5_The_Riot_Priest
+ 
+Start of player turn 1
+Banks used Death's Door - from (0, -12) to (-1, -17)
+Banks used Death's Door - from (0, -12) to (2, -18)
+Banks used Sedative Cocktail on Chapel Shepherd Alphecca - from (0, -12) to (1, -18)
+Gasmasked prevented Chapel Riot Priest Rotanev from gaining Sedated
+Gasmasked prevented Chapel Riot Priest Rotanev from gaining Unsteady
+Chapel Shepherd Alphecca took 1 knockback
+Chapel Shepherd Alphecca is Sedated
+Chapel Tracker Auriga is Sedated
+Chapel Shepherd Alphecca hit something with 1 knockback left
+Chapel Shepherd Alphecca took 1 damage
+Zan took a free shot at Chapel Shepherd Alphecca with Supporting Fire.
+Zan used 3 Bolt Burst on Chapel Shepherd Alphecca - from (1, -11) to (1, -18)
+Chapel Shepherd Alphecca armour blocked 1 damage
+Chapel Shepherd Alphecca took 2 knockback
+Chapel Shepherd Alphecca hit something with 2 knockback left
+Chapel Shepherd Alphecca took 2 damage
+Chapel Shepherd Alphecca shot Banks - from (1, -18) to (0, -12)
+Banks took 1 damage
+Banks took 1 knockback
+Banks hit something with 1 knockback left
+Banks took 1 damage
+Banks used Transference on Chapel Tracker Singeng - from (0, -12) to (2, -13)
+Banks used Sedative Cocktail on Chapel Shepherd Alphecca - from (0, -12) to (1, -18)
+Gasmasked prevented Chapel Riot Priest Rotanev from gaining Sedated
+Gasmasked prevented Chapel Riot Priest Rotanev from gaining Unsteady
+Chapel Shepherd Alphecca took 1 knockback
+Chapel Shepherd Alphecca is Sedated
+Chapel Tracker Auriga is Sedated
+Chapel Shepherd Alphecca hit something with 1 knockback left
+Chapel Shepherd Alphecca took 1 damage
+Zan took a free shot at Chapel Shepherd Alphecca with Supporting Fire.
+Zan used 3 Bolt Burst on Chapel Shepherd Alphecca - from (1, -11) to (1, -18)
+Chapel Shepherd Alphecca armour blocked 1 damage
+Chapel Shepherd Alphecca took 2 knockback
+Chapel Shepherd Alphecca hit something with 2 knockback left
+Chapel Shepherd Alphecca took 2 damage
+Chapel Shepherd Alphecca shot Banks - from (1, -18) to (0, -12)
+1 damage and 1 knockback to Banks was transferred to Chapel Tracker Singeng
+Chapel Tracker Singeng took 1 damage
+Chapel Tracker Singeng took 1 knockback
+Banks used Transference on Chapel Tracker Auriga - from (0, -12) to (2, -19)
+Banks used Sedative Cocktail on Chapel Shepherd Alphecca - from (0, -12) to (1, -18)
+Gasmasked prevented Chapel Riot Priest Rotanev from gaining Sedated
+Gasmasked prevented Chapel Riot Priest Rotanev from gaining Unsteady
+Chapel Shepherd Alphecca took 1 knockback
+Chapel Shepherd Alphecca is Sedated
+Chapel Tracker Auriga is Sedated
+Chapel Shepherd Alphecca hit something with 1 knockback left
+Chapel Shepherd Alphecca took 1 damage
+Zan took a free shot at Chapel Shepherd Alphecca with Supporting Fire.
+Zan used 3 Bolt Burst on Chapel Shepherd Alphecca - from (1, -11) to (1, -18)
+Chapel Shepherd Alphecca armour blocked 1 damage
+Chapel Shepherd Alphecca took 2 knockback
+Chapel Shepherd Alphecca hit something with 2 knockback left
+Chapel Shepherd Alphecca took 2 damage
+Chapel Shepherd Alphecca shot Banks - from (1, -18) to (0, -12)
+1 damage and 1 knockback to Banks was transferred to Chapel Tracker Auriga
+Chapel Tracker Auriga took 1 damage
+Chapel Tracker Auriga took 2 knockback
+Chapel Tracker Auriga fell into Death's Door
+Chapel Tracker Auriga took 2 damage
+Chapel Tracker Auriga passed out
+Banks used Death's Door - from (0, -12) to (-1, -17)
+Banks used Transference on Chapel Riot Priest Rotanev - from (0, -12) to (0, -17)
+Banks used Sedative Cocktail on Chapel Shepherd Alphecca - from (0, -12) to (1, -18)
+Gasmasked prevented Chapel Riot Priest Rotanev from gaining Sedated
+Gasmasked prevented Chapel Riot Priest Rotanev from gaining Unsteady
+Chapel Shepherd Alphecca took 1 knockback
+Chapel Shepherd Alphecca is Sedated
+Chapel Tracker Auriga is Sedated
+Chapel Shepherd Alphecca hit something with 1 knockback left
+Chapel Shepherd Alphecca took 1 damage
+Zan took a free shot at Chapel Shepherd Alphecca with Supporting Fire.
+Zan used 3 Bolt Burst on Chapel Shepherd Alphecca - from (1, -11) to (1, -18)
+Chapel Shepherd Alphecca armour blocked 1 damage
+Chapel Shepherd Alphecca took 2 knockback
+Chapel Shepherd Alphecca hit something with 2 knockback left
+Chapel Shepherd Alphecca took 2 damage
+Chapel Shepherd Alphecca shot Banks - from (1, -18) to (0, -12)
+1 damage and 1 knockback to Banks was transferred to Chapel Riot Priest Rotanev
+Chapel Riot Priest Rotanev armour blocked 1 damage
+Chapel Riot Priest Rotanev stability prevented 1 knockback
+Banks used Transference - from (0, -12) to (0, -19)
+Banks used Sedative Cocktail on Chapel Shepherd Alphecca - from (0, -12) to (1, -18)
+Gasmasked prevented Chapel Riot Priest Rotanev from gaining Sedated
+Gasmasked prevented Chapel Riot Priest Rotanev from gaining Unsteady
+Chapel Shepherd Alphecca took 1 knockback
+Chapel Shepherd Alphecca is Sedated
+Chapel Tracker Auriga is Sedated
+Chapel Shepherd Alphecca hit something with 1 knockback left
+Chapel Shepherd Alphecca took 1 damage
+Zan took a free shot at Chapel Shepherd Alphecca with Supporting Fire.
+Zan used 3 Bolt Burst on Chapel Shepherd Alphecca - from (1, -11) to (1, -18)
+Chapel Shepherd Alphecca armour blocked 1 damage
+Chapel Shepherd Alphecca took 2 knockback
+Chapel Shepherd Alphecca hit something with 2 knockback left
+Chapel Shepherd Alphecca took 2 damage
+Chapel Shepherd Alphecca shot Banks - from (1, -18) to (0, -12)
+1 damage and 1 knockback to Banks was transferred to Explosive Barrel
+Explosive Barrel took 1 damage
+Explosive Barrel took 1 knockback
+Explosive Barrel exploded
+Chapel Riot Priest Rotanev armour blocked 1 damage
+Chapel Riot Priest Rotanev took 3 damage
+Chapel Riot Priest Rotanev is no longer Gasmasked
+Chapel Riot Priest Rotanev stability prevented 1 knockback
+Chapel Shepherd Alphecca armour blocked 1 damage
+Chapel Shepherd Alphecca took 3 damage
+Chapel Shepherd Alphecca passed out
+Chapel Shepherd Alphecca took 2 knockback
+Chapel Shepherd Alphecca hit something with 1 knockback left
+Banks moved - from (0, -12) to (0, -15)
+Zan used 3 Bolt Burst on Chapel Tracker Singeng - from (1, -11) to (2, -13)
+Chapel Tracker Singeng took 1 damage
+Chapel Tracker Singeng took 1 knockback
+Chapel Tracker Singeng was defenestrated - from (2, -13) to (2, -13)
+Chapel Tracker Singeng took 2 damage
+Chapel Tracker Singeng passed out
+Zan moved - from (1, -11) to (1, -13)
+Zan took cover - from (1, -13) to (1, -13)
+Banks moved - from (0, -12) to (0, -15)
+Banks took cover - from (0, -15) to (0, -15)
+Banks stood up - from (0, -15) to (0, -15)
+Zan stood up - from (1, -13) to (1, -13)
+Banks took cover - from (0, -15) to (0, -15)
+Zan shot Chapel Riot Priest Rotanev on overwatch
+Chapel Riot Priest Rotanev armour blocked 1 damage
+Chapel Riot Priest Rotanev took 3 damage
+Chapel Riot Priest Rotanev slammed Banks - from (1, -15) to (0, -15)
+Banks took 3 damage
+Banks took 1 knockback
+Chapel Tracker Auriga took 1 damage
+Zan shot Chapel Riot Priest Rotanev on overwatch
+Chapel Riot Priest Rotanev armour blocked 1 damage
+Chapel Riot Priest Rotanev took 3 damage
+Chapel Riot Priest Rotanev slammed Banks - from (1, -15) to (0, -15)
+Banks took 3 damage
+Banks took 1 knockback
+Chapel Tracker Auriga took 1 damage
+Player ended their turn, starting enemy turn 1
+Chapel Riot Priest Rotanev moved - from (1, -15) to (0, -15)
+End of enemy turn 1
+ 
+Start of player turn 2
+Jen cast Chain Bolt on Chapel Tracker Auriga, Chapel Riot Priest Rotanev, Chapel Tracker Fluker - from (1, -23) to (2, -19)
+Chapel Tracker Auriga took 3 knockback
+Chapel Riot Priest Rotanev stability prevented 1 knockback
+Chapel Riot Priest Rotanev took 1 knockback
+Chapel Tracker Fluker took 2 knockback
+Chapel Tracker Fluker hit something with 2 knockback left
+Chapel Tracker Fluker took 2 damage
+Chapel Tracker Auriga hit something with 2 knockback left
+Chapel Tracker Auriga took 2 damage
+Chapel Tracker Auriga passed out
+Banks used Death's Door - from (-1, -15) to (-1, -14)
+Jen cast Chain Bolt on Chapel Tracker Auriga, Chapel Riot Priest Rotanev, Chapel Tracker Fluker - from (1, -23) to (2, -19)
+Chapel Tracker Auriga took 3 knockback
+Chapel Riot Priest Rotanev stability prevented 1 knockback
+Chapel Riot Priest Rotanev took 1 knockback
+Chapel Tracker Fluker took 2 knockback
+Chapel Tracker Fluker hit something with 2 knockback left
+Chapel Tracker Fluker took 2 damage
+Chapel Riot Priest Rotanev fell into Death's Door
+Chapel Riot Priest Rotanev took 2 damage
+Chapel Riot Priest Rotanev passed out
+Chapel Tracker Auriga hit something with 2 knockback left
+Chapel Tracker Auriga took 2 damage
+Chapel Tracker Auriga passed out
+Zan used 3 Bolt Burst on Chapel Tracker Fluker - from (1, -13) to (-1, -23)
+Chapel Tracker Fluker took 1 damage
+Chapel Tracker Fluker passed out
+Chapel Tracker Fluker took 1 knockback
+Chapel Tracker Fluker hit something with 1 knockback left
+Player ended their turn, starting enemy turn 2
+Zan shot Chapel Cleanser Blacksoil on overwatch
+Chapel Cleanser Blacksoil took 4 damage
+Chapel Cleanser Blacksoil passed out
+End of enemy turn 2
+ 
+Start of player turn 3

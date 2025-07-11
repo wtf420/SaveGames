@@ -1,0 +1,324 @@
+22_Lucid_Dream_Dall_1_Blind_Faith
+ 
+Start of player turn 1
+Dream Dall breached - from (-21, 7) to (-21, 6)
+Dream Dall Swapped with Chapel Absolver Plaza - from (-21, 6) to (-15, 5)
+Dream Dall used Charge - from (-15, 5) to (-8, 5)
+Chapel Riot Priest Moon armour blocked 1 damage
+Chapel Riot Priest Moon stability prevented 1 knockback
+Chapel Riot Priest Moon took 9 knockback
+Chapel Riot Priest Moon hit something with 9 knockback left
+Chapel Riot Priest Moon took 9 damage
+Chapel Riot Priest Moon is no longer Gasmasked
+Chapel Riot Priest Moon passed out
+Dall used Censer Slam on Chapel Absolver Plaza - from (-21, 5) to (-21, 6)
+Chapel Absolver Plaza took 3 damage
+Chapel Absolver Plaza passed out
+Chapel Absolver Plaza took 1 knockback
+Dream Dall breached - from (-21, 7) to (-21, 6)
+Dream Dall Swapped with Chapel Tracker Gibbs - from (-21, 6) to (-20, 12)
+Dream Dall used Use Laptop - from (-20, 12) to (-20, 11)
+Chapel Riot Priest Moon is no longer Invincible
+Dream Dall used Charge - from (-20, 12) to (-16, 12)
+Chapel Riot Priest Salt stability prevented 1 knockback
+Chapel Riot Priest Salt took 6 knockback
+Dream Dall used Charge - from (-16, 12) to (-10, 12)
+Chapel Riot Priest Salt stability prevented 1 knockback
+Chapel Riot Priest Salt took 8 knockback
+Chapel Absolver Stone took 1 knockback
+Chapel Riot Priest Salt hit something with 7 knockback left
+Chapel Absolver Stone hit something with 1 knockback left
+Chapel Absolver Stone took 1 damage
+Dream Dall is no longer Neutralised
+Dream Dall used Charge - from (-10, 12) to (-9, 12)
+Chapel Riot Priest Salt stability prevented 1 knockback
+Dream Dall used Charge - from (-16, 12) to (-10, 12)
+Chapel Riot Priest Salt stability prevented 1 knockback
+Chapel Riot Priest Salt took 8 knockback
+Chapel Absolver Stone took 1 knockback
+Chapel Riot Priest Salt hit something with 7 knockback left
+Chapel Absolver Stone hit something with 1 knockback left
+Chapel Absolver Stone took 1 damage
+Dream Dall used Throw Riot Block - from (-16, 12) to (-8, 12)
+Dream Dall used Charge - from (-16, 12) to (-10, 12)
+Chapel Riot Priest Salt stability prevented 1 knockback
+Chapel Riot Priest Salt took 8 knockback
+Chapel Riot Priest Salt hit something with 8 knockback left
+Riot Block added 1 extra impact damage
+Dream Dall is no longer Neutralised
+Dream Dall used Charge - from (-16, 12) to (-10, 12)
+Chapel Riot Priest Salt stability prevented 1 knockback
+Chapel Riot Priest Salt took 8 knockback
+Chapel Absolver Stone took 1 knockback
+Chapel Riot Priest Salt hit something with 7 knockback left
+Chapel Absolver Stone hit something with 1 knockback left
+Chapel Absolver Stone took 1 damage
+Dream Dall is no longer Neutralised
+Dream Dall Swapped with Dall - from (-10, 12) to (-21, 5)
+Dream Dall breached - from (-21, 7) to (-21, 6)
+Dall moved - from (-21, 5) to (-20, 5)
+Dream Dall Swapped with Chapel Tracker Gibbs - from (-21, 6) to (-20, 12)
+Dream Dall used Use Laptop - from (-20, 12) to (-20, 11)
+Chapel Riot Priest Moon is no longer Invincible
+Dall used Charge - from (-20, 5) to (-16, 5)
+Chapel Absolver Plaza took 1 damage
+Chapel Absolver Plaza took 7 knockback
+Chapel Tracker Gibbs is no longer Invincible
+Dall used Charge - from (-16, 5) to (-9, 5)
+Chapel Absolver Plaza took 1 damage
+Chapel Absolver Plaza passed out
+Chapel Absolver Plaza took 10 knockback
+Chapel Riot Priest Moon stability prevented 1 knockback
+Chapel Absolver Plaza hit something with 10 knockback left
+Chapel Riot Priest Moon is no longer Invincible
+Dream Dall used Charge - from (-20, 12) to (-16, 12)
+Chapel Riot Priest Salt stability prevented 1 knockback
+Chapel Riot Priest Salt took 6 knockback
+Dream Dall used Throw Riot Block - from (-16, 12) to (-8, 12)
+Dream Dall used Raise Block Height - from (-16, 12) to (-8, 12)
+Chapel Riot Priest Salt is no longer Invincible
+Dream Dall used Charge - from (-16, 12) to (-10, 12)
+Chapel Riot Priest Salt armour blocked 1 damage
+Chapel Riot Priest Salt stability prevented 1 knockback
+Chapel Riot Priest Salt took 8 knockback
+Chapel Riot Priest Salt hit something with 8 knockback left
+Riot Block added 1 extra impact damage
+Chapel Riot Priest Salt took 9 damage
+Chapel Riot Priest Salt is no longer Gasmasked
+Chapel Riot Priest Salt passed out
+Dream Dall is no longer Neutralised
+Dream Dall Swapped with Chapel Tracker Gibbs - from (-21, 7) to (-20, 12)
+Dream Dall used Use Laptop - from (-20, 12) to (-20, 11)
+Dream Dall used Charge - from (-20, 12) to (-8, 12)
+Chapel Absolver Stone took 1 damage
+Chapel Absolver Stone took 15 knockback
+Chapel Absolver Stone hit something with 15 knockback left
+Chapel Absolver Stone took 15 damage
+Chapel Absolver Stone passed out
+Chapel Riot Priest Salt is no longer Invincible
+Dream Dall is no longer Neutralised
+Dall used Charge - from (-21, 5) to (-21, 6)
+Chapel Tracker Gibbs took 1 damage
+Chapel Tracker Gibbs took 1 knockback
+Dream Dall Swapped with Dall - from (-8, 12) to (-21, 6)
+Dream Dall used Charge - from (-21, 6) to (-21, 7)
+Chapel Tracker Gibbs took 1 damage
+Chapel Tracker Gibbs took 1 knockback
+Dream Dall used Throw Riot Block - from (-8, 12) to (-20, 12)
+Dream Dall used Charge - from (-8, 12) to (-14, 12)
+Chapel Riot Priest Salt armour blocked 1 damage
+Chapel Riot Priest Salt stability prevented 1 knockback
+Chapel Riot Priest Salt took 8 knockback
+Chapel Riot Priest Salt hit something with 4 knockback left
+Riot Block added 1 extra impact damage
+Chapel Riot Priest Salt took 5 damage
+Chapel Riot Priest Salt is no longer Gasmasked
+Dream Dall used Throw Riot Block - from (-8, 12) to (-16, 12)
+Dream Dall used Charge - from (-8, 12) to (-14, 12)
+Chapel Riot Priest Salt armour blocked 1 damage
+Chapel Riot Priest Salt stability prevented 1 knockback
+Chapel Riot Priest Salt took 8 knockback
+Chapel Riot Priest Salt hit something with 8 knockback left
+Riot Block added 1 extra impact damage
+Chapel Riot Priest Salt took 9 damage
+Chapel Riot Priest Salt is no longer Gasmasked
+Chapel Riot Priest Salt passed out
+Dream Dall breached - from (-21, 7) to (-21, 6)
+Dream Dall Swapped with Chapel Tracker Gibbs - from (-21, 6) to (-20, 12)
+Dream Dall used Use Laptop - from (-20, 12) to (-20, 11)
+Chapel Riot Priest Moon is no longer Invincible
+Dream Dall used Charge - from (-20, 12) to (-16, 12)
+Dream Dall used Charge - from (-20, 12) to (-8, 12)
+Chapel Absolver Stone took 1 damage
+Chapel Absolver Stone took 15 knockback
+Chapel Absolver Stone hit something with 15 knockback left
+Chapel Absolver Stone took 15 damage
+Chapel Absolver Stone passed out
+Chapel Riot Priest Salt is no longer Invincible
+Dream Dall is no longer Neutralised
+Dream Dall used Throw Riot Block - from (-8, 12) to (-16, 12)
+Dream Dall used Charge - from (-8, 12) to (-14, 12)
+Chapel Riot Priest Salt armour blocked 1 damage
+Chapel Riot Priest Salt stability prevented 1 knockback
+Chapel Riot Priest Salt took 8 knockback
+Chapel Riot Priest Salt hit something with 8 knockback left
+Riot Block added 1 extra impact damage
+Chapel Riot Priest Salt took 9 damage
+Chapel Riot Priest Salt is no longer Gasmasked
+Chapel Riot Priest Salt passed out
+Dall moved - from (-21, 5) to (-20, 5)
+Dall used Charge - from (-20, 5) to (-16, 5)
+Chapel Absolver Plaza took 1 damage
+Chapel Absolver Plaza took 7 knockback
+Chapel Tracker Gibbs is no longer Invincible
+Dall used Charge - from (-16, 5) to (-9, 5)
+Chapel Absolver Plaza took 1 damage
+Chapel Absolver Plaza passed out
+Chapel Absolver Plaza took 10 knockback
+Chapel Riot Priest Moon stability prevented 1 knockback
+Chapel Absolver Plaza hit something with 10 knockback left
+Chapel Riot Priest Moon is no longer Invincible
+Dream Dall breached - from (-21, 7) to (-21, 6)
+Dream Dall Swapped with Chapel Tracker Gibbs - from (-21, 6) to (-20, 12)
+Dream Dall used Use Laptop - from (-20, 12) to (-20, 11)
+Chapel Riot Priest Moon is no longer Invincible
+Dream Dall used Charge - from (-20, 12) to (-8, 12)
+Chapel Absolver Stone took 1 damage
+Chapel Absolver Stone took 15 knockback
+Chapel Absolver Stone hit something with 15 knockback left
+Chapel Absolver Stone took 15 damage
+Chapel Absolver Stone passed out
+Chapel Riot Priest Salt is no longer Invincible
+Dream Dall is no longer Neutralised
+Dream Dall used Throw Riot Block - from (-8, 12) to (-16, 12)
+Dream Dall used Charge - from (-8, 12) to (-14, 12)
+Chapel Riot Priest Salt armour blocked 1 damage
+Chapel Riot Priest Salt stability prevented 1 knockback
+Chapel Riot Priest Salt took 8 knockback
+Chapel Riot Priest Salt hit something with 8 knockback left
+Riot Block added 1 extra impact damage
+Chapel Riot Priest Salt took 9 damage
+Chapel Riot Priest Salt is no longer Gasmasked
+Chapel Riot Priest Salt passed out
+Dream Dall Swapped with Dall - from (-14, 12) to (-21, 5)
+Dream Dall Swapped with Dall - from (-21, 5) to (-14, 12)
+Dream Dall Swapped with Dall - from (-14, 12) to (-21, 5)
+Dream Dall Swapped with Dall - from (-21, 5) to (-14, 12)
+Dream Dall Swapped with Dall - from (-14, 12) to (-21, 5)
+Dream Dall Swapped with - from (-21, 5) to (-16, 12)
+Dream Dall moved - from (-21, 5) to (-20, 5)
+Dream Dall used Charge - from (-20, 5) to (-16, 5)
+Chapel Absolver Plaza took 1 damage
+Chapel Absolver Plaza took 7 knockback
+Chapel Tracker Gibbs is no longer Invincible
+Dall moved - from (-21, 5) to (-20, 5)
+Dall used Throw Riot Block - from (-20, 5) to (-8, 5)
+Dall used Charge - from (-20, 5) to (-16, 5)
+Chapel Absolver Plaza took 1 damage
+Chapel Absolver Plaza took 7 knockback
+Chapel Absolver Plaza hit something with 1 knockback left
+Riot Block added 1 extra impact damage
+Chapel Absolver Plaza took 2 damage
+Chapel Absolver Plaza passed out
+Chapel Tracker Gibbs is no longer Invincible
+Dall used Charge - from (-16, 5) to (-9, 5)
+Riot Block armour blocked 1 damage
+Riot Block took 10 knockback
+Chapel Riot Priest Moon stability prevented 1 knockback
+Riot Block hit something with 10 knockback left
+Riot Block took 10 damage
+Dall used Charge - from (-20, 5) to (-16, 5)
+Chapel Absolver Plaza took 1 damage
+Chapel Absolver Plaza took 7 knockback
+Chapel Tracker Gibbs is no longer Invincible
+Dall used Charge - from (-20, 5) to (-16, 5)
+Chapel Absolver Plaza took 1 damage
+Chapel Absolver Plaza took 7 knockback
+Chapel Tracker Gibbs is no longer Invincible
+Dream Dall Swapped with Dall - from (-14, 12) to (-20, 5)
+Dream Dall used Charge - from (-20, 5) to (-16, 5)
+Chapel Absolver Plaza took 1 damage
+Chapel Absolver Plaza took 7 knockback
+Chapel Tracker Gibbs is no longer Invincible
+Dream Dall used Charge - from (-16, 5) to (-9, 5)
+Chapel Absolver Plaza took 1 damage
+Chapel Absolver Plaza passed out
+Chapel Absolver Plaza took 10 knockback
+Chapel Riot Priest Moon stability prevented 1 knockback
+Chapel Absolver Plaza hit something with 10 knockback left
+Chapel Riot Priest Moon is no longer Invincible
+Dream Dall used Charge - from (-9, 5) to (-8, 5)
+Chapel Riot Priest Moon armour blocked 1 damage
+Chapel Riot Priest Moon stability prevented 1 knockback
+Dream Dall Swapped with Dall - from (-14, 12) to (-21, 5)
+Dream Dall moved - from (-21, 5) to (-20, 5)
+Dream Dall used Charge - from (-20, 5) to (-16, 5)
+Chapel Absolver Plaza took 1 damage
+Chapel Absolver Plaza took 7 knockback
+Chapel Tracker Gibbs is no longer Invincible
+Dream Dall used Charge - from (-16, 5) to (-9, 5)
+Chapel Absolver Plaza took 1 damage
+Chapel Absolver Plaza passed out
+Chapel Absolver Plaza took 10 knockback
+Chapel Riot Priest Moon stability prevented 1 knockback
+Chapel Absolver Plaza hit something with 10 knockback left
+Chapel Riot Priest Moon is no longer Invincible
+Dream Dall Swapped with Chapel Tracker Gibbs - from (-21, 7) to (-20, 12)
+Dream Dall used Use Laptop - from (-20, 12) to (-20, 11)
+Dream Dall used Charge - from (-20, 12) to (-16, 12)
+Chapel Riot Priest Salt stability prevented 1 knockback
+Chapel Riot Priest Salt took 6 knockback
+Dall used Charge - from (-21, 5) to (-21, 6)
+Chapel Tracker Gibbs took 1 damage
+Chapel Tracker Gibbs took 1 knockback
+Dall used Charge - from (-21, 6) to (-21, 7)
+Chapel Tracker Gibbs took 1 damage
+Chapel Tracker Gibbs took 1 knockback
+Dream Dall used Charge - from (-20, 12) to (-16, 12)
+Chapel Riot Priest Salt stability prevented 1 knockback
+Chapel Riot Priest Salt took 6 knockback
+Dream Dall used Charge - from (-20, 12) to (-8, 12)
+Chapel Absolver Stone took 1 damage
+Chapel Absolver Stone took 15 knockback
+Chapel Absolver Stone hit something with 15 knockback left
+Chapel Absolver Stone took 15 damage
+Chapel Absolver Stone passed out
+Chapel Riot Priest Salt is no longer Invincible
+Dream Dall is no longer Neutralised
+Dream Dall Swapped with Dall - from (-8, 12) to (-21, 5)
+Dream Dall used Charge - from (-21, 5) to (-21, 6)
+Chapel Tracker Gibbs took 1 damage
+Chapel Tracker Gibbs took 1 knockback
+Dream Dall used Charge - from (-21, 6) to (-21, 7)
+Chapel Tracker Gibbs took 1 damage
+Chapel Tracker Gibbs took 1 knockback
+Dream Dall used Charge - from (-21, 7) to (-21, 8)
+Chapel Tracker Gibbs took 1 damage
+Chapel Tracker Gibbs passed out
+Chapel Tracker Gibbs took 1 knockback
+Dream Dall Swapped with Dall - from (-21, 8) to (-8, 12)
+Dream Dall breached - from (-21, 7) to (-21, 6)
+Dream Dall used Charge - from (-21, 6) to (-21, 8)
+Chapel Tracker Gibbs took 1 damage
+Chapel Tracker Gibbs passed out
+Chapel Tracker Gibbs took 2 knockback
+Dream Dall Swapped with Dall - from (-21, 8) to (-8, 12)
+Dream Dall used Throw Riot Block - from (-8, 12) to (-16, 12)
+Dream Dall used Charge - from (-8, 12) to (-14, 12)
+Chapel Riot Priest Salt armour blocked 1 damage
+Chapel Riot Priest Salt stability prevented 1 knockback
+Chapel Riot Priest Salt took 8 knockback
+Chapel Riot Priest Salt hit something with 8 knockback left
+Riot Block added 1 extra impact damage
+Chapel Riot Priest Salt took 9 damage
+Chapel Riot Priest Salt is no longer Gasmasked
+Chapel Riot Priest Salt passed out
+Dream Dall Swapped with Dall - from (-14, 12) to (-21, 8)
+Dall repositioned - from (-21, 8) to (-21, 7)
+Dall moved - from (-21, 7) to (-20, 5)
+Dall used Charge - from (-20, 5) to (-16, 5)
+Chapel Absolver Plaza took 1 damage
+Chapel Absolver Plaza took 7 knockback
+Chapel Riot Priest Moon is no longer Invincible
+Dall used Charge - from (-16, 5) to (-9, 5)
+Chapel Absolver Plaza took 1 damage
+Chapel Absolver Plaza passed out
+Chapel Absolver Plaza took 10 knockback
+Chapel Riot Priest Moon stability prevented 1 knockback
+Chapel Absolver Plaza hit something with 10 knockback left
+Chapel Riot Priest Moon is no longer Invincible
+Dream Dall Swapped with Dall - from (-14, 12) to (-9, 5)
+Dall used Throw Riot Block - from (-21, 7) to (-21, 5)
+Dall moved - from (-21, 7) to (-20, 5)
+Dall used Charge - from (-20, 5) to (-16, 5)
+Chapel Absolver Plaza took 1 damage
+Chapel Absolver Plaza took 7 knockback
+Chapel Riot Priest Moon is no longer Invincible
+Dall used Charge - from (-16, 5) to (-9, 5)
+Chapel Absolver Plaza took 1 damage
+Chapel Absolver Plaza passed out
+Chapel Absolver Plaza took 10 knockback
+Chapel Riot Priest Moon stability prevented 1 knockback
+Chapel Absolver Plaza hit something with 10 knockback left
+Chapel Riot Priest Moon is no longer Invincible
+Dream Dall Swapped with Chapel Riot Priest Moon - from (-14, 12) to (-7, 5)

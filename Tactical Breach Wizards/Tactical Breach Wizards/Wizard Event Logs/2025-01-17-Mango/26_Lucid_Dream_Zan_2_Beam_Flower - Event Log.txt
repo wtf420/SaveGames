@@ -1,0 +1,117 @@
+26_Lucid_Dream_Zan_2_Beam_Flower
+ 
+Start of player turn 1
+Zan breached - from (2, 13) to (1, 13)
+Mental Guard shot Zan on overwatch
+Zan took 4 damage
+Zan passed out
+Zan  - from (2, 13) to (1, 13)
+Dream Zan repositioned - from (0, 13) to (-3, 10)
+Dream Zan breached - from (-3, 10) to (-3, 9)
+Dream Zan used 3 Bolt Burst on Mental Guard - from (-3, 9) to (2, 8)
+Mental Guard took 2 damage
+Mental Guard took 1 knockback
+Mental Guard hit something with 1 knockback left
+Mental Guard took 1 damage
+Mental Guard passed out
+Dream Zan used 3 Bolt Burst on Mental Guard - from (-3, 9) to (1, 9)
+Mental Guard took 2 damage
+Mental Guard took 1 knockback
+Mental Guard shot Mental Guard on overwatch
+Mental Guard took 4 damage
+Mental Guard passed out
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Zan breached - from (2, 13) to (1, 13)
+Zan used 3 Bolt Burst on Mental Guard - from (1, 13) to (2, 9)
+Mental Guard took 2 damage
+Mental Guard passed out
+Mental Guard took 1 knockback
+Mental Guard took 1 knockback
+Mental Guard hit something with 1 knockback left
+Dream Zan didn't have a clear shot at the target to provide Supporting Fire.
+Zan moved - from (1, 13) to (1, 11)
+Zan  - from (1, 11) to (5, 9)
+False Prophet sealed a hostile entry point - from (5, 9) to (5, 9)
+Dream Zan used Time Boost on Zan - from (-3, 9) to (1, 11)
+Zan used 3 Bolt Burst on Mental Guard - from (1, 11) to (3, 9)
+Mental Guard took 2 damage
+Mental Guard took 1 knockback
+Mental Guard hit something with 1 knockback left
+Mental Guard took 1 damage
+Mental Guard passed out
+Dream Zan took a free shot at Zan with Supporting Fire.
+Dream Zan used 3 Bolt Burst on Zan - from (-3, 9) to (1, 11)
+Zan took 2 damage
+Zan took 1 knockback
+Zan used Time Boost on Dream Zan - from (1, 11) to (-3, 9)
+Zan used 3 Bolt Burst on Mental Guard - from (1, 11) to (3, 9)
+Mental Guard took 2 damage
+Mental Guard took 1 knockback
+Mental Guard hit something with 1 knockback left
+Mental Guard took 1 damage
+Mental Guard passed out
+Dream Zan took a free shot at Zan with Supporting Fire.
+Dream Zan used 3 Bolt Burst on Zan - from (-3, 9) to (1, 11)
+Zan took 2 damage
+Zan took 1 knockback
+Zan took cover - from (1, 11) to (1, 11)
+Dream Zan used 3 Bolt Burst on Mental Guard - from (-3, 9) to (2, 7)
+Mental Guard took 2 damage
+Mental Guard took 1 knockback
+Mental Guard shot Mental Guard on overwatch
+Mental Guard took 4 damage
+Mental Guard passed out
+Dream Zan moved - from (-3, 9) to (0, 8)
+Dream Zan took cover - from (0, 8) to (0, 8)
+Zan stood up - from (1, 11) to (1, 11)
+Zan used 3 Bolt Burst on Mental Guard - from (1, 11) to (3, 9)
+Mental Guard took 2 damage
+Mental Guard took 1 knockback
+Mental Guard hit something with 1 knockback left
+Mental Guard took 1 damage
+Mental Guard passed out
+Dream Zan stood up - from (0, 8) to (0, 8)
+Dream Zan breached - from (-3, 10) to (-3, 9)
+Dream Zan used 3 Bolt Burst on Mental Guard - from (-3, 9) to (1, 9)
+Mental Guard took 2 damage
+Mental Guard took 1 knockback
+Mental Guard shot Mental Guard on overwatch
+Mental Guard took 4 damage
+Mental Guard passed out
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Dream Zan moved - from (-3, 9) to (-1, 9)
+Zan breached - from (2, 13) to (1, 13)
+Dream Zan took cover - from (-1, 9) to (-1, 9)
+Zan used 3 Bolt Burst on Mental Guard - from (1, 13) to (2, 9)
+Mental Guard took 2 damage
+Mental Guard passed out
+Mental Guard took 1 knockback
+Mental Guard took 1 knockback
+Mental Guard hit something with 1 knockback left
+Zan moved - from (1, 13) to (1, 11)
+Zan  - from (1, 11) to (5, 9)
+False Prophet sealed a hostile entry point - from (5, 9) to (5, 9)
+Zan took cover - from (1, 11) to (1, 11)
+Dream Zan stood up - from (-1, 9) to (-1, 9)
+Zan stood up - from (1, 11) to (1, 11)
+Zan used Time Boost on Dream Zan - from (1, 11) to (-1, 9)
+Zan took cover - from (1, 11) to (1, 11)
+Dream Zan used 3 Bolt Burst on Mental Guard - from (-1, 9) to (2, 7)
+Mental Guard took 2 damage
+Mental Guard took 1 knockback
+Mental Guard shot Mental Guard on overwatch
+Mental Guard took 4 damage
+Mental Guard passed out
+Dream Zan  - from (-1, 9) to (1, 6)
+False Prophet sealed a hostile entry point - from (1, 6) to (1, 6)
+Dream Zan used Time Boost on Zan - from (-1, 9) to (1, 11)
+Dream Zan took cover - from (-1, 9) to (-1, 9)
+Zan stood up - from (1, 11) to (1, 11)
+Zan used 3 Bolt Burst on Mental Guard - from (1, 11) to (3, 9)
+Mental Guard took 2 damage
+Mental Guard took 1 knockback
+Mental Guard hit something with 1 knockback left
+Mental Guard took 1 damage
+Mental Guard passed out
+False Prophet vanished
+False Prophet vanished

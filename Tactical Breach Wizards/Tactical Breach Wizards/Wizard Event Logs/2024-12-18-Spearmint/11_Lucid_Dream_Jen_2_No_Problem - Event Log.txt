@@ -1,0 +1,215 @@
+11_Lucid_Dream_Jen_2_No_Problem
+ 
+Start of player turn 1
+Jen breached - from (-3, 11) to (-3, 10)
+Jen cast Static Blast on RPD Enforcer Meridian - from (-3, 10) to (4, 10)
+RPD Enforcer Meridian took 2 knockback
+RPD Enforcer Meridian was defenestrated - from (4, 10) to (4, 10)
+RPD Enforcer Meridian took 3 damage
+RPD Enforcer Meridian passed out
+Jen moved - from (-3, 10) to (-1, 7)
+Jen moved - from (-3, 9) to (-1, 7)
+Jen moved - from (-3, 9) to (-1, 7)
+Jen cast Static Blast on RPD Enforcer Roma - from (-1, 7) to (1, 7)
+RPD Enforcer Roma took 2 knockback
+Jen moved - from (-3, 10) to (-1, 12)
+Jen cast Static Blast on RPD Enforcer Roma - from (-1, 7) to (1, 7)
+RPD Enforcer Roma took 2 knockback
+Jen breached - from (-3, 11) to (-3, 10)
+Jen moved - from (-3, 10) to (-1, 7)
+Jen cast Static Blast on RPD Enforcer Roma - from (-1, 7) to (1, 7)
+RPD Enforcer Roma took 2 knockback
+Jen moved - from (-1, 7) to (-1, 10)
+Jen moved - from (-1, 7) to (-1, 12)
+Jen moved - from (-3, 9) to (-1, 10)
+Jen cast Static Blast on RPD Enforcer Meridian - from (-1, 10) to (4, 10)
+RPD Enforcer Meridian took 2 knockback
+RPD Enforcer Meridian was defenestrated - from (4, 10) to (4, 10)
+RPD Enforcer Meridian took 3 damage
+RPD Enforcer Meridian passed out
+Jen moved - from (-1, 10) to (-1, 7)
+Player ended their turn, starting enemy turn 1
+RPD Enforcer Schottle moved - from (4, 8) to (4, 7)
+RPD Enforcer Roma moved - from (3, 7) to (0, 7)
+End of enemy turn 1
+ 
+Start of player turn 2
+Jen cast Static Blast on RPD Enforcer Asante - from (-1, 12) to (-1, 13)
+RPD Enforcer Asante took 4 knockback
+RPD Enforcer Asante was defenestrated - from (-1, 13) to (-1, 13)
+RPD Enforcer Asante took 3 damage
+RPD Enforcer Asante passed out
+Jen moved - from (-1, 12) to (0, 10)
+Jen cast Static Blast on RPD Enforcer Roma - from (-1, 7) to (0, 7)
+RPD Enforcer Roma took 4 knockback
+RPD Enforcer Schottle took 1 knockback
+RPD Enforcer Roma hit something with 1 knockback left
+RPD Enforcer Roma took 1 damage
+RPD Enforcer Schottle was defenestrated - from (4, 7) to (4, 7)
+RPD Enforcer Schottle took 3 damage
+RPD Enforcer Schottle passed out
+Jen cast Static Blast on RPD Enforcer Roma - from (-1, 7) to (0, 7)
+RPD Enforcer Roma took 4 knockback
+RPD Enforcer Schottle took 1 knockback
+RPD Enforcer Roma hit something with 1 knockback left
+RPD Enforcer Roma took 1 damage
+RPD Enforcer Schottle was defenestrated - from (4, 7) to (4, 7)
+RPD Enforcer Schottle took 3 damage
+RPD Enforcer Schottle passed out
+Player ended their turn, starting enemy turn 2
+RPD Enforcer Craze moved - from (1, 10) to (1, 10)
+RPD Enforcer Pang moved - from (4, 8) to (1, 7)
+RPD Enforcer Roma moved - from (3, 7) to (0, 7)
+End of enemy turn 2
+ 
+Start of player turn 3
+Jen cast Static Blast on RPD Enforcer Craze - from (0, 10) to (1, 10)
+RPD Enforcer Craze took 4 knockback
+RPD Enforcer Craze was defenestrated - from (4, 10) to (4, 10)
+RPD Enforcer Craze took 3 damage
+RPD Enforcer Craze passed out
+Jen cast Static Blast on RPD Enforcer Roma - from (-1, 7) to (0, 7)
+RPD Enforcer Roma took 4 knockback
+RPD Enforcer Pang took 1 knockback
+RPD Enforcer Roma hit something with 4 knockback left
+RPD Enforcer Roma took 4 damage
+RPD Enforcer Roma passed out
+Jen cast Static Blast on RPD Enforcer Roma - from (-1, 7) to (0, 7)
+RPD Enforcer Roma took 4 knockback
+RPD Enforcer Pang took 1 knockback
+RPD Enforcer Roma hit something with 4 knockback left
+RPD Enforcer Roma took 4 damage
+RPD Enforcer Roma passed out
+Jen moved - from (-1, 7) to (-1, 12)
+Player ended their turn, starting enemy turn 3
+RPD Enforcer Cassini moved - from (1, 10) to (1, 10)
+RPD Enforcer Lafoon moved - from (4, 8) to (2, 10)
+RPD Enforcer Ajavon moved - from (0, 13) to (-1, 13)
+RPD Enforcer Roma moved - from (0, 7) to (-1, 9)
+RPD Enforcer Pang moved - from (1, 7) to (-1, 8)
+End of enemy turn 3
+ 
+Start of player turn 4
+Jen moved - from (-1, 12) to (1, 13)
+Jen cast Static Blast on RPD Enforcer Ajavon - from (1, 13) to (-1, 13)
+RPD Enforcer Ajavon took 2 knockback
+RPD Enforcer Ajavon was defenestrated - from (-1, 13) to (-1, 13)
+RPD Enforcer Ajavon took 3 damage
+RPD Enforcer Ajavon passed out
+Jen moved - from (0, 10) to (-1, 10)
+Jen cast Static Blast on RPD Enforcer Roma - from (-1, 10) to (-1, 9)
+RPD Enforcer Roma took 4 knockback
+RPD Enforcer Pang took 1 knockback
+RPD Enforcer Roma hit something with 4 knockback left
+RPD Enforcer Roma took 4 damage
+RPD Enforcer Roma passed out
+Jen cast Static Blast on RPD Enforcer Cassini - from (-1, 10) to (1, 10)
+RPD Enforcer Cassini took 2 knockback
+RPD Enforcer Lafoon took 1 knockback
+RPD Enforcer Cassini hit something with 2 knockback left
+RPD Enforcer Cassini took 2 damage
+Jen cast Static Blast on RPD Enforcer Cassini - from (0, 10) to (1, 10)
+RPD Enforcer Cassini took 4 knockback
+RPD Enforcer Lafoon took 1 knockback
+RPD Enforcer Cassini hit something with 4 knockback left
+RPD Enforcer Cassini took 4 damage
+RPD Enforcer Cassini passed out
+Jen cast Static Blast on RPD Enforcer Cassini - from (0, 10) to (1, 10)
+RPD Enforcer Cassini took 4 knockback
+RPD Enforcer Lafoon took 1 knockback
+RPD Enforcer Cassini hit something with 4 knockback left
+RPD Enforcer Cassini took 4 damage
+RPD Enforcer Cassini passed out
+Jen moved - from (0, 10) to (-1, 10)
+Jen cast Chain Bolt on RPD Enforcer Cassini, RPD Enforcer Lafoon - from (-1, 10) to (1, 10)
+RPD Enforcer Cassini took 2 knockback
+RPD Enforcer Lafoon took 2 knockback
+RPD Enforcer Lafoon took 1 knockback
+RPD Enforcer Cassini hit something with 2 knockback left
+RPD Enforcer Cassini took 2 damage
+RPD Enforcer Lafoon was defenestrated - from (4, 10) to (4, 10)
+RPD Enforcer Lafoon took 3 damage
+RPD Enforcer Lafoon passed out
+Jen moved - from (0, 10) to (0, 13)
+Jen moved - from (0, 10) to (-1, 13)
+Jen used Broom Breach - from (-1, 13) to (4, 13)
+Player ended their turn, starting enemy turn 4
+RPD Enforcer Costello moved - from (1, 10) to (-1, 12)
+RPD Enforcer Auriga moved - from (0, 13) to (0, 13)
+RPD Enforcer Roma moved - from (-1, 9) to (-1, 11)
+RPD Enforcer Pang moved - from (-1, 8) to (-1, 10)
+RPD Enforcer Cassini moved - from (1, 10) to (4, 10)
+RPD Enforcer Lafoon moved - from (2, 10) to (4, 11)
+End of enemy turn 4
+ 
+Start of player turn 5
+Jen cast Static Blast on RPD Enforcer Auriga - from (1, 13) to (0, 13)
+RPD Enforcer Auriga took 4 knockback
+RPD Enforcer Auriga was defenestrated - from (-1, 13) to (-1, 13)
+RPD Enforcer Auriga took 3 damage
+RPD Enforcer Auriga passed out
+Jen moved - from (1, 13) to (-1, 13)
+Jen used Broom Breach - from (-1, 13) to (4, 7)
+Jen moved - from (4, 13) to (3, 10)
+Jen cast Static Blast on RPD Enforcer Cassini - from (3, 10) to (4, 10)
+RPD Enforcer Cassini took 4 knockback
+RPD Enforcer Cassini was defenestrated - from (4, 10) to (4, 10)
+RPD Enforcer Cassini took 3 damage
+RPD Enforcer Cassini passed out
+Jen moved - from (3, 10) to (4, 10)
+Jen moved - from (4, 13) to (3, 10)
+Jen cast Static Blast on RPD Enforcer Cassini - from (3, 10) to (4, 10)
+RPD Enforcer Cassini took 4 knockback
+RPD Enforcer Cassini was defenestrated - from (4, 10) to (4, 10)
+RPD Enforcer Cassini took 3 damage
+RPD Enforcer Cassini passed out
+Jen moved - from (1, 13) to (-1, 13)
+Jen used Broom Breach - from (-1, 13) to (4, 7)
+Jen cast Static Blast on RPD Enforcer Lafoon - from (4, 7) to (4, 11)
+RPD Enforcer Lafoon took 2 knockback
+Jen used Broom Breach - from (-1, 13) to (4, 10)
+Jen cast Static Blast on RPD Enforcer Lafoon - from (4, 10) to (4, 11)
+RPD Enforcer Lafoon took 4 knockback
+RPD Enforcer Lafoon was defenestrated - from (4, 13) to (4, 13)
+RPD Enforcer Lafoon took 3 damage
+RPD Enforcer Lafoon passed out
+Jen moved - from (4, 10) to (4, 13)
+Jen moved - from (3, 10) to (-1, 9)
+RPD Enforcer Pang bludgeoned Jen - from (-1, 10) to (-1, 9)
+Jen took 3 damage
+Player ended their turn, starting enemy turn 5
+RPD Enforcer Roma moved - from (-1, 11) to (-1, 8)
+RPD Enforcer Costello moved - from (-1, 12) to (1, 13)
+RPD Enforcer Auriga moved - from (0, 13) to (3, 13)
+End of enemy turn 5
+ 
+Start of player turn 6
+Jen cast Static Blast on RPD Enforcer Roma - from (-1, 9) to (-1, 8)
+RPD Enforcer Roma took 4 knockback
+RPD Enforcer Roma was defenestrated - from (-1, 7) to (-1, 7)
+RPD Enforcer Roma took 2 damage
+RPD Enforcer Roma passed out
+Jen moved - from (-1, 9) to (0, 7)
+Jen moved - from (4, 13) to (2, 13)
+Jen cast Static Blast on RPD Enforcer Auriga - from (2, 13) to (3, 13)
+RPD Enforcer Auriga took 4 knockback
+RPD Enforcer Auriga was defenestrated - from (4, 13) to (4, 13)
+RPD Enforcer Auriga took 3 damage
+RPD Enforcer Auriga passed out
+Jen moved - from (2, 13) to (4, 12)
+Player ended their turn, starting enemy turn 6
+RPD Enforcer Pang moved - from (-1, 10) to (-1, 7)
+RPD Enforcer Costello moved - from (1, 13) to (4, 13)
+End of enemy turn 6
+ 
+Start of player turn 7
+Jen cast Static Blast on RPD Enforcer Costello - from (4, 12) to (4, 13)
+RPD Enforcer Costello took 4 knockback
+RPD Enforcer Costello was defenestrated - from (4, 13) to (4, 13)
+RPD Enforcer Costello took 3 damage
+RPD Enforcer Costello passed out
+Jen cast Static Blast on RPD Enforcer Pang - from (0, 7) to (-1, 7)
+RPD Enforcer Pang took 4 knockback
+RPD Enforcer Pang was defenestrated - from (-1, 7) to (-1, 7)
+RPD Enforcer Pang took 3 damage
+RPD Enforcer Pang passed out

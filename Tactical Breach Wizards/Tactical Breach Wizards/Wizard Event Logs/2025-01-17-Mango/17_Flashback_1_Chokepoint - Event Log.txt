@@ -1,0 +1,46 @@
+17_Flashback_1_Chokepoint
+ 
+Start of player turn 1
+Zan used 3 Bolt Burst on Mafia Sprig Midthunder - from (1, 18) to (1, 21)
+Mafia Sprig Midthunder took 1 damage
+Mafia Sprig Midthunder took 1 knockback
+Mafia Sprig Midthunder hit something with 1 knockback left
+Mafia Sprig Midthunder took 1 damage
+Mafia Sprig Midthunder passed out
+Extractor used Abduct on Liv Kennedy - from (-1, 18) to (-1, 19)
+Zan used 3 Bolt Burst on Mafia Sprig Midthunder - from (1, 18) to (1, 21)
+Mafia Sprig Midthunder took 1 damage
+Mafia Sprig Midthunder took 1 knockback
+Mafia Sprig Midthunder hit something with 1 knockback left
+Mafia Sprig Midthunder took 1 damage
+Mafia Sprig Midthunder passed out
+Extractor used Abduct on Liv Kennedy - from (-1, 18) to (-1, 19)
+Zan used 3 Bolt Burst on Extractor - from (1, 18) to (-1, 18)
+Extractor armour blocked 1 damage
+Extractor took 1 knockback
+Extractor was defenestrated - from (-1, 18) to (-1, 18)
+Extractor took 6 damage
+Extractor passed out
+Extractor used Abduct on Liv Kennedy - from (-1, 18) to (-1, 19)
+Mafia Sprig Midthunder shot Hostage - from (1, 21) to (0, 21)
+Hostage took 2 damage
+Hostage passed out
+Extractor used Abduct on Liv Kennedy - from (-1, 18) to (-1, 19)
+Mafia Sprig Midthunder shot Hostage - from (1, 21) to (0, 21)
+Hostage took 2 damage
+Hostage passed out
+Zan used Hesitate on Liv Kennedy - from (1, 18) to (-1, 19)
+Zan used Panic on Hostage - from (1, 18) to (0, 21)
+Zan used Freeze - from (1, 18) to (1, 18)
+Extractor used Abduct on Liv Kennedy - from (-1, 18) to (-1, 19)
+Mafia Sprig Midthunder shot Hostage - from (1, 21) to (0, 21)
+Hostage took 2 damage
+Hostage passed out
+Zan used Hesitate on Liv Kennedy - from (1, 18) to (-1, 19)
+Zan used Panic on Hostage - from (1, 18) to (0, 21)
+Zan used Freeze - from (1, 18) to (1, 18)
+Extractor used Abduct on Liv Kennedy - from (-1, 18) to (-1, 19)
+Mafia Sprig Midthunder shot Hostage - from (1, 21) to (0, 21)
+Hostage took 2 damage
+Hostage passed out
+Player ended their turn, starting enemy turn 1

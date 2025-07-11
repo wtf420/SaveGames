@@ -1,0 +1,96 @@
+03_Evidence_Lockup_1_Lobby
+ 
+Start of player turn 1
+Jen cast Chain Bolt on RPD Tracker Polaris, RPD Tracker Moritz - from (14, 4) to (13, 2)
+RPD Tracker Polaris took 2 knockback
+RPD Tracker Moritz took 4 knockback
+RPD Tracker Polaris hit something with 2 knockback left
+RPD Tracker Polaris took 2 damage
+RPD Tracker Polaris passed out
+RPD Tracker Moritz hit something with 3 knockback left
+RPD Tracker Moritz took 3 damage
+RPD Tracker Moritz passed out
+Zan used 3 Bolt Burst on RPD Tracker Fiasco - from (15, 4) to (15, -1)
+RPD Tracker Fiasco took 1 damage
+RPD Tracker Fiasco took 1 knockback
+Jen cast Chain Bolt on RPD Tracker Polaris, RPD Tracker Moritz - from (14, 4) to (13, 2)
+RPD Tracker Polaris took 2 knockback
+RPD Tracker Moritz took 4 knockback
+RPD Tracker Polaris hit something with 2 knockback left
+RPD Tracker Polaris took 2 damage
+RPD Tracker Polaris passed out
+RPD Tracker Moritz hit something with 3 knockback left
+RPD Tracker Moritz took 3 damage
+RPD Tracker Moritz passed out
+Jen moved - from (14, 4) to (13, 2)
+Jen used Grab Intel - from (13, 2) to (13, 3)
+Jen took cover - from (13, 2) to (13, 2)
+Jen stood up - from (13, 2) to (13, 2)
+Zan used 3 Bolt Burst on RPD Tracker Fiasco - from (15, 4) to (15, -1)
+RPD Tracker Fiasco took 1 damage
+RPD Tracker Fiasco took 1 knockback
+Zan moved - from (15, 4) to (16, 2)
+Zan took cover - from (16, 2) to (16, 2)
+Player ended their turn, starting enemy turn 1
+RPD Tracker Kuranto moved - from (15, -2) to (17, -1)
+Grenadier Rubicon moved - from (12, -1) to (14, -1)
+Grenadier Rubicon launched a grenade - from (14, -1) to (15, 2)
+RPD Tracker Fiasco moved - from (15, -2) to (16, 0)
+End of enemy turn 1
+ 
+Start of player turn 2
+Jen threw a Gale Grenade - from (13, 2) to (17, 0)
+RPD Tracker Fiasco took 1 knockback
+RPD Tracker Kuranto took 1 knockback
+RPD Tracker Fiasco hit something with 1 knockback left
+RPD Tracker Fiasco took 1 damage
+RPD Tracker Fiasco passed out
+Jen cast Chain Bolt on RPD Tracker Fiasco, RPD Tracker Kuranto - from (13, 2) to (16, 0)
+RPD Tracker Fiasco took 2 knockback
+RPD Tracker Kuranto took 4 knockback
+RPD Tracker Kuranto took 1 knockback
+RPD Tracker Fiasco hit something with 2 knockback left
+RPD Tracker Fiasco took 2 damage
+RPD Tracker Fiasco passed out
+RPD Tracker Kuranto hit something with 5 knockback left
+RPD Tracker Kuranto took 5 damage
+RPD Tracker Kuranto passed out
+Zan used 3 Bolt Burst on RPD Sharpshooter Balwinder - from (16, 2) to (12, 1)
+RPD Sharpshooter Balwinder took 1 damage
+RPD Sharpshooter Balwinder took 1 knockback
+RPD Sharpshooter Balwinder was defenestrated - from (12, 1) to (12, 1)
+RPD Sharpshooter Balwinder took 1 damage
+RPD Sharpshooter Balwinder passed out
+Zan moved - from (16, 2) to (16, 0)
+Zan took cover - from (16, 0) to (16, 0)
+Jen moved - from (13, 2) to (13, 1)
+Jen moved - from (13, 2) to (13, 1)
+Jen moved - from (13, 2) to (13, 1)
+Player ended their turn, starting enemy turn 2
+Grenadier Rubicon moved - from (14, -1) to (15, -1)
+Grenadier Rubicon launched a grenade - from (15, -1) to (17, 1)
+End of enemy turn 2
+ 
+Start of player turn 3
+Jen threw a Gale Grenade Grenadier Rubicon - from (13, 1) to (15, -1)
+RPD Tracker Venatici took 1 knockback
+Zan took 1 knockback
+RPD Tracker Venatici hit something with 1 knockback left
+RPD Tracker Venatici took 1 damage
+Jen threw a Gale Grenade - from (13, 1) to (14, -1)
+RPD Tracker Venatici took 1 knockback
+Grenadier Rubicon took 1 knockback
+RPD Tracker Venatici hit something with 1 knockback left
+RPD Tracker Venatici took 1 damage
+Zan shot Grenadier Rubicon on overwatch
+Grenadier Rubicon took 4 damage
+Grenadier Rubicon passed out
+Jen cast Static Blast on RPD Tracker Venatici - from (13, 1) to (14, -2)
+RPD Tracker Venatici took 2 knockback
+RPD Tracker Venatici hit something with 2 knockback left
+RPD Tracker Venatici took 2 damage
+RPD Tracker Venatici passed out
+Jen moved - from (13, 1) to (15, -2)
+Jen sealed a hostile entry point - from (15, -2) to (15, -2)
+Zan moved - from (16, 0) to (14, -1)
+Zan took cover - from (14, -1) to (14, -1)

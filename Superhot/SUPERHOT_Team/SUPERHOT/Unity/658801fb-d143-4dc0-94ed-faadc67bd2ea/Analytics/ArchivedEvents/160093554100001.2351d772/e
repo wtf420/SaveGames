@@ -1,0 +1,3 @@
+(s)|{"appid":"658801fb-d143-4dc0-94ed-faadc67bd2ea","userid":"b6de1e891338c024395b2336cb669719","sessionid":3239981143083482384,"platform":"WindowsPlayer","platformid":2,"sdk_ver":"u2019.2.9f1","session_count":5,"localprojectid":"35bbecda288ae43138837a737ca90803","build_guid":"e840dcb93d024ca46ae8db1084647a46","deviceid":"f0cca80c7e52064a128bc59bf502138dcb284257"}
+(g)|2
+(1){"type":"perf.startupTime.v1","msg":{"ts":1600935538258,"t_since_start":3009723,"gfx_before_init":181832,"gfx_initialized":347851,"gfx_done":2269280,"first_scene":2298604,"scene_init":2335864,"scene_done":3009714,"splash_begin":2298815,"splash_fading_out":2299926}}

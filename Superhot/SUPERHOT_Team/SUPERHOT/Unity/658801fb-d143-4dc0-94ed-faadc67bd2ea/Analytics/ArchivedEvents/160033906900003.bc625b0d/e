@@ -1,0 +1,6 @@
+(s)|{"appid":"658801fb-d143-4dc0-94ed-faadc67bd2ea","userid":"b6de1e891338c024395b2336cb669719","sessionid":1373484665696615094,"platform":"WindowsPlayer","platformid":2,"sdk_ver":"u2019.2.9f1","session_count":4,"localprojectid":"35bbecda288ae43138837a737ca90803","build_guid":"e840dcb93d024ca46ae8db1084647a46","deviceid":"f0cca80c7e52064a128bc59bf502138dcb284257"}
+(g)|2
+{"type":"analytics.custom.v1","msg":{"custom_params":{"UserID":"f0cca80c7e52064a128bc59bf502138dcb284257","AttemptGametime":21.17973,"AttemptRealtime":55.28452,"AttemptNumber":0,"AttemptSuccessful":true,"FPSAverage":0.0,"FinishedBefore":false,"LevelName":"LevelTest#77 HackerRoom_LevelFlowControlEnding","Challenge":"","ActionList":"kk2k2kTsshshshk4k4kTTk3k3Tss2k2k22k2Tss4kk4kTsskkkkkkkkkkkkkkkkkTTTTTTTT2k"},"ts":1600339069801,"t_since_start":498183983,"name":"LevelPlaythrough"}}
+{"type":"analytics.appRunning.v1","msg":{"duration":604,"local_time_offset":-25200000,"ts":1600339178618,"t_since_start":607001182}}
+{"type":"analytics.appRunning.v1","msg":{"duration":674,"local_time_offset":-25200000,"ts":1600339248864,"t_since_start":677246611}}
+(1){"type":"analytics.appStop.v1","msg":{"ts":1600339248868,"t_since_start":677251397}}

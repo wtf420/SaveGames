@@ -1,0 +1,178 @@
+23_Fort_Osprey_3_Shield_Generators
+ 
+Start of player turn 1
+Jen breached - from (-29, 8) to (-30, 8)
+Jen moved - from (-30, 8) to (-32, 4)
+Jen cast Static Blast on Reactor Shotgunner Whiteblood - from (-32, 4) to (-33, 5)
+Reactor Shotgunner Whiteblood took 4 knockback
+Reactor Shotgunner Whiteblood was defenestrated - from (-34, 6) to (-34, 6)
+Reactor Shotgunner Whiteblood shield soaked up 4 damage
+Jen moved - from (-32, 4) to (-33, 4)
+Jen used Deactivate Shield Generator - from (-33, 4) to (-33, 3)
+Banks moved - from (-31, 8) to (-31, 4)
+Banks used Death's Door - from (-31, 4) to (-23, 4)
+Banks used Sedative Cocktail on Reactor Heavy Gunner Ancona - from (-31, 4) to (-24, 4)
+Reactor Heavy Gunner Ancona stability prevented 1 knockback
+Reactor Heavy Gunner Ancona is Sedated
+Jen breached - from (-29, 8) to (-30, 8)
+Banks moved - from (-31, 8) to (-33, 6)
+Banks moved - from (-31, 8) to (-31, 5)
+Banks moved - from (-31, 8) to (-30, 3)
+Banks used Death's Door - from (-30, 3) to (-22, 4)
+Jen moved - from (-30, 8) to (-30, 4)
+Jen cast Static Blast on Reactor Heavy Gunner Ancona - from (-30, 4) to (-24, 4)
+Reactor Heavy Gunner Ancona stability prevented 1 knockback
+Reactor Heavy Gunner Ancona took 1 knockback
+Craft Coffin took 1 damage
+Jen gained 1 mana for destroying a Craft Coffin
+Reactor Heavy Gunner Ancona hit something with 1 knockback left
+Reactor Heavy Gunner Ancona shield soaked up 1 damage
+Craft Coffin exploded
+Reactor Heavy Gunner Ancona is Stunned for 1 turn
+Jen breached - from (-29, 8) to (-30, 8)
+Jen moved - from (-30, 8) to (-31, 4)
+Jen cast Static Blast on Reactor Shotgunner Whiteblood - from (-31, 4) to (-33, 5)
+Reactor Shotgunner Whiteblood took 2 knockback
+Reactor Shotgunner Whiteblood was defenestrated - from (-34, 6) to (-34, 6)
+Reactor Shotgunner Whiteblood shield soaked up 4 damage
+Jen moved - from (-31, 4) to (-34, 3)
+Jen used Deactivate Shield Generator - from (-34, 3) to (-33, 3)
+Jen used Broom Breach - from (-34, 3) to (-34, -5)
+Jen used Deactivate Shield Generator - from (-34, -5) to (-34, -6)
+Banks moved - from (-31, 8) to (-33, 5)
+Banks used Sedative Cocktail - from (-33, 5) to (-26, 2)
+Reactor Shotgunner Columba is Sedated
+Banks used Sedative Cocktail - from (-33, 5) to (-24, 3)
+Reactor Heavy Gunner Ancona is Sedated
+Reactor Heavy Gunner Ancona shield soaked up 1 damage
+Player ended their turn, starting enemy turn 1
+Reactor Shotgunner Jones moved - from (-25, -4) to (-28, -3)
+Reactor Shotgunner Columba moved - from (-27, 2) to (-30, 4)
+Reactor Heavy Gunner Ancona moved - from (-24, 4) to (-27, 4)
+Reactor Heavy Gunner Ancona launched a grenade - from (-27, 4) to (-32, 4)
+Reactor Shotgunner Jones is no longer Shielded
+Reactor Shotgunner Columba is no longer Shielded
+Reactor Heavy Gunner Ancona is no longer Shielded
+End of enemy turn 1
+ 
+Start of player turn 2
+Jen used Broom Breach - from (-34, -5) to (-34, -1)
+Jen used Broom Breach - from (-34, -5) to (-34, -1)
+Jen moved - from (-34, -1) to (-31, -1)
+Jen moved - from (-34, -1) to (-32, 0)
+Jen used Deactivate Shield Generator - from (-32, 0) to (-32, -1)
+Reactor Heavy Gunner Ancona is no longer Shielded
+Reactor Shotgunner Jones is no longer Shielded
+Reactor Shotgunner Columba is no longer Shielded
+Banks used Death's Door - from (-33, 5) to (-29, 5)
+Banks moved - from (-33, 5) to (-29, 3)
+Banks moved - from (-33, 5) to (-29, 6)
+Banks used Death's Door - from (-29, 6) to (-30, 7)
+Jen cast Static Blast on - from (-32, 0) to (-29, -1)
+Craft Coffin took 2 damage
+Jen gained 1 mana for destroying a Craft Coffin
+Craft Coffin exploded
+Jen threw a Gale Grenade Reactor Shotgunner Columba - from (-32, 0) to (-30, 4)
+Reactor Shotgunner Columba took 2 damage
+Jen cast Static Blast on Reactor Shotgunner Columba - from (-32, 0) to (-30, 4)
+Reactor Shotgunner Columba took 2 knockback
+Reactor Shotgunner Columba hit something with 2 knockback left
+Reactor Shotgunner Columba took 2 damage
+Jen moved - from (-32, 0) to (-30, -4)
+Banks moved - from (-33, 5) to (-29, 6)
+Banks used Grab Intel - from (-29, 6) to (-29, 5)
+Banks used Sedative Cocktail on Reactor Shotgunner Columba - from (-29, 6) to (-30, 4)
+Reactor Shotgunner Columba took 1 knockback
+Reactor Shotgunner Columba is Sedated
+Reactor Shotgunner Columba hit something with 1 knockback left
+Reactor Shotgunner Columba shield soaked up 1 damage
+Banks used Death's Door - from (-29, 6) to (-29, -5)
+Banks used Death's Floor - from (-29, 6) to (-29, 6)
+Banks used Transference on Reactor Shotgunner Jones - from (-29, -6) to (-28, -3)
+Jen cast Static Blast on Reactor Shotgunner Jones - from (-34, -5) to (-28, -3)
+Reactor Shotgunner Jones took 2 knockback
+Banks used Transference on Reactor Shotgunner Jones - from (-29, -6) to (-28, -3)
+Jen cast Static Blast on - from (-34, -5) to (-29, -2)
+Craft Coffin took 2 damage
+Jen gained 1 mana for destroying a Craft Coffin
+Craft Coffin exploded
+Jen used Broom Breach - from (-34, -5) to (-34, -1)
+Jen moved - from (-34, -1) to (-33, -1)
+Jen took cover - from (-33, -1) to (-33, -1)
+Jen stood up - from (-33, -1) to (-33, -1)
+Jen used Deactivate Shield Generator - from (-33, -1) to (-32, -1)
+Reactor Heavy Gunner Ancona is no longer Shielded
+Reactor Shotgunner Jones is no longer Shielded
+Reactor Shotgunner Columba is no longer Shielded
+Jen used Broom Breach - from (-34, -5) to (-34, -1)
+Jen moved - from (-34, -1) to (-32, 0)
+Jen used Deactivate Shield Generator - from (-32, 0) to (-32, -1)
+Reactor Heavy Gunner Ancona is no longer Shielded
+Reactor Shotgunner Jones is no longer Shielded
+Reactor Shotgunner Columba is no longer Shielded
+Jen cast Static Blast on Reactor Shotgunner Columba - from (-32, 0) to (-30, 4)
+Reactor Shotgunner Columba took 4 knockback
+Reactor Shotgunner Columba hit something with 4 knockback left
+Reactor Shotgunner Columba took 4 damage
+Reactor Shotgunner Columba passed out
+Jen moved - from (-32, 0) to (-32, 1)
+Jen used Grab Intel - from (-32, 1) to (-33, 1)
+Jen moved - from (-32, 0) to (-33, 2)
+Jen used Grab Intel - from (-33, 2) to (-33, 1)
+Reactor Shotgunner Jones used Shotgun Blast on Banks - from (-29, -4) to (-29, -6)
+3 damage and 1 knockback to Banks was transferred to Reactor Shotgunner Jones
+Reactor Shotgunner Jones took 3 damage
+Reactor Shotgunner Jones took 1 knockback
+Reactor Heavy Gunner Ancona took 1 damage
+Player ended their turn, starting enemy turn 2
+Reactor Heavy Gunner Ancona moved - from (-27, 4) to (-29, 3)
+Reactor Heavy Gunner Ancona launched a grenade - from (-29, 3) to (-32, 1)
+End of enemy turn 2
+ 
+Start of player turn 3
+Banks moved - from (-29, -6) to (-31, -4)
+Banks used Death's Door - from (-31, -4) to (-28, 4)
+Jen cast Chain Bolt on Craft Coffin, Reactor Shotgunner Jones, Reactor Heavy Gunner Ancona - from (-33, 2) to (-29, -2)
+Craft Coffin took 2 damage
+Jen gained 1 mana for destroying a Craft Coffin
+Reactor Shotgunner Jones took 2 knockback
+Reactor Heavy Gunner Ancona took 2 knockback
+Craft Coffin exploded
+Reactor Heavy Gunner Ancona hit something with 1 knockback left
+Reactor Heavy Gunner Ancona took 1 damage
+Reactor Shotgunner Jones hit something with 1 knockback left
+Reactor Shotgunner Jones took 1 damage
+Reactor Shotgunner Jones passed out
+Banks moved - from (-29, -6) to (-33, -6)
+Banks used Sedative Cocktail on Reactor Heavy Gunner Ancona - from (-33, -6) to (-29, 3)
+Reactor Heavy Gunner Ancona took 1 knockback
+Reactor Heavy Gunner Ancona is Sedated
+Banks used Death's Door - from (-33, -6) to (-28, 4)
+Banks used Sedative Cocktail on Reactor Heavy Gunner Ancona - from (-33, -6) to (-29, 3)
+Reactor Heavy Gunner Ancona took 1 knockback
+Reactor Heavy Gunner Ancona is Sedated
+Reactor Heavy Gunner Ancona fell into Death's Door
+Reactor Heavy Gunner Ancona took 3 damage
+Reactor Heavy Gunner Ancona passed out
+Jen moved - from (-33, 2) to (-32, 0)
+Jen cast Chain Bolt on Craft Coffin, Craft Coffin, Reactor Shotgunner Jones, Craft Coffin, Craft Coffin - from (-32, 0) to (-29, 1)
+Craft Coffin took 2 damage
+Jen gained 1 mana for destroying a Craft Coffin
+Craft Coffin took 2 damage
+Jen gained 1 mana for destroying a Craft Coffin
+Reactor Shotgunner Jones took 2 knockback
+Craft Coffin took 2 damage
+Jen gained 1 mana for destroying a Craft Coffin
+Craft Coffin took 2 damage
+Jen gained 1 mana for destroying a Craft Coffin
+Craft Coffin exploded
+Craft Coffin exploded
+Craft Coffin exploded
+Craft Coffin exploded
+Reactor Shotgunner Jones hit something with 1 knockback left
+Reactor Shotgunner Jones took 1 damage
+Reactor Shotgunner Jones passed out
+Jen took 2 damage
+Jen took 1 knockback
+Jen hit something with 1 knockback left
+Jen took 1 damage

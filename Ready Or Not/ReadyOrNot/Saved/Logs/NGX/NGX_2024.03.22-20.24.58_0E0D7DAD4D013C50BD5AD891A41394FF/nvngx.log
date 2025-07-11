@@ -1,0 +1,2 @@
+[2024-03-22 20:24:58] [ngx::util::setLogFilename:229] Logging to requested file (C:/Users/tgsjo/AppData/Local/ReadyOrNot/Saved/Logs/NGX/NGX_2024.03.22-20.24.58_0E0D7DAD4D013C50BD5AD891A41394FF/nvngx.log) enabled successfully
+[2024-03-22 20:24:58] [NGXCheckHardwareSupportUsingINF:281] error: failed GPU Architecture check

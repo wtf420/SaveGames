@@ -1,0 +1,322 @@
+15_The_Broadcast_4_Caught_In_Traffic
+ 
+Start of player turn 1
+Jen breached - from (7, 11) to (6, 11)
+Jen moved - from (6, 11) to (9, 9)
+Jen cast Chain Bolt on Chapel Shepherd Sacino, Chapel Absolver Roma, Weapons Cache - from (9, 9) to (8, 5)
+Chapel Shepherd Sacino took 2 knockback
+Chapel Absolver Roma took 2 knockback
+Weapons Cache took 2 knockback
+Weapons Cache hit something with 2 knockback left
+Weapons Cache took 2 damage
+Jen gained 1 mana for destroying a Weapons Cache
+Weapons Cache exploded
+Chapel Absolver Roma was defenestrated - from (10, 2) to (10, 2)
+Chapel Shepherd Sacino is no longer Invincible
+Chapel Absolver Roma took 2 damage
+Chapel Absolver Roma passed out
+Chapel Shepherd Sacino shot Jen - from (8, 3) to (9, 9)
+Jen took 1 damage
+Jen took 1 knockback
+Jen cast Static Blast on Chapel Shepherd Sacino - from (6, 11) to (8, 5)
+Chapel Shepherd Sacino took 2 knockback
+Jen moved - from (6, 11) to (10, 9)
+Jen sealed a hostile entry point - from (10, 9) to (10, 9)
+Banks moved - from (5, 11) to (6, 8)
+Banks used Sedative Cocktail - from (6, 8) to (8, 4)
+Chapel Shepherd Sacino is Sedated
+Chapel Absolver Roma is Sedated
+Chapel Shepherd Sacino shot Banks - from (8, 3) to (6, 8)
+Banks took 1 damage
+Banks took 1 knockback
+Banks repositioned - from (5, 11) to (7, 11)
+Banks breached - from (7, 11) to (6, 11)
+Jen moved - from (5, 11) to (10, 9)
+Jen cast Chain Bolt on Chapel Shepherd Sacino, Chapel Absolver Roma, Chapel Tracker Waybright - from (10, 9) to (8, 5)
+Chapel Shepherd Sacino took 2 knockback
+Chapel Absolver Roma took 2 knockback
+Chapel Tracker Waybright took 2 knockback
+Chapel Tracker Waybright hit something with 2 knockback left
+Chapel Tracker Waybright took 2 damage
+Chapel Shepherd Sacino hit something with 2 knockback left
+Chapel Absolver Roma was defenestrated - from (10, 2) to (10, 2)
+Chapel Shepherd Sacino is no longer Invincible
+Chapel Absolver Roma took 2 damage
+Chapel Absolver Roma passed out
+Chapel Shepherd Sacino shot Jen - from (8, 5) to (10, 9)
+Jen took 1 damage
+Jen took 1 knockback
+Jen hit something with 1 knockback left
+Jen took 1 damage
+Jen sealed a hostile entry point - from (10, 9) to (10, 9)
+Jen cast Chain Bolt on Chapel Shepherd Sacino, Chapel Absolver Roma, Weapons Cache, Chapel Tracker Waybright - from (10, 9) to (8, 5)
+Chapel Shepherd Sacino took 2 knockback
+Chapel Absolver Roma took 2 knockback
+Weapons Cache took 2 knockback
+Chapel Tracker Waybright took 2 knockback
+Chapel Shepherd Sacino hit something with 2 knockback left
+Weapons Cache hit something with 2 knockback left
+Weapons Cache took 2 damage
+Jen gained 1 mana for destroying a Weapons Cache
+Weapons Cache exploded
+Chapel Absolver Roma was defenestrated - from (10, 2) to (10, 2)
+Chapel Shepherd Sacino is no longer Invincible
+Chapel Absolver Roma took 2 damage
+Chapel Absolver Roma passed out
+Chapel Shepherd Sacino shot Jen - from (8, 5) to (10, 9)
+Jen took 1 damage
+Jen took 1 knockback
+Jen hit something with 1 knockback left
+Jen took 1 damage
+Jen cast Chain Bolt on Chapel Shepherd Sacino, Chapel Absolver Roma, Weapons Cache, Chapel Tracker Waybright - from (10, 9) to (8, 5)
+Chapel Shepherd Sacino took 2 knockback
+Chapel Absolver Roma took 2 knockback
+Weapons Cache took 2 knockback
+Chapel Tracker Waybright took 2 knockback
+Chapel Shepherd Sacino hit something with 2 knockback left
+Weapons Cache hit something with 2 knockback left
+Weapons Cache took 2 damage
+Jen gained 1 mana for destroying a Weapons Cache
+Weapons Cache exploded
+Chapel Absolver Roma was defenestrated - from (10, 2) to (10, 2)
+Chapel Shepherd Sacino is no longer Invincible
+Chapel Absolver Roma took 2 damage
+Chapel Absolver Roma passed out
+Chapel Shepherd Sacino shot Jen - from (8, 5) to (10, 9)
+Jen took 1 damage
+Jen took 1 knockback
+Jen hit something with 1 knockback left
+Jen took 1 damage
+Jen cast Chain Bolt on Chapel Shepherd Sacino, Chapel Tracker Waybright, Chapel Absolver Roma, Weapons Cache, Jen, Weapons Cache - from (10, 9) to (8, 5)
+Chapel Shepherd Sacino took 2 knockback
+Chapel Tracker Waybright took 2 knockback
+Chapel Absolver Roma took 2 knockback
+Weapons Cache took 2 knockback
+Jen took 2 knockback
+Weapons Cache took 2 knockback
+Chapel Tracker Waybright hit something with 2 knockback left
+Chapel Tracker Waybright took 2 damage
+Chapel Shepherd Sacino hit something with 2 knockback left
+Weapons Cache hit something with 2 knockback left
+Weapons Cache took 2 damage
+Jen gained 1 mana for destroying a Weapons Cache
+Weapons Cache hit something with 2 knockback left
+Weapons Cache took 2 damage
+Jen gained 1 mana for destroying a Weapons Cache
+Weapons Cache exploded
+Jen took 1 damage
+Jen took 1 knockback
+Weapons Cache exploded
+Jen hit something with 2 knockback left
+Jen took 2 damage
+Chapel Absolver Roma was defenestrated - from (10, 2) to (10, 2)
+Chapel Shepherd Sacino is no longer Invincible
+Chapel Absolver Roma took 2 damage
+Chapel Absolver Roma passed out
+Chapel Shepherd Sacino shot Jen - from (8, 5) to (10, 9)
+Jen took 1 damage
+Jen passed out
+Jen took 1 knockback
+Jen hit something with 1 knockback left
+Banks used Sedative Cocktail - from (6, 11) to (7, 6)
+Chapel Tracker Waybright is Sedated
+Chapel Shepherd Sacino is Sedated
+Chapel Shepherd Sacino shot Banks - from (8, 5) to (6, 11)
+Banks took 1 damage
+Banks took 1 knockback
+Banks hit something with 1 knockback left
+Banks took 1 damage
+Banks used Sedative Cocktail - from (6, 11) to (7, 5)
+Chapel Tracker Waybright is Sedated
+Chapel Shepherd Sacino is Sedated
+Chapel Shepherd Sacino shot Banks - from (8, 5) to (6, 11)
+Banks took 1 damage
+Banks took 1 knockback
+Banks hit something with 1 knockback left
+Banks took 1 damage
+Jen cast Chain Bolt on Chapel Shepherd Sacino, Chapel Absolver Roma, Chapel Tracker Waybright, Weapons Cache, Weapons Cache, Jen - from (10, 9) to (8, 5)
+Chapel Shepherd Sacino took 3 knockback
+Chapel Absolver Roma took 2 knockback
+Chapel Tracker Waybright took 3 knockback
+Weapons Cache took 2 knockback
+Weapons Cache took 2 knockback
+Jen took 2 knockback
+Chapel Tracker Waybright hit something with 3 knockback left
+Chapel Tracker Waybright took 3 damage
+Chapel Tracker Waybright passed out
+Chapel Shepherd Sacino hit something with 3 knockback left
+Weapons Cache hit something with 2 knockback left
+Weapons Cache took 2 damage
+Jen gained 1 mana for destroying a Weapons Cache
+Weapons Cache hit something with 2 knockback left
+Weapons Cache took 2 damage
+Jen gained 1 mana for destroying a Weapons Cache
+Weapons Cache exploded
+Jen took 1 damage
+Jen took 1 knockback
+Weapons Cache exploded
+Jen hit something with 2 knockback left
+Jen took 2 damage
+Chapel Absolver Roma was defenestrated - from (10, 2) to (10, 2)
+Chapel Shepherd Sacino is no longer Invincible
+Chapel Absolver Roma took 2 damage
+Chapel Absolver Roma passed out
+Banks moved - from (6, 11) to (6, 8)
+Banks used Transference on Chapel Shepherd Sacino - from (6, 11) to (8, 5)
+Jen cast Chain Bolt on Chapel Shepherd Sacino, Chapel Absolver Roma, Chapel Tracker Waybright, Weapons Cache, Weapons Cache, Jen - from (10, 9) to (8, 5)
+Chapel Shepherd Sacino took 3 knockback
+Chapel Absolver Roma took 2 knockback
+Chapel Tracker Waybright took 3 knockback
+Weapons Cache took 2 knockback
+Weapons Cache took 2 knockback
+0 damage and 2 knockback to Jen was transferred to Chapel Shepherd Sacino
+Chapel Shepherd Sacino took 3 knockback
+Chapel Tracker Waybright hit something with 3 knockback left
+Chapel Tracker Waybright took 3 damage
+Chapel Tracker Waybright passed out
+Chapel Shepherd Sacino hit something with 6 knockback left
+Weapons Cache hit something with 2 knockback left
+Weapons Cache took 2 damage
+Jen gained 1 mana for destroying a Weapons Cache
+Weapons Cache hit something with 2 knockback left
+Weapons Cache took 2 damage
+Jen gained 1 mana for destroying a Weapons Cache
+Weapons Cache exploded
+Jen took 1 damage
+Jen took 1 knockback
+Weapons Cache exploded
+Chapel Absolver Roma was defenestrated - from (10, 2) to (10, 2)
+Chapel Shepherd Sacino is no longer Invincible
+Chapel Absolver Roma took 2 damage
+Chapel Absolver Roma passed out
+Jen moved - from (5, 11) to (9, 9)
+Jen cast Chain Bolt on Chapel Shepherd Sacino, Chapel Absolver Roma, Chapel Tracker Waybright - from (9, 9) to (8, 5)
+Jen moved - from (5, 11) to (10, 9)
+Jen sealed a hostile entry point - from (10, 9) to (10, 9)
+Banks used Sedative Cocktail - from (6, 11) to (7, 5)
+Chapel Tracker Waybright is Sedated
+Chapel Shepherd Sacino is Sedated
+Chapel Shepherd Sacino shot Banks - from (8, 5) to (6, 11)
+Banks took 1 damage
+Banks took 1 knockback
+Banks hit something with 1 knockback left
+Banks took 1 damage
+Banks used Sedative Cocktail - from (6, 11) to (7, 4)
+Chapel Shepherd Sacino is Sedated
+Jen cast Chain Bolt on Chapel Shepherd Sacino, Chapel Absolver Roma, Chapel Tracker Waybright, Weapons Cache, Weapons Cache - from (10, 9) to (8, 5)
+Chapel Shepherd Sacino took 3 knockback
+Chapel Absolver Roma took 2 knockback
+Chapel Tracker Waybright took 2 knockback
+Weapons Cache took 2 knockback
+Weapons Cache took 2 knockback
+Chapel Tracker Waybright hit something with 2 knockback left
+Chapel Tracker Waybright took 2 damage
+Chapel Shepherd Sacino hit something with 3 knockback left
+Weapons Cache hit something with 2 knockback left
+Weapons Cache took 2 damage
+Jen gained 1 mana for destroying a Weapons Cache
+Weapons Cache hit something with 2 knockback left
+Weapons Cache took 2 damage
+Jen gained 1 mana for destroying a Weapons Cache
+Weapons Cache exploded
+Jen took 1 damage
+Jen took 1 knockback
+Weapons Cache exploded
+Chapel Absolver Roma was defenestrated - from (10, 2) to (10, 2)
+Chapel Shepherd Sacino is no longer Invincible
+Chapel Absolver Roma took 2 damage
+Chapel Absolver Roma passed out
+Banks moved - from (6, 11) to (3, 8)
+Chapel Tracker Waybright shot Jen - from (6, 6) to (10, 8)
+Jen took 2 damage
+Traffic Warlock used Crush Hour - from (-2, 4) to (-1, 4)
+Chapel Shepherd Sacino armour blocked 1 damage
+Chapel Shepherd Sacino took 1 damage
+Chapel Shepherd Sacino took 2 knockback
+Chapel Shepherd Sacino hit something with 1 knockback left
+Chapel Shepherd Sacino took 1 damage
+Chapel Shepherd Sacino took 1 damage
+Player ended their turn, starting enemy turn 1
+Chapel Riot Priest Blacksoil moved - from (8, 2) to (8, 4)
+Traffic Warlock moved - from (-2, 4) to (-3, 4)
+End of enemy turn 1
+ 
+Start of player turn 2
+Jen cast Chain Bolt on Chapel Tracker Waybright, Traffic Warlock, Chapel Shepherd Sacino, Chapel Riot Priest Blacksoil, Chapel Tracker Fox, Weapons Cache - from (10, 8) to (6, 6)
+Chapel Tracker Waybright took 2 knockback
+Traffic Warlock took 2 knockback
+Chapel Shepherd Sacino took 3 knockback
+Chapel Riot Priest Blacksoil stability prevented 1 knockback
+Chapel Riot Priest Blacksoil took 1 knockback
+Chapel Tracker Fox took 2 knockback
+Weapons Cache took 2 knockback
+Chapel Shepherd Sacino hit something with 3 knockback left
+Chapel Shepherd Sacino took 3 damage
+Chapel Shepherd Sacino passed out
+Traffic Warlock hit something with 2 knockback left
+Traffic Warlock took 2 damage
+Chapel Riot Priest Blacksoil hit something with 1 knockback left
+Chapel Riot Priest Blacksoil took 1 damage
+Weapons Cache hit something with 2 knockback left
+Weapons Cache took 2 damage
+Jen gained 1 mana for destroying a Weapons Cache
+Weapons Cache exploded
+Chapel Tracker Waybright hit something with 1 knockback left
+Chapel Tracker Waybright took 1 damage
+Chapel Tracker Waybright passed out
+Jen moved - from (10, 8) to (9, 5)
+Jen cast Static Blast on Chapel Riot Priest Blacksoil - from (9, 5) to (8, 4)
+Chapel Riot Priest Blacksoil stability prevented 1 knockback
+Chapel Riot Priest Blacksoil took 3 knockback
+Chapel Riot Priest Blacksoil hit something with 3 knockback left
+Chapel Riot Priest Blacksoil took 3 damage
+Chapel Riot Priest Blacksoil is no longer Gasmasked
+Jen used Grab Intel - from (9, 5) to (10, 5)
+Jen moved - from (9, 5) to (8, 2)
+Jen sealed a hostile entry point - from (8, 2) to (8, 2)
+Banks used Transference on Chapel Riot Priest Blacksoil - from (3, 8) to (8, 4)
+Banks moved - from (3, 8) to (4, 6)
+Banks used Grab Intel - from (4, 6) to (4, 7)
+Banks used Sedative Cocktail on Chapel Tracker Fox - from (4, 6) to (1, 3)
+Chapel Tracker Fox took 1 knockback
+Chapel Tracker Fox is Sedated
+Chapel Tracker Fox hit something with 1 knockback left
+Chapel Tracker Fox took 1 damage
+Banks took cover - from (4, 6) to (4, 6)
+Chapel Riot Priest Blacksoil slammed Jen - from (8, 3) to (8, 2)
+3 damage and 1 knockback to Jen was transferred to Chapel Riot Priest Blacksoil
+Chapel Riot Priest Blacksoil armour blocked 1 damage
+Chapel Riot Priest Blacksoil took 2 damage
+Chapel Riot Priest Blacksoil stability prevented 1 knockback
+Traffic Warlock used Crush Hour - from (-3, 4) to (-2, 4)
+Chapel Tracker Fox took 2 damage
+Chapel Tracker Fox passed out
+Chapel Tracker Fox took 2 knockback
+Chapel Riot Priest Blacksoil armour blocked 1 damage
+Chapel Riot Priest Blacksoil took 1 damage
+Chapel Riot Priest Blacksoil stability prevented 1 knockback
+Player ended their turn, starting enemy turn 2
+Chapel Cleanser Coldstar took cover - from (3, 2) to (3, 2)
+End of enemy turn 2
+ 
+Start of player turn 3
+Banks moved - from (4, 6) to (2, 2)
+Banks used Sedative Cocktail on Chapel Cleanser Coldstar - from (4, 6) to (3, 2)
+Chapel Cleanser Coldstar took 1 knockback
+Chapel Cleanser Coldstar is Sedated
+Chapel Cleanser Coldstar hit something with 1 knockback left
+Chapel Cleanser Coldstar took 1 damage
+Jen moved - from (8, 2) to (4, 3)
+Jen cast Static Blast on Chapel Cleanser Coldstar - from (4, 3) to (3, 2)
+Chapel Cleanser Coldstar took 5 knockback
+Chapel Cleanser Coldstar hit something with 5 knockback left
+Chapel Cleanser Coldstar took 5 damage
+Chapel Cleanser Coldstar passed out
+Jen moved - from (4, 3) to (2, 2)
+Jen sealed a hostile entry point - from (2, 2) to (2, 2)
+Banks moved - from (4, 6) to (1, 7)
+Traffic Warlock used Crush Hour - from (-3, 4) to (-2, 4)
+Chapel Riot Priest Blacksoil armour blocked 1 damage
+Chapel Riot Priest Blacksoil took 1 damage
+Chapel Riot Priest Blacksoil passed out
+Chapel Riot Priest Blacksoil stability prevented 1 knockback

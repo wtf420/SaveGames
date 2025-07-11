@@ -1,0 +1,1145 @@
+15:22:29:436 (00016288) > [Startup] Deus Ex: Mankind Divided
+15:22:29:436 (00016288) > [Startup] ==============
+15:22:29:437 (00016288) > [Startup] 
+15:22:29:437 (00016288) > [Startup] Build: v1.19 build 801.0
+15:22:29:437 (00016288) > [Startup] Windows 10 Home Single Language (build 19045) (version 2009)
+15:22:29:437 (00016288) > [Startup] Game directory: C:\Users\tgsjo\Documents\Deus Ex -  Mankind Divided\
+15:22:29:437 (00016288) > [Startup] 
+15:22:29:437 (00016288) > [Startup] Memory statistics:
+15:22:29:437 (00016288) > [Startup]   Total RAM = 15.8 GB (16215 MB)
+15:22:29:437 (00016288) > [Startup]   Avail RAM = 9.4 GB (9655 MB)
+15:22:29:437 (00016288) > [Startup]   Total virtual memory = 131072.0 GB (134217727 MB)
+15:22:29:437 (00016288) > [Startup]   Avail virtual memory = 130555.3 GB (133688617 MB)
+15:22:29:437 (00016288) > [Startup] 
+15:22:29:437 (00016288) > [NxApp] PreInit
+15:22:29:437 (00016288) > [Steam] Initializing.
+15:22:44:838 (00016288) > [Steam] Successfully initialized.
+15:22:44:838 (00016288) > [SwapChain] Initializing...
+15:22:44:838 (00016288) > [DXGI] Initializing...
+15:22:44:841 (00016288) > [DXGI] Successfully initialized.
+15:22:44:841 (00016288) > [Render] Enumerating adapters:
+15:22:44:841 (00016288) > [Render] 	Adapter 0:
+15:22:44:841 (00016288) > [Monitor] 		Description             : NVIDIA GeForce GTX 1650 Ti
+15:22:44:841 (00016288) > [Monitor] 		Vendor                  : nVidia (10de)
+15:22:44:841 (00016288) > [Monitor] 		Device                  : 1f95
+15:22:44:841 (00016288) > [Monitor] 		Sub system              : 143e1025
+15:22:44:841 (00016288) > [Monitor] 		Revision                : 161
+15:22:44:841 (00016288) > [Monitor] 		Dedicated Video Memory  : 3950 MB
+15:22:44:841 (00016288) > [Monitor] 		Dedicated System Memory : 0000 MB
+15:22:44:841 (00016288) > [Monitor] 		Shared System Memory    : 8107 MB
+15:22:44:841 (00016288) > [Monitor] 
+15:22:44:841 (00016288) > [Render] Loading NVAPI...
+15:22:44:846 (00016288) > [Render] NVidia 3D Vision NvAPI_Stereo_IsEnabled error.
+15:22:44:846 (00016288) > [Render] Done loading NVAPI
+15:22:44:846 (00016288) > [Render] 	Adapter 1:
+15:22:44:846 (00016288) > [Monitor] 		Description             : Intel(R) UHD Graphics
+15:22:44:846 (00016288) > [Monitor] 		Vendor                  : Intel (8086)
+15:22:44:846 (00016288) > [Monitor] 		Device                  : 9bc4
+15:22:44:846 (00016288) > [Monitor] 		Sub system              : 143d1025
+15:22:44:846 (00016288) > [Monitor] 		Revision                : 5
+15:22:44:846 (00016288) > [Monitor] 		Dedicated Video Memory  : 0128 MB
+15:22:44:846 (00016288) > [Monitor] 		Dedicated System Memory : 0000 MB
+15:22:44:846 (00016288) > [Monitor] 		Shared System Memory    : 8107 MB
+15:22:44:846 (00016288) > [Monitor] 
+15:22:44:846 (00016288) > [Render] 	Adapter 2:
+15:22:44:846 (00016288) > [Monitor] 		Description             : Microsoft Basic Render Driver
+15:22:44:846 (00016288) > [Monitor] 		Vendor                  : Unknown (1414)
+15:22:44:846 (00016288) > [Monitor] 		Device                  : 8c
+15:22:44:846 (00016288) > [Monitor] 		Sub system              : 0
+15:22:44:846 (00016288) > [Monitor] 		Revision                : 0
+15:22:44:846 (00016288) > [Monitor] 		Dedicated Video Memory  : 0000 MB
+15:22:44:846 (00016288) > [Monitor] 		Dedicated System Memory : 0000 MB
+15:22:44:846 (00016288) > [Monitor] 		Shared System Memory    : 8107 MB
+15:22:44:846 (00016288) > [Monitor] 
+15:22:44:846 (00016288) > [Render] Enumerating monitors:
+15:22:44:846 (00016288) > [Render] 	Monitor 0: handle = 0000000000010001, aspect = 1.78
+15:22:44:846 (00016288) > [Render] 
+15:22:45:153 (00016288) > [Render] NVidia 3D Vision NvAPI_Stereo_SetDriverMode error.
+15:22:45:153 (00016288) > [Render] NVidia 3D Vision is not enabled.
+15:22:45:153 (00016288) > [Render] Enumerating Display Modes:
+15:22:45:154 (00016288) > [Render] Querying NVAPI for Surround modes
+15:22:45:157 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:158 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:159 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:161 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:162 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:164 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:165 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:167 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:168 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:170 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:171 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:173 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:174 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:175 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:177 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:178 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:180 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:181 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:183 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:184 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:186 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:187 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:189 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:190 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:192 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:193 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:195 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:196 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:198 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:199 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:201 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:202 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:203 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:205 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:206 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:208 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:209 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:210 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:212 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:214 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:215 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:216 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:218 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:220 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:221 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:223 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:224 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:226 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:227 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:229 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:230 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:232 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:233 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:235 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:237 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:238 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:240 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:241 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:243 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:244 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:246 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:247 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:248 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:250 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:251 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:253 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:254 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:255 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:257 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:258 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:260 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:261 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:263 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:264 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:265 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:267 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:268 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:270 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:271 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:272 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:274 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:275 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:277 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:278 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:279 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:281 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:282 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:284 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:285 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:287 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:288 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:289 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:291 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:292 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:294 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:295 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:297 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:298 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:299 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:301 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:302 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:304 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:305 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:307 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:308 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:309 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:311 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:312 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:314 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:315 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:316 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:318 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:319 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:321 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:322 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:324 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:325 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:327 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:328 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:329 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:331 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:332 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:334 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:335 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:337 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:338 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:340 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:341 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:342 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:344 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:345 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:347 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:348 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:349 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:351 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:353 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:354 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:356 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:357 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:358 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:360 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:361 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:363 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:364 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:365 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:367 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:368 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:370 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:372 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:373 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:375 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:376 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:378 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:379 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:380 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:382 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:383 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:385 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:386 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:388 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:389 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:390 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:392 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:393 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:395 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:396 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:397 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:399 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:400 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:402 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:403 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:404 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:406 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:407 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:409 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:410 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:411 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:413 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:414 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:416 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:417 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:419 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:420 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:421 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:423 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:424 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:426 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:427 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:428 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:430 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:431 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:432 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:434 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:435 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:437 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:438 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:439 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:441 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:442 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:444 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:445 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:446 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:448 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:449 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:451 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:452 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:454 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:455 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:457 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:458 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:460 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:461 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:463 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:464 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:466 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:467 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:469 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:470 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:471 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:473 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:474 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:475 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:477 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:478 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:480 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:481 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:482 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:484 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:485 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:487 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:488 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:490 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:491 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:493 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:494 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:495 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:497 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:498 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:500 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:501 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:503 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:505 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:506 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:507 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:509 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:510 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:512 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:513 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:515 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:516 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:518 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:519 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:521 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:522 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:524 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:525 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:527 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:529 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:530 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:531 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:533 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:534 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:536 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:537 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:539 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:540 (00016288) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() failed
+15:22:45:540 (00016288) > [Render] 	Monitor 'Display 1 (NVIDIA GeForce GTX 1650 Ti(1))' (0000000000010001):
+15:22:45:540 (00016288) > [Render] 		- Mode  0 :  800 x  600 @  75 Hz, stereo = 0
+15:22:45:540 (00016288) > [Render] 		- Mode  1 :  800 x  600 @ 100 Hz, stereo = 0
+15:22:45:540 (00016288) > [Render] 		- Mode  2 :  800 x  600 @ 100 Hz, stereo = 0
+15:22:45:540 (00016288) > [Render] 		- Mode  3 :  800 x  600 @ 120 Hz, stereo = 0
+15:22:45:540 (00016288) > [Render] 		- Mode  4 :  800 x  600 @ 120 Hz, stereo = 0
+15:22:45:540 (00016288) > [Render] 		- Mode  5 :  800 x  600 @ 165 Hz, stereo = 0
+15:22:45:540 (00016288) > [Render] 		- Mode  6 :  800 x  600 @ 165 Hz, stereo = 0
+15:22:45:540 (00016288) > [Render] 		- Mode  7 :  800 x  600 @  56 Hz, stereo = 0
+15:22:45:540 (00016288) > [Render] 		- Mode  8 :  800 x  600 @  60 Hz, stereo = 0
+15:22:45:540 (00016288) > [Render] 		- Mode  9 :  800 x  600 @  72 Hz, stereo = 0
+15:22:45:540 (00016288) > [Render] 		- Mode 10 :  800 x  600 @ 120 Hz, stereo = 0
+15:22:45:540 (00016288) > [Render] 		- Mode 11 :  800 x  600 @ 120 Hz, stereo = 0
+15:22:45:540 (00016288) > [Render] 		- Mode 12 :  800 x  600 @ 144 Hz, stereo = 0
+15:22:45:540 (00016288) > [Render] 		- Mode 13 :  800 x  600 @ 144 Hz, stereo = 0
+15:22:45:540 (00016288) > [Render] 		- Mode 14 :  800 x  600 @ 180 Hz, stereo = 0
+15:22:45:540 (00016288) > [Render] 		- Mode 15 :  800 x  600 @ 180 Hz, stereo = 0
+15:22:45:540 (00016288) > [Render] 		- Mode 16 : 1024 x  768 @ 100 Hz, stereo = 0
+15:22:45:540 (00016288) > [Render] 		- Mode 17 : 1024 x  768 @ 100 Hz, stereo = 0
+15:22:45:540 (00016288) > [Render] 		- Mode 18 : 1024 x  768 @ 120 Hz, stereo = 0
+15:22:45:540 (00016288) > [Render] 		- Mode 19 : 1024 x  768 @ 120 Hz, stereo = 0
+15:22:45:540 (00016288) > [Render] 		- Mode 20 : 1024 x  768 @ 165 Hz, stereo = 0
+15:22:45:540 (00016288) > [Render] 		- Mode 21 : 1024 x  768 @ 165 Hz, stereo = 0
+15:22:45:540 (00016288) > [Render] 		- Mode 22 : 1024 x  768 @  60 Hz, stereo = 0
+15:22:45:540 (00016288) > [Render] 		- Mode 23 : 1024 x  768 @  70 Hz, stereo = 0
+15:22:45:540 (00016288) > [Render] 		- Mode 24 : 1024 x  768 @  75 Hz, stereo = 0
+15:22:45:540 (00016288) > [Render] 		- Mode 25 : 1024 x  768 @ 120 Hz, stereo = 0
+15:22:45:540 (00016288) > [Render] 		- Mode 26 : 1024 x  768 @ 120 Hz, stereo = 0
+15:22:45:540 (00016288) > [Render] 		- Mode 27 : 1024 x  768 @ 144 Hz, stereo = 0
+15:22:45:540 (00016288) > [Render] 		- Mode 28 : 1024 x  768 @ 144 Hz, stereo = 0
+15:22:45:540 (00016288) > [Render] 		- Mode 29 : 1024 x  768 @ 180 Hz, stereo = 0
+15:22:45:540 (00016288) > [Render] 		- Mode 30 : 1024 x  768 @ 180 Hz, stereo = 0
+15:22:45:540 (00016288) > [Render] 		- Mode 31 : 1152 x  864 @  75 Hz, stereo = 0
+15:22:45:540 (00016288) > [Render] 		- Mode 32 : 1152 x  864 @ 100 Hz, stereo = 0
+15:22:45:540 (00016288) > [Render] 		- Mode 33 : 1152 x  864 @ 100 Hz, stereo = 0
+15:22:45:540 (00016288) > [Render] 		- Mode 34 : 1152 x  864 @ 120 Hz, stereo = 0
+15:22:45:540 (00016288) > [Render] 		- Mode 35 : 1152 x  864 @ 120 Hz, stereo = 0
+15:22:45:540 (00016288) > [Render] 		- Mode 36 : 1152 x  864 @ 165 Hz, stereo = 0
+15:22:45:540 (00016288) > [Render] 		- Mode 37 : 1152 x  864 @ 165 Hz, stereo = 0
+15:22:45:540 (00016288) > [Render] 		- Mode 38 : 1152 x  864 @ 120 Hz, stereo = 0
+15:22:45:540 (00016288) > [Render] 		- Mode 39 : 1152 x  864 @ 120 Hz, stereo = 0
+15:22:45:540 (00016288) > [Render] 		- Mode 40 : 1152 x  864 @ 144 Hz, stereo = 0
+15:22:45:540 (00016288) > [Render] 		- Mode 41 : 1152 x  864 @ 144 Hz, stereo = 0
+15:22:45:540 (00016288) > [Render] 		- Mode 42 : 1152 x  864 @ 180 Hz, stereo = 0
+15:22:45:540 (00016288) > [Render] 		- Mode 43 : 1152 x  864 @ 180 Hz, stereo = 0
+15:22:45:540 (00016288) > [Render] 		- Mode 44 : 1280 x  720 @  50 Hz, stereo = 0
+15:22:45:540 (00016288) > [Render] 		- Mode 45 : 1280 x  720 @  60 Hz, stereo = 0
+15:22:45:540 (00016288) > [Render] 		- Mode 46 : 1280 x  720 @ 100 Hz, stereo = 0
+15:22:45:540 (00016288) > [Render] 		- Mode 47 : 1280 x  720 @ 120 Hz, stereo = 0
+15:22:45:540 (00016288) > [Render] 		- Mode 48 : 1280 x  720 @ 120 Hz, stereo = 0
+15:22:45:540 (00016288) > [Render] 		- Mode 49 : 1280 x  720 @ 165 Hz, stereo = 0
+15:22:45:540 (00016288) > [Render] 		- Mode 50 : 1280 x  720 @ 165 Hz, stereo = 0
+15:22:45:540 (00016288) > [Render] 		- Mode 51 : 1280 x  720 @  60 Hz, stereo = 0
+15:22:45:540 (00016288) > [Render] 		- Mode 52 : 1280 x  720 @ 120 Hz, stereo = 0
+15:22:45:540 (00016288) > [Render] 		- Mode 53 : 1280 x  720 @ 120 Hz, stereo = 0
+15:22:45:540 (00016288) > [Render] 		- Mode 54 : 1280 x  720 @ 144 Hz, stereo = 0
+15:22:45:540 (00016288) > [Render] 		- Mode 55 : 1280 x  720 @ 144 Hz, stereo = 0
+15:22:45:540 (00016288) > [Render] 		- Mode 56 : 1280 x  720 @ 180 Hz, stereo = 0
+15:22:45:540 (00016288) > [Render] 		- Mode 57 : 1280 x  720 @ 180 Hz, stereo = 0
+15:22:45:540 (00016288) > [Render] 		- Mode 58 : 1280 x  768 @ 100 Hz, stereo = 0
+15:22:45:540 (00016288) > [Render] 		- Mode 59 : 1280 x  768 @ 100 Hz, stereo = 0
+15:22:45:540 (00016288) > [Render] 		- Mode 60 : 1280 x  768 @ 120 Hz, stereo = 0
+15:22:45:540 (00016288) > [Render] 		- Mode 61 : 1280 x  768 @ 120 Hz, stereo = 0
+15:22:45:540 (00016288) > [Render] 		- Mode 62 : 1280 x  768 @ 165 Hz, stereo = 0
+15:22:45:540 (00016288) > [Render] 		- Mode 63 : 1280 x  768 @ 165 Hz, stereo = 0
+15:22:45:540 (00016288) > [Render] 		- Mode 64 : 1280 x  768 @  60 Hz, stereo = 0
+15:22:45:540 (00016288) > [Render] 		- Mode 65 : 1280 x  768 @  60 Hz, stereo = 0
+15:22:45:540 (00016288) > [Render] 		- Mode 66 : 1280 x  768 @ 120 Hz, stereo = 0
+15:22:45:540 (00016288) > [Render] 		- Mode 67 : 1280 x  768 @ 120 Hz, stereo = 0
+15:22:45:540 (00016288) > [Render] 		- Mode 68 : 1280 x  768 @ 144 Hz, stereo = 0
+15:22:45:540 (00016288) > [Render] 		- Mode 69 : 1280 x  768 @ 144 Hz, stereo = 0
+15:22:45:540 (00016288) > [Render] 		- Mode 70 : 1280 x  768 @ 180 Hz, stereo = 0
+15:22:45:540 (00016288) > [Render] 		- Mode 71 : 1280 x  768 @ 180 Hz, stereo = 0
+15:22:45:540 (00016288) > [Render] 		- Mode 72 : 1280 x  800 @ 100 Hz, stereo = 0
+15:22:45:540 (00016288) > [Render] 		- Mode 73 : 1280 x  800 @ 100 Hz, stereo = 0
+15:22:45:540 (00016288) > [Render] 		- Mode 74 : 1280 x  800 @ 120 Hz, stereo = 0
+15:22:45:540 (00016288) > [Render] 		- Mode 75 : 1280 x  800 @ 120 Hz, stereo = 0
+15:22:45:540 (00016288) > [Render] 		- Mode 76 : 1280 x  800 @ 165 Hz, stereo = 0
+15:22:45:540 (00016288) > [Render] 		- Mode 77 : 1280 x  800 @ 165 Hz, stereo = 0
+15:22:45:540 (00016288) > [Render] 		- Mode 78 : 1280 x  800 @  60 Hz, stereo = 0
+15:22:45:540 (00016288) > [Render] 		- Mode 79 : 1280 x  800 @ 120 Hz, stereo = 0
+15:22:45:540 (00016288) > [Render] 		- Mode 80 : 1280 x  800 @ 120 Hz, stereo = 0
+15:22:45:540 (00016288) > [Render] 		- Mode 81 : 1280 x  800 @ 144 Hz, stereo = 0
+15:22:45:540 (00016288) > [Render] 		- Mode 82 : 1280 x  800 @ 144 Hz, stereo = 0
+15:22:45:540 (00016288) > [Render] 		- Mode 83 : 1280 x  800 @ 180 Hz, stereo = 0
+15:22:45:540 (00016288) > [Render] 		- Mode 84 : 1280 x  800 @ 180 Hz, stereo = 0
+15:22:45:540 (00016288) > [Render] 		- Mode 85 : 1280 x  960 @  60 Hz, stereo = 0
+15:22:45:540 (00016288) > [Render] 		- Mode 86 : 1280 x  960 @ 100 Hz, stereo = 0
+15:22:45:540 (00016288) > [Render] 		- Mode 87 : 1280 x  960 @ 100 Hz, stereo = 0
+15:22:45:540 (00016288) > [Render] 		- Mode 88 : 1280 x  960 @ 120 Hz, stereo = 0
+15:22:45:540 (00016288) > [Render] 		- Mode 89 : 1280 x  960 @ 120 Hz, stereo = 0
+15:22:45:540 (00016288) > [Render] 		- Mode 90 : 1280 x  960 @ 165 Hz, stereo = 0
+15:22:45:540 (00016288) > [Render] 		- Mode 91 : 1280 x  960 @ 165 Hz, stereo = 0
+15:22:45:540 (00016288) > [Render] 		- Mode 92 : 1280 x  960 @ 120 Hz, stereo = 0
+15:22:45:540 (00016288) > [Render] 		- Mode 93 : 1280 x  960 @ 120 Hz, stereo = 0
+15:22:45:540 (00016288) > [Render] 		- Mode 94 : 1280 x  960 @ 144 Hz, stereo = 0
+15:22:45:540 (00016288) > [Render] 		- Mode 95 : 1280 x  960 @ 144 Hz, stereo = 0
+15:22:45:540 (00016288) > [Render] 		- Mode 96 : 1280 x  960 @ 180 Hz, stereo = 0
+15:22:45:540 (00016288) > [Render] 		- Mode 97 : 1280 x  960 @ 180 Hz, stereo = 0
+15:22:45:540 (00016288) > [Render] 		- Mode 98 : 1280 x 1024 @ 100 Hz, stereo = 0
+15:22:45:540 (00016288) > [Render] 		- Mode 99 : 1280 x 1024 @ 100 Hz, stereo = 0
+15:22:45:540 (00016288) > [Render] 		- Mode 100 : 1280 x 1024 @ 120 Hz, stereo = 0
+15:22:45:540 (00016288) > [Render] 		- Mode 101 : 1280 x 1024 @ 120 Hz, stereo = 0
+15:22:45:540 (00016288) > [Render] 		- Mode 102 : 1280 x 1024 @ 165 Hz, stereo = 0
+15:22:45:540 (00016288) > [Render] 		- Mode 103 : 1280 x 1024 @ 165 Hz, stereo = 0
+15:22:45:540 (00016288) > [Render] 		- Mode 104 : 1280 x 1024 @  60 Hz, stereo = 0
+15:22:45:540 (00016288) > [Render] 		- Mode 105 : 1280 x 1024 @  75 Hz, stereo = 0
+15:22:45:540 (00016288) > [Render] 		- Mode 106 : 1280 x 1024 @ 120 Hz, stereo = 0
+15:22:45:540 (00016288) > [Render] 		- Mode 107 : 1280 x 1024 @ 120 Hz, stereo = 0
+15:22:45:540 (00016288) > [Render] 		- Mode 108 : 1280 x 1024 @ 144 Hz, stereo = 0
+15:22:45:540 (00016288) > [Render] 		- Mode 109 : 1280 x 1024 @ 144 Hz, stereo = 0
+15:22:45:540 (00016288) > [Render] 		- Mode 110 : 1280 x 1024 @ 180 Hz, stereo = 0
+15:22:45:540 (00016288) > [Render] 		- Mode 111 : 1280 x 1024 @ 180 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 112 : 1360 x  768 @ 100 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 113 : 1360 x  768 @ 100 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 114 : 1360 x  768 @ 120 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 115 : 1360 x  768 @ 120 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 116 : 1360 x  768 @ 165 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 117 : 1360 x  768 @ 165 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 118 : 1360 x  768 @  60 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 119 : 1360 x  768 @  60 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 120 : 1360 x  768 @ 120 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 121 : 1360 x  768 @ 120 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 122 : 1360 x  768 @ 144 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 123 : 1360 x  768 @ 144 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 124 : 1360 x  768 @ 180 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 125 : 1360 x  768 @ 180 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 126 : 1366 x  768 @ 100 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 127 : 1366 x  768 @ 100 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 128 : 1366 x  768 @ 120 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 129 : 1366 x  768 @ 120 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 130 : 1366 x  768 @ 165 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 131 : 1366 x  768 @ 165 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 132 : 1366 x  768 @  60 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 133 : 1366 x  768 @  60 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 134 : 1366 x  768 @ 120 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 135 : 1366 x  768 @ 120 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 136 : 1366 x  768 @ 144 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 137 : 1366 x  768 @ 144 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 138 : 1366 x  768 @ 180 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 139 : 1366 x  768 @ 180 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 140 : 1400 x 1050 @ 100 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 141 : 1400 x 1050 @ 100 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 142 : 1400 x 1050 @ 120 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 143 : 1400 x 1050 @ 120 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 144 : 1400 x 1050 @ 165 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 145 : 1400 x 1050 @ 165 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 146 : 1400 x 1050 @  60 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 147 : 1400 x 1050 @  60 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 148 : 1400 x 1050 @ 120 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 149 : 1400 x 1050 @ 120 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 150 : 1400 x 1050 @ 144 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 151 : 1400 x 1050 @ 144 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 152 : 1400 x 1050 @ 180 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 153 : 1400 x 1050 @ 180 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 154 : 1440 x  900 @ 100 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 155 : 1440 x  900 @ 100 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 156 : 1440 x  900 @ 120 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 157 : 1440 x  900 @ 120 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 158 : 1440 x  900 @ 165 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 159 : 1440 x  900 @ 165 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 160 : 1440 x  900 @  60 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 161 : 1440 x  900 @ 120 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 162 : 1440 x  900 @ 120 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 163 : 1440 x  900 @ 144 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 164 : 1440 x  900 @ 144 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 165 : 1440 x  900 @ 180 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 166 : 1440 x  900 @ 180 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 167 : 1440 x 1080 @  24 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 168 : 1440 x 1080 @  24 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 169 : 1440 x 1080 @  50 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 170 : 1440 x 1080 @  50 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 171 : 1440 x 1080 @  60 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 172 : 1440 x 1080 @  60 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 173 : 1440 x 1080 @ 100 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 174 : 1440 x 1080 @ 100 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 175 : 1440 x 1080 @ 120 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 176 : 1440 x 1080 @ 120 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 177 : 1440 x 1080 @ 165 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 178 : 1440 x 1080 @ 165 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 179 : 1440 x 1080 @  24 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 180 : 1440 x 1080 @  24 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 181 : 1440 x 1080 @  60 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 182 : 1440 x 1080 @  60 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 183 : 1440 x 1080 @ 120 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 184 : 1440 x 1080 @ 120 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 185 : 1440 x 1080 @ 144 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 186 : 1440 x 1080 @ 144 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 187 : 1440 x 1080 @ 180 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 188 : 1440 x 1080 @ 180 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 189 : 1600 x  900 @  60 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 190 : 1600 x  900 @ 100 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 191 : 1600 x  900 @ 100 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 192 : 1600 x  900 @ 120 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 193 : 1600 x  900 @ 120 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 194 : 1600 x  900 @ 165 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 195 : 1600 x  900 @ 165 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 196 : 1600 x  900 @ 120 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 197 : 1600 x  900 @ 120 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 198 : 1600 x  900 @ 144 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 199 : 1600 x  900 @ 144 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 200 : 1600 x  900 @ 180 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 201 : 1600 x  900 @ 180 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 202 : 1600 x 1024 @ 100 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 203 : 1600 x 1024 @ 100 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 204 : 1600 x 1024 @ 120 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 205 : 1600 x 1024 @ 120 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 206 : 1600 x 1024 @ 165 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 207 : 1600 x 1024 @ 165 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 208 : 1600 x 1024 @  60 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 209 : 1600 x 1024 @  60 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 210 : 1600 x 1024 @ 120 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 211 : 1600 x 1024 @ 120 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 212 : 1600 x 1024 @ 144 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 213 : 1600 x 1024 @ 144 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 214 : 1600 x 1024 @ 180 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 215 : 1600 x 1024 @ 180 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 216 : 1600 x 1200 @  60 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 217 : 1600 x 1200 @  60 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 218 : 1600 x 1200 @  60 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 219 : 1600 x 1200 @  60 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 220 : 1680 x 1050 @ 100 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 221 : 1680 x 1050 @ 100 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 222 : 1680 x 1050 @ 120 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 223 : 1680 x 1050 @ 120 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 224 : 1680 x 1050 @ 165 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 225 : 1680 x 1050 @ 165 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 226 : 1680 x 1050 @  60 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 227 : 1680 x 1050 @ 120 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 228 : 1680 x 1050 @ 120 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 229 : 1680 x 1050 @ 144 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 230 : 1680 x 1050 @ 144 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 231 : 1680 x 1050 @ 180 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 232 : 1680 x 1050 @ 180 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 233 : 1920 x 1080 @  24 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 234 : 1920 x 1080 @  50 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 235 : 1920 x 1080 @  60 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 236 : 1920 x 1080 @ 100 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 237 : 1920 x 1080 @ 120 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 238 : 1920 x 1080 @ 165 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 239 : 1920 x 1080 @  24 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 240 : 1920 x 1080 @  60 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 241 : 1920 x 1080 @ 120 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 242 : 1920 x 1080 @ 144 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 243 : 1920 x 1080 @ 180 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 244 : 1920 x 1200 @  60 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 245 : 1920 x 1200 @  60 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 246 : 1920 x 1200 @  60 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 247 : 1920 x 1200 @  60 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 248 : 1920 x 1440 @  60 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 249 : 1920 x 1440 @  60 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 250 : 1920 x 1440 @  60 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 251 : 1920 x 1440 @  60 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 252 : 2048 x 1536 @  60 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 253 : 2048 x 1536 @  60 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 254 : 2048 x 1536 @  60 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 255 : 2048 x 1536 @  60 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 256 : 2560 x 1440 @  60 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 257 : 2560 x 1440 @  60 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 258 : 2560 x 1440 @  60 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 259 : 2560 x 1440 @  60 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 260 : 2560 x 1600 @  60 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 261 : 2560 x 1600 @  60 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 262 : 2560 x 1600 @  60 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 263 : 2560 x 1600 @  60 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 264 : 3840 x 2160 @  60 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 		- Mode 265 : 3840 x 2160 @  60 Hz, stereo = 0
+15:22:45:541 (00016288) > [Render] 
+15:22:45:541 (00016288) > [SwapChain] Successfully initialized.
+15:22:45:541 (00016288) > [NxApp] PreInit successful.
+15:22:45:788 (00016288) > [Render] Nvidia Modified W support detected
+15:22:46:147 (00016288) > [Render] Nvidia Modified W support detected
+15:22:46:147 (00016288) > [Validate Settings] Desktop settings (Resolution: 1920 x 1080, Multi-monitor: off, Bezel correction: off)
+15:22:46:147 (00016288) > [Launcher] Enabled
+15:22:51:484 (00016288) > [Render] Nvidia Modified W support detected
+15:22:51:484 (00016288) > [Validate Settings] Desktop settings (Resolution: 1920 x 1080, Multi-monitor: off, Bezel correction: off)
+15:22:51:506 (00016288) > [Render] Nvidia Modified W support detected
+15:22:51:506 (00016288) > [Validate Settings] Desktop settings (Resolution: 1920 x 1080, Multi-monitor: off, Bezel correction: off)
+15:22:51:565 (00016288) > [Render] Nvidia Modified W support detected
+15:22:51:565 (00016288) > [Validate Settings] Desktop settings (Resolution: 1920 x 1080, Multi-monitor: off, Bezel correction: off)
+15:22:51:565 (00016288) > [Render] Nvidia Modified W support detected
+15:22:51:565 (00016288) > [Validate Settings] Desktop settings (Resolution: 1920 x 1080, Multi-monitor: off, Bezel correction: off)
+15:22:51:565 (00016288) > [Render] Nvidia Modified W support detected
+15:22:51:565 (00016288) > [Validate Settings] Desktop settings (Resolution: 1920 x 1080, Multi-monitor: off, Bezel correction: off)
+15:22:57:571 (00016288) > [Render] Nvidia Modified W support detected
+15:22:57:571 (00016288) > [Validate Settings] Desktop settings (Resolution: 1920 x 1080, Multi-monitor: off, Bezel correction: off)
+15:23:13:055 (00016288) > [Render] Nvidia Modified W support detected
+15:23:13:055 (00016288) > [Validate Settings] The requested display mode (ResX:1920 ResY:1080 Hz:6516345 3D:0) was not available, finding the best alternative... 
+15:23:13:055 (00016288) > [Validate Settings] Attempting to find a display mode with a different refresh rate...
+15:23:13:055 (00016288) > [Validate Settings] Changed display mode. (ResX:1920 ResY:1080 Hz:180 3D:0)
+15:23:13:055 (00016288) > [Validate Settings] Desktop settings (Resolution: 1920 x 1080, Multi-monitor: off, Bezel correction: off)
+15:23:13:055 (00016288) > [Validate Settings] DX12 Async Compute Disabled.
+15:23:13:066 (00016288) > [Render] Nvidia Modified W support detected
+15:23:13:067 (00016288) > [Validate Settings] Desktop settings (Resolution: 1920 x 1080, Multi-monitor: off, Bezel correction: off)
+15:23:13:067 (00016288) > [Validate Settings] DX12 Async Compute Disabled.
+15:23:13:100 (00016288) > [Render] Nvidia Modified W support detected
+15:23:13:100 (00016288) > [Validate Settings] Desktop settings (Resolution: 1920 x 1080, Multi-monitor: off, Bezel correction: off)
+15:23:13:100 (00016288) > [Render] Nvidia Modified W support detected
+15:23:13:100 (00016288) > [Validate Settings] Desktop settings (Resolution: 1920 x 1080, Multi-monitor: off, Bezel correction: off)
+15:23:55:997 (00016288) > [Launcher] Result 00000002
+15:23:55:997 (00016288) > [Render] Nvidia Modified W support detected
+15:23:55:997 (00016288) > [Validate Settings] Desktop settings (Resolution: 1920 x 1080, Multi-monitor: off, Bezel correction: off)
+15:23:55:997 (00016288) > [Validate Settings] DX12 Async Compute Disabled.
+15:23:56:160 (00016288) > [D3D] Max supported feature level: 11.0
+15:23:56:269 (00019240) > [Settings] D3D12 - Using 1 nodes.
+15:23:56:297 (00016288) > [NxApp] Querying GPU Driver Info...
+15:23:56:298 (00016288) > [NxApp] Enumerating available display adapters:
+15:23:56:300 (00016288) > [NxApp] 		Intel(R) UHD Graphics
+15:23:56:300 (00016288) > [NxApp] 		NVIDIA GeForce GTX 1650 Ti (active)
+15:23:56:300 (00016288) > [NxApp] Successfully found GPU Driver Info
+15:23:56:300 (00016288) > [NxApp] Driver Desc: NVIDIA GeForce GTX 1650 Ti
+15:23:56:300 (00016288) > [NxApp] Driver Version: 31.0.15.4601
+15:23:56:300 (00016288) > [Settings] DirectX Version: 12
+15:23:56:300 (00016288) > [Settings] Using DX12 Stable Power State:0
+15:23:56:300 (00016288) > [Settings] Window mode:
+15:23:56:300 (00016288) > [Settings] 	Fullscreen:1
+15:23:56:300 (00016288) > [Settings] 	Excl.Fullscreen:1
+15:23:56:300 (00016288) > [Settings] 	Monitor:0
+15:23:56:300 (00016288) > [Settings] 		Monitor Rect: x:0 y:0 w:1920 h:1080
+15:23:56:300 (00016288) > [Settings] 		Workspace Rect: x:0 y:0 w:1920 h:1040
+15:23:56:300 (00016288) > [Settings] 		Aspect Ratio:1.780405 (Pixel Aspect Ratio:0.998524)
+15:23:56:300 (00016288) > [Settings] Fullscreen display mode:
+15:23:56:300 (00016288) > [Settings] 	Display mode: 1920x1080@180
+15:23:56:300 (00016288) > [Settings] 		VSync:1, TripleBuffer:0
+15:23:56:300 (00016288) > [Settings] 		MultiMonitor:0
+15:23:56:300 (00016288) > [Settings] 		BezelCorrected:0
+15:23:56:300 (00016288) > [Settings] 		Stereoscopic3D:0
+15:23:56:300 (00016288) > [Settings] Window settings:
+15:23:56:300 (00016288) > [Settings] 	Window rect: x:240 y:135 w:1440 h:810
+15:23:56:300 (00016288) > [Settings] 	User window: w:1440 h:810
+15:23:56:300 (00016288) > [Settings] 	Window maximized:0
+15:23:56:300 (00016288) > [Settings] Graphics Options:
+15:23:56:300 (00016288) > [Settings] 	TextureQuality:1, TextureFiltering:1, ShadowQuality:0, CHSQuality:0
+15:23:56:300 (00016288) > [Settings] 	AO:1, DOF:1, TAA:0, MSAA:0, Bloom:1, LensFlares: 1
+15:23:56:300 (00016288) > [Settings] 	SSS:0, CLOTH:0, MOTION:0, SSR:0, CA:1
+15:23:56:300 (00016288) > [Settings] 	VL:1, TESSEL:0, POM:1, SHARP:0
+15:23:56:300 (00016288) > [Settings] 	FOVCorrection:1.000000
+15:23:56:300 (00016288) > [Settings] 	LevelOfDetail:1
+15:23:56:300 (00016288) > [Settings] 	StereoSeparation:0.075000
+15:23:56:300 (00016288) > [Settings] 	StereoFarNear:0.250000
+15:23:56:300 (00016288) > [Settings] 	StereoNearSeparationMultiplier:0.350000
+15:23:56:300 (00016288) > [NxApp] Creating window...
+15:23:56:302 (00005692) > [GameWindow] UpdateState bVisible true
+15:23:56:309 (00005692) > [Input] Keyboard language: "English (United States)" (id: 1033)
+15:23:56:309 (00005692) > [Input] Keyboard physical layout: "US" (id: 00000409)
+15:23:56:309 (00005692) > [Input] Joystick            ""   product 64101 vendor 7511 version 22 usage 1 usagePage 65280 xinput no
+15:23:56:309 (00005692) > [Input] Joystick            ""   product 64101 vendor 7511 version 22 usage 0 usagePage 10 xinput no
+15:23:56:309 (00005692) > [Input] Joystick            ""   product 64101 vendor 7511 version 22 usage 1 usagePage 12 xinput no
+15:23:56:309 (00005692) > [Input] Human Input Device  "Microsoft Input Configuration Device"   product 0 vendor 0 version 0 usage 0 usagePage 0
+15:23:56:309 (00005692) > [Input] Human Input Device  "HID-compliant wireless radio controls"   product 65261 vendor 57069 version 257 usage 12 usagePage 1
+15:23:56:309 (00005692) > [Input] Human Input Device  "HID-compliant touch pad"   product 12632 vendor 1267 version 1 usage 5 usagePage 13
+15:23:56:309 (00005692) > [Input] Human Input Device  "HID-compliant vendor-defined device"   product 12632 vendor 1267 version 1 usage 1 usagePage 65280
+15:23:56:309 (00005692) > [Input] Joystick            ""   product 268 vendor 9610 version 8194 usage 1 usagePage 65280 xinput no
+15:23:56:309 (00005692) > [Input] Joystick            ""   product 268 vendor 9610 version 8194 usage 1 usagePage 65280 xinput no
+15:23:56:309 (00005692) > [Input] Joystick            ""   product 268 vendor 9610 version 8194 usage 1 usagePage 12 xinput no
+15:23:56:309 (00005692) > [Input] Human Input Device  "HID-compliant fido"   product 65261 vendor 57069 version 257 usage 1 usagePage 61904
+15:23:56:310 (00005692) > [Input] Keyboard            "HID Keyboard Device"   type 81 subType 0 mode 1 function 12 indicators 3 total 109
+15:23:56:310 (00005692) > [Input] Keyboard            "Standard PS/2 Keyboard"   type 4 subType 0 mode 1 function 12 indicators 3 total 101
+15:23:56:310 (00005692) > [Input] Keyboard            "HID Keyboard Device"   type 81 subType 0 mode 1 function 12 indicators 3 total 264
+15:23:56:310 (00005692) > [Input] Keyboard            "HID Keyboard Device"   type 81 subType 0 mode 1 function 12 indicators 3 total 264
+15:23:56:310 (00005692) > [Input] Keyboard            "HID Keyboard Device"   type 81 subType 0 mode 1 function 12 indicators 3 total 112
+15:23:56:310 (00005692) > [Input] Mouse               "HID-compliant mouse"   id 256 buttons 5 sampleRate 0 horizontalWheel no
+15:23:56:310 (00005692) > [Input] Mouse               "ELAN I2C Filter Driver"   id 128 buttons 2 sampleRate 0 horizontalWheel no
+15:23:56:310 (00005692) > [Input] Mouse               "HID-compliant mouse"   id 256 buttons 5 sampleRate 0 horizontalWheel no
+15:23:56:311 (00005692) > [RazerChroma] Initializing...
+15:23:56:314 (00005692) > [RazerChroma] Failed to load Chroma SDK library.
+15:23:56:314 (00016288) > [NxApp] Window created.
+15:23:56:314 (00016288) > [NxApp] Initializing swapchain...
+15:23:56:314 (00019240) > [SwapChain] Creating...
+15:23:56:314 (00019240) > [Render] NVidia 3D Vision NvAPI_Stereo_SetDriverMode error.
+15:23:56:314 (00019240) > [Render] NVidia 3D Vision is not enabled.
+15:23:56:314 (00019240) > [SwapChain] MI 0 0 1920 1080 - 0 0 1920 1040 - 1.780405 0.998524 1.777778
+15:23:56:314 (00019240) > [SwapChain] BR 0 0 1920 1080 1.777778
+15:23:56:314 (00019240) > [SwapChain] CR 0 0 1920 1080 1.777778
+15:23:56:314 (00019240) > [SwapChain] GR 0 0 1920 1080 1.777778
+15:23:56:325 (00019240) > [DXGI] Created swapchain.
+15:23:56:437 (00019240) > [DXGI] Set-up exclusive fullscreen 
+15:23:57:252 (00019240) > [SwapChain] Gamma correction is enabled.
+15:23:57:252 (00019240) > [SwapChain] Successfully created.
+15:23:57:252 (00019240) > [SwapChain] MI 0 0 1920 1080 - 0 0 1920 1040 - 1.780405 0.998524 1.777778
+15:23:57:252 (00019240) > [SwapChain] BR 0 0 1920 1080 1.777778
+15:23:57:252 (00019240) > [SwapChain] CR 0 0 1920 1080 1.777778
+15:23:57:252 (00019240) > [SwapChain] GR 0 0 1920 1080 1.777778
+15:23:57:252 (00016288) > [NxApp] Swapchain initialized
+15:23:57:252 (00016288) > [NxApp] Initializing renderer...
+15:23:57:254 (00016288) > [NxApp] Renderer initialized
+15:23:58:112 (00016288) > [Scaleform] Initializing.
+15:24:03:356 (00019240) > [SwapChain] MI 0 0 1920 1080 - 0 0 1920 1040 - 1.780405 0.998524 1.777778
+15:24:03:356 (00019240) > [SwapChain] BR 0 0 1920 1080 1.777778
+15:24:03:356 (00019240) > [SwapChain] CR 0 0 1920 1080 1.777778
+15:24:03:356 (00019240) > [SwapChain] GR 0 0 1920 1080 1.777778
+15:24:03:356 (00009880) > [Settings] New display settings are:
+15:24:03:356 (00009880) > [Settings] DirectX Version: 12
+15:24:03:356 (00009880) > [Settings] Using DX12 Stable Power State:0
+15:24:03:356 (00009880) > [Settings] Window mode:
+15:24:03:356 (00009880) > [Settings] 	Fullscreen:1
+15:24:03:356 (00009880) > [Settings] 	Excl.Fullscreen:1
+15:24:03:356 (00009880) > [Settings] 	Monitor:0
+15:24:03:356 (00009880) > [Settings] 		Monitor Rect: x:0 y:0 w:1920 h:1080
+15:24:03:356 (00009880) > [Settings] 		Workspace Rect: x:0 y:0 w:1920 h:1040
+15:24:03:356 (00009880) > [Settings] 		Aspect Ratio:1.780405 (Pixel Aspect Ratio:0.998524)
+15:24:03:356 (00009880) > [Settings] Fullscreen display mode:
+15:24:03:356 (00009880) > [Settings] 	Display mode: 1920x1080@180
+15:24:03:356 (00009880) > [Settings] 		VSync:1, TripleBuffer:0
+15:24:03:356 (00009880) > [Settings] 		MultiMonitor:0
+15:24:03:356 (00009880) > [Settings] 		BezelCorrected:0
+15:24:03:356 (00009880) > [Settings] 		Stereoscopic3D:0
+15:24:03:356 (00009880) > [Settings] Window settings:
+15:24:03:356 (00009880) > [Settings] 	Window rect: x:240 y:135 w:1440 h:810
+15:24:03:356 (00009880) > [Settings] 	User window: w:1440 h:810
+15:24:03:356 (00009880) > [Settings] 	Window maximized:0
+15:24:03:356 (00009880) > [Settings] Graphics Options:
+15:24:03:356 (00009880) > [Settings] 	TextureQuality:1, TextureFiltering:1, ShadowQuality:0, CHSQuality:0
+15:24:03:356 (00009880) > [Settings] 	AO:1, DOF:1, TAA:0, MSAA:0, Bloom:1, LensFlares: 1
+15:24:03:356 (00009880) > [Settings] 	SSS:0, CLOTH:0, MOTION:0, SSR:0, CA:1
+15:24:03:356 (00009880) > [Settings] 	VL:1, TESSEL:0, POM:1, SHARP:0
+15:24:03:356 (00009880) > [Settings] 	FOVCorrection:1.000000
+15:24:03:356 (00009880) > [Settings] 	LevelOfDetail:1
+15:24:03:356 (00009880) > [Settings] 	StereoSeparation:0.075000
+15:24:03:356 (00009880) > [Settings] 	StereoFarNear:0.250000
+15:24:03:356 (00009880) > [Settings] 	StereoNearSeparationMultiplier:0.350000
+15:24:03:356 (00009880) > [Settings] End of settings.
+15:24:03:356 (00009880) > [NxApp (Render Thread)] Finished enforcing display settings
+15:24:03:356 (00016288) > [NxApp] Finished enforcing display settings
+15:24:40:611 (00016288) > [Render] Nvidia Modified W support detected
+15:24:40:611 (00016288) > [Validate Settings] Desktop settings (Resolution: 1920 x 1080, Multi-monitor: off, Bezel correction: off)
+15:24:40:611 (00016288) > [Render] Nvidia Modified W support detected
+15:24:40:611 (00016288) > [Validate Settings] Desktop settings (Resolution: 1920 x 1080, Multi-monitor: off, Bezel correction: off)
+15:24:46:733 (00016288) > [Render] Nvidia Modified W support detected
+15:24:46:733 (00016288) > [Validate Settings] Desktop settings (Resolution: 1920 x 1080, Multi-monitor: off, Bezel correction: off)
+15:24:46:733 (00016288) > [Validate Settings] DX12 Async Compute Disabled.
+15:24:46:733 (00016288) > [Render] Nvidia Modified W support detected
+15:24:46:733 (00016288) > [Validate Settings] Desktop settings (Resolution: 1920 x 1080, Multi-monitor: off, Bezel correction: off)
+15:24:46:733 (00016288) > [Validate Settings] DX12 Async Compute Disabled.
+15:24:46:733 (00016288) > [Render] Nvidia Modified W support detected
+15:24:46:733 (00016288) > [Validate Settings] Desktop settings (Resolution: 1920 x 1080, Multi-monitor: off, Bezel correction: off)
+15:24:46:733 (00016288) > [Render] Nvidia Modified W support detected
+15:24:46:733 (00016288) > [Validate Settings] Desktop settings (Resolution: 1920 x 1080, Multi-monitor: off, Bezel correction: off)
+15:24:46:733 (00016288) > [Render] Nvidia Modified W support detected
+15:24:46:733 (00016288) > [Validate Settings] Desktop settings (Resolution: 1920 x 1080, Multi-monitor: off, Bezel correction: off)
+15:24:46:733 (00016288) > [Render] Nvidia Modified W support detected
+15:24:46:733 (00016288) > [Validate Settings] Desktop settings (Resolution: 1920 x 1080, Multi-monitor: off, Bezel correction: off)
+15:24:46:733 (00016288) > [Render] Nvidia Modified W support detected
+15:24:46:733 (00016288) > [Validate Settings] Desktop settings (Resolution: 1920 x 1080, Multi-monitor: off, Bezel correction: off)
+15:24:46:766 (00019240) > [SwapChain] MI 0 0 1920 1080 - 0 0 1920 1040 - 1.780405 0.998524 1.777778
+15:24:46:766 (00019240) > [SwapChain] BR 0 0 1920 1080 1.777778
+15:24:46:766 (00019240) > [SwapChain] CR 0 0 1920 1080 1.777778
+15:24:46:766 (00019240) > [SwapChain] GR 0 0 1920 1080 1.777778
+15:24:46:779 (00009880) > [Settings] New display settings are:
+15:24:46:779 (00009880) > [Settings] DirectX Version: 12
+15:24:46:779 (00009880) > [Settings] Using DX12 Stable Power State:0
+15:24:46:779 (00009880) > [Settings] Window mode:
+15:24:46:779 (00009880) > [Settings] 	Fullscreen:1
+15:24:46:779 (00009880) > [Settings] 	Excl.Fullscreen:1
+15:24:46:779 (00009880) > [Settings] 	Monitor:0
+15:24:46:779 (00009880) > [Settings] 		Monitor Rect: x:0 y:0 w:1920 h:1080
+15:24:46:779 (00009880) > [Settings] 		Workspace Rect: x:0 y:0 w:1920 h:1040
+15:24:46:779 (00009880) > [Settings] 		Aspect Ratio:1.780405 (Pixel Aspect Ratio:0.998524)
+15:24:46:779 (00009880) > [Settings] Fullscreen display mode:
+15:24:46:779 (00009880) > [Settings] 	Display mode: 1920x1080@180
+15:24:46:779 (00009880) > [Settings] 		VSync:1, TripleBuffer:0
+15:24:46:779 (00009880) > [Settings] 		MultiMonitor:0
+15:24:46:779 (00009880) > [Settings] 		BezelCorrected:0
+15:24:46:779 (00009880) > [Settings] 		Stereoscopic3D:0
+15:24:46:779 (00009880) > [Settings] Window settings:
+15:24:46:779 (00009880) > [Settings] 	Window rect: x:240 y:135 w:1440 h:810
+15:24:46:779 (00009880) > [Settings] 	User window: w:1440 h:810
+15:24:46:779 (00009880) > [Settings] 	Window maximized:0
+15:24:46:779 (00009880) > [Settings] Graphics Options:
+15:24:46:779 (00009880) > [Settings] 	TextureQuality:1, TextureFiltering:1, ShadowQuality:0, CHSQuality:0
+15:24:46:779 (00009880) > [Settings] 	AO:1, DOF:1, TAA:0, MSAA:0, Bloom:1, LensFlares: 1
+15:24:46:779 (00009880) > [Settings] 	SSS:0, CLOTH:0, MOTION:1, SSR:0, CA:1
+15:24:46:779 (00009880) > [Settings] 	VL:1, TESSEL:0, POM:1, SHARP:0
+15:24:46:779 (00009880) > [Settings] 	FOVCorrection:1.000000
+15:24:46:779 (00009880) > [Settings] 	LevelOfDetail:1
+15:24:46:779 (00009880) > [Settings] 	StereoSeparation:0.075000
+15:24:46:779 (00009880) > [Settings] 	StereoFarNear:0.250000
+15:24:46:779 (00009880) > [Settings] 	StereoNearSeparationMultiplier:0.350000
+15:24:46:779 (00009880) > [Settings] End of settings.
+15:24:46:779 (00009880) > [NxApp (Render Thread)] Finished enforcing display settings
+15:24:46:780 (00016288) > [NxApp] Finished enforcing display settings
+15:24:47:565 (00016288) > [Render] Nvidia Modified W support detected
+15:24:47:565 (00016288) > [Validate Settings] Desktop settings (Resolution: 1920 x 1080, Multi-monitor: off, Bezel correction: off)
+15:24:47:565 (00016288) > [Validate Settings] DX12 Async Compute Disabled.
+15:24:47:565 (00016288) > [Render] Nvidia Modified W support detected
+15:24:47:565 (00016288) > [Validate Settings] Desktop settings (Resolution: 1920 x 1080, Multi-monitor: off, Bezel correction: off)
+15:24:47:565 (00016288) > [Validate Settings] DX12 Async Compute Disabled.
+15:24:47:565 (00016288) > [Render] Nvidia Modified W support detected
+15:24:47:565 (00016288) > [Validate Settings] Desktop settings (Resolution: 1920 x 1080, Multi-monitor: off, Bezel correction: off)
+15:24:47:565 (00016288) > [Render] Nvidia Modified W support detected
+15:24:47:565 (00016288) > [Validate Settings] Desktop settings (Resolution: 1920 x 1080, Multi-monitor: off, Bezel correction: off)
+15:24:47:596 (00019240) > [SwapChain] MI 0 0 1920 1080 - 0 0 1920 1040 - 1.780405 0.998524 1.777778
+15:24:47:596 (00019240) > [SwapChain] BR 0 0 1920 1080 1.777778
+15:24:47:596 (00019240) > [SwapChain] CR 0 0 1920 1080 1.777778
+15:24:47:596 (00019240) > [SwapChain] GR 0 0 1920 1080 1.777778
+15:24:47:609 (00009880) > [Settings] New display settings are:
+15:24:47:609 (00009880) > [Settings] DirectX Version: 12
+15:24:47:609 (00009880) > [Settings] Using DX12 Stable Power State:0
+15:24:47:609 (00009880) > [Settings] Window mode:
+15:24:47:609 (00009880) > [Settings] 	Fullscreen:1
+15:24:47:609 (00009880) > [Settings] 	Excl.Fullscreen:1
+15:24:47:609 (00009880) > [Settings] 	Monitor:0
+15:24:47:609 (00009880) > [Settings] 		Monitor Rect: x:0 y:0 w:1920 h:1080
+15:24:47:609 (00009880) > [Settings] 		Workspace Rect: x:0 y:0 w:1920 h:1040
+15:24:47:609 (00009880) > [Settings] 		Aspect Ratio:1.780405 (Pixel Aspect Ratio:0.998524)
+15:24:47:609 (00009880) > [Settings] Fullscreen display mode:
+15:24:47:609 (00009880) > [Settings] 	Display mode: 1920x1080@180
+15:24:47:609 (00009880) > [Settings] 		VSync:1, TripleBuffer:0
+15:24:47:609 (00009880) > [Settings] 		MultiMonitor:0
+15:24:47:609 (00009880) > [Settings] 		BezelCorrected:0
+15:24:47:609 (00009880) > [Settings] 		Stereoscopic3D:0
+15:24:47:609 (00009880) > [Settings] Window settings:
+15:24:47:609 (00009880) > [Settings] 	Window rect: x:240 y:135 w:1440 h:810
+15:24:47:609 (00009880) > [Settings] 	User window: w:1440 h:810
+15:24:47:609 (00009880) > [Settings] 	Window maximized:0
+15:24:47:609 (00009880) > [Settings] Graphics Options:
+15:24:47:609 (00009880) > [Settings] 	TextureQuality:1, TextureFiltering:1, ShadowQuality:0, CHSQuality:0
+15:24:47:609 (00009880) > [Settings] 	AO:1, DOF:1, TAA:0, MSAA:0, Bloom:1, LensFlares: 1
+15:24:47:609 (00009880) > [Settings] 	SSS:0, CLOTH:0, MOTION:0, SSR:0, CA:1
+15:24:47:609 (00009880) > [Settings] 	VL:1, TESSEL:0, POM:1, SHARP:0
+15:24:47:609 (00009880) > [Settings] 	FOVCorrection:1.000000
+15:24:47:609 (00009880) > [Settings] 	LevelOfDetail:1
+15:24:47:609 (00009880) > [Settings] 	StereoSeparation:0.075000
+15:24:47:609 (00009880) > [Settings] 	StereoFarNear:0.250000
+15:24:47:609 (00009880) > [Settings] 	StereoNearSeparationMultiplier:0.350000
+15:24:47:609 (00009880) > [Settings] End of settings.
+15:24:47:609 (00009880) > [NxApp (Render Thread)] Finished enforcing display settings
+15:24:47:610 (00016288) > [NxApp] Finished enforcing display settings
+15:24:47:873 (00016288) > [Render] Nvidia Modified W support detected
+15:24:47:873 (00016288) > [Validate Settings] Desktop settings (Resolution: 1920 x 1080, Multi-monitor: off, Bezel correction: off)
+15:24:47:873 (00016288) > [Validate Settings] DX12 Async Compute Disabled.
+15:24:47:873 (00016288) > [Render] Nvidia Modified W support detected
+15:24:47:873 (00016288) > [Validate Settings] Desktop settings (Resolution: 1920 x 1080, Multi-monitor: off, Bezel correction: off)
+15:24:47:873 (00016288) > [Validate Settings] DX12 Async Compute Disabled.
+15:24:47:873 (00016288) > [Render] Nvidia Modified W support detected
+15:24:47:873 (00016288) > [Validate Settings] Desktop settings (Resolution: 1920 x 1080, Multi-monitor: off, Bezel correction: off)
+15:24:47:873 (00016288) > [Render] Nvidia Modified W support detected
+15:24:47:873 (00016288) > [Validate Settings] Desktop settings (Resolution: 1920 x 1080, Multi-monitor: off, Bezel correction: off)
+15:24:47:873 (00016288) > [Render] Nvidia Modified W support detected
+15:24:47:873 (00016288) > [Validate Settings] Desktop settings (Resolution: 1920 x 1080, Multi-monitor: off, Bezel correction: off)
+15:24:47:873 (00016288) > [Render] Nvidia Modified W support detected
+15:24:47:873 (00016288) > [Validate Settings] Desktop settings (Resolution: 1920 x 1080, Multi-monitor: off, Bezel correction: off)
+15:24:47:873 (00016288) > [Render] Nvidia Modified W support detected
+15:24:47:873 (00016288) > [Validate Settings] Desktop settings (Resolution: 1920 x 1080, Multi-monitor: off, Bezel correction: off)
+15:24:47:906 (00019240) > [SwapChain] MI 0 0 1920 1080 - 0 0 1920 1040 - 1.780405 0.998524 1.777778
+15:24:47:906 (00019240) > [SwapChain] BR 0 0 1920 1080 1.777778
+15:24:47:906 (00019240) > [SwapChain] CR 0 0 1920 1080 1.777778
+15:24:47:906 (00019240) > [SwapChain] GR 0 0 1920 1080 1.777778
+15:24:47:918 (00009880) > [Settings] New display settings are:
+15:24:47:918 (00009880) > [Settings] DirectX Version: 12
+15:24:47:918 (00009880) > [Settings] Using DX12 Stable Power State:0
+15:24:47:918 (00009880) > [Settings] Window mode:
+15:24:47:918 (00009880) > [Settings] 	Fullscreen:1
+15:24:47:918 (00009880) > [Settings] 	Excl.Fullscreen:1
+15:24:47:918 (00009880) > [Settings] 	Monitor:0
+15:24:47:918 (00009880) > [Settings] 		Monitor Rect: x:0 y:0 w:1920 h:1080
+15:24:47:918 (00009880) > [Settings] 		Workspace Rect: x:0 y:0 w:1920 h:1040
+15:24:47:918 (00009880) > [Settings] 		Aspect Ratio:1.780405 (Pixel Aspect Ratio:0.998524)
+15:24:47:918 (00009880) > [Settings] Fullscreen display mode:
+15:24:47:918 (00009880) > [Settings] 	Display mode: 1920x1080@180
+15:24:47:918 (00009880) > [Settings] 		VSync:1, TripleBuffer:0
+15:24:47:918 (00009880) > [Settings] 		MultiMonitor:0
+15:24:47:918 (00009880) > [Settings] 		BezelCorrected:0
+15:24:47:918 (00009880) > [Settings] 		Stereoscopic3D:0
+15:24:47:918 (00009880) > [Settings] Window settings:
+15:24:47:918 (00009880) > [Settings] 	Window rect: x:240 y:135 w:1440 h:810
+15:24:47:918 (00009880) > [Settings] 	User window: w:1440 h:810
+15:24:47:918 (00009880) > [Settings] 	Window maximized:0
+15:24:47:918 (00009880) > [Settings] Graphics Options:
+15:24:47:918 (00009880) > [Settings] 	TextureQuality:1, TextureFiltering:1, ShadowQuality:0, CHSQuality:0
+15:24:47:918 (00009880) > [Settings] 	AO:1, DOF:1, TAA:0, MSAA:0, Bloom:1, LensFlares: 1
+15:24:47:918 (00009880) > [Settings] 	SSS:0, CLOTH:0, MOTION:1, SSR:0, CA:1
+15:24:47:918 (00009880) > [Settings] 	VL:1, TESSEL:0, POM:1, SHARP:0
+15:24:47:918 (00009880) > [Settings] 	FOVCorrection:1.000000
+15:24:47:918 (00009880) > [Settings] 	LevelOfDetail:1
+15:24:47:918 (00009880) > [Settings] 	StereoSeparation:0.075000
+15:24:47:918 (00009880) > [Settings] 	StereoFarNear:0.250000
+15:24:47:918 (00009880) > [Settings] 	StereoNearSeparationMultiplier:0.350000
+15:24:47:918 (00009880) > [Settings] End of settings.
+15:24:47:918 (00009880) > [NxApp (Render Thread)] Finished enforcing display settings
+15:24:47:919 (00016288) > [NxApp] Finished enforcing display settings
+15:24:48:424 (00016288) > [Render] Nvidia Modified W support detected
+15:24:48:424 (00016288) > [Validate Settings] Desktop settings (Resolution: 1920 x 1080, Multi-monitor: off, Bezel correction: off)
+15:24:48:424 (00016288) > [Validate Settings] DX12 Async Compute Disabled.
+15:24:48:424 (00016288) > [Render] Nvidia Modified W support detected
+15:24:48:424 (00016288) > [Validate Settings] Desktop settings (Resolution: 1920 x 1080, Multi-monitor: off, Bezel correction: off)
+15:24:48:424 (00016288) > [Validate Settings] DX12 Async Compute Disabled.
+15:24:48:424 (00016288) > [Render] Nvidia Modified W support detected
+15:24:48:424 (00016288) > [Validate Settings] Desktop settings (Resolution: 1920 x 1080, Multi-monitor: off, Bezel correction: off)
+15:24:48:424 (00016288) > [Render] Nvidia Modified W support detected
+15:24:48:424 (00016288) > [Validate Settings] Desktop settings (Resolution: 1920 x 1080, Multi-monitor: off, Bezel correction: off)
+15:24:48:457 (00019240) > [SwapChain] MI 0 0 1920 1080 - 0 0 1920 1040 - 1.780405 0.998524 1.777778
+15:24:48:457 (00019240) > [SwapChain] BR 0 0 1920 1080 1.777778
+15:24:48:457 (00019240) > [SwapChain] CR 0 0 1920 1080 1.777778
+15:24:48:457 (00019240) > [SwapChain] GR 0 0 1920 1080 1.777778
+15:24:48:470 (00009880) > [Settings] New display settings are:
+15:24:48:470 (00009880) > [Settings] DirectX Version: 12
+15:24:48:470 (00009880) > [Settings] Using DX12 Stable Power State:0
+15:24:48:470 (00009880) > [Settings] Window mode:
+15:24:48:470 (00009880) > [Settings] 	Fullscreen:1
+15:24:48:470 (00009880) > [Settings] 	Excl.Fullscreen:1
+15:24:48:470 (00009880) > [Settings] 	Monitor:0
+15:24:48:470 (00009880) > [Settings] 		Monitor Rect: x:0 y:0 w:1920 h:1080
+15:24:48:470 (00009880) > [Settings] 		Workspace Rect: x:0 y:0 w:1920 h:1040
+15:24:48:470 (00009880) > [Settings] 		Aspect Ratio:1.780405 (Pixel Aspect Ratio:0.998524)
+15:24:48:470 (00009880) > [Settings] Fullscreen display mode:
+15:24:48:470 (00009880) > [Settings] 	Display mode: 1920x1080@180
+15:24:48:470 (00009880) > [Settings] 		VSync:1, TripleBuffer:0
+15:24:48:470 (00009880) > [Settings] 		MultiMonitor:0
+15:24:48:470 (00009880) > [Settings] 		BezelCorrected:0
+15:24:48:470 (00009880) > [Settings] 		Stereoscopic3D:0
+15:24:48:470 (00009880) > [Settings] Window settings:
+15:24:48:470 (00009880) > [Settings] 	Window rect: x:240 y:135 w:1440 h:810
+15:24:48:470 (00009880) > [Settings] 	User window: w:1440 h:810
+15:24:48:470 (00009880) > [Settings] 	Window maximized:0
+15:24:48:470 (00009880) > [Settings] Graphics Options:
+15:24:48:470 (00009880) > [Settings] 	TextureQuality:1, TextureFiltering:1, ShadowQuality:0, CHSQuality:0
+15:24:48:470 (00009880) > [Settings] 	AO:1, DOF:1, TAA:0, MSAA:0, Bloom:1, LensFlares: 1
+15:24:48:470 (00009880) > [Settings] 	SSS:0, CLOTH:0, MOTION:0, SSR:0, CA:1
+15:24:48:470 (00009880) > [Settings] 	VL:1, TESSEL:0, POM:1, SHARP:0
+15:24:48:470 (00009880) > [Settings] 	FOVCorrection:1.000000
+15:24:48:470 (00009880) > [Settings] 	LevelOfDetail:1
+15:24:48:470 (00009880) > [Settings] 	StereoSeparation:0.075000
+15:24:48:470 (00009880) > [Settings] 	StereoFarNear:0.250000
+15:24:48:470 (00009880) > [Settings] 	StereoNearSeparationMultiplier:0.350000
+15:24:48:470 (00009880) > [Settings] End of settings.
+15:24:48:470 (00009880) > [NxApp (Render Thread)] Finished enforcing display settings
+15:24:48:471 (00016288) > [NxApp] Finished enforcing display settings
+15:24:57:982 (00016288) > [Render] Nvidia Modified W support detected
+15:24:57:982 (00016288) > [Validate Settings] Desktop settings (Resolution: 1920 x 1080, Multi-monitor: off, Bezel correction: off)
+15:24:57:982 (00016288) > [Validate Settings] DX12 Async Compute Disabled.
+15:24:57:982 (00016288) > [Render] Nvidia Modified W support detected
+15:24:57:982 (00016288) > [Validate Settings] Desktop settings (Resolution: 1920 x 1080, Multi-monitor: off, Bezel correction: off)
+15:24:57:982 (00016288) > [Validate Settings] DX12 Async Compute Disabled.
+15:24:57:982 (00016288) > [Render] Nvidia Modified W support detected
+15:24:57:982 (00016288) > [Validate Settings] Desktop settings (Resolution: 1920 x 1080, Multi-monitor: off, Bezel correction: off)
+15:24:57:982 (00016288) > [Render] Nvidia Modified W support detected
+15:24:57:982 (00016288) > [Validate Settings] Desktop settings (Resolution: 1920 x 1080, Multi-monitor: off, Bezel correction: off)
+15:24:57:982 (00016288) > [Render] Nvidia Modified W support detected
+15:24:57:982 (00016288) > [Validate Settings] Desktop settings (Resolution: 1920 x 1080, Multi-monitor: off, Bezel correction: off)
+15:24:57:982 (00016288) > [Render] Nvidia Modified W support detected
+15:24:57:982 (00016288) > [Validate Settings] Desktop settings (Resolution: 1920 x 1080, Multi-monitor: off, Bezel correction: off)
+15:24:57:982 (00016288) > [Render] Nvidia Modified W support detected
+15:24:57:982 (00016288) > [Validate Settings] Desktop settings (Resolution: 1920 x 1080, Multi-monitor: off, Bezel correction: off)
+15:24:58:015 (00019240) > [SwapChain] MI 0 0 1920 1080 - 0 0 1920 1040 - 1.780405 0.998524 1.777778
+15:24:58:015 (00019240) > [SwapChain] BR 0 0 1920 1080 1.777778
+15:24:58:015 (00019240) > [SwapChain] CR 0 0 1920 1080 1.777778
+15:24:58:015 (00019240) > [SwapChain] GR 0 0 1920 1080 1.777778
+15:24:58:027 (00009880) > [Settings] New display settings are:
+15:24:58:027 (00009880) > [Settings] DirectX Version: 12
+15:24:58:027 (00009880) > [Settings] Using DX12 Stable Power State:0
+15:24:58:027 (00009880) > [Settings] Window mode:
+15:24:58:027 (00009880) > [Settings] 	Fullscreen:1
+15:24:58:027 (00009880) > [Settings] 	Excl.Fullscreen:1
+15:24:58:027 (00009880) > [Settings] 	Monitor:0
+15:24:58:027 (00009880) > [Settings] 		Monitor Rect: x:0 y:0 w:1920 h:1080
+15:24:58:027 (00009880) > [Settings] 		Workspace Rect: x:0 y:0 w:1920 h:1040
+15:24:58:027 (00009880) > [Settings] 		Aspect Ratio:1.780405 (Pixel Aspect Ratio:0.998524)
+15:24:58:027 (00009880) > [Settings] Fullscreen display mode:
+15:24:58:027 (00009880) > [Settings] 	Display mode: 1920x1080@180
+15:24:58:027 (00009880) > [Settings] 		VSync:1, TripleBuffer:0
+15:24:58:027 (00009880) > [Settings] 		MultiMonitor:0
+15:24:58:027 (00009880) > [Settings] 		BezelCorrected:0
+15:24:58:027 (00009880) > [Settings] 		Stereoscopic3D:0
+15:24:58:027 (00009880) > [Settings] Window settings:
+15:24:58:027 (00009880) > [Settings] 	Window rect: x:240 y:135 w:1440 h:810
+15:24:58:027 (00009880) > [Settings] 	User window: w:1440 h:810
+15:24:58:027 (00009880) > [Settings] 	Window maximized:0
+15:24:58:027 (00009880) > [Settings] Graphics Options:
+15:24:58:027 (00009880) > [Settings] 	TextureQuality:1, TextureFiltering:1, ShadowQuality:0, CHSQuality:0
+15:24:58:027 (00009880) > [Settings] 	AO:1, DOF:1, TAA:1, MSAA:0, Bloom:1, LensFlares: 1
+15:24:58:027 (00009880) > [Settings] 	SSS:0, CLOTH:0, MOTION:0, SSR:0, CA:1
+15:24:58:027 (00009880) > [Settings] 	VL:1, TESSEL:0, POM:1, SHARP:0
+15:24:58:027 (00009880) > [Settings] 	FOVCorrection:1.000000
+15:24:58:027 (00009880) > [Settings] 	LevelOfDetail:1
+15:24:58:027 (00009880) > [Settings] 	StereoSeparation:0.075000
+15:24:58:027 (00009880) > [Settings] 	StereoFarNear:0.250000
+15:24:58:027 (00009880) > [Settings] 	StereoNearSeparationMultiplier:0.350000
+15:24:58:027 (00009880) > [Settings] End of settings.
+15:24:58:027 (00009880) > [NxApp (Render Thread)] Finished enforcing display settings
+15:24:58:028 (00016288) > [NxApp] Finished enforcing display settings
+15:25:25:315 (00016288) > [Render] Nvidia Modified W support detected
+15:25:25:315 (00016288) > [Validate Settings] Desktop settings (Resolution: 1920 x 1080, Multi-monitor: off, Bezel correction: off)
+15:25:25:315 (00016288) > [Validate Settings] DX12 Async Compute Disabled.
+15:25:28:686 (00016288) > [Render] Nvidia Modified W support detected
+15:25:28:686 (00016288) > [Validate Settings] Desktop settings (Resolution: 1920 x 1080, Multi-monitor: off, Bezel correction: off)
+15:25:28:686 (00016288) > [Validate Settings] DX12 Async Compute Disabled.
+15:25:28:686 (00016288) > [Render] Nvidia Modified W support detected
+15:25:28:686 (00016288) > [Validate Settings] Desktop settings (Resolution: 1920 x 1080, Multi-monitor: off, Bezel correction: off)
+15:25:28:686 (00016288) > [Validate Settings] DX12 Async Compute Disabled.
+15:25:28:719 (00019240) > [SwapChain] MI 0 0 1920 1080 - 0 0 1920 1040 - 1.780405 0.998524 1.777778
+15:25:28:719 (00019240) > [SwapChain] BR 0 0 1920 1080 1.777778
+15:25:28:719 (00019240) > [SwapChain] CR 0 0 1920 1080 1.777778
+15:25:28:719 (00019240) > [SwapChain] GR 0 0 1920 1080 1.777778
+15:25:28:741 (00019240) > [DXGI] Resized swapchain.
+15:25:28:755 (00009880) > [Settings] New display settings are:
+15:25:28:755 (00009880) > [Settings] DirectX Version: 12
+15:25:28:755 (00009880) > [Settings] Using DX12 Stable Power State:0
+15:25:28:755 (00009880) > [Settings] Window mode:
+15:25:28:755 (00009880) > [Settings] 	Fullscreen:1
+15:25:28:755 (00009880) > [Settings] 	Excl.Fullscreen:1
+15:25:28:755 (00009880) > [Settings] 	Monitor:0
+15:25:28:755 (00009880) > [Settings] 		Monitor Rect: x:0 y:0 w:1920 h:1080
+15:25:28:755 (00009880) > [Settings] 		Workspace Rect: x:0 y:0 w:1920 h:1040
+15:25:28:755 (00009880) > [Settings] 		Aspect Ratio:1.780405 (Pixel Aspect Ratio:0.998524)
+15:25:28:755 (00009880) > [Settings] Fullscreen display mode:
+15:25:28:755 (00009880) > [Settings] 	Display mode: 1920x1080@165
+15:25:28:755 (00009880) > [Settings] 		VSync:1, TripleBuffer:0
+15:25:28:755 (00009880) > [Settings] 		MultiMonitor:0
+15:25:28:755 (00009880) > [Settings] 		BezelCorrected:0
+15:25:28:755 (00009880) > [Settings] 		Stereoscopic3D:0
+15:25:28:755 (00009880) > [Settings] Window settings:
+15:25:28:756 (00009880) > [Settings] 	Window rect: x:240 y:135 w:1440 h:810
+15:25:28:756 (00009880) > [Settings] 	User window: w:1440 h:810
+15:25:28:756 (00009880) > [Settings] 	Window maximized:0
+15:25:28:756 (00009880) > [Settings] Graphics Options:
+15:25:28:756 (00009880) > [Settings] 	TextureQuality:1, TextureFiltering:1, ShadowQuality:0, CHSQuality:0
+15:25:28:756 (00009880) > [Settings] 	AO:1, DOF:1, TAA:1, MSAA:0, Bloom:1, LensFlares: 1
+15:25:28:756 (00009880) > [Settings] 	SSS:0, CLOTH:0, MOTION:0, SSR:0, CA:1
+15:25:28:756 (00009880) > [Settings] 	VL:1, TESSEL:0, POM:1, SHARP:0
+15:25:28:756 (00009880) > [Settings] 	FOVCorrection:1.000000
+15:25:28:756 (00009880) > [Settings] 	LevelOfDetail:1
+15:25:28:756 (00009880) > [Settings] 	StereoSeparation:0.075000
+15:25:28:756 (00009880) > [Settings] 	StereoFarNear:0.250000
+15:25:28:756 (00009880) > [Settings] 	StereoNearSeparationMultiplier:0.350000
+15:25:28:756 (00009880) > [Settings] End of settings.
+15:25:28:756 (00009880) > [NxApp (Render Thread)] Finished enforcing display settings
+15:25:28:757 (00016288) > [NxApp] Finished enforcing display settings
+15:25:32:250 (00016288) > [Render] Nvidia Modified W support detected
+15:25:32:250 (00016288) > [Validate Settings] Desktop settings (Resolution: 1920 x 1080, Multi-monitor: off, Bezel correction: off)
+15:25:32:250 (00016288) > [Render] Nvidia Modified W support detected
+15:25:32:250 (00016288) > [Validate Settings] Desktop settings (Resolution: 1920 x 1080, Multi-monitor: off, Bezel correction: off)
+15:25:32:250 (00016288) > [Render] Nvidia Modified W support detected
+15:25:32:250 (00016288) > [Validate Settings] Desktop settings (Resolution: 1920 x 1080, Multi-monitor: off, Bezel correction: off)
+15:25:32:250 (00016288) > [Render] Nvidia Modified W support detected
+15:25:32:250 (00016288) > [Validate Settings] Desktop settings (Resolution: 1920 x 1080, Multi-monitor: off, Bezel correction: off)
+15:25:32:250 (00016288) > [Render] Nvidia Modified W support detected
+15:25:32:250 (00016288) > [Validate Settings] Desktop settings (Resolution: 1920 x 1080, Multi-monitor: off, Bezel correction: off)
+17:19:19:755 (00019240) > [DXGI] Window occluded. Skipping present
+17:19:23:360 (00019240) > [SwapChain] MI 0 0 1920 1080 - 0 0 1920 1040 - 1.780405 0.998524 1.777778
+17:19:23:360 (00019240) > [SwapChain] BR 0 0 1920 1080 1.777778
+17:19:23:360 (00019240) > [SwapChain] CR 0 0 1920 1080 1.777778
+17:19:23:360 (00019240) > [SwapChain] GR 0 0 1920 1080 1.777778
+17:19:23:428 (00019240) > [DXGI] Set-up exclusive fullscreen.
+17:19:23:456 (00009880) > [GameWindow] UpdateState bVisible false
+17:19:23:462 (00009880) > [GameWindow] Invalidating rects.
+17:19:23:462 (00009880) > [Settings] New display settings are:
+17:19:23:462 (00009880) > [Settings] DirectX Version: 12
+17:19:23:462 (00009880) > [Settings] Using DX12 Stable Power State:0
+17:19:23:462 (00009880) > [Settings] Window mode:
+17:19:23:462 (00009880) > [Settings] 	Fullscreen:1
+17:19:23:462 (00009880) > [Settings] 	Excl.Fullscreen:0
+17:19:23:462 (00009880) > [Settings] 	Monitor:0
+17:19:23:462 (00009880) > [Settings] 		Monitor Rect: x:0 y:0 w:1920 h:1080
+17:19:23:462 (00009880) > [Settings] 		Workspace Rect: x:0 y:0 w:1920 h:1040
+17:19:23:462 (00009880) > [Settings] 		Aspect Ratio:1.780405 (Pixel Aspect Ratio:0.998524)
+17:19:23:462 (00009880) > [Settings] Fullscreen display mode:
+17:19:23:462 (00009880) > [Settings] 	Display mode: 1920x1080@165
+17:19:23:462 (00009880) > [Settings] 		VSync:1, TripleBuffer:0
+17:19:23:462 (00009880) > [Settings] 		MultiMonitor:0
+17:19:23:462 (00009880) > [Settings] 		BezelCorrected:0
+17:19:23:462 (00009880) > [Settings] 		Stereoscopic3D:0
+17:19:23:462 (00009880) > [Settings] Window settings:
+17:19:23:462 (00009880) > [Settings] 	Window rect: x:240 y:135 w:1440 h:810
+17:19:23:462 (00009880) > [Settings] 	User window: w:1440 h:810
+17:19:23:462 (00009880) > [Settings] 	Window maximized:0
+17:19:23:462 (00009880) > [Settings] Graphics Options:
+17:19:23:462 (00009880) > [Settings] 	TextureQuality:1, TextureFiltering:1, ShadowQuality:0, CHSQuality:0
+17:19:23:462 (00009880) > [Settings] 	AO:1, DOF:1, TAA:1, MSAA:0, Bloom:1, LensFlares: 1
+17:19:23:462 (00009880) > [Settings] 	SSS:0, CLOTH:0, MOTION:0, SSR:0, CA:1
+17:19:23:462 (00009880) > [Settings] 	VL:1, TESSEL:0, POM:1, SHARP:0
+17:19:23:462 (00009880) > [Settings] 	FOVCorrection:1.000000
+17:19:23:462 (00009880) > [Settings] 	LevelOfDetail:1
+17:19:23:462 (00009880) > [Settings] 	StereoSeparation:0.075000
+17:19:23:462 (00009880) > [Settings] 	StereoFarNear:0.250000
+17:19:23:462 (00009880) > [Settings] 	StereoNearSeparationMultiplier:0.350000
+17:19:23:462 (00009880) > [Settings] End of settings.
+17:19:23:462 (00009880) > [NxApp (Render Thread)] Finished enforcing display settings
+17:19:23:462 (00016288) > [NxApp] Finished enforcing display settings
+17:19:26:984 (00019240) > [SwapChain] MI 0 0 1920 1080 - 0 0 1920 1040 - 1.780405 0.998524 1.777778
+17:19:26:984 (00019240) > [SwapChain] BR 0 0 1920 1080 1.777778
+17:19:26:984 (00019240) > [SwapChain] CR 0 0 1920 1080 1.777778
+17:19:26:984 (00019240) > [SwapChain] GR 0 0 1920 1080 1.777778
+17:19:26:998 (00019240) > [DXGI] Set-up exclusive fullscreen.
+17:19:27:029 (00009880) > [Settings] New display settings are:
+17:19:27:029 (00009880) > [Settings] DirectX Version: 12
+17:19:27:029 (00009880) > [Settings] Using DX12 Stable Power State:0
+17:19:27:029 (00009880) > [Settings] Window mode:
+17:19:27:029 (00009880) > [Settings] 	Fullscreen:1
+17:19:27:029 (00009880) > [Settings] 	Excl.Fullscreen:1
+17:19:27:029 (00009880) > [Settings] 	Monitor:0
+17:19:27:029 (00009880) > [Settings] 		Monitor Rect: x:0 y:0 w:1920 h:1080
+17:19:27:029 (00009880) > [Settings] 		Workspace Rect: x:0 y:0 w:1920 h:1040
+17:19:27:029 (00009880) > [Settings] 		Aspect Ratio:1.780405 (Pixel Aspect Ratio:0.998524)
+17:19:27:029 (00009880) > [Settings] Fullscreen display mode:
+17:19:27:029 (00009880) > [Settings] 	Display mode: 1920x1080@165
+17:19:27:029 (00009880) > [Settings] 		VSync:1, TripleBuffer:0
+17:19:27:029 (00009880) > [Settings] 		MultiMonitor:0
+17:19:27:029 (00009880) > [Settings] 		BezelCorrected:0
+17:19:27:029 (00009880) > [Settings] 		Stereoscopic3D:0
+17:19:27:029 (00009880) > [Settings] Window settings:
+17:19:27:029 (00009880) > [Settings] 	Window rect: x:240 y:135 w:1440 h:810
+17:19:27:029 (00009880) > [Settings] 	User window: w:1440 h:810
+17:19:27:029 (00009880) > [Settings] 	Window maximized:0
+17:19:27:029 (00009880) > [Settings] Graphics Options:
+17:19:27:029 (00009880) > [Settings] 	TextureQuality:1, TextureFiltering:1, ShadowQuality:0, CHSQuality:0
+17:19:27:029 (00009880) > [Settings] 	AO:1, DOF:1, TAA:1, MSAA:0, Bloom:1, LensFlares: 1
+17:19:27:029 (00009880) > [Settings] 	SSS:0, CLOTH:0, MOTION:0, SSR:0, CA:1
+17:19:27:029 (00009880) > [Settings] 	VL:1, TESSEL:0, POM:1, SHARP:0
+17:19:27:029 (00009880) > [Settings] 	FOVCorrection:1.000000
+17:19:27:029 (00009880) > [Settings] 	LevelOfDetail:1
+17:19:27:029 (00009880) > [Settings] 	StereoSeparation:0.075000
+17:19:27:029 (00009880) > [Settings] 	StereoFarNear:0.250000
+17:19:27:029 (00009880) > [Settings] 	StereoNearSeparationMultiplier:0.350000
+17:19:27:029 (00009880) > [Settings] End of settings.
+17:19:27:029 (00009880) > [NxApp (Render Thread)] Finished enforcing display settings
+17:19:27:029 (00016288) > [NxApp] Finished enforcing display settings
+17:28:15:226 (00016288) > [DXGI] Destroyed swapchain.
+17:28:15:226 (00016288) > [SwapChain] Destroyed.

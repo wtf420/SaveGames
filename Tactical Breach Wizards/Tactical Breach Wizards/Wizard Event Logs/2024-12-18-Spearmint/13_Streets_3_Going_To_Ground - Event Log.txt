@@ -1,0 +1,289 @@
+13_Streets_3_Going_To_Ground
+ 
+Start of player turn 1
+Zan moved - from (25, 13) to (28, 13)
+Zan  - from (28, 13) to (32, 12)
+False Prophet sealed a hostile entry point - from (32, 12) to (32, 12)
+Zan  - from (28, 13) to (28, 16)
+False Prophet sealed a hostile entry point - from (28, 16) to (28, 16)
+Zan used 3 Bolt Burst on Chapel Shepherd Sycamore - from (28, 13) to (29, 12)
+Chapel Shepherd Sycamore armour blocked 1 damage
+Chapel Shepherd Sycamore took 1 knockback
+Chapel Shepherd Sycamore hit something with 1 knockback left
+Chapel Shepherd Sycamore took 1 damage
+Dall moved - from (25, 10) to (28, 8)
+Dall moved - from (25, 10) to (29, 9)
+Dall used Censer Slam on Chapel Shepherd Esteban - from (29, 9) to (30, 10)
+Chapel Shepherd Esteban armour blocked 1 damage
+Chapel Shepherd Esteban took 2 damage
+Chapel Shepherd Esteban took 1 knockback
+Chapel Shepherd Esteban hit something with 1 knockback left
+Chapel Shepherd Esteban took 1 damage
+Chapel Shepherd Sycamore shot Dall - from (29, 12) to (29, 9)
+Dall armour blocked 1 damage
+Dall stability prevented 1 knockback
+Dall moved - from (25, 10) to (29, 9)
+Dall Swapped with Zan - from (29, 9) to (25, 13)
+Zan moved - from (29, 9) to (34, 9)
+Zan  - from (34, 9) to (32, 12)
+False Prophet sealed a hostile entry point - from (32, 12) to (32, 12)
+Zan  - from (34, 9) to (37, 7)
+False Prophet sealed a hostile entry point - from (37, 7) to (37, 7)
+Dall used Charge - from (25, 13) to (30, 13)
+Banks used Sedative Cocktail - from (25, 11) to (30, 11)
+Chapel Shepherd Sycamore is Sedated
+Chapel Shepherd Esteban is Sedated
+Chapel Shepherd Sycamore shot Banks - from (29, 12) to (25, 11)
+Banks took 1 damage
+Banks took 1 knockback
+Chapel Shepherd Esteban shot Banks - from (30, 10) to (24, 11)
+Banks took 1 damage
+Banks took 1 knockback
+Banks hit something with 1 knockback left
+Banks took 1 damage
+Zan used 3 Bolt Burst on Chapel Shepherd Sycamore - from (34, 9) to (29, 12)
+Chapel Shepherd Sycamore armour blocked 1 damage
+Chapel Shepherd Sycamore took 2 knockback
+Chapel Shepherd Sycamore hit something with 1 knockback left
+Chapel Shepherd Sycamore took 1 damage
+Chapel Shepherd Esteban shot Zan - from (30, 10) to (34, 9)
+Zan took 1 damage
+Zan took 1 knockback
+Jen cast Static Blast on Chapel Shepherd Sycamore - from (25, 12) to (29, 12)
+Chapel Shepherd Sycamore took 3 knockback
+False Prophet took 1 knockback
+Chapel Shepherd Sycamore hit something with 1 knockback left
+Chapel Shepherd Sycamore took 1 damage
+Zan took a free shot at Chapel Shepherd Sycamore with Supporting Fire.
+Zan used 3 Bolt Burst on Chapel Shepherd Sycamore - from (34, 9) to (31, 12)
+Chapel Shepherd Sycamore armour blocked 1 damage
+Chapel Shepherd Sycamore took 2 knockback
+Chapel Shepherd Sycamore hit something with 2 knockback left
+Chapel Shepherd Sycamore took 2 damage
+Chapel Shepherd Esteban shot Jen - from (30, 10) to (25, 12)
+Jen took 1 damage
+Jen took 1 knockback
+Dall used Charge - from (25, 10) to (29, 10)
+Chapel Shepherd Esteban armour blocked 1 damage
+Chapel Shepherd Esteban took 4 knockback
+Chapel Shepherd Esteban was defenestrated - from (33, 10) to (33, 10)
+Chapel Shepherd Esteban took 5 damage
+Chapel Shepherd Esteban passed out
+Chapel Shepherd Sycamore shot Dall - from (29, 12) to (29, 10)
+Dall armour blocked 1 damage
+Dall stability prevented 1 knockback
+Dall Swapped with Zan - from (29, 10) to (25, 13)
+Zan moved - from (29, 10) to (33, 9)
+Zan  - from (33, 9) to (37, 7)
+False Prophet sealed a hostile entry point - from (37, 7) to (37, 7)
+Zan  - from (33, 9) to (32, 12)
+False Prophet sealed a hostile entry point - from (32, 12) to (32, 12)
+Zan used 3 Bolt Burst on Chapel Shepherd Sycamore - from (33, 9) to (29, 12)
+Chapel Shepherd Sycamore armour blocked 1 damage
+Chapel Shepherd Sycamore took 1 knockback
+Dall used Charge - from (25, 10) to (29, 10)
+Chapel Shepherd Esteban armour blocked 1 damage
+Chapel Shepherd Esteban took 4 knockback
+Chapel Shepherd Esteban was defenestrated - from (33, 10) to (33, 10)
+Chapel Shepherd Esteban took 5 damage
+Chapel Shepherd Esteban passed out
+Chapel Shepherd Sycamore shot Dall - from (29, 12) to (29, 10)
+Dall armour blocked 1 damage
+Dall stability prevented 1 knockback
+Dall Swapped with Zan - from (29, 10) to (25, 13)
+Dall moved - from (25, 13) to (28, 13)
+Zan moved - from (29, 10) to (33, 9)
+Zan  - from (33, 9) to (32, 12)
+False Prophet sealed a hostile entry point - from (32, 12) to (32, 12)
+Zan  - from (33, 9) to (37, 7)
+False Prophet sealed a hostile entry point - from (37, 7) to (37, 7)
+Jen moved - from (25, 12) to (25, 14)
+Jen cast Static Blast on Chapel Shepherd Sycamore - from (25, 14) to (29, 12)
+Chapel Shepherd Sycamore took 2 knockback
+Chapel Shepherd Sycamore hit something with 2 knockback left
+Chapel Shepherd Sycamore took 2 damage
+Zan took a free shot at Chapel Shepherd Sycamore with Supporting Fire.
+Zan used 3 Bolt Burst on Chapel Shepherd Sycamore - from (33, 9) to (29, 12)
+Chapel Shepherd Sycamore armour blocked 1 damage
+Chapel Shepherd Sycamore took 1 knockback
+Dall stability prevented 1 knockback
+Chapel Shepherd Sycamore hit something with 1 knockback left
+Chapel Shepherd Sycamore took 1 damage
+Jen cast Static Blast on Chapel Tracker Orchard - from (25, 14) to (31, 7)
+Chapel Tracker Orchard took 2 knockback
+Chapel Tracker Orchard hit something with 2 knockback left
+Chapel Tracker Orchard took 2 damage
+Zan took a free shot at Chapel Tracker Orchard with Supporting Fire.
+Zan used 3 Bolt Burst on Chapel Tracker Orchard - from (33, 9) to (31, 7)
+Chapel Tracker Orchard took 1 damage
+Chapel Tracker Orchard passed out
+Chapel Tracker Orchard took 1 knockback
+Chapel Shepherd Sycamore shot Jen - from (29, 12) to (25, 14)
+Jen took 1 damage
+Jen took 1 knockback
+Jen was defenestrated - from (25, 14) to (25, 14)
+Jen took 3 damage
+Jen passed out
+Jen moved - from (25, 12) to (25, 16)
+Jen cast Static Blast on Chapel Tracker Orchard - from (25, 16) to (31, 7)
+Chapel Tracker Orchard took 2 knockback
+Chapel Tracker Orchard hit something with 2 knockback left
+Chapel Tracker Orchard took 2 damage
+Zan took a free shot at Chapel Tracker Orchard with Supporting Fire.
+Zan used 3 Bolt Burst on Chapel Tracker Orchard - from (33, 9) to (31, 7)
+Chapel Tracker Orchard took 1 damage
+Chapel Tracker Orchard passed out
+Chapel Tracker Orchard took 1 knockback
+Chapel Shepherd Sycamore shot Jen - from (29, 12) to (25, 16)
+Dall armour blocked 1 damage
+Dall stability prevented 1 knockback
+Banks moved - from (25, 11) to (28, 8)
+False Prophet vanished
+False Prophet vanished
+Player ended their turn, starting enemy turn 1
+Chapel Cleanser Shipborn moved - from (28, 16) to (28, 15)
+Chapel Cleanser Shipborn took cover - from (28, 15) to (28, 15)
+End of enemy turn 1
+ 
+Start of player turn 2
+Banks used Death's Door - from (28, 8) to (29, 16)
+Dall moved - from (28, 13) to (29, 13)
+Dall used Censer Slam on Chapel Shepherd Sycamore - from (29, 13) to (29, 12)
+Chapel Shepherd Sycamore armour blocked 1 damage
+Chapel Shepherd Sycamore took 2 damage
+Chapel Shepherd Sycamore took 1 knockback
+Chapel Shepherd Sycamore hit something with 1 knockback left
+Chapel Shepherd Sycamore took 1 damage
+Banks used Sedative Cocktail - from (28, 8) to (29, 11)
+Chapel Shepherd Sycamore is Sedated
+Dall moved - from (28, 13) to (29, 13)
+Dall used Censer Slam on Chapel Shepherd Sycamore - from (29, 13) to (29, 12)
+Chapel Shepherd Sycamore armour blocked 1 damage
+Chapel Shepherd Sycamore took 2 damage
+Chapel Shepherd Sycamore took 2 knockback
+Chapel Shepherd Sycamore hit something with 2 knockback left
+Chapel Shepherd Sycamore took 2 damage
+Banks used Grab Intel - from (28, 8) to (28, 7)
+Dall used Throw Riot Block - from (28, 13) to (30, 11)
+Dall used Censer Slam on Chapel Shepherd Sycamore - from (28, 13) to (29, 12)
+Chapel Shepherd Sycamore armour blocked 1 damage
+Chapel Shepherd Sycamore took 2 damage
+Chapel Shepherd Sycamore took 2 knockback
+Chapel Shepherd Sycamore hit something with 2 knockback left
+Chapel Shepherd Sycamore took 2 damage
+Zan moved - from (33, 9) to (30, 12)
+Zan  - from (30, 12) to (28, 16)
+False Prophet sealed a hostile entry point - from (28, 16) to (28, 16)
+Jen moved - from (25, 16) to (25, 12)
+Banks used Death's Door - from (28, 8) to (29, 16)
+Jen moved - from (25, 16) to (27, 12)
+Jen cast Static Blast on Chapel Cleanser Shipborn - from (27, 12) to (28, 15)
+Chapel Cleanser Shipborn took 2 knockback
+Chapel Cleanser Shipborn hit something with 1 knockback left
+Chapel Cleanser Shipborn took 1 damage
+Jen moved - from (25, 16) to (26, 12)
+Jen moved - from (25, 16) to (29, 15)
+Jen cast Static Blast on Chapel Cleanser Shipborn - from (29, 15) to (28, 15)
+Chapel Cleanser Shipborn took 2 knockback
+Chapel Cleanser Shipborn hit something with 2 knockback left
+Chapel Cleanser Shipborn took 2 damage
+Zan took a free shot at Chapel Cleanser Shipborn with Supporting Fire.
+Zan used 3 Bolt Burst on Chapel Cleanser Shipborn - from (33, 9) to (28, 15)
+Chapel Cleanser Shipborn took 1 damage
+Chapel Cleanser Shipborn passed out
+Chapel Cleanser Shipborn took 1 knockback
+Chapel Cleanser Shipborn hit something with 1 knockback left
+Chapel Shepherd Sycamore shot Jen - from (29, 12) to (29, 15)
+Jen took 1 damage
+Jen took 1 knockback
+Banks used Sedative Cocktail - from (28, 8) to (30, 11)
+Chapel Shepherd Sycamore is Sedated
+Dall used Throw Riot Block - from (28, 13) to (30, 12)
+Dall moved - from (28, 13) to (28, 12)
+Dall moved - from (28, 13) to (26, 12)
+Dall used Charge - from (26, 12) to (28, 12)
+Chapel Shepherd Sycamore armour blocked 1 damage
+Chapel Shepherd Sycamore took 3 knockback
+Chapel Shepherd Sycamore hit something with 3 knockback left
+Riot Block added 1 extra impact damage
+Chapel Shepherd Sycamore took 4 damage
+Zan took a free shot at Chapel Shepherd Sycamore with Supporting Fire.
+Zan used 3 Bolt Burst on Chapel Shepherd Sycamore - from (33, 9) to (29, 12)
+Chapel Shepherd Sycamore armour blocked 1 damage
+Chapel Shepherd Sycamore took 2 knockback
+Chapel Shepherd Sycamore hit something with 1 knockback left
+Chapel Shepherd Sycamore took 1 damage
+Chapel Shepherd Sycamore passed out
+Dall moved - from (28, 13) to (24, 12)
+Dall used Charge - from (24, 12) to (28, 12)
+Chapel Shepherd Sycamore armour blocked 1 damage
+Chapel Shepherd Sycamore took 5 knockback
+Chapel Shepherd Sycamore hit something with 5 knockback left
+Riot Block added 1 extra impact damage
+Chapel Shepherd Sycamore took 6 damage
+Chapel Shepherd Sycamore passed out
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Zan moved - from (33, 9) to (31, 12)
+Dall moved - from (28, 13) to (29, 16)
+Dall used Charge - from (29, 16) to (29, 13)
+Chapel Shepherd Sycamore armour blocked 1 damage
+Chapel Shepherd Sycamore took 3 knockback
+Chapel Shepherd Sycamore hit something with 3 knockback left
+Chapel Shepherd Sycamore took 3 damage
+Banks used Sedative Cocktail on Chapel Shepherd Sycamore - from (28, 8) to (29, 12)
+Chapel Shepherd Sycamore took 1 knockback
+Chapel Shepherd Sycamore is Sedated
+Zan took a free shot at Chapel Shepherd Sycamore with Supporting Fire.
+Zan used 3 Bolt Burst on Chapel Shepherd Sycamore - from (33, 9) to (29, 13)
+Chapel Shepherd Sycamore armour blocked 1 damage
+Chapel Shepherd Sycamore took 2 knockback
+Chapel Shepherd Sycamore hit something with 1 knockback left
+Chapel Shepherd Sycamore took 1 damage
+Banks used Sedative Cocktail - from (28, 8) to (29, 11)
+Chapel Shepherd Sycamore is Sedated
+Dall used Charge - from (29, 16) to (29, 13)
+Chapel Shepherd Sycamore armour blocked 1 damage
+Chapel Shepherd Sycamore took 4 knockback
+Chapel Shepherd Sycamore hit something with 4 knockback left
+Chapel Shepherd Sycamore took 4 damage
+Zan took a free shot at Chapel Shepherd Sycamore with Supporting Fire.
+Zan used 3 Bolt Burst on Chapel Shepherd Sycamore - from (33, 9) to (29, 12)
+Chapel Shepherd Sycamore armour blocked 1 damage
+Chapel Shepherd Sycamore took 2 knockback
+Chapel Shepherd Sycamore hit something with 1 knockback left
+Chapel Shepherd Sycamore took 1 damage
+Chapel Shepherd Sycamore passed out
+Zan moved - from (33, 9) to (31, 12)
+Zan moved - from (33, 9) to (30, 12)
+Zan  - from (30, 12) to (28, 16)
+False Prophet sealed a hostile entry point - from (28, 16) to (28, 16)
+Zan moved - from (33, 9) to (29, 10)
+Zan moved - from (33, 9) to (30, 12)
+Zan  - from (30, 12) to (28, 16)
+False Prophet sealed a hostile entry point - from (28, 16) to (28, 16)
+Banks used Sedative Cocktail - from (28, 8) to (28, 11)
+Chapel Shepherd Sycamore is Sedated
+Dall moved - from (28, 13) to (24, 12)
+Dall used Charge - from (24, 12) to (28, 12)
+Chapel Shepherd Sycamore armour blocked 1 damage
+Chapel Shepherd Sycamore took 5 knockback
+Zan took 1 knockback
+Chapel Shepherd Sycamore hit something with 5 knockback left
+Chapel Shepherd Sycamore took 5 damage
+Chapel Shepherd Sycamore passed out
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Jen moved - from (25, 16) to (29, 14)
+Jen cast Chain Bolt on Chapel Cleanser Shipborn, Jen - from (29, 14) to (28, 15)
+Chapel Cleanser Shipborn took 2 knockback
+Jen took 2 knockback
+Chapel Cleanser Shipborn hit something with 2 knockback left
+Chapel Cleanser Shipborn took 2 damage
+Jen hit something with 1 knockback left
+Jen took 1 damage
+Jen cast Static Blast on Chapel Cleanser Shipborn - from (30, 13) to (28, 15)
+Chapel Cleanser Shipborn took 2 knockback
+Chapel Cleanser Shipborn hit something with 2 knockback left
+Chapel Cleanser Shipborn took 2 damage
+Chapel Cleanser Shipborn passed out
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+False Prophet vanished

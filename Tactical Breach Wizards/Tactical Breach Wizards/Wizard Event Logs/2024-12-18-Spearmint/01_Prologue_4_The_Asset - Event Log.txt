@@ -1,0 +1,59 @@
+01_Prologue_4_The_Asset
+ 
+Start of player turn 1
+Zan breached - from (0, 15) to (1, 15)
+Liv Kennedy cast Execute on Mafia Shrublord Coget - from (-1, 19) to (3, 20)
+Mafia Shrublord Coget took 10 damage
+Mafia Shrublord Coget passed out
+Mafia Shrublord Coget took 2 knockback
+Mafia Shrublord Coget was defenestrated - from (4, 20) to (4, 20)
+Liv Kennedy cast Execute on Mafia Sprig Balwinder - from (-1, 19) to (3, 17)
+Mafia Sprig Balwinder took 10 damage
+Mafia Sprig Balwinder passed out
+Mafia Sprig Balwinder took 2 knockback
+Mafia Sprig Balwinder hit something with 1 knockback left
+Liv Kennedy took cover - from (-1, 19) to (-1, 19)
+Zan moved - from (1, 15) to (1, 19)
+Zan used 3 Bolt Burst on Mafia Sprig Schottle - from (1, 19) to (1, 21)
+Mafia Sprig Schottle took 1 damage
+Mafia Sprig Schottle took 1 knockback
+Mafia Sprig Schottle hit something with 1 knockback left
+Mafia Sprig Schottle took 1 damage
+Mafia Sprig Schottle passed out
+Extractor used Abduct on Liv Kennedy - from (-1, 18) to (-1, 19)
+Zan moved - from (1, 15) to (1, 18)
+Zan used 3 Bolt Burst on Extractor - from (1, 18) to (-1, 18)
+Extractor armour blocked 1 damage
+Extractor took 1 knockback
+Extractor was defenestrated - from (-1, 18) to (-1, 18)
+Extractor took 6 damage
+Extractor passed out
+Mafia Sprig Schottle shot Hostage - from (1, 21) to (0, 21)
+Hostage took 2 damage
+Hostage passed out
+Zan moved - from (1, 15) to (1, 18)
+Zan used 3 Bolt Burst on Extractor - from (1, 18) to (-1, 18)
+Extractor armour blocked 1 damage
+Extractor took 1 knockback
+Extractor was defenestrated - from (-1, 18) to (-1, 18)
+Extractor took 6 damage
+Extractor passed out
+Mafia Sprig Schottle shot Hostage - from (1, 21) to (0, 21)
+Hostage took 2 damage
+Hostage passed out
+Zan used 3 Bolt Burst on Mafia Sprig Schottle - from (1, 18) to (1, 21)
+Mafia Sprig Schottle took 1 damage
+Mafia Sprig Schottle took 1 knockback
+Mafia Sprig Schottle hit something with 1 knockback left
+Mafia Sprig Schottle took 1 damage
+Mafia Sprig Schottle passed out
+Zan took cover - from (1, 18) to (1, 18)
+Zan stood up - from (1, 18) to (1, 18)
+Zan took cover - from (1, 18) to (1, 18)
+Extractor used Abduct on Liv Kennedy - from (-1, 18) to (-1, 19)
+Player ended their turn, starting enemy turn 1
+End of enemy turn 1
+ 
+Start of player turn 2
+Zan moved - from (1, 18) to (1, 21)
+Zan used Blink Out on Hostage - from (1, 21) to (0, 21)

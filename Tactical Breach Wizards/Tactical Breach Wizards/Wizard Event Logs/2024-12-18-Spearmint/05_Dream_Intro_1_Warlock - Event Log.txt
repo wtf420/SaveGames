@@ -1,0 +1,36 @@
+05_Dream_Intro_1_Warlock
+ 
+Start of player turn 1
+Jen breached - from (-3, 1) to (-3, 0)
+Jen moved - from (-3, 0) to (-2, 2)
+Jen cast Static Blast on Grenadier Elm - from (-2, 2) to (-1, 2)
+Grenadier Elm took 2 knockback
+Grenadier Elm hit something with 1 knockback left
+Grenadier Elm took 1 damage
+Jen cast Chain Bolt on Grenadier Elm, Air Canister - from (-2, 2) to (-1, 2)
+Air Canister took 4 knockback
+Air Canister hit something with 4 knockback left
+Air Canister took 4 damage
+Air Canister exploded
+RPD Tracker Capizzi took 3 knockback
+RPD Tracker Lafoon took 3 knockback
+RPD Tracker Capizzi was defenestrated - from (0, 2) to (0, 2)
+Traffic Warlock took 1 knockback
+RPD Tracker Lafoon hit something with 2 knockback left
+RPD Tracker Lafoon took 2 damage
+RPD Tracker Lafoon passed out
+Traffic Warlock was defenestrated - from (3, 0) to (3, 0)
+RPD Tracker Capizzi took 2 damage
+RPD Tracker Capizzi passed out
+Traffic Warlock took 6 damage
+Traffic Warlock passed out
+Zan moved - from (-3, -1) to (-1, 1)
+Zan used 3 Bolt Burst on Grenadier Elm - from (-1, 1) to (-1, 2)
+Grenadier Elm took 1 damage
+Grenadier Elm took 1 knockback
+Grenadier Elm was defenestrated - from (-1, 2) to (-1, 2)
+Grenadier Elm took 1 damage
+Grenadier Elm passed out
+Zan moved - from (-1, 1) to (-2, 0)
+Zan used Grab Intel - from (-2, 0) to (-1, 0)
+Zan moved - from (-2, 0) to (3, 0)

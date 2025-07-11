@@ -1,0 +1,308 @@
+25_Villa_Medil_1_Split_Focus
+ 
+Start of player turn 1
+Rion breached - from (-3, -9) to (-2, -9)
+Rion cast Impaling Vine on Reactor Tracker Plaza - from (-2, -9) to (-2, -5)
+Reactor Tracker Plaza took 1 damage
+Reactor Tracker Plaza took 3 knockback
+Reactor Tracker Plaza hit something with 2 knockback left
+Reactor Tracker Plaza took 1 extra damage from Brittle, Brittle reduced to 0
+Reactor Tracker Plaza is no longer Brittle
+Reactor Tracker Plaza took 3 damage
+Reactor Tracker Plaza passed out
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Jen breached - from (-5, 2) to (-5, 1)
+Jen cast Chain Bolt on Reactor Shotgunner Rodriguez, Reactor Sniper Easterling, Reactor Sniper Cadiz - from (-5, 1) to (-1, 1)
+Reactor Shotgunner Rodriguez took 2 knockback
+Reactor Sniper Easterling took 2 knockback
+Reactor Sniper Cadiz took 2 knockback
+Reactor Sniper Easterling hit something with 2 knockback left
+Reactor Sniper Easterling took 2 damage
+Reactor Sniper Cadiz hit something with 2 knockback left
+Reactor Sniper Cadiz took 2 damage
+Rion cast Impaling Vine on Reactor Sniper Easterling - from (-2, -9) to (-4, 3)
+Reactor Sniper Easterling took 1 damage
+Reactor Sniper Easterling took 3 knockback
+Reactor Sniper Easterling hit something with 3 knockback left
+Reactor Sniper Easterling took 1 extra damage from Brittle, Brittle reduced to 0
+Reactor Sniper Easterling is no longer Brittle
+Reactor Sniper Easterling took 4 damage
+Reactor Sniper Easterling passed out
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Rion cast Impaling Vine on Reactor Shotgunner Rodriguez - from (-2, -9) to (-1, 1)
+Reactor Shotgunner Rodriguez took 1 damage
+Reactor Shotgunner Rodriguez took 3 knockback
+Reactor Shotgunner Rodriguez was defenestrated - from (-1, -1) to (-1, -1)
+Reactor Shotgunner Rodriguez took 1 extra damage from Brittle, Brittle reduced to 0
+Reactor Shotgunner Rodriguez is no longer Brittle
+Reactor Shotgunner Rodriguez took 4 damage
+Reactor Shotgunner Rodriguez passed out
+Rion cast Brittling Dart on Reactor Sniper Easterling - from (-2, -9) to (-4, 3)
+Rion cast Impaling Vine on Reactor Sniper Easterling - from (-2, -9) to (-4, 3)
+Reactor Sniper Easterling took 1 damage
+Reactor Sniper Easterling took 3 knockback
+Reactor Sniper Easterling hit something with 3 knockback left
+Reactor Sniper Easterling took 1 extra damage from Brittle, Brittle reduced to 0
+Reactor Sniper Easterling is no longer Brittle
+Reactor Sniper Easterling took 4 damage
+Reactor Sniper Easterling passed out
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Jen breached - from (-5, 2) to (-5, 1)
+Jen moved - from (-5, 1) to (-2, 2)
+Jen used Use Laptop - from (-2, 2) to (-2, 3)
+Jen cast Static Blast on Reactor Sniper Cadiz - from (-2, 2) to (1, -8)
+Reactor Sniper Cadiz took 2 knockback
+Reactor Sniper Cadiz hit something with 2 knockback left
+Reactor Sniper Cadiz took 2 damage
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Rion breached - from (-3, -9) to (-2, -9)
+Rion cast Impaling Vine on Reactor Sniper Easterling - from (-2, -9) to (-4, 3)
+Reactor Sniper Easterling took 1 damage
+Reactor Sniper Easterling took 3 knockback
+Reactor Sniper Easterling hit something with 3 knockback left
+Reactor Sniper Easterling took 1 extra damage from Brittle, Brittle reduced to 0
+Reactor Sniper Easterling is no longer Brittle
+Reactor Sniper Easterling took 4 damage
+Reactor Sniper Easterling passed out
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Dall repositioned - from (-5, 0) to (-5, 2)
+Dall breached - from (-5, 2) to (-5, 1)
+Dall used Throw Riot Block - from (-5, 1) to (0, 1)
+Dall used Charge - from (-5, 1) to (-2, 1)
+Reactor Shotgunner Rodriguez took 1 damage
+Reactor Shotgunner Rodriguez took 6 knockback
+Reactor Shotgunner Rodriguez hit something with 6 knockback left
+Riot Block added 1 extra impact damage
+Reactor Shotgunner Rodriguez took 7 damage
+Reactor Shotgunner Rodriguez passed out
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Jen moved - from (-5, 0) to (-2, 2)
+Jen used Use Laptop - from (-2, 2) to (-2, 3)
+Dall moved - from (-2, 1) to (1, 2)
+Dall moved - from (-2, 1) to (0, 3)
+Dall sealed a hostile entry point - from (0, 3) to (0, 3)
+Banks moved - from (-5, -1) to (-2, -1)
+Banks used Sedative Cocktail on Reactor Sniper Cadiz - from (-2, -1) to (1, -8)
+Reactor Sniper Cadiz took 1 knockback
+Reactor Sniper Cadiz is Sedated
+Reactor Sniper Cadiz hit something with 1 knockback left
+Reactor Sniper Cadiz took 1 damage
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Jen cast Static Blast on Reactor Sniper Cadiz - from (-2, 2) to (1, -8)
+Reactor Sniper Cadiz took 4 knockback
+Reactor Sniper Cadiz hit something with 4 knockback left
+Reactor Sniper Cadiz took 4 damage
+Reactor Sniper Cadiz passed out
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Rion moved - from (-2, -9) to (-1, -5)
+Zan moved - from (-1, -9) to (1, -7)
+Zan used 3 Bolt Burst on Reactor Tracker Plaza - from (1, -7) to (-2, -5)
+Reactor Tracker Plaza took 2 damage
+Reactor Tracker Plaza took 1 knockback
+Reactor Tracker Plaza hit something with 1 knockback left
+Reactor Tracker Plaza took 1 damage
+Reactor Tracker Plaza passed out
+Jen moved - from (-2, 2) to (1, 2)
+Rion breached - from (-3, -9) to (-2, -9)
+Rion cast Impaling Vine on Reactor Shotgunner Rodriguez - from (-2, -9) to (-1, 1)
+Reactor Shotgunner Rodriguez took 1 damage
+Reactor Shotgunner Rodriguez took 3 knockback
+Reactor Shotgunner Rodriguez was defenestrated - from (-1, -1) to (-1, -1)
+Reactor Shotgunner Rodriguez took 1 extra damage from Brittle, Brittle reduced to 0
+Reactor Shotgunner Rodriguez is no longer Brittle
+Reactor Shotgunner Rodriguez took 4 damage
+Reactor Shotgunner Rodriguez passed out
+Jen breached - from (-5, 2) to (-5, 1)
+Dall Swapped with Reactor Sniper Easterling - from (-5, 0) to (-4, 3)
+Reactor Sniper Easterling shot Banks on overwatch
+Banks took 4 damage
+Banks passed out
+Dall repositioned - from (-5, 0) to (-5, -1)
+Dall Swapped with Reactor Sniper Easterling - from (-5, -1) to (-4, 3)
+Dall moved - from (-4, 3) to (0, 3)
+Dall sealed a hostile entry point - from (0, 3) to (0, 3)
+Dall Swapped with Jen - from (0, 3) to (-5, 1)
+Dall Swapped with Rion - from (0, 3) to (-2, -9)
+Dall Swapped with Reactor Sniper Cadiz - from (-2, -9) to (1, -8)
+Dall Swapped with Reactor Sniper Cadiz - from (-2, -9) to (1, -8)
+Zan shot Reactor Sniper Cadiz on overwatch
+Reactor Sniper Cadiz took 4 damage
+Reactor Sniper Cadiz passed out
+Zan moved - from (-1, -9) to (-2, -8)
+Zan used 3 Bolt Burst on Reactor Tracker Plaza - from (-2, -8) to (-2, -5)
+Reactor Tracker Plaza took 2 damage
+Reactor Tracker Plaza took 1 knockback
+Banks moved - from (-5, 0) to (-2, 2)
+Banks used Use Laptop - from (-2, 2) to (-2, 3)
+Jen cast Static Blast on Reactor Sniper Easterling - from (-5, 1) to (-5, -1)
+Reactor Sniper Easterling took 2 knockback
+Reactor Sniper Easterling hit something with 2 knockback left
+Reactor Sniper Easterling took 2 damage
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Banks moved - from (-5, 0) to (-2, 2)
+Banks used Use Laptop - from (-2, 2) to (-2, 3)
+Jen breached - from (-5, 2) to (-5, 1)
+Dall Swapped with Rion - from (-5, 0) to (-2, -9)
+Dall Swapped with Reactor Sniper Easterling - from (-2, -9) to (-4, 3)
+Zan shot Reactor Sniper Easterling on overwatch
+Reactor Sniper Easterling took 4 damage
+Reactor Sniper Easterling passed out
+Dall moved - from (-4, 3) to (-2, 2)
+Dall used Use Laptop - from (-2, 2) to (-2, 3)
+Dall Swapped with Rion - from (-2, 2) to (-5, 0)
+Dall Swapped with Zan - from (-5, 0) to (-1, -9)
+Zan moved - from (-5, 0) to (0, 1)
+Zan  - from (0, 1) to (0, 3)
+False Prophet sealed a hostile entry point - from (0, 3) to (0, 3)
+Rion moved - from (-2, 2) to (1, 2)
+Rion breached - from (1, 2) to (1, 1)
+Zan moved - from (-5, 0) to (-2, 1)
+Rion bit on Reactor Shotgunner Dialect - from (4, 1) to (5, 1)
+Reactor Shotgunner Dialect took 1 damage
+Zan moved - from (-5, 0) to (-2, 1)
+Zan  - from (-2, 1) to (0, 3)
+False Prophet sealed a hostile entry point - from (0, 3) to (0, 3)
+Jen moved - from (-5, 1) to (-1, 1)
+Jen cast Static Blast on Reactor Sniper Cadiz - from (-1, 1) to (1, -8)
+Reactor Sniper Cadiz took 2 knockback
+Reactor Sniper Cadiz hit something with 2 knockback left
+Reactor Sniper Cadiz took 2 damage
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Jen moved - from (-1, 1) to (0, 3)
+Dall Swapped with Rion - from (-1, -9) to (1, 1)
+Dall Swapped with Zan - from (1, 1) to (-5, 0)
+Zan moved - from (1, 1) to (0, 3)
+Zan sealed a hostile entry point - from (0, 3) to (0, 3)
+Dall Swapped with Zan - from (-5, 0) to (0, 3)
+Dall Swapped with Rion - from (0, 3) to (-1, -9)
+Jen moved - from (-5, 1) to (-1, 2)
+Dall Swapped with Jen - from (-1, -9) to (-1, 2)
+Dall Swapped with Zan - from (-1, 2) to (-5, 0)
+Banks moved - from (-5, -1) to (-2, 1)
+Banks used Sedative Cocktail on Reactor Sniper Cadiz - from (-2, 1) to (1, -8)
+Reactor Sniper Cadiz took 1 knockback
+Reactor Sniper Cadiz is Sedated
+Reactor Sniper Cadiz hit something with 1 knockback left
+Reactor Sniper Cadiz took 1 damage
+Zan took a free shot at Reactor Sniper Cadiz with Supporting Fire.
+Zan used 3 Bolt Burst on Reactor Sniper Cadiz - from (-1, 2) to (1, -8)
+Reactor Sniper Cadiz took 2 damage
+Reactor Sniper Cadiz passed out
+Reactor Sniper Cadiz took 3 knockback
+Reactor Sniper Cadiz hit something with 3 knockback left
+Zan used Time Boost - from (-1, 2) to (-1, 2)
+Rion cast Impaling Vine on Reactor Tracker Plaza - from (0, 3) to (-2, -5)
+Reactor Tracker Plaza took 1 damage
+Reactor Tracker Plaza took 3 knockback
+Reactor Tracker Plaza was defenestrated - from (-2, -4) to (-2, -4)
+Reactor Tracker Plaza took 1 extra damage from Brittle, Brittle reduced to 0
+Reactor Tracker Plaza is no longer Brittle
+Reactor Tracker Plaza took 3 damage
+Reactor Tracker Plaza passed out
+Banks used Sedative Cocktail on Reactor Shotgunner Dialect - from (-2, 1) to (5, 1)
+Reactor Shotgunner Dialect took 1 knockback
+Reactor Shotgunner Dialect is Sedated
+Zan didn't have a clear shot at the target to provide Supporting Fire.
+Rion bit on Reactor Shotgunner Dialect - from (5, 1) to (6, 1)
+Reactor Shotgunner Dialect took 1 damage
+Reactor Shotgunner Dialect used Shotgun Blast on Reactor Tracker Sitwala - from (6, 1) to (6, 3)
+Reactor Tracker Sitwala took 3 damage
+Reactor Tracker Sitwala passed out
+Reactor Tracker Sitwala took 1 knockback
+Reactor Tracker Sitwala hit something with 1 knockback left
+Reactor Shotgunner Dialect took 2 damage
+Player ended their turn, starting enemy turn 1
+Reactor Shotgunner Dialect moved - from (6, 1) to (3, -1)
+Reactor Shotgunner Craze moved - from (6, -4) to (5, -1)
+Reactor Tracker Circini moved - from (3, -2) to (4, 0)
+Reactor Heavy Gunner Venatici moved - from (5, -6) to (5, -5)
+Reactor Heavy Gunner Venatici launched a grenade - from (5, -5) to (0, 3)
+End of enemy turn 1
+ 
+Start of player turn 2
+Jen moved - from (-1, -9) to (1, -6)
+Rion moved - from (5, 1) to (6, 0)
+Rion sealed a hostile entry point - from (6, 0) to (6, 0)
+Dall Swapped with Rion - from (-5, 0) to (6, 0)
+Zan moved - from (-1, 2) to (3, 2)
+Dall used Censer Slam - from (6, 0) to (6, -1)
+Explosive Barrel took 3 damage
+Explosive Barrel took 1 knockback
+Explosive Barrel exploded
+Reactor Shotgunner Craze took 4 damage
+Reactor Shotgunner Craze passed out
+Reactor Shotgunner Craze took 1 knockback
+Reactor Tracker Circini took 1 knockback
+Reactor Shotgunner Craze hit something with 1 knockback left
+Reactor Tracker Circini hit something with 1 knockback left
+Reactor Tracker Circini took 1 damage
+Dall used Charge - from (6, 0) to (5, 0)
+Reactor Tracker Circini took 1 damage
+Reactor Tracker Circini took 1 knockback
+Reactor Tracker Circini hit something with 1 knockback left
+Reactor Tracker Circini took 1 damage
+Zan took a free shot at Reactor Tracker Circini with Supporting Fire.
+Zan used 3 Bolt Burst on Reactor Tracker Circini - from (3, 2) to (4, 0)
+Reactor Tracker Circini took 2 damage
+Reactor Tracker Circini passed out
+Reactor Tracker Circini took 1 knockback
+Reactor Shotgunner Craze took 1 knockback
+Reactor Tracker Circini hit something with 1 knockback left
+Reactor Shotgunner Craze hit something with 1 knockback left
+Reactor Shotgunner Craze took 1 damage
+Dall used Censer Slam on Reactor Shotgunner Craze - from (5, 0) to (5, -1)
+Reactor Shotgunner Craze took 3 damage
+Reactor Shotgunner Craze passed out
+Reactor Shotgunner Craze took 1 knockback
+Reactor Shotgunner Craze hit something with 1 knockback left
+Dall Swapped with Reactor Heavy Gunner Venatici - from (5, 0) to (5, -5)
+Jen cast Chain Bolt on Dall, Explosive Barrel, Reactor Heavy Gunner Venatici - from (1, -6) to (5, -5)
+Dall stability prevented 1 knockback
+Dall took 1 knockback
+Explosive Barrel took 2 knockback
+Reactor Heavy Gunner Venatici stability prevented 1 knockback
+Reactor Heavy Gunner Venatici took 1 knockback
+Jen cast Chain Bolt on Dall, Zan, Reactor Heavy Gunner Venatici - from (1, -6) to (5, -5)
+Dall stability prevented 1 knockback
+Dall took 1 knockback
+Zan took 2 knockback
+Reactor Heavy Gunner Venatici stability prevented 1 knockback
+Reactor Heavy Gunner Venatici took 1 knockback
+Explosive Barrel took 1 knockback
+Reactor Heavy Gunner Venatici hit something with 1 knockback left
+Reactor Heavy Gunner Venatici took 1 damage
+Explosive Barrel hit something with 1 knockback left
+Explosive Barrel took 1 damage
+Explosive Barrel exploded
+Reactor Heavy Gunner Venatici armour blocked 1 damage
+Reactor Heavy Gunner Venatici took 3 damage
+Reactor Heavy Gunner Venatici passed out
+Reactor Heavy Gunner Venatici stability prevented 1 knockback
+Zan hit something with 1 knockback left
+Zan took 1 damage
+Reactor Shotgunner Dialect used Shotgun Blast on Zan - from (3, 1) to (3, 3)
+Zan took 3 damage
+Zan passed out
+Zan took 1 knockback
+Zan hit something with 1 knockback left
+Reactor Shotgunner Dialect took 2 damage
+Reactor Shotgunner Dialect passed out
+Jen cast Chain Bolt on Dall, Reactor Shotgunner Dialect, Explosive Barrel - from (1, -6) to (5, -5)
+Dall stability prevented 1 knockback
+Dall took 1 knockback
+Reactor Shotgunner Dialect took 4 knockback
+Explosive Barrel took 2 knockback
+Reactor Shotgunner Dialect hit something with 4 knockback left
+Reactor Shotgunner Dialect took 4 damage
+Reactor Shotgunner Dialect passed out
+Explosive Barrel hit something with 2 knockback left
+Explosive Barrel took 2 damage
+Explosive Barrel exploded
+Reactor Heavy Gunner Venatici armour blocked 1 damage
+Reactor Heavy Gunner Venatici took 3 damage
+Reactor Heavy Gunner Venatici stability prevented 1 knockback
+Zan used 3 Bolt Burst on Reactor Heavy Gunner Venatici - from (3, 2) to (5, 0)
+Reactor Heavy Gunner Venatici armour blocked 1 damage
+Reactor Heavy Gunner Venatici took 1 damage
+Reactor Heavy Gunner Venatici passed out
+Reactor Heavy Gunner Venatici stability prevented 1 knockback
