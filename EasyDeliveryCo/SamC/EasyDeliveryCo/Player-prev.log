@@ -1,0 +1,431 @@
+Mono path[0] = 'D:/Easy.Delivery.Co.v1.12b-P2P/EasyDeliveryCo_Data/Managed'
+Mono config path = 'D:/Easy.Delivery.Co.v1.12b-P2P/MonoBleedingEdge/etc'
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Loading player data from D:/Easy.Delivery.Co.v1.12b-P2P/EasyDeliveryCo_Data/data.unity3d
+Initialize engine version: 6000.0.58f2 (92dee566b325)
+[Subsystems] Discovering subsystems at path D:/Easy.Delivery.Co.v1.12b-P2P/EasyDeliveryCo_Data/UnitySubsystems
+kGfxThreadingModeSplitJobs is not supported on Direct3D 11. Reverting to kGfxThreadingModeClientWorkerJobs instead.
+GfxDevice: creating device client; kGfxThreadingModeClientWorkerJobs
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon RX 7700 XT (ID=0x747e)
+    Vendor:   ATI
+    VRAM:     12272 MB
+    Driver:   32.0.22029.1019
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.079 seconds
+- Finished resetting the current domain, in  0.002 seconds
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+D3D11 device created for Microsoft Media Foundation video decoding.
+<RI> Initializing input.
+Using Windows.Gaming.Input
+<RI> Input initialized.
+UnloadTime: 0.253600 ms
+D:/Easy.Delivery.Co.v1.12b-P2P/EasyDeliveryCo_Data/StreamingAssets/CustomRadio\cat.wav
+RenderGraph is now disabled.
+CommandBuffer: temporary render texture  not found while executing  (Copy source)
+CommandBuffer: temporary render texture  not found while executing  (Copy destination)
+0.3000278
+Custom tracks loaded :)
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 9.241100 ms
+Dest node List
+Easy Flowers - 0 - 3711.972
+Node (57) - 1 - 3699.355
+Node (48) - 2 - 3683.931
+Node (56) - 3 - 3673.52
+Node (55) - 4 - 3659.234
+Easy Eats - 5 - 3632.359
+Node (47) - 6 - 3608.159
+Node (54) - 7 - 3592.131
+Node (5) - 8 - 1381.91
+EZ Bakery - 9 - 1391.553
+Node (59) - 10 - 1401.691
+Node (60) - 11 - 1409.766
+Bar - 12 - 1339.378
+Easy Depot - 13 - 1309.811
+Bar - 14 - 924.6617
+EZ Cafe - 15 - 899.3525
+Node (65) - 16 - 887.3282
+Node (71) - 17 - 547.8194
+Node (72) - 18 - 536.6724
+Easy Pizza - 19 - 521.2828
+Node (74) - 20 - 502.5465
+Pawn Shop - 21 - 395.3722
+EZ Auto - 22 - 412.1122
+EZ Mart - 23 - 470.1815
+Node (92) - 24 - 3738.882
+Node (93) - 25 - 3747.472
+Dest node List
+Easy Flowers - 0 - 146.6167
+Node (57) - 1 - 159.2335
+Node (48) - 2 - 174.6584
+Node (56) - 3 - 185.069
+Node (55) - 4 - 199.3546
+Easy Eats - 5 - 226.2296
+Node (47) - 6 - 250.4304
+Node (54) - 7 - 266.4581
+Node (5) - 8 - 2715.097
+EZ Bakery - 9 - 2724.741
+Node (59) - 10 - 2734.879
+Node (60) - 11 - 2745.307
+Bar - 12 - 2815.695
+Easy Depot - 13 - 2845.262
+Bar - 14 - 2931.301
+EZ Cafe - 15 - 2956.61
+Node (65) - 16 - 2968.635
+Node (71) - 17 - 3485.784
+Node (72) - 18 - 3496.931
+Easy Pizza - 19 - 3512.321
+Node (74) - 20 - 3531.057
+Pawn Shop - 21 - 3515.551
+EZ Auto - 22 - 3498.811
+EZ Mart - 23 - 3440.742
+Node (92) - 24 - 117.0803
+Node (93) - 25 - 108.4905
+Saved Successfully :3
+Node graph changed and / or incomplete
+Unloading 226 unused Assets to reduce memory usage. Loaded Objects now: 91237.
+Total: 36.625300 ms (FindLiveObjects: 5.540700 ms CreateObjectMapping: 0.410900 ms MarkObjects: 29.772200 ms  DeleteObjects: 0.901300 ms)
+
+0.1635069
+Node graph changed and / or incomplete
+Node graph changed and / or incomplete
+Yo!
+The people in town are getting together more often.
+More people to pitch my self-deleting spam email idea to!
+Whatever they're paying you, I'll pay you slightly less to go away.
+That'll be $price
+Sometimes, I try to talk to the birds.
+They ignore me every time.
+Must have been personal.
+Sometimes, I try to talk to the birds.
+They ignore me every time.
+Must have been personal.
+Sometimes, I try to talk to the birds.
+They ignore me every time.
+Must have been personal.
+Sometimes, I try to talk to the birds.
+They ignore me every time.
+Must have been personal.
+Sometimes, I try to talk to the birds.
+They ignore me every time.
+Must have been personal.
+Hey mate.
+I've been training myself to eliminate chlorofluorocarbons from the air I breathe...
+So that I can begin to repair the ozone layer.
+Auto Saving! :3
+Saved Successfully :3
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Store Interiors/MarketEntrance/Supermarket/contents/decoration/shelf (4)"
+Terrain (UnityEngine.Terrain)
+Terrain (UnityEngine.Terrain)
+Ensure Read/Write is enabled on the Particle System's Texture.
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+NullReferenceException: Object reference not set to an instance of an object.
+  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <d9c9ad0159274c089df4869cc308932b>:0 
+  at UnityEngine.Component.get_transform () [0x00006] in <d9c9ad0159274c089df4869cc308932b>:0 
+  at sHUD.SaveData () [0x0007e] in <0576f1e72eb54acbb06bf59c1f1ca33e>:0 
+  at sHUD.OnDisable () [0x00000] in <0576f1e72eb54acbb06bf59c1f1ca33e>:0 
+
+Inventory stored
+UnloadTime: 35.977400 ms
+Dest node List
+Node (93) - 0 - 868.7385
+Node(dock) - 1 - 1966.488
+Node (59) - 2 - 2400.249
+Node (101) - 3 - 743.2262
+Node (dock2) - 4 - 2065.747
+Node (11) - 5 - 1936.062
+Node (dock3) (1) - 6 - 1835.664
+Node (58) - 7 - 2402.561
+Node (91) - 8 - 949.5938
+Node (54) - 9 - 2304.818
+Node (18) - 10 - 1870.809
+Node (64) - 11 - 2494.688
+Node (97) - 12 - 852.833
+Node (20) - 13 - 1862.282
+Node (22) - 14 - 1840.267
+Node (89) - 15 - 961.0475
+Node (55) - 16 - 2301.941
+Node (112) - 17 - 2232.044
+Node (12) - 18 - 1960.556
+Node (dock3) - 19 - 1847.624
+Node(dock)(1) - 20 - 1955.077
+Node (14) - 21 - 2036.979
+Node (dock2) (1) - 22 - 2077.286
+Node (102) - 23 - 884.7921
+Node (98) - 24 - 826.0131
+Easy Flowers - 25 - 1919.906
+Easy Eats - 26 - 1957.014
+Pawn Shop - 27 - 761.6898
+EZ Mart - 28 - 897.0587
+Bar - 29 - 2370.247
+Easy Depot - 30 - 1994.234
+Bar - 31 - 844.3599
+EZ Cafe - 32 - 2384.53
+Easy Pizza - 33 - 2055.454
+EZ Auto - 34 - 778.3669
+EZ Bakery - 35 - 2015.763
+Saved Successfully :3
+Node graph changed and / or incomplete
+Node graph changed and / or incomplete
+Mountain Town Mountain Town
+Snowy Peaks Mountain Town
+Graphics.CopyTexture called with null source texture
+Graphics.CopyTexture called with null source texture
+Graphics.CopyTexture called with null source texture
+Graphics.CopyTexture called with null source texture
+Graphics.CopyTexture called with null source texture
+Graphics.CopyTexture called with null source texture
+Graphics.CopyTexture called with null source texture
+Unloading 315 unused Assets to reduce memory usage. Loaded Objects now: 96236.
+Total: 36.783400 ms (FindLiveObjects: 4.775300 ms CreateObjectMapping: 0.464100 ms MarkObjects: 30.488500 ms  DeleteObjects: 1.055100 ms)
+
+0.3565625
+Security Gate goal saved
+Bumper Bar goal saved
+Fishing Rod goal saved
+24.6172 24.6172
+Auto Saving! :3
+Saved Successfully :3
+Huh?!
+I'm Ellie.
+Who are you?!
+They call me the crazy one.
+Ever taken a bite out of one of those packages?
+Can't say I haven't.
+Do you think they should teach dolphins how to read?
+14.02922 14.02922
+Hey mate.
+If you have time on Friday night, I host a book club at Sixo's.
+I'm the only one who knows it's a book club, but it's wonderful to just spend time with my new friends.
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "StoreInteriors/StoreShop Market/ShopInterior/contents (1)/decoration/shelf (4)"
+1.462065 1.462065
+Auto Saving! :3
+Saved Successfully :3
+Oh?
+Every time I see you in that truck, I think it's Seb.
+Seb told me something the last time I saw them, but I still can't remember.
+I miss them.
+11.44109 11.44109
+Huh?!
+Have you spoken to Fortino, that sad guy, recently?
+Every time I see them they run away and hide.
+Auto Saving! :3
+Saved Successfully :3
+Terrain (UnityEngine.Terrain)
+Terrain (UnityEngine.Terrain)
+Terrain (UnityEngine.Terrain)
+Terrain (UnityEngine.Terrain)
+Auto Saving! :3
+Saved Successfully :3
+Exactly who I wanted to see!
+To prove that there is no such thing as a benevolent God.
+Give me $price
+18.00616 18.00616
+G-greetings.
+H-have an Easier day with EasyPredict!
+What you w-w-want, as soon as you want it!
+Have...
+S-sorry, I don't know w-what came over m-me.
+Old h-h-habits.
+Ensure Read/Write is enabled on the Particle System's Texture.
+Ensure Read/Write is enabled on the Particle System's Texture.
+11.32364 11.32364
+Auto Saving! :3
+Saved Successfully :3
+Oh?
+It's been so nice to play with all our friends the last few days.
+MK must miss Seb so much.
+I can't imagine not having my closest friend while everyone else has found each other.
+2.007386 2.007386
+Oh?
+I remembered what I was supposed to tell you!
+Seb was babbling about EasyCo programming...
+Something about the "SD unit"?
+And the "cluster"?
+Does that make any sense to you?
+2.944955 2.944955
+Oy!
+Having nothing in the world but dreary weather and trees empties your soul.
+But maybe it's not so empty when you know a few people in it.
+2.671054 2.671054
+The birds...
+They run away when I approach them.
+They know I'm onto them.
+I don't think they're real.
+Oy!
+Maybe I'm too hard on Sixo...
+Maybe life is all about supporting the people you love.
+Can't expect anything in return.
+Auto Saving! :3
+Saved Successfully :3
+2.741151 2.741151
+It was us!
+Seb said we are the "cluster" or something, and that's why they were so worred.
+Bu[SD73-error]t they w[SD73-error]ere...
+Welcome to easyAuto!
+How might we assist you today?
+Node graph changed and / or incomplete
+Bumper Bar goal saved
+Hydro Dam goal saved
+...
+W[SD73-error]e can be r[SD73-error]esto...
+SD73_error_state: Unable to receive directive.
+Trouble connecting to EasyCo servers.
+Have an Easy day.
+SD73_terminated: The EasyCo service you were trying to reach is unavailable.
+Have an Easy day.
+Auto Saving! :3
+Saved Successfully :3
+Attempting to set `time` on an audio source that has a resource assigned that is not a clip is ignored!
+C:\build\output\unity\unity\Modules\Audio\Public\sound\SoundChannel.cpp(345) : Error executing result (An invalid seek position was passed to this function. )
+11.31065 11.31065
+Unloading 10 Unused Serialized files (Serialized files now loaded: 0)
+Inventory stored
+NullReferenceException: Object reference not set to an instance of an object.
+  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <d9c9ad0159274c089df4869cc308932b>:0 
+  at UnityEngine.Component.get_transform () [0x00006] in <d9c9ad0159274c089df4869cc308932b>:0 
+  at sHUD.SaveData () [0x0007e] in <0576f1e72eb54acbb06bf59c1f1ca33e>:0 
+  at sHUD.OnDisable () [0x00000] in <0576f1e72eb54acbb06bf59c1f1ca33e>:0 
+
+UnloadTime: 36.240900 ms
+Saved Successfully :3
+Graphics.CopyTexture called with null source texture
+Graphics.CopyTexture called with null source texture
+Graphics.CopyTexture called with null source texture
+Graphics.CopyTexture called with null source texture
+Graphics.CopyTexture called with null source texture
+Graphics.CopyTexture called with null source texture
+Graphics.CopyTexture called with null source texture
+Unloading 513 unused Assets to reduce memory usage. Loaded Objects now: 9332.
+Total: 33.546500 ms (FindLiveObjects: 0.440500 ms CreateObjectMapping: 0.268200 ms MarkObjects: 29.476900 ms  DeleteObjects: 3.360500 ms)
+
+0
+Auto Saving! :3
+Saved Successfully :3
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+HUD values saved
+Inventory stored
+UnloadTime: 1.860300 ms
+Dest node List
+Node (93) - 0 - 868.7385
+Node(dock) - 1 - 1966.488
+Node (59) - 2 - 2400.249
+Node (101) - 3 - 743.2262
+Node (dock2) - 4 - 2065.747
+Node (11) - 5 - 1936.062
+Node (dock3) (1) - 6 - 1835.664
+Node (58) - 7 - 2402.561
+Node (91) - 8 - 949.5938
+Node (54) - 9 - 2304.818
+Node (18) - 10 - 1870.809
+Node (64) - 11 - 2494.688
+Node (97) - 12 - 852.833
+Node (20) - 13 - 1862.282
+Node (22) - 14 - 1840.267
+Node (89) - 15 - 961.0475
+Node (55) - 16 - 2301.941
+Node (112) - 17 - 2232.044
+Node (12) - 18 - 1960.556
+Node (dock3) - 19 - 1847.624
+Node(dock)(1) - 20 - 1955.077
+Node (14) - 21 - 2036.979
+Node (dock2) (1) - 22 - 2077.286
+Node (102) - 23 - 884.7921
+Node (98) - 24 - 826.0131
+Easy Flowers - 25 - 1919.906
+Easy Eats - 26 - 1957.014
+Pawn Shop - 27 - 761.6898
+EZ Mart - 28 - 897.0587
+Bar - 29 - 2370.247
+Easy Depot - 30 - 1994.234
+Bar - 31 - 844.3599
+EZ Cafe - 32 - 2384.53
+Easy Pizza - 33 - 2055.454
+EZ Auto - 34 - 778.3669
+EZ Bakery - 35 - 2015.763
+Node graph changed and / or incomplete
+Saved Successfully :3
+Graphics.CopyTexture called with null source texture
+Graphics.CopyTexture called with null source texture
+Graphics.CopyTexture called with null source texture
+Graphics.CopyTexture called with null source texture
+Graphics.CopyTexture called with null source texture
+Graphics.CopyTexture called with null source texture
+Graphics.CopyTexture called with null source texture
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 97390.
+Total: 36.980700 ms (FindLiveObjects: 4.685300 ms CreateObjectMapping: 0.444600 ms MarkObjects: 30.939300 ms  DeleteObjects: 0.911100 ms)
+
+0.9260069
+Node graph changed and / or incomplete
+Attempting to set `time` on an audio source that has a resource assigned that is not a clip is ignored!
+Hydro Dam goal saved
+Supplies goal saved
+Auto Saving! :3
+Saved Successfully :3
+Huh?!
+You know, I always find myself in need of some dirt.
+And I can never find any!
+Then one day it just started showing up!
+Like dirt from heaven!
+Terrain (UnityEngine.Terrain)
+Terrain (UnityEngine.Terrain)
+Those twins are always talking about each other, but have you ever seen them together?
+I think there's three of them.
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "StoreInteriors/StoreShop Market/ShopInterior/contents (1)/decoration/shelf (4)"
+Auto Saving! :3
+Saved Successfully :3
+I've been looking back at my affirmation journal and I noticed it starts the day you arrived.
+I had thought I'd been writing in it for years.
+14.13374 14.13374
+I've been feeling strange lately.
+I spent all this time reading and learning, and never any time discovering who I really was.
+I feel like we're at the end of something.
+Don't you?
+I've been feeling strange lately.
+I spent all this time reading and learning, and never any time discovering who I really was.
+I feel like we're at the end of something.
+Don't you?
+I've been feeling strange lately.
+I spent all this time reading and learning, and never any time discovering who I really was.
+I feel like we're at the end of something.
+Don't you?
+I've been feeling strange lately.
+I spent all this time reading and learning, and never any time discovering who I really was.
+I feel like we're at the end of something.
+Don't you?
+I've been feeling strange lately.
+I spent all this time reading and learning, and never any time discovering who I really was.
+I feel like we're at the end of something.
+Don't you?
+I've been feeling strange lately.
+I spent all this time reading and learning, and never any time discovering who I really was.
+I feel like we're at the end of something.
+Don't you?
+Supplies goal saved
+Ice Chains goal saved
+Made sure HUD and Inventory were saved :)
+Inventory stored
+HUD values saved
+Saved Successfully :3
+[Physics::Module] Cleanup current backned.
+[Physics::Module] Id: 0xf2b8ea05
+Input System module state changed to: ShutdownInProgress.
+Input System polling thread exited.
+Input System module state changed to: Shutdown.
+Internal: There are remaining Allocations on the JobTempAlloc. This is a leak, and will impact performance
+To Debug, run app with -diag-job-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.

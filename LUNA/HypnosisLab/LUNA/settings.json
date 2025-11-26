@@ -1,0 +1,864 @@
+{
+    "version": 0,
+    "MasterVolume": -9.390764236450196,
+    "MusicVolume": -20.0,
+    "SFXVolume": -9.390764236450196,
+    "VoiceVolume": -9.390764236450196,
+    "FullScreen": true,
+    "ResolutionIndex": 3,
+    "currentLanguage": 10,
+    "haveSelectLang": true,
+    "haveFinishDemo": false,
+    "haveFinishGame": true,
+    "UnlockData": {
+        "GameUnlocks": [
+            {
+                "UnlockableId": "Card_00_001",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_00_002",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_00_003",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_00_004",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_00_005",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_00_006",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_00_007",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_00_008",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_00_009",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_00_010",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_00_011",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_00_012",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_00_013",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_00_014",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_00_015",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_00_016",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_00_017",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_00_018",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_27_001",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_28_001",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_28_005",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_30_001",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_32_001",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_32_003",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_32_005",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "33_003",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_34_001",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_01_001",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_01_002",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_01_003",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_01_004",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_01_005",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_01_006",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_02_001",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_02_002",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_02_003",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_02_004",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_02_005",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_02_006",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_03_001",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_03_002",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_03_003",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_03_004",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_03_005",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_03_006",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_03_007",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_03_008",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_03_009",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_04_001",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_04_002",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_04_003",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_04_004",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_04_005",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_04_006",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_04_007",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_04_008",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_04_009",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_05_001",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_05_002",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_05_003",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_05_004",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_05_005",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_05_006",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_05_007",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_05_008",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_05_009",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_05_010",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_06_001",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_06_002",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_06_003",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_06_004",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_06_005",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_06_006",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_07_001",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_07_002",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_07_003",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_07_004",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_07_005",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_07_006",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_08_001",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_08_002",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_08_003",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_08_004",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_08_005",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_08_006",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_09_001",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_09_002",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_09_003",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_101_001",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_101_002",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_102_001",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_102_002",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_103_001",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_104_001",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_104_002",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_105_001",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_11_001",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_11_002",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_11_003",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_11_004",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_11_005",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_11_006",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_99_001",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_10_001",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_10_002",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_10_003",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_10_004",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_10_005",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_10_006",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_12_001",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_12_002",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_13_001",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_13_002",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_13_003",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_13_004",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_13_005",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_13_006",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_14_001",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_14_002",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_15_001",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_15_002",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_15_003",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_15_004",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_15_005",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_15_006",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_17_001",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_17_002",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_18_001",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_18_002",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_18_003",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_18_004",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_18_005",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_18_006",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_19_001",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_19_002",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_20_001",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_20_002",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_20_003",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_20_004",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_20_005",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_20_006",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_22_001",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_23_001",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_24_001",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_26_001",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_26_002",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_29_001",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_33_005",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_01_010",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "2",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "0",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_01_009",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_01_007",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "Card_01_008",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "cg__demo_0",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "cg__demo_1",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "cg__demo_2",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "HCG_00",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "HCG_01",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "HCG_02",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "HCG_03",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "HCG_04",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "HCG_05",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "HCG_06",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "HCG_07",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "HCG_08",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "HCG_09",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "HCG_10",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "HCG_11",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "HCG_12",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "HCG_13",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "HCG_14",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "HCG_15",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "HCG_16",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "HCG_17",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "HCG_18",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "HCG_19",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "HCG_20",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "HCG_21",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "HCG_22",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "HCG_24",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "HCG_25",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "HCG_26",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "HCG_27",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "HCG_28",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "HCG_29",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "HCG_30",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "HCG_31",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "HCG_32",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "TRUEEND2",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "TRUEENDA",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "BADEND",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "CG_16",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "CG_23",
+                "IsUnlocked": true
+            },
+            {
+                "UnlockableId": "CH1END",
+                "IsUnlocked": true
+            }
+        ]
+    },
+    "novelList": [
+        "銀行開始劇情",
+        "序章_00_01",
+        "序章_00_01_再戰一場",
+        "序章_00_01_Noa兩連敗",
+        "序章_00_01_完結今天",
+        "序章_00_02",
+        "序章_00_03_01",
+        "序章_00_03_02_1",
+        "序章_00_03_02_2",
+        "序章_00_03_03",
+        "序章_00_03_04",
+        "序章_00_03_05",
+        "序章_00_04",
+        "第一章_01_01",
+        "第一章_01_02",
+        "第一章_Search",
+        "第一章_01_02-關卡戰鬥後",
+        "第一章_Management",
+        "第一章_Rest",
+        "第一章_01_03",
+        "第一章_01_03_2 三位同學戰鬥後",
+        "第一章_01_04",
+        "第一章_01_05",
+        "第一章_01_06",
+        "第一章_01_07",
+        "第二章_02_01",
+        "第二章_02_02",
+        "第二章_Management",
+        "第二章_Search",
+        "第二章_02_03",
+        "第二章_02_04",
+        "第二章_02_05",
+        "戰敗機械狗_H_CG",
+        "第二章_02_06",
+        "第二章_02_07",
+        "第二章_02_07_戰鬥後1",
+        "第二章_02_07_戰鬥後2",
+        "第二章_02_07_戰鬥後3",
+        "第二章_02_07_戰鬥後4",
+        "第二章_02_08_BeforeBoss",
+        "第二章_02_08_AfterBoss",
+        "第二章_02_09",
+        "第三章_03_01",
+        "第三章_03_04",
+        "第三章_03_05",
+        "第三章_03_06",
+        "第三章_03_07",
+        "第三章_03_08_Hscene",
+        "第三章_03_09",
+        "第三章_03_10_Ending",
+        "第四章_Search",
+        "第四章_04_01_B",
+        "第四章_04_02",
+        "第四章_04_03_NormalEnd",
+        "第四章_04_03_BadEnd",
+        "General_Euphelia_Random",
+        "戰敗三個同學_H_CG",
+        "眼球怪_貧民窟_H_CG",
+        "戰敗巨大機器_H_CG",
+        "戰敗觸手_H_CG 普通觸手_貧民窟",
+        "戰敗巨大血肉_H_CG",
+        "戰敗巨兵_H_CG",
+        "戰敗緹納絲_H_CG",
+        "戰敗阿佩爾絲_H_CG",
+        "第四章_04_03_GoodEnd"
+    ]
+}

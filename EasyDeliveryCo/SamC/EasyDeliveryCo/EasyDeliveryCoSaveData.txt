@@ -1,0 +1,172 @@
+timeLastSaved:11/25/2025 11:51:55 PM
+deliveryStartGame:0
+deliveryToggleRadioStation2:1
+cats:0000000000000
+displayBobble:-1
+deliveryToggleRadioStation4:0
+deliveryToggleRadioStation3:1
+deliveryToggleRadioStation1:1
+deliveryLoadedFromMenu:False
+deliveryMailwarmth:2
+deliveryMailpackage:2
+deliveryMailmap:2
+deliveryMailfish:2
+deliveryMailcooking:2
+deliveryMailweather:2
+deliveryMailcamera:2
+deliveryMailfuel:0
+deliveryMailenergy:2
+deliveryMailjobs:2
+deliveryMailcongrats:2
+deliveryNPCTheo:9
+deliveryNPCTheo_stepDialog:True
+deliveryNPCCici:8
+deliveryNPCCici_stepDialog:False
+deliveryNPCFortino:3
+deliveryNPCFortino_stepDialog:True
+deliveryNPCEllie:4
+deliveryNPCEllie_stepDialog:False
+deliveryNPCFit:2
+deliveryNPCFit_stepDialog:False
+deliveryNPCTooey:9
+deliveryNPCTooey_stepDialog:False
+deliveryNPCReed:9
+deliveryNPCReed_stepDialog:False
+deliveryNPCFives:5
+deliveryNPCFives_stepDialog:False
+deliveryNPCSixo:4
+deliveryNPCSixo_stepDialog:False
+deliveryNPCAda:4
+deliveryNPCAda_stepDialog:False
+deliveryNPCForeman:4
+deliveryNPCForeman_stepDialog:False
+deliveryNPCGus:5
+deliveryNPCGus_stepDialog:False
+gameState:restore
+deliveryGoal_Make a Delivery_progress:1
+deliveryGoal_Make a Delivery_progressTotal:1
+deliveryGoal_Make a Delivery_visible:True
+deliveryGoal_Make a Delivery_complete:True
+deliveryGoal_Energy Drink_progress:1
+deliveryGoal_Energy Drink_progressTotal:1
+deliveryGoal_Energy Drink_visible:True
+deliveryGoal_Energy Drink_complete:True
+deliveryGoal_Lighter_progress:1
+deliveryGoal_Lighter_progressTotal:1
+deliveryGoal_Lighter_visible:True
+deliveryGoal_Lighter_complete:True
+deliveryGoal_Cabin in Snowy Peaks_progress:1
+deliveryGoal_Cabin in Snowy Peaks_progressTotal:1
+deliveryGoal_Cabin in Snowy Peaks_visible:True
+deliveryGoal_Cabin in Snowy Peaks_complete:True
+deliveryGoal_Snow Tires_progress:1
+deliveryGoal_Snow Tires_progressTotal:1
+deliveryGoal_Snow Tires_visible:True
+deliveryGoal_Snow Tires_complete:True
+deliveryGoal_Fishing Town_progress:1
+deliveryGoal_Fishing Town_progressTotal:1
+deliveryGoal_Fishing Town_visible:True
+deliveryGoal_Fishing Town_complete:True
+deliveryGoal_Radio Towers_progress:3
+deliveryGoal_Radio Towers_progressTotal:3
+deliveryGoal_Radio Towers_visible:True
+deliveryGoal_Radio Towers_complete:True
+deliveryGoal_Security Gate_progress:1
+deliveryGoal_Security Gate_progressTotal:1
+deliveryGoal_Security Gate_visible:True
+deliveryGoal_Security Gate_complete:True
+deliveryGoal_Bumper Bar_progress:1
+deliveryGoal_Bumper Bar_progressTotal:1
+deliveryGoal_Bumper Bar_visible:True
+deliveryGoal_Bumper Bar_complete:True
+deliveryGoal_Hydro Dam_progress:1
+deliveryGoal_Hydro Dam_progressTotal:1
+deliveryGoal_Hydro Dam_visible:True
+deliveryGoal_Hydro Dam_complete:True
+deliveryGoal_Supplies_progress:1
+deliveryGoal_Supplies_progressTotal:1
+deliveryGoal_Supplies_visible:True
+deliveryGoal_Supplies_complete:True
+deliveryGoal_Ice Chains_progress:1
+deliveryGoal_Ice Chains_progressTotal:1
+deliveryGoal_Ice Chains_visible:True
+deliveryGoal_Ice Chains_complete:True
+deliveryGoal_Factory_progress:1
+deliveryGoal_Factory_progressTotal:1
+deliveryGoal_Factory_visible:True
+deliveryGoal_Factory_complete:True
+deliveryGoal_Restore_progress:0
+deliveryGoal_Restore_progressTotal:1
+deliveryGoal_Restore_visible:False
+deliveryGoal_Restore_complete:False
+deliveryGoal_Cooking Pot_progress:1
+deliveryGoal_Cooking Pot_progressTotal:1
+deliveryGoal_Cooking Pot_visible:True
+deliveryGoal_Cooking Pot_complete:True
+deliveryGoal_Brew Coffee_progress:1
+deliveryGoal_Brew Coffee_progressTotal:1
+deliveryGoal_Brew Coffee_visible:True
+deliveryGoal_Brew Coffee_complete:True
+deliveryGoal_Fishing Rod_progress:1
+deliveryGoal_Fishing Rod_progressTotal:1
+deliveryGoal_Fishing Rod_visible:True
+deliveryGoal_Fishing Rod_complete:True
+deliveryGoal_Fish Soup_progress:1
+deliveryGoal_Fish Soup_progressTotal:1
+deliveryGoal_Fish Soup_visible:True
+deliveryGoal_Fish Soup_complete:True
+costmeticUnlocked_Cat Cap:False
+costmeticUnlocked_Green Cap:True
+costmeticUnlocked_Blue Cap:False
+costmeticUnlocked_Blue Bucket Hat:True
+costmeticUnlocked_Fishing Hat:True
+costmeticUnlocked_Wool Toque:False
+costmeticUnlocked_Black Paint:False
+costmeticUnlocked_Beige Paint:True
+costmeticUnlocked_Grey Paint:False
+costmeticUnlocked_Blue Paint:False
+costmeticUnlocked_Green Paint:True
+costmeticUnlocked_Red Paint:False
+costmeticUnlocked_White Scarf:True
+costmeticUnlocked_Green Scarf:True
+costmeticUnlocked_Blue Scarf:True
+playerEquipedHead:1
+playerEquipedBody:-1
+playerEquipedPaint:10
+deliveryHasTires:True
+deliveryHasBumper:True
+deliveryHasGPS:True
+deliveryHasChains:True
+deliveryMoney:466.344
+deliveryFuel:21.18348
+deliveryTimePlayed:12216
+deliveryEnergy:788
+deliveryWarming:0
+SpeedChime:0
+deliveryPackagesDelivered:37
+deliveryItemCountEnergy Drink:1
+deliveryItemCountEmpty Can:0
+deliveryItemCountLantern:0
+deliveryItemCountLighter:1
+deliveryItemCountFirewood:8
+deliveryItemCountShovel:0
+deliveryItemCountBird Seed:0
+deliveryItemCountCooking Pot:1
+deliveryItemCountCoffee:1
+deliveryItemCountCoffee Powder:0
+deliveryItemCountTea:1
+deliveryItemCountTea Bags:0
+deliveryItemCountFish:3
+deliveryItemCountFishing Rod:1
+deliveryItemCountFish Soup:3
+deliveryItemCountDuct Tape:8
+deliveryItemCountRecovery Disc:1
+deliveryItemCountHandheld Radio:1
+deliveryCurrentLastMapBuildIndex:6
+deliveryCurrentCheckpointPosition_X:-0.84
+deliveryCurrentCheckpointPosition_Y:32.54
+deliveryCurrentCheckpointPosition_Z:153.5
+costmeticUnlocked_Scarf:True
+deliveryTogglephoto_1:0
+deliveryTogglephoto_2:0
+BeGentle:I am but a simple save system
