@@ -1,0 +1,19 @@
+Godot Engine v4.6.2.stable.official.71f334935 - https://godotengine.org
+D3D12 12_0 - Forward+ - Using Device #0: AMD - AMD Radeon RX 7700 XT
+
+ID valid
+Shelter available (Tent) -> Load available
+Driver Detected: d3d12
+Method Detected: forward_plus
+Shelter available (Tent) -> Load available
+LOAD: World
+LOAD: Character
+LOAD: Tent
+Simulation: Weather (Neutral)
+SAVE: World
+SAVE: Character
+SAVE: Tent
+ID valid
+Shelter available (Tent) -> Load available
+Driver Detected: d3d12
+Method Detected: forward_plus

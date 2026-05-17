@@ -1,0 +1,173 @@
+Godot Engine v4.6.2.stable.official.71f334935 - https://godotengine.org
+D3D12 12_0 - Forward+ - Using Device #0: AMD - AMD Radeon RX 7700 XT
+
+Validator missing -> Format all
+Preferences resetted
+Validator created: Taikuri
+Shelter missing -> Load disabled
+Driver Detected: d3d12
+Method Detected: forward_plus
+Loader: Starting kit set
+Loader: New Game (1 / 1)
+LOAD: World
+LOAD: Character
+LOAD: Cabin
+Transition: Village
+Current time: 816 Travel time: 0 Arrival time: 816
+SAVE: Character
+SAVE: World
+SAVE: Cabin
+AI Spawner: Pools created
+AI Spawner: Agent active (Guard)
+AI Spawner: Agent active (Wanderer)
+LOAD: World
+LOAD: Character
+Event Activated (Trader): Generalist returns to Village
+AI Spawner: Agent active (Wanderer)
+AI: No available hide points
+AI: No available cover points -> Combat
+Hit: LIMBS
+Simulation: Weather (Neutral)
+Hit: HEAD
+Hit: LIMBS
+Hit: LIMBS
+Hit: LIMBS
+Hit: TORSO
+Hit: TORSO
+Hit: HEAD
+AI: Process ended
+AI: Process ended
+AI Spawner: Agent active (Wanderer)
+AI: No available hide points
+SAVE: World
+Loader: Reset Character
+ID valid
+Shelter available (Cabin) -> Load available
+Driver Detected: d3d12
+Method Detected: forward_plus
+File removed: Cabin.tres
+File removed: Character.tres
+File removed: Tent.tres
+File removed: Traders.tres
+File removed: World.tres
+Loader: Starting kit set
+Loader: New Game (1 / 1)
+LOAD: World
+LOAD: Character
+LOAD: Cabin
+Transition: Village
+Current time: 807 Travel time: 0 Arrival time: 807
+SAVE: Character
+SAVE: World
+SAVE: Cabin
+AI Spawner: Pools created
+AI Spawner: Agent active (Guard)
+AI Spawner: Agent active (Wanderer)
+LOAD: World
+LOAD: Character
+Event Activated (Trader): Generalist returns to Village
+Killbox (Item Clear): Rags
+Killbox (Item Clear): @RigidBody3D@1345
+Hit: LIMBS
+AI Spawner: Agent active (Wanderer)
+AI: Process ended
+AI Spawner: Agent active (Wanderer)
+LOAD: Traders (Generalist)
+SAVE: Traders (Generalist)
+LOAD: Traders (Generalist)
+SAVE: Traders (Generalist)
+AI: No available vantage points -> Combat
+Simulation: Weather (Overcast)
+Transition: Cabin
+Current time: 1016 Travel time: 0 Arrival time: 1016
+SAVE: Character
+SAVE: World
+LOAD: World
+LOAD: Character
+LOAD: Cabin
+Current: 1047 Sleep: 900 Wake: 1947
+Message: You slept 9 hours
+Simulation: Weather (Neutral)
+Transition: Village
+Current time: 1954 Travel time: 0 Arrival time: 1954
+SAVE: Character
+SAVE: World
+SAVE: Cabin
+AI Spawner: Pools created
+AI Spawner: Agent active (Guard)
+AI Spawner: Agent active (Wanderer)
+LOAD: World
+LOAD: Character
+Event Activated (Trader): Generalist returns to Village
+Killbox (Item Clear): Cold_Medicine
+Killbox (Item Clear): Balm
+Transition: Cabin
+Current time: 1956 Travel time: 0 Arrival time: 1956
+SAVE: Character
+SAVE: World
+LOAD: World
+LOAD: Character
+LOAD: Cabin
+Transition: Village
+Current time: 1980 Travel time: 0 Arrival time: 1980
+SAVE: Character
+SAVE: World
+SAVE: Cabin
+AI Spawner: Pools created
+AI Spawner: Agent active (Guard)
+AI Spawner: Agent active (Wanderer)
+LOAD: World
+LOAD: Character
+Event Activated (Trader): Generalist returns to Village
+Killbox (Item Clear): @RigidBody3D@2999
+Killbox (Item Clear): Sticks
+Killbox (Item Clear): Gum
+Killbox (Item Clear): Book_Children
+Killbox (Item Clear): Rags
+AI Spawner: Agent active (Wanderer)
+Hit: HEAD
+Hit: LIMBS
+AI: Process ended
+AI Spawner: Agent active (Wanderer)
+Simulation: Weather (Storm)
+AI: Process ended
+AI Spawner: Agent active (Wanderer)
+AI: Process ended
+AI Spawner: Agent active (Wanderer)
+AI: No available vantage points -> Combat
+AI: No available vantage points -> Combat
+AI: No available vantage points -> Combat
+LOAD: Traders (Generalist)
+SAVE: Traders (Generalist)
+LOAD: Traders (Generalist)
+Message: New Furniture Added [Catalog]
+SAVE: Traders (Generalist)
+LOAD: Traders (Generalist)
+SAVE: Traders (Generalist)
+LOAD: Traders (Generalist)
+SAVE: Traders (Generalist)
+LOAD: Traders (Generalist)
+SAVE: Traders (Generalist)
+LOAD: Traders (Generalist)
+SAVE: Traders (Generalist)
+LOAD: Traders (Generalist)
+SAVE: Traders (Generalist)
+LOAD: Traders (Generalist)
+SAVE: Traders (Generalist)
+Transition: Cabin
+Current time: 2244 Travel time: 0 Arrival time: 2244
+SAVE: Character
+SAVE: World
+LOAD: World
+LOAD: Character
+LOAD: Cabin
+Current: 2313 Sleep: 1200 Wake: 1113
+Message: You slept 12 hours
+Simulation: Weather (Neutral)
+SAVE: World
+SAVE: Character
+SAVE: Cabin
+ID valid
+Shelter available (Cabin) -> Load available
+Driver Detected: d3d12
+Method Detected: forward_plus

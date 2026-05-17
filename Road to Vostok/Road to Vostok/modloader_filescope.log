@@ -1,0 +1,20 @@
+[FileScope] _mount_previous_session() starting
+[FileScope] 6 archive path(s) in pass state
+[FileScope]   EXISTS: D:/Road.to.Vostok/mods/00ModConfigurationMenu.vmz
+[FileScope]   EXISTS: D:/Road.to.Vostok/mods/FiremodeHUD.vmz
+[FileScope]   EXISTS: D:/Road.to.Vostok/mods/LootHighlight_v2.8.vmz
+[FileScope]   EXISTS: D:/Road.to.Vostok/mods/Quick-Stack-Sort v2.vmz
+[FileScope]   EXISTS: D:/Road.to.Vostok/mods/RedSmokeAirdrop.vmz
+[FileScope]   EXISTS: D:/Road.to.Vostok/mods/MedicalDurability.vmz
+[FileScope]   MOUNTED (vmz->zip): D:/Road.to.Vostok/mods/00ModConfigurationMenu.vmz
+[FileScope]   MOUNTED (vmz->zip): D:/Road.to.Vostok/mods/FiremodeHUD.vmz
+[FileScope]   MOUNTED (vmz->zip): D:/Road.to.Vostok/mods/LootHighlight_v2.8.vmz
+[FileScope]   MOUNTED (vmz->zip): D:/Road.to.Vostok/mods/Quick-Stack-Sort v2.vmz
+[FileScope]   MOUNTED (vmz->zip): D:/Road.to.Vostok/mods/RedSmokeAirdrop.vmz
+[FileScope]   MOUNTED (vmz->zip): D:/Road.to.Vostok/mods/MedicalDurability.vmz
+[FileScope] Cleaned 1 orphan hook pack(s) from prior session(s)
+[FileScope] PRE-INIT cache: 0/1 wrapped scripts already cached at static init
+[FileScope]   NOT YET LOADED (preempt window open): Menu.gd
+[FileScope] HOOK PACK mounted at static init: user://modloader_hooks/framework_pack_2473.zip
+[FileScope] HOOK PACK preempted 1 wrapped script(s) at static init (0 failed, 0 other vanilla left to lenient lazy-compile)
+[FileScope] Done -- 6 archive(s) mounted

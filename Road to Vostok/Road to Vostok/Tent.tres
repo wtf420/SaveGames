@@ -1,0 +1,3790 @@
+[gd_resource type="Resource" script_class="ShelterSave" format=3]
+
+[ext_resource type="Script" path="res://Scripts/FurnitureSave.gd" id="1"]
+[ext_resource type="Resource" path="res://Assets/Cabinet_Wood/Cabinet_Wood_F.tres" id="2"]
+[ext_resource type="Script" path="res://Scripts/SlotData.gd" id="3"]
+[ext_resource type="Resource" path="res://Items/Weapons/MP5/MP5.tres" id="4"]
+[ext_resource type="Script" path="res://Scripts/ItemData.gd" id="5"]
+[ext_resource type="Resource" path="res://Items/Weapons/Glock_17/Glock_17.tres" id="6"]
+[ext_resource type="Resource" path="res://Items/Weapons/Glock_17/Glock_17_Magazine.tres" id="7"]
+[ext_resource type="Resource" path="res://Items/Weapons/MP5/MP5_Magazine.tres" id="8"]
+[ext_resource type="Resource" path="res://Items/Weapons/Makarov/Makarov_Magazine.tres" id="9"]
+[ext_resource type="Resource" path="res://Items/Weapons/AKS-74U/AKS-74U_Magazine.tres" id="10"]
+[ext_resource type="Resource" path="res://Items/Weapons/Colt_1911/Colt_1911_Magazine.tres" id="11"]
+[ext_resource type="Resource" path="res://Items/Attachments/Kobra/Kobra.tres" id="12"]
+[ext_resource type="Resource" path="res://Items/Attachments/PBS/PBS.tres" id="13"]
+[ext_resource type="Resource" path="res://Items/Attachments/EXPS/EXPS.tres" id="14"]
+[ext_resource type="Resource" path="res://Items/Attachments/Micro/Micro.tres" id="15"]
+[ext_resource type="Resource" path="res://Items/Ammo/Ammo_45ACP/Ammo_45ACP.tres" id="16"]
+[ext_resource type="Resource" path="res://Items/Ammo/Ammo_12x70/Ammo_12x70.tres" id="17"]
+[ext_resource type="Resource" path="res://Items/Ammo/Ammo_223/Ammo_223.tres" id="18"]
+[ext_resource type="Resource" path="res://Items/Ammo/Ammo_545x39/Ammo_545x39.tres" id="19"]
+[ext_resource type="Resource" path="res://Items/Ammo/Ammo_9x19/Ammo_9x19.tres" id="20"]
+[ext_resource type="Resource" path="res://Items/Ammo/Ammo_762x39/Ammo_762x39.tres" id="21"]
+[ext_resource type="Resource" path="res://Items/Ammo/Ammo_9x18/Ammo_9x18.tres" id="22"]
+[ext_resource type="Resource" path="res://Items/Ammo/Ammo_762x54R/Ammo_762x54R.tres" id="23"]
+[ext_resource type="Resource" path="res://Items/Weapons/AKM/AKM_Magazine.tres" id="24"]
+[ext_resource type="Resource" path="res://Items/Weapons/RK-62/RK_Magazine.tres" id="25"]
+[ext_resource type="Resource" path="res://Items/Weapons/M4A1/STANAG_Magazine.tres" id="26"]
+[ext_resource type="Resource" path="res://Assets/Freezer/Freezer_F.tres" id="27"]
+[ext_resource type="Resource" path="res://Items/Consumables/Beer/Beer.tres" id="28"]
+[ext_resource type="Resource" path="res://Items/Consumables/Canned_Meat/Canned_Meat.tres" id="29"]
+[ext_resource type="Resource" path="res://Items/Consumables/Canned_Meatballs/Canned_Meatballs.tres" id="30"]
+[ext_resource type="Resource" path="res://Items/Consumables/Canned_Pea_Soup/Canned_Pea_Soup.tres" id="31"]
+[ext_resource type="Resource" path="res://Items/Consumables/Canned_Peaches/Canned_Peaches.tres" id="32"]
+[ext_resource type="Resource" path="res://Items/Consumables/Canned_Pear/Canned_Pear.tres" id="33"]
+[ext_resource type="Resource" path="res://Items/Consumables/Canned_Peas/Canned_Peas.tres" id="34"]
+[ext_resource type="Resource" path="res://Items/Consumables/Canned_Tomatoes/Canned_Tomatoes.tres" id="35"]
+[ext_resource type="Resource" path="res://Items/Consumables/Canned_Tuna/Canned_Tuna.tres" id="36"]
+[ext_resource type="Resource" path="res://Items/Consumables/Cat_Food/Cat_Food.tres" id="37"]
+[ext_resource type="Resource" path="res://Items/Consumables/Crackers/Crackers.tres" id="38"]
+[ext_resource type="Resource" path="res://Items/Consumables/Juice_Orange/Juice_Orange.tres" id="39"]
+[ext_resource type="Resource" path="res://Items/Consumables/Juice_Pear/Juice_Pear.tres" id="40"]
+[ext_resource type="Resource" path="res://Items/Consumables/Juice_Raspberry/Juice_Raspberry.tres" id="41"]
+[ext_resource type="Resource" path="res://Items/Consumables/Mustard/Mustard.tres" id="42"]
+[ext_resource type="Resource" path="res://Items/Consumables/Peanuts/Peanuts.tres" id="43"]
+[ext_resource type="Resource" path="res://Items/Consumables/Potato/Potato.tres" id="44"]
+[ext_resource type="Resource" path="res://Items/Consumables/Soda_Lemon/Soda_Lemon.tres" id="45"]
+[ext_resource type="Resource" path="res://Items/Consumables/Sugar/Sugar.tres" id="46"]
+[ext_resource type="Resource" path="res://Items/Consumables/Chocolate_War/Chocolate_War.tres" id="47"]
+[ext_resource type="Resource" path="res://Items/Consumables/Yeast/Yeast.tres" id="48"]
+[ext_resource type="Resource" path="res://Items/Medical/Balm/Balm.tres" id="49"]
+[ext_resource type="Resource" path="res://Items/Medical/Bandage/Bandage.tres" id="50"]
+[ext_resource type="Resource" path="res://Items/Medical/Cold_Medicine/Cold_Medicine.tres" id="51"]
+[ext_resource type="Resource" path="res://Items/Medical/Gum/Gum.tres" id="52"]
+[ext_resource type="Resource" path="res://Items/Medical/Lotion/Lotion.tres" id="53"]
+[ext_resource type="Resource" path="res://Items/Medical/Medkit/Medkit.tres" id="54"]
+[ext_resource type="Resource" path="res://Items/Medical/Melatonin/Melatonin.tres" id="55"]
+[ext_resource type="Resource" path="res://Items/Medical/Painkillers/Painkillers.tres" id="56"]
+[ext_resource type="Resource" path="res://Items/Medical/Saline/Saline.tres" id="57"]
+[ext_resource type="Resource" path="res://Items/Medical/Splint/Splint.tres" id="58"]
+[ext_resource type="Resource" path="res://Items/Medical/Tourniquet/Tourniquet.tres" id="59"]
+[ext_resource type="Resource" path="res://Items/Medical/Wipes/Wipes.tres" id="60"]
+[ext_resource type="Resource" path="res://Assets/Locker/Locker_F.tres" id="61"]
+[ext_resource type="Resource" path="res://Items/Fishing/Fishing_Rod/Fishing_Rod.tres" id="62"]
+[ext_resource type="Resource" path="res://Items/Weapons/Remington_870/Remington_870.tres" id="63"]
+[ext_resource type="Resource" path="res://Items/Weapons/AKS-74U/AKS-74U.tres" id="64"]
+[ext_resource type="Resource" path="res://Items/Weapons/Mosin/Mosin.tres" id="65"]
+[ext_resource type="Resource" path="res://Items/Attachments/PU/PU.tres" id="66"]
+[ext_resource type="Resource" path="res://Items/Weapons/Makarov/Makarov.tres" id="67"]
+[ext_resource type="Resource" path="res://Items/Weapons/RK-95/RK-95.tres" id="68"]
+[ext_resource type="Resource" path="res://Items/Weapons/AKM/AKM.tres" id="69"]
+[ext_resource type="Resource" path="res://Items/Weapons/Colt_1911/Colt_1911.tres" id="70"]
+[ext_resource type="Resource" path="res://Assets/Crate_Military/Crate_Military_F.tres" id="71"]
+[ext_resource type="Resource" path="res://Items/Misc/Jerry_Can/Jerry_Can.tres" id="72"]
+[ext_resource type="Resource" path="res://Items/Misc/Mattress/Mattress.tres" id="73"]
+[ext_resource type="Resource" path="res://Items/Misc/Toolbox/Toolbox.tres" id="74"]
+[ext_resource type="Resource" path="res://Items/Misc/Sticks/Sticks.tres" id="75"]
+[ext_resource type="Resource" path="res://Items/Misc/Water_Lock/Water_Lock.tres" id="76"]
+[ext_resource type="Script" path="res://Scripts/ItemSave.gd" id="77"]
+[ext_resource type="Resource" path="res://Items/Misc/Blanket/Blanket.tres" id="78"]
+[ext_resource type="Script" path="res://Scripts/ShelterSave.gd" id="79"]
+[ext_resource type="Script" path="res://Scripts/SwitchSave.gd" id="80"]
+
+[sub_resource type="Resource" id="Resource_5ujdj"]
+script = ExtResource("3")
+itemData = ExtResource("4")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 59
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(0, 0)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_t8xpg"]
+script = ExtResource("3")
+itemData = ExtResource("6")
+nested = Array[ExtResource("5")]([ExtResource("7")])
+storage = Array[ExtResource("3")]([])
+condition = 22
+amount = 16
+position = 0
+mode = 1
+zoom = 1
+chamber = true
+casing = false
+state = ""
+gridPosition = Vector2(0, 128)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_yvc74"]
+script = ExtResource("3")
+itemData = ExtResource("8")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(256, 0)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_lxjc5"]
+script = ExtResource("3")
+itemData = ExtResource("7")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 17
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(320, 0)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_42yv8"]
+script = ExtResource("3")
+itemData = ExtResource("7")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(320, 64)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_rte8y"]
+script = ExtResource("3")
+itemData = ExtResource("9")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(192, 128)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_d0w84"]
+script = ExtResource("3")
+itemData = ExtResource("10")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(256, 128)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_4nqw7"]
+script = ExtResource("3")
+itemData = ExtResource("11")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(320, 128)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_x6q8y"]
+script = ExtResource("3")
+itemData = ExtResource("9")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(192, 192)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_4vsuu"]
+script = ExtResource("3")
+itemData = ExtResource("12")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(0, 256)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_latgt"]
+script = ExtResource("3")
+itemData = ExtResource("13")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(128, 256)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_hvq38"]
+script = ExtResource("3")
+itemData = ExtResource("14")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(320, 192)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_ohy4l"]
+script = ExtResource("3")
+itemData = ExtResource("12")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(256, 256)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_3yksi"]
+script = ExtResource("3")
+itemData = ExtResource("15")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(0, 320)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_8q5gj"]
+script = ExtResource("3")
+itemData = ExtResource("14")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(64, 320)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_jwoy1"]
+script = ExtResource("3")
+itemData = ExtResource("16")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 296
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(128, 320)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_07yjo"]
+script = ExtResource("3")
+itemData = ExtResource("17")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 24
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(192, 320)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_hh0t3"]
+script = ExtResource("3")
+itemData = ExtResource("18")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 22
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(256, 320)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_hisj7"]
+script = ExtResource("3")
+itemData = ExtResource("19")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 26
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(320, 320)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_nkefn"]
+script = ExtResource("3")
+itemData = ExtResource("20")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 56
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(0, 384)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_mkxfx"]
+script = ExtResource("3")
+itemData = ExtResource("21")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 14
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(64, 384)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_7ubhg"]
+script = ExtResource("3")
+itemData = ExtResource("22")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 294
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(128, 384)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_elr7f"]
+script = ExtResource("3")
+itemData = ExtResource("23")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 2
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(192, 384)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_isvsf"]
+script = ExtResource("1")
+name = "Cabinet (Wood)"
+container = false
+position = Vector3(-0.4, 0, -2.2)
+rotation = Vector3(0, 0, 0)
+scale = Vector3(0.9999852, 1, 0.9999852)
+itemData = ExtResource("2")
+storage = Array[ExtResource("3")]([SubResource("Resource_5ujdj"), SubResource("Resource_t8xpg"), SubResource("Resource_yvc74"), SubResource("Resource_lxjc5"), SubResource("Resource_42yv8"), SubResource("Resource_rte8y"), SubResource("Resource_d0w84"), SubResource("Resource_4nqw7"), SubResource("Resource_x6q8y"), SubResource("Resource_4vsuu"), SubResource("Resource_latgt"), SubResource("Resource_hvq38"), SubResource("Resource_ohy4l"), SubResource("Resource_3yksi"), SubResource("Resource_8q5gj"), SubResource("Resource_jwoy1"), SubResource("Resource_07yjo"), SubResource("Resource_hh0t3"), SubResource("Resource_hisj7"), SubResource("Resource_nkefn"), SubResource("Resource_mkxfx"), SubResource("Resource_7ubhg"), SubResource("Resource_elr7f")])
+gridPosition = Vector2(0, 0)
+gridRotated = false
+
+[sub_resource type="Resource" id="Resource_3oxu3"]
+script = ExtResource("3")
+itemData = ExtResource("10")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 30
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(320, 0)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_w63ac"]
+script = ExtResource("3")
+itemData = ExtResource("24")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 30
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(128, 0)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_evdmp"]
+script = ExtResource("3")
+itemData = ExtResource("8")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 30
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(0, 256)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_a2ye7"]
+script = ExtResource("3")
+itemData = ExtResource("25")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 30
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(0, 128)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_e88ix"]
+script = ExtResource("3")
+itemData = ExtResource("11")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 8
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(320, 256)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_76wfx"]
+script = ExtResource("3")
+itemData = ExtResource("25")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 30
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(64, 128)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_uxhgh"]
+script = ExtResource("3")
+itemData = ExtResource("7")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 17
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(256, 256)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_2iff5"]
+script = ExtResource("3")
+itemData = ExtResource("7")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 17
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(192, 256)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_4tluw"]
+script = ExtResource("3")
+itemData = ExtResource("9")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 8
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(192, 320)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_h6xvp"]
+script = ExtResource("3")
+itemData = ExtResource("9")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 8
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(256, 320)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_47ga0"]
+script = ExtResource("3")
+itemData = ExtResource("10")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 30
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(192, 0)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_royad"]
+script = ExtResource("3")
+itemData = ExtResource("10")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 30
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(256, 0)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_sf7i7"]
+script = ExtResource("3")
+itemData = ExtResource("24")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 30
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(0, 0)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_lxphu"]
+script = ExtResource("3")
+itemData = ExtResource("24")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 30
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(64, 0)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_h4ukc"]
+script = ExtResource("3")
+itemData = ExtResource("26")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 30
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(192, 128)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_o0oj5"]
+script = ExtResource("3")
+itemData = ExtResource("25")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 30
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(128, 128)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_aj85e"]
+script = ExtResource("3")
+itemData = ExtResource("26")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 30
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(320, 128)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_irtcd"]
+script = ExtResource("3")
+itemData = ExtResource("26")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 30
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(256, 128)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_efrfo"]
+script = ExtResource("3")
+itemData = ExtResource("8")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 30
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(64, 256)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_wu5ln"]
+script = ExtResource("3")
+itemData = ExtResource("8")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 30
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(128, 256)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_7f1hb"]
+script = ExtResource("3")
+itemData = ExtResource("11")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 8
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(320, 320)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_2geum"]
+script = ExtResource("3")
+itemData = ExtResource("10")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(0, 384)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_ugprg"]
+script = ExtResource("3")
+itemData = ExtResource("10")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(64, 384)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_12m8i"]
+script = ExtResource("3")
+itemData = ExtResource("24")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(320, 384)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_n182l"]
+script = ExtResource("3")
+itemData = ExtResource("25")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(128, 384)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_yta1t"]
+script = ExtResource("3")
+itemData = ExtResource("25")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(192, 384)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_k1etm"]
+script = ExtResource("3")
+itemData = ExtResource("26")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(256, 384)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_cjd70"]
+script = ExtResource("1")
+name = "Cabinet (Wood)"
+container = false
+position = Vector3(0.4, 0, -2.2)
+rotation = Vector3(0, 0, 0)
+scale = Vector3(0.99998546, 1, 0.99998546)
+itemData = ExtResource("2")
+storage = Array[ExtResource("3")]([SubResource("Resource_3oxu3"), SubResource("Resource_w63ac"), SubResource("Resource_evdmp"), SubResource("Resource_a2ye7"), SubResource("Resource_e88ix"), SubResource("Resource_76wfx"), SubResource("Resource_uxhgh"), SubResource("Resource_2iff5"), SubResource("Resource_4tluw"), SubResource("Resource_h6xvp"), SubResource("Resource_47ga0"), SubResource("Resource_royad"), SubResource("Resource_sf7i7"), SubResource("Resource_lxphu"), SubResource("Resource_h4ukc"), SubResource("Resource_o0oj5"), SubResource("Resource_aj85e"), SubResource("Resource_irtcd"), SubResource("Resource_efrfo"), SubResource("Resource_wu5ln"), SubResource("Resource_7f1hb"), SubResource("Resource_2geum"), SubResource("Resource_ugprg"), SubResource("Resource_12m8i"), SubResource("Resource_n182l"), SubResource("Resource_yta1t"), SubResource("Resource_k1etm")])
+gridPosition = Vector2(0, 0)
+gridRotated = false
+
+[sub_resource type="Resource" id="Resource_qcstx"]
+script = ExtResource("3")
+itemData = ExtResource("28")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(0, 0)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_j16db"]
+script = ExtResource("3")
+itemData = ExtResource("29")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(64, 0)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_130oa"]
+script = ExtResource("3")
+itemData = ExtResource("29")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(128, 0)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_0jkbf"]
+script = ExtResource("3")
+itemData = ExtResource("29")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(192, 0)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_xm8ha"]
+script = ExtResource("3")
+itemData = ExtResource("29")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(256, 0)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_h7w1f"]
+script = ExtResource("3")
+itemData = ExtResource("29")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(320, 0)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_rnv81"]
+script = ExtResource("3")
+itemData = ExtResource("29")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(384, 0)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_7yaql"]
+script = ExtResource("3")
+itemData = ExtResource("29")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(448, 0)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_4fjim"]
+script = ExtResource("3")
+itemData = ExtResource("29")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(0, 64)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_cqexh"]
+script = ExtResource("3")
+itemData = ExtResource("30")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(64, 64)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_vqjhk"]
+script = ExtResource("3")
+itemData = ExtResource("30")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(128, 64)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_oa2vr"]
+script = ExtResource("3")
+itemData = ExtResource("30")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(192, 64)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_3memu"]
+script = ExtResource("3")
+itemData = ExtResource("30")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(256, 64)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_7mgny"]
+script = ExtResource("3")
+itemData = ExtResource("30")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(320, 64)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_jtnru"]
+script = ExtResource("3")
+itemData = ExtResource("30")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(384, 64)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_lj7w4"]
+script = ExtResource("3")
+itemData = ExtResource("30")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(448, 64)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_0i6yc"]
+script = ExtResource("3")
+itemData = ExtResource("30")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(0, 128)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_e0jtx"]
+script = ExtResource("3")
+itemData = ExtResource("31")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(64, 128)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_2p3qj"]
+script = ExtResource("3")
+itemData = ExtResource("31")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(128, 128)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_m5tnj"]
+script = ExtResource("3")
+itemData = ExtResource("31")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(192, 128)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_3kb2t"]
+script = ExtResource("3")
+itemData = ExtResource("31")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(256, 128)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_7f3wj"]
+script = ExtResource("3")
+itemData = ExtResource("31")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(320, 128)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_cq2pp"]
+script = ExtResource("3")
+itemData = ExtResource("31")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(384, 128)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_mrrol"]
+script = ExtResource("3")
+itemData = ExtResource("32")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(448, 128)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_81p3b"]
+script = ExtResource("3")
+itemData = ExtResource("32")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(0, 192)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_r05t5"]
+script = ExtResource("3")
+itemData = ExtResource("32")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(64, 192)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_v13y5"]
+script = ExtResource("3")
+itemData = ExtResource("32")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(128, 192)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_3jwww"]
+script = ExtResource("3")
+itemData = ExtResource("32")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(192, 192)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_nwe30"]
+script = ExtResource("3")
+itemData = ExtResource("32")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(256, 192)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_8of3n"]
+script = ExtResource("3")
+itemData = ExtResource("32")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(320, 192)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_1wnmv"]
+script = ExtResource("3")
+itemData = ExtResource("32")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(384, 192)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_01vcu"]
+script = ExtResource("3")
+itemData = ExtResource("32")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(448, 192)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_3metr"]
+script = ExtResource("3")
+itemData = ExtResource("33")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(0, 256)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_s2ksf"]
+script = ExtResource("3")
+itemData = ExtResource("33")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(64, 256)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_sl1qd"]
+script = ExtResource("3")
+itemData = ExtResource("33")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(128, 256)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_c3k25"]
+script = ExtResource("3")
+itemData = ExtResource("33")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(192, 256)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_o784e"]
+script = ExtResource("3")
+itemData = ExtResource("33")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(256, 256)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_ompxh"]
+script = ExtResource("3")
+itemData = ExtResource("33")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(320, 256)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_ra4qg"]
+script = ExtResource("3")
+itemData = ExtResource("33")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(384, 256)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_0jrjw"]
+script = ExtResource("3")
+itemData = ExtResource("34")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(448, 256)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_66wnj"]
+script = ExtResource("3")
+itemData = ExtResource("34")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(0, 320)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_nle27"]
+script = ExtResource("3")
+itemData = ExtResource("34")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(64, 320)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_mfswh"]
+script = ExtResource("3")
+itemData = ExtResource("34")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(128, 320)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_kj77n"]
+script = ExtResource("3")
+itemData = ExtResource("34")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(192, 320)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_jie46"]
+script = ExtResource("3")
+itemData = ExtResource("34")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(256, 320)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_sjs43"]
+script = ExtResource("3")
+itemData = ExtResource("35")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(320, 320)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_45fs3"]
+script = ExtResource("3")
+itemData = ExtResource("35")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(384, 320)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_s6tjw"]
+script = ExtResource("3")
+itemData = ExtResource("35")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(448, 320)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_esxyl"]
+script = ExtResource("3")
+itemData = ExtResource("35")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(0, 384)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_0m4rp"]
+script = ExtResource("3")
+itemData = ExtResource("36")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(64, 384)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_tryg2"]
+script = ExtResource("3")
+itemData = ExtResource("36")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(128, 384)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_abt1q"]
+script = ExtResource("3")
+itemData = ExtResource("36")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(192, 384)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_kipro"]
+script = ExtResource("3")
+itemData = ExtResource("36")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(256, 384)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_e5e84"]
+script = ExtResource("3")
+itemData = ExtResource("37")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(320, 384)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_bosid"]
+script = ExtResource("3")
+itemData = ExtResource("37")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(384, 384)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_jpmxa"]
+script = ExtResource("3")
+itemData = ExtResource("37")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(448, 384)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_kk34v"]
+script = ExtResource("3")
+itemData = ExtResource("37")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(0, 448)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_kwp4y"]
+script = ExtResource("3")
+itemData = ExtResource("38")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(64, 448)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_yylx3"]
+script = ExtResource("3")
+itemData = ExtResource("38")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(128, 448)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_rh5k8"]
+script = ExtResource("3")
+itemData = ExtResource("39")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(192, 448)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_wu400"]
+script = ExtResource("3")
+itemData = ExtResource("39")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(256, 448)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_uq2oa"]
+script = ExtResource("3")
+itemData = ExtResource("39")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(320, 448)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_fjhnn"]
+script = ExtResource("3")
+itemData = ExtResource("40")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(384, 448)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_kv2o7"]
+script = ExtResource("3")
+itemData = ExtResource("40")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(448, 448)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_nlh8p"]
+script = ExtResource("3")
+itemData = ExtResource("40")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(0, 512)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_11rta"]
+script = ExtResource("3")
+itemData = ExtResource("40")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(192, 512)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_5deav"]
+script = ExtResource("3")
+itemData = ExtResource("40")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(256, 512)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_2qagr"]
+script = ExtResource("3")
+itemData = ExtResource("40")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(320, 512)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_fvpiy"]
+script = ExtResource("3")
+itemData = ExtResource("41")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(384, 512)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_2u68g"]
+script = ExtResource("3")
+itemData = ExtResource("41")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(448, 512)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_52mxt"]
+script = ExtResource("3")
+itemData = ExtResource("41")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(0, 576)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_hgvvp"]
+script = ExtResource("3")
+itemData = ExtResource("41")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(64, 576)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_f2jyt"]
+script = ExtResource("3")
+itemData = ExtResource("41")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(128, 576)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_btpjq"]
+script = ExtResource("3")
+itemData = ExtResource("41")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(192, 576)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_d65hs"]
+script = ExtResource("3")
+itemData = ExtResource("41")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(256, 576)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_o4wxa"]
+script = ExtResource("3")
+itemData = ExtResource("41")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(320, 576)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_y84cx"]
+script = ExtResource("3")
+itemData = ExtResource("41")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(384, 576)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_qkcgn"]
+script = ExtResource("3")
+itemData = ExtResource("42")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(448, 576)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_t1g12"]
+script = ExtResource("3")
+itemData = ExtResource("43")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(0, 640)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_lk4xf"]
+script = ExtResource("3")
+itemData = ExtResource("43")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(64, 640)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_87he2"]
+script = ExtResource("3")
+itemData = ExtResource("44")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(128, 640)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_y4ssc"]
+script = ExtResource("3")
+itemData = ExtResource("44")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(192, 640)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_0supt"]
+script = ExtResource("3")
+itemData = ExtResource("44")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(256, 640)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_p3fg3"]
+script = ExtResource("3")
+itemData = ExtResource("45")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(320, 640)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_56tcg"]
+script = ExtResource("3")
+itemData = ExtResource("45")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(384, 640)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_7kdg6"]
+script = ExtResource("3")
+itemData = ExtResource("46")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(0, 704)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_1neo5"]
+script = ExtResource("3")
+itemData = ExtResource("46")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(64, 704)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_g3heb"]
+script = ExtResource("3")
+itemData = ExtResource("47")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(128, 704)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_v2tkr"]
+script = ExtResource("3")
+itemData = ExtResource("48")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(192, 704)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_ofsrq"]
+script = ExtResource("3")
+itemData = ExtResource("48")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(256, 704)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_n8km4"]
+script = ExtResource("3")
+itemData = ExtResource("48")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(320, 704)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_r2nfl"]
+script = ExtResource("3")
+itemData = ExtResource("48")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(384, 704)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_nv4et"]
+script = ExtResource("3")
+itemData = ExtResource("48")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(448, 704)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_76mm6"]
+script = ExtResource("3")
+itemData = ExtResource("48")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(128, 768)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_mcr7g"]
+script = ExtResource("3")
+itemData = ExtResource("48")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(192, 768)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_bt3xd"]
+script = ExtResource("1")
+name = "Freezer"
+container = false
+position = Vector3(2, 0, 0)
+rotation = Vector3(0, -1.5707964, 0)
+scale = Vector3(0.9999556, 1, 0.9999556)
+itemData = ExtResource("27")
+storage = Array[ExtResource("3")]([SubResource("Resource_qcstx"), SubResource("Resource_j16db"), SubResource("Resource_130oa"), SubResource("Resource_0jkbf"), SubResource("Resource_xm8ha"), SubResource("Resource_h7w1f"), SubResource("Resource_rnv81"), SubResource("Resource_7yaql"), SubResource("Resource_4fjim"), SubResource("Resource_cqexh"), SubResource("Resource_vqjhk"), SubResource("Resource_oa2vr"), SubResource("Resource_3memu"), SubResource("Resource_7mgny"), SubResource("Resource_jtnru"), SubResource("Resource_lj7w4"), SubResource("Resource_0i6yc"), SubResource("Resource_e0jtx"), SubResource("Resource_2p3qj"), SubResource("Resource_m5tnj"), SubResource("Resource_3kb2t"), SubResource("Resource_7f3wj"), SubResource("Resource_cq2pp"), SubResource("Resource_mrrol"), SubResource("Resource_81p3b"), SubResource("Resource_r05t5"), SubResource("Resource_v13y5"), SubResource("Resource_3jwww"), SubResource("Resource_nwe30"), SubResource("Resource_8of3n"), SubResource("Resource_1wnmv"), SubResource("Resource_01vcu"), SubResource("Resource_3metr"), SubResource("Resource_s2ksf"), SubResource("Resource_sl1qd"), SubResource("Resource_c3k25"), SubResource("Resource_o784e"), SubResource("Resource_ompxh"), SubResource("Resource_ra4qg"), SubResource("Resource_0jrjw"), SubResource("Resource_66wnj"), SubResource("Resource_nle27"), SubResource("Resource_mfswh"), SubResource("Resource_kj77n"), SubResource("Resource_jie46"), SubResource("Resource_sjs43"), SubResource("Resource_45fs3"), SubResource("Resource_s6tjw"), SubResource("Resource_esxyl"), SubResource("Resource_0m4rp"), SubResource("Resource_tryg2"), SubResource("Resource_abt1q"), SubResource("Resource_kipro"), SubResource("Resource_e5e84"), SubResource("Resource_bosid"), SubResource("Resource_jpmxa"), SubResource("Resource_kk34v"), SubResource("Resource_kwp4y"), SubResource("Resource_yylx3"), SubResource("Resource_rh5k8"), SubResource("Resource_wu400"), SubResource("Resource_uq2oa"), SubResource("Resource_fjhnn"), SubResource("Resource_kv2o7"), SubResource("Resource_nlh8p"), SubResource("Resource_11rta"), SubResource("Resource_5deav"), SubResource("Resource_2qagr"), SubResource("Resource_fvpiy"), SubResource("Resource_2u68g"), SubResource("Resource_52mxt"), SubResource("Resource_hgvvp"), SubResource("Resource_f2jyt"), SubResource("Resource_btpjq"), SubResource("Resource_d65hs"), SubResource("Resource_o4wxa"), SubResource("Resource_y84cx"), SubResource("Resource_qkcgn"), SubResource("Resource_t1g12"), SubResource("Resource_lk4xf"), SubResource("Resource_87he2"), SubResource("Resource_y4ssc"), SubResource("Resource_0supt"), SubResource("Resource_p3fg3"), SubResource("Resource_56tcg"), SubResource("Resource_7kdg6"), SubResource("Resource_1neo5"), SubResource("Resource_g3heb"), SubResource("Resource_v2tkr"), SubResource("Resource_ofsrq"), SubResource("Resource_n8km4"), SubResource("Resource_r2nfl"), SubResource("Resource_nv4et"), SubResource("Resource_76mm6"), SubResource("Resource_mcr7g")])
+gridPosition = Vector2(0, 0)
+gridRotated = false
+
+[sub_resource type="Resource" id="Resource_u74d8"]
+script = ExtResource("3")
+itemData = ExtResource("49")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 4
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(0, 0)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_o6lto"]
+script = ExtResource("3")
+itemData = ExtResource("50")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 3
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(64, 0)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_axpqu"]
+script = ExtResource("3")
+itemData = ExtResource("50")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 3
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(128, 0)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_5ysnb"]
+script = ExtResource("3")
+itemData = ExtResource("50")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 3
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(192, 0)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_mlvox"]
+script = ExtResource("3")
+itemData = ExtResource("50")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 3
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(256, 0)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_edryu"]
+script = ExtResource("3")
+itemData = ExtResource("50")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 3
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(320, 0)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_2vi17"]
+script = ExtResource("3")
+itemData = ExtResource("50")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 3
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(384, 0)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_cmh86"]
+script = ExtResource("3")
+itemData = ExtResource("50")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 3
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(448, 0)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_wul1c"]
+script = ExtResource("3")
+itemData = ExtResource("50")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 3
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(0, 64)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_wppjb"]
+script = ExtResource("3")
+itemData = ExtResource("51")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 4
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(64, 64)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_34epv"]
+script = ExtResource("3")
+itemData = ExtResource("51")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 4
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(128, 64)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_7mukx"]
+script = ExtResource("3")
+itemData = ExtResource("51")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 4
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(192, 64)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_u2gth"]
+script = ExtResource("3")
+itemData = ExtResource("51")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 4
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(256, 64)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_4vhkb"]
+script = ExtResource("3")
+itemData = ExtResource("51")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 4
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(320, 64)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_mxfe3"]
+script = ExtResource("3")
+itemData = ExtResource("51")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 4
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(384, 64)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_5m73m"]
+script = ExtResource("3")
+itemData = ExtResource("51")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 4
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(448, 64)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_35fv1"]
+script = ExtResource("3")
+itemData = ExtResource("51")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 4
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(0, 128)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_svsi3"]
+script = ExtResource("3")
+itemData = ExtResource("52")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(64, 128)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_wuygn"]
+script = ExtResource("3")
+itemData = ExtResource("53")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 4
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(128, 128)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_6mn4g"]
+script = ExtResource("3")
+itemData = ExtResource("53")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 4
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(192, 128)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_iflin"]
+script = ExtResource("3")
+itemData = ExtResource("53")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 4
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(256, 128)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_hwq11"]
+script = ExtResource("3")
+itemData = ExtResource("53")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 4
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(320, 128)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_bbexj"]
+script = ExtResource("3")
+itemData = ExtResource("54")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 8
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(0, 256)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_tyvyv"]
+script = ExtResource("3")
+itemData = ExtResource("54")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 8
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(192, 256)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_hgu02"]
+script = ExtResource("3")
+itemData = ExtResource("54")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 8
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(0, 384)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_nrchh"]
+script = ExtResource("3")
+itemData = ExtResource("55")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 6
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(384, 128)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_hcqn1"]
+script = ExtResource("3")
+itemData = ExtResource("55")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 6
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(448, 128)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_ra04f"]
+script = ExtResource("3")
+itemData = ExtResource("55")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 6
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(0, 192)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_purvl"]
+script = ExtResource("3")
+itemData = ExtResource("55")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 6
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(64, 192)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_l3i7c"]
+script = ExtResource("3")
+itemData = ExtResource("55")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 6
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(384, 192)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_nopnu"]
+script = ExtResource("3")
+itemData = ExtResource("55")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 6
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(448, 192)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_3orwd"]
+script = ExtResource("3")
+itemData = ExtResource("56")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 6
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(384, 256)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_gi1hh"]
+script = ExtResource("3")
+itemData = ExtResource("56")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 6
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(448, 256)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_6ss02"]
+script = ExtResource("3")
+itemData = ExtResource("56")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 6
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(384, 320)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_faden"]
+script = ExtResource("3")
+itemData = ExtResource("56")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 6
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(448, 320)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_o7j77"]
+script = ExtResource("3")
+itemData = ExtResource("56")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 6
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(192, 384)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_mumgl"]
+script = ExtResource("3")
+itemData = ExtResource("56")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 6
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(256, 384)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_nb26o"]
+script = ExtResource("3")
+itemData = ExtResource("57")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 2
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(320, 384)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_qvefs"]
+script = ExtResource("3")
+itemData = ExtResource("58")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 3
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(384, 384)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_ief52"]
+script = ExtResource("3")
+itemData = ExtResource("58")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 3
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(448, 384)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_82xdh"]
+script = ExtResource("3")
+itemData = ExtResource("58")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 3
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(192, 448)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_bhkwq"]
+script = ExtResource("3")
+itemData = ExtResource("58")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 3
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(256, 448)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_hnnbi"]
+script = ExtResource("3")
+itemData = ExtResource("58")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 3
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(320, 448)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_nvr0g"]
+script = ExtResource("3")
+itemData = ExtResource("59")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 5
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(0, 512)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_4buvs"]
+script = ExtResource("3")
+itemData = ExtResource("59")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 5
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(64, 512)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_rhdq6"]
+script = ExtResource("3")
+itemData = ExtResource("60")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 8
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(128, 512)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_d1qs7"]
+script = ExtResource("3")
+itemData = ExtResource("60")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 8
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(384, 512)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_jou8f"]
+script = ExtResource("3")
+itemData = ExtResource("60")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 8
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(448, 512)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_lg2rn"]
+script = ExtResource("3")
+itemData = ExtResource("60")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 8
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(0, 576)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_3ojwm"]
+script = ExtResource("3")
+itemData = ExtResource("60")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 8
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(64, 576)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_3mb3g"]
+script = ExtResource("1")
+name = "Freezer"
+container = false
+position = Vector3(-1.9, 0, 0)
+rotation = Vector3(0, 1.5707964, 0)
+scale = Vector3(0.9999919, 1, 0.9999919)
+itemData = ExtResource("27")
+storage = Array[ExtResource("3")]([SubResource("Resource_u74d8"), SubResource("Resource_o6lto"), SubResource("Resource_axpqu"), SubResource("Resource_5ysnb"), SubResource("Resource_mlvox"), SubResource("Resource_edryu"), SubResource("Resource_2vi17"), SubResource("Resource_cmh86"), SubResource("Resource_wul1c"), SubResource("Resource_wppjb"), SubResource("Resource_34epv"), SubResource("Resource_7mukx"), SubResource("Resource_u2gth"), SubResource("Resource_4vhkb"), SubResource("Resource_mxfe3"), SubResource("Resource_5m73m"), SubResource("Resource_35fv1"), SubResource("Resource_svsi3"), SubResource("Resource_wuygn"), SubResource("Resource_6mn4g"), SubResource("Resource_iflin"), SubResource("Resource_hwq11"), SubResource("Resource_bbexj"), SubResource("Resource_tyvyv"), SubResource("Resource_hgu02"), SubResource("Resource_nrchh"), SubResource("Resource_hcqn1"), SubResource("Resource_ra04f"), SubResource("Resource_purvl"), SubResource("Resource_l3i7c"), SubResource("Resource_nopnu"), SubResource("Resource_3orwd"), SubResource("Resource_gi1hh"), SubResource("Resource_6ss02"), SubResource("Resource_faden"), SubResource("Resource_o7j77"), SubResource("Resource_mumgl"), SubResource("Resource_nb26o"), SubResource("Resource_qvefs"), SubResource("Resource_ief52"), SubResource("Resource_82xdh"), SubResource("Resource_bhkwq"), SubResource("Resource_hnnbi"), SubResource("Resource_nvr0g"), SubResource("Resource_4buvs"), SubResource("Resource_rhdq6"), SubResource("Resource_d1qs7"), SubResource("Resource_jou8f"), SubResource("Resource_lg2rn"), SubResource("Resource_3ojwm")])
+gridPosition = Vector2(0, 0)
+gridRotated = false
+
+[sub_resource type="Resource" id="Resource_o7b4n"]
+script = ExtResource("3")
+itemData = ExtResource("62")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(0, 768)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_et16h"]
+script = ExtResource("3")
+itemData = ExtResource("63")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(0, 256)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_ssft5"]
+script = ExtResource("3")
+itemData = ExtResource("64")
+nested = Array[ExtResource("5")]([ExtResource("10")])
+storage = Array[ExtResource("3")]([])
+condition = 68
+amount = 29
+position = 0.0
+mode = 1
+zoom = 1
+chamber = true
+casing = false
+state = ""
+gridPosition = Vector2(0, 384)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_rtwq3"]
+script = ExtResource("3")
+itemData = ExtResource("65")
+nested = Array[ExtResource("5")]([ExtResource("66")])
+storage = Array[ExtResource("3")]([])
+condition = 74
+amount = 0
+position = 0.0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(384, 0)
+gridRotated = true
+slot = ""
+
+[sub_resource type="Resource" id="Resource_5gxf5"]
+script = ExtResource("3")
+itemData = ExtResource("6")
+nested = Array[ExtResource("5")]([ExtResource("7")])
+storage = Array[ExtResource("3")]([])
+condition = 44
+amount = 17
+position = 0
+mode = 1
+zoom = 1
+chamber = true
+casing = false
+state = ""
+gridPosition = Vector2(384, 448)
+gridRotated = true
+slot = ""
+
+[sub_resource type="Resource" id="Resource_dc82n"]
+script = ExtResource("3")
+itemData = ExtResource("67")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(256, 512)
+gridRotated = true
+slot = ""
+
+[sub_resource type="Resource" id="Resource_p0dvo"]
+script = ExtResource("3")
+itemData = ExtResource("68")
+nested = Array[ExtResource("5")]([ExtResource("25")])
+storage = Array[ExtResource("3")]([])
+condition = 99
+amount = 29
+position = 0.0
+mode = 1
+zoom = 1
+chamber = true
+casing = false
+state = ""
+gridPosition = Vector2(0, 0)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_e5i1m"]
+script = ExtResource("3")
+itemData = ExtResource("69")
+nested = Array[ExtResource("5")]([ExtResource("24")])
+storage = Array[ExtResource("3")]([])
+condition = 96
+amount = 29
+position = 0.0
+mode = 1
+zoom = 1
+chamber = true
+casing = false
+state = ""
+gridPosition = Vector2(0, 128)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_g05b8"]
+script = ExtResource("3")
+itemData = ExtResource("68")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 97
+amount = 0
+position = 0.0
+mode = 2
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(0, 640)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_h5q2y"]
+script = ExtResource("3")
+itemData = ExtResource("70")
+nested = Array[ExtResource("5")]([ExtResource("11")])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 7
+position = 0
+mode = 1
+zoom = 1
+chamber = true
+casing = false
+state = ""
+gridPosition = Vector2(384, 640)
+gridRotated = true
+slot = ""
+
+[sub_resource type="Resource" id="Resource_43k04"]
+script = ExtResource("3")
+itemData = ExtResource("4")
+nested = Array[ExtResource("5")]([ExtResource("8")])
+storage = Array[ExtResource("3")]([])
+condition = 93
+amount = 29
+position = 0
+mode = 1
+zoom = 1
+chamber = true
+casing = false
+state = ""
+gridPosition = Vector2(0, 512)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_vxuig"]
+script = ExtResource("1")
+name = "Locker"
+container = false
+position = Vector3(-0.2, 0, -0.6)
+rotation = Vector3(0, 0, 0)
+scale = Vector3(0.9999786, 1, 0.9999786)
+itemData = ExtResource("61")
+storage = Array[ExtResource("3")]([SubResource("Resource_o7b4n"), SubResource("Resource_et16h"), SubResource("Resource_ssft5"), SubResource("Resource_rtwq3"), SubResource("Resource_5gxf5"), SubResource("Resource_dc82n"), SubResource("Resource_p0dvo"), SubResource("Resource_e5i1m"), SubResource("Resource_g05b8"), SubResource("Resource_h5q2y"), SubResource("Resource_43k04")])
+gridPosition = Vector2(0, 0)
+gridRotated = false
+
+[sub_resource type="Resource" id="Resource_c1mm0"]
+script = ExtResource("3")
+itemData = ExtResource("72")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(0, 0)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_m3pho"]
+script = ExtResource("3")
+itemData = ExtResource("73")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(0, 192)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_y1nfl"]
+script = ExtResource("3")
+itemData = ExtResource("74")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(192, 0)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_lcrqs"]
+script = ExtResource("3")
+itemData = ExtResource("75")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(192, 128)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_dhrhs"]
+script = ExtResource("3")
+itemData = ExtResource("75")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(384, 0)
+gridRotated = true
+slot = ""
+
+[sub_resource type="Resource" id="Resource_6se74"]
+script = ExtResource("3")
+itemData = ExtResource("76")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(448, 0)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_kv32u"]
+script = ExtResource("1")
+name = "Crate (Military)"
+container = false
+position = Vector3(1.4, 0, 1.5)
+rotation = Vector3(0, -2.3561945, 0)
+scale = Vector3(0.9999946, 1, 0.9999946)
+itemData = ExtResource("71")
+storage = Array[ExtResource("3")]([SubResource("Resource_c1mm0"), SubResource("Resource_m3pho"), SubResource("Resource_y1nfl"), SubResource("Resource_lcrqs"), SubResource("Resource_dhrhs"), SubResource("Resource_6se74")])
+gridPosition = Vector2(0, 0)
+gridRotated = false
+
+[sub_resource type="Resource" id="Resource_17p17"]
+script = ExtResource("3")
+itemData = ExtResource("78")
+nested = Array[ExtResource("5")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(0, 0)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_sm8ve"]
+script = ExtResource("77")
+name = "Blanket"
+slotData = SubResource("Resource_17p17")
+position = Vector3(-1.1763687, -0.0021400782, -1.6612698)
+rotation = Vector3(-0.00711742, 2.9117982, -0.008211507)
+
+[resource]
+script = ExtResource("79")
+initialVisit = false
+lastVisit = 70057
+furnitures = Array[ExtResource("1")]([SubResource("Resource_isvsf"), SubResource("Resource_cjd70"), SubResource("Resource_bt3xd"), SubResource("Resource_3mb3g"), SubResource("Resource_vxuig"), SubResource("Resource_kv32u")])
+items = Array[ExtResource("77")]([SubResource("Resource_sm8ve")])
+switches = Array[ExtResource("80")]([])

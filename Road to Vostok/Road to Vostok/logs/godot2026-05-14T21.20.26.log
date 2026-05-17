@@ -1,0 +1,19 @@
+Godot Engine v4.6.2.stable.official.71f334935 - https://godotengine.org
+D3D12 12_0 - Forward+ - Using Device #0: AMD - AMD Radeon RX 7700 XT
+
+[FileScope] _mount_previous_session() starting
+[FileScope] No pass state file -- skipping
+ID valid
+Shelter available (Cabin) -> Load available
+Driver Detected: d3d12
+Method Detected: forward_plus
+[ModLoader][Info] Metro Mod Loader v3.2.1
+[ModLoader][Info] Loaded 58 class_name mappings from game cache
+[ModLoader][Info] [RTVCodegen] parsed RTV.pck -- 17729 total file(s), 176 .gd script(s) under res://Scripts/
+[ModLoader][Info] Scanning mods dir: D:/Road.to.Vostok/mods
+WARNING: [ModLoader][Warning] No mods found in: D:/Road.to.Vostok/mods
+   at: push_warning (core/variant/variant_utility.cpp:1034)
+[ModLoader][Info] No mods enabled.
+[ModLoader][Info] [RTVModLib] modloader registered as Engine.meta('RTVModLib')
+[ModLoader][Info] [STABILITY] Detokenizer compatible: GDSC v101 on Godot 4.6.2-stable (official)
+[ModLoader][Info] [RTVModLib] frameworks_ready emitted

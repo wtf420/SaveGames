@@ -1,0 +1,298 @@
+[gd_resource type="Resource" script_class="ShelterSave" format=3]
+
+[ext_resource type="Script" path="res://Scripts/FurnitureSave.gd" id="1"]
+[ext_resource type="Resource" path="res://Assets/Rya/Rya_Maria_F.tres" id="2"]
+[ext_resource type="Script" path="res://Scripts/SlotData.gd" id="3"]
+[ext_resource type="Resource" path="res://Assets/Table_Cabin/Table_Cabin_F.tres" id="4"]
+[ext_resource type="Resource" path="res://Assets/Curtains/Curtain_Mini_F.tres" id="5"]
+[ext_resource type="Resource" path="res://Assets/Curtains/Curtain_Long_F.tres" id="6"]
+[ext_resource type="Resource" path="res://Assets/Carpet/Carpet_Rag_F.tres" id="7"]
+[ext_resource type="Resource" path="res://Assets/Rack_Coat/Rack_Coat_F.tres" id="8"]
+[ext_resource type="Resource" path="res://Assets/Shelf_Wood/Shelf_Wood_F.tres" id="9"]
+[ext_resource type="Resource" path="res://Assets/Stool_Padded/Stool_Padded_F.tres" id="10"]
+[ext_resource type="Resource" path="res://Assets/Shelf_Wall/Shelf_Wall_F.tres" id="11"]
+[ext_resource type="Resource" path="res://Assets/Painting/Painting_Lake_F.tres" id="12"]
+[ext_resource type="Resource" path="res://Assets/Television/Television_F.tres" id="13"]
+[ext_resource type="Resource" path="res://Assets/Bed_Civilian/Bed_Civilian_F.tres" id="14"]
+[ext_resource type="Resource" path="res://Assets/Sofa_Leather/Sofa_Leather_F.tres" id="15"]
+[ext_resource type="Script" path="res://Scripts/ItemSave.gd" id="16"]
+[ext_resource type="Resource" path="res://Items/Electronics/Cooking_Station/Cooking_Station.tres" id="17"]
+[ext_resource type="Script" path="res://Scripts/ItemData.gd" id="18"]
+[ext_resource type="Resource" path="res://Items/Electronics/Coffeemaster/Coffeemaster.tres" id="19"]
+[ext_resource type="Script" path="res://Scripts/ShelterSave.gd" id="20"]
+[ext_resource type="Script" path="res://Scripts/SwitchSave.gd" id="21"]
+
+[sub_resource type="Resource" id="Resource_lhqnr"]
+script = ExtResource("1")
+name = "Rya (Maria)"
+container = false
+position = Vector3(-1.8, 2.8, -3.9)
+rotation = Vector3(0, 0, 0)
+scale = Vector3(1, 1, 1)
+itemData = ExtResource("2")
+storage = Array[ExtResource("3")]([])
+gridPosition = Vector2(0, 0)
+gridRotated = false
+
+[sub_resource type="Resource" id="Resource_crshn"]
+script = ExtResource("1")
+name = "Table (Cabin)"
+container = false
+position = Vector3(-2, 0.4, -0.2)
+rotation = Vector3(0, 0, 0)
+scale = Vector3(1, 1, 1)
+itemData = ExtResource("4")
+storage = Array[ExtResource("3")]([])
+gridPosition = Vector2(0, 0)
+gridRotated = false
+
+[sub_resource type="Resource" id="Resource_ussta"]
+script = ExtResource("1")
+name = "Curtain (Mini)"
+container = false
+position = Vector3(-2.1, 2.9, 0.9)
+rotation = Vector3(0, 3.1415925, 0)
+scale = Vector3(1, 1, 1)
+itemData = ExtResource("5")
+storage = Array[ExtResource("3")]([])
+gridPosition = Vector2(0, 0)
+gridRotated = false
+
+[sub_resource type="Resource" id="Resource_kuljk"]
+script = ExtResource("1")
+name = "Curtain (Mini)"
+container = false
+position = Vector3(2.9, 2.9, -3)
+rotation = Vector3(0, -1.5707964, 0)
+scale = Vector3(1, 1, 1)
+itemData = ExtResource("5")
+storage = Array[ExtResource("3")]([])
+gridPosition = Vector2(0, 0)
+gridRotated = false
+
+[sub_resource type="Resource" id="Resource_jtnni"]
+script = ExtResource("1")
+name = "Curtain (Long)"
+container = false
+position = Vector3(2.9, 2.8, -0.5)
+rotation = Vector3(0, -1.5707964, 0)
+scale = Vector3(1, 1, 1)
+itemData = ExtResource("6")
+storage = Array[ExtResource("3")]([])
+gridPosition = Vector2(0, 0)
+gridRotated = false
+
+[sub_resource type="Resource" id="Resource_tigom"]
+script = ExtResource("1")
+name = "Carpet (Rag)"
+container = false
+position = Vector3(-1.6, 0.4, -1.9)
+rotation = Vector3(0, -1.308997, 0)
+scale = Vector3(1.0000001, 1, 1.0000001)
+itemData = ExtResource("7")
+storage = Array[ExtResource("3")]([])
+gridPosition = Vector2(0, 0)
+gridRotated = false
+
+[sub_resource type="Resource" id="Resource_x1iyv"]
+script = ExtResource("1")
+name = "Carpet (Rag)"
+container = false
+position = Vector3(1.7, 0.4, -0.5)
+rotation = Vector3(0, -1.5707965, 0)
+scale = Vector3(1, 1, 1)
+itemData = ExtResource("7")
+storage = Array[ExtResource("3")]([])
+gridPosition = Vector2(0, 0)
+gridRotated = false
+
+[sub_resource type="Resource" id="Resource_p45av"]
+script = ExtResource("1")
+name = "Rack (Coat)"
+container = false
+position = Vector3(0.4, 2, 0.5)
+rotation = Vector3(0, -1.5707964, 0)
+scale = Vector3(1, 1, 1)
+itemData = ExtResource("8")
+storage = Array[ExtResource("3")]([])
+gridPosition = Vector2(0, 0)
+gridRotated = false
+
+[sub_resource type="Resource" id="Resource_76ci3"]
+script = ExtResource("1")
+name = "Shelf (Wood)"
+container = false
+position = Vector3(1.2, 0.4, -1.7)
+rotation = Vector3(0, 0, 0)
+scale = Vector3(1, 1, 1)
+itemData = ExtResource("9")
+storage = Array[ExtResource("3")]([])
+gridPosition = Vector2(0, 0)
+gridRotated = false
+
+[sub_resource type="Resource" id="Resource_yr7ir"]
+script = ExtResource("1")
+name = "Shelf (Wood)"
+container = false
+position = Vector3(2.2, 0.4, -1.7)
+rotation = Vector3(0, 0, 0)
+scale = Vector3(1, 1, 1)
+itemData = ExtResource("9")
+storage = Array[ExtResource("3")]([])
+gridPosition = Vector2(0, 0)
+gridRotated = false
+
+[sub_resource type="Resource" id="Resource_kyj80"]
+script = ExtResource("1")
+name = "Stool (Padded)"
+container = false
+position = Vector3(0.2, 0.4, 0.5)
+rotation = Vector3(0, -1.5707964, 0)
+scale = Vector3(1, 1, 1)
+itemData = ExtResource("10")
+storage = Array[ExtResource("3")]([])
+gridPosition = Vector2(0, 0)
+gridRotated = false
+
+[sub_resource type="Resource" id="Resource_e1plr"]
+script = ExtResource("1")
+name = "Shelf (Wall)"
+container = false
+position = Vector3(2.1, 2, -2.1)
+rotation = Vector3(0, 3.1415925, 0)
+scale = Vector3(1, 1, 1)
+itemData = ExtResource("11")
+storage = Array[ExtResource("3")]([])
+gridPosition = Vector2(0, 0)
+gridRotated = false
+
+[sub_resource type="Resource" id="Resource_1c4hi"]
+script = ExtResource("1")
+name = "Shelf (Wall)"
+container = false
+position = Vector3(1.1, 2, -2.1)
+rotation = Vector3(0, 3.1415925, 0)
+scale = Vector3(1, 1, 1)
+itemData = ExtResource("11")
+storage = Array[ExtResource("3")]([])
+gridPosition = Vector2(0, 0)
+gridRotated = false
+
+[sub_resource type="Resource" id="Resource_fx5ax"]
+script = ExtResource("1")
+name = "Painting (Lake)"
+container = false
+position = Vector3(-2.9, 2, -0.1)
+rotation = Vector3(0, 1.5707964, 0)
+scale = Vector3(1, 1, 1)
+itemData = ExtResource("12")
+storage = Array[ExtResource("3")]([])
+gridPosition = Vector2(0, 0)
+gridRotated = false
+
+[sub_resource type="Resource" id="Resource_khm3t"]
+script = ExtResource("1")
+name = "Television"
+container = false
+position = Vector3(-2, 1.2, -1)
+rotation = Vector3(0, -3.1415925, 0)
+scale = Vector3(0.99998724, 1, 0.99998724)
+itemData = ExtResource("13")
+storage = Array[ExtResource("3")]([])
+gridPosition = Vector2(0, 0)
+gridRotated = false
+
+[sub_resource type="Resource" id="Resource_xowin"]
+script = ExtResource("1")
+name = "Bed (Civilian)"
+container = false
+position = Vector3(2, 0.4, 1.8)
+rotation = Vector3(0, -3.1415925, 0)
+scale = Vector3(0.99995935, 1, 0.99995935)
+itemData = ExtResource("14")
+storage = Array[ExtResource("3")]([])
+gridPosition = Vector2(0, 0)
+gridRotated = false
+
+[sub_resource type="Resource" id="Resource_a4sq0"]
+script = ExtResource("1")
+name = "Sofa (Leather)"
+container = false
+position = Vector3(-1.8, 0.4, -3.3)
+rotation = Vector3(0, 0, 0)
+scale = Vector3(0.9999214, 1, 0.9999214)
+itemData = ExtResource("15")
+storage = Array[ExtResource("3")]([])
+gridPosition = Vector2(0, 0)
+gridRotated = false
+
+[sub_resource type="Resource" id="Resource_cr3ge"]
+script = ExtResource("3")
+itemData = ExtResource("17")
+nested = Array[ExtResource("18")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(0, 0)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_bkhl4"]
+script = ExtResource("16")
+name = "Cooking Station"
+slotData = SubResource("Resource_cr3ge")
+position = Vector3(-1.8555326, 1.1967181, -0.12576573)
+rotation = Vector3(0.009656916, 1.7168294, 0.011363937)
+
+[sub_resource type="Resource" id="Resource_ivugy"]
+script = ExtResource("3")
+itemData = ExtResource("19")
+nested = Array[ExtResource("18")]([])
+storage = Array[ExtResource("3")]([])
+condition = 100
+amount = 0
+position = 0
+mode = 1
+zoom = 1
+chamber = false
+casing = false
+state = ""
+gridPosition = Vector2(0, 0)
+gridRotated = false
+slot = ""
+
+[sub_resource type="Resource" id="Resource_pqg82"]
+script = ExtResource("16")
+name = "Coffeemaster"
+slotData = SubResource("Resource_ivugy")
+position = Vector3(-2.062097, 1.198234, 0.48084724)
+rotation = Vector3(-3.7503567e-05, 1.6547071, -6.9588405e-06)
+
+[sub_resource type="Resource" id="Resource_w6li5"]
+script = ExtResource("21")
+name = "Light_Switch"
+active = true
+
+[sub_resource type="Resource" id="Resource_fc3aq"]
+script = ExtResource("21")
+name = "Light_Switch_2"
+active = true
+
+[sub_resource type="Resource" id="Resource_heki0"]
+script = ExtResource("21")
+name = "Light_Switch_3"
+active = true
+
+[resource]
+script = ExtResource("20")
+initialVisit = false
+lastVisit = 61733
+furnitures = Array[ExtResource("1")]([SubResource("Resource_lhqnr"), SubResource("Resource_crshn"), SubResource("Resource_ussta"), SubResource("Resource_kuljk"), SubResource("Resource_jtnni"), SubResource("Resource_tigom"), SubResource("Resource_x1iyv"), SubResource("Resource_p45av"), SubResource("Resource_76ci3"), SubResource("Resource_yr7ir"), SubResource("Resource_kyj80"), SubResource("Resource_e1plr"), SubResource("Resource_1c4hi"), SubResource("Resource_fx5ax"), SubResource("Resource_khm3t"), SubResource("Resource_xowin"), SubResource("Resource_a4sq0")])
+items = Array[ExtResource("16")]([SubResource("Resource_bkhl4"), SubResource("Resource_pqg82")])
+switches = Array[ExtResource("21")]([SubResource("Resource_w6li5"), SubResource("Resource_fc3aq"), SubResource("Resource_heki0")])

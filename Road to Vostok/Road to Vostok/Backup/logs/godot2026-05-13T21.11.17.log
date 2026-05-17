@@ -1,0 +1,62 @@
+Godot Engine v4.6.2.stable.official.71f334935 - https://godotengine.org
+D3D12 12_0 - Forward+ - Using Device #0: AMD - AMD Radeon RX 7700 XT
+
+ID valid
+Shelter available (Tent) -> Load available
+Driver Detected: d3d12
+Method Detected: forward_plus
+Shelter available (Tent) -> Load available
+LOAD: World
+LOAD: Character
+LOAD: Tent
+Transition: Outpost
+Current time: 1504 Travel time: 0 Arrival time: 1504
+SAVE: Character
+SAVE: World
+SAVE: Tent
+AI Spawner: Pools created
+AI Spawner: Agent active (Wanderer)
+LOAD: World
+LOAD: Character
+Event Selected (Dynamic): Fighter Jets | Roll: 51/25
+Event Activated (Special): Missing Cat
+Killbox (Item Clear): Ammo_9x18
+Transition: School
+Current time: 1510 Travel time: 200 Arrival time: 1710
+SAVE: Character
+SAVE: World
+AI Spawner: Pools created
+AI Spawner: Agent active (Guard)
+AI Spawner: Agent active (Wanderer)
+LOAD: World
+LOAD: Character
+Event Selected (Dynamic): Fighter Jets | Roll: 56/25
+Event Activated (Trader): Doctor returns to School
+Killbox (Item Clear): @RigidBody3D@319
+AI Spawner: Agent active (Wanderer)
+Hit: LIMBS
+Hit: TORSO
+AI: Process ended
+AI Spawner: Agent active (Wanderer)
+Hit: LIMBS
+Hit: TORSO
+Hit: HEAD
+AI: No available cover points -> Combat
+Simulation: Weather (Wind)
+Hit: LIMBS
+Hit: HEAD
+AI: Process ended
+AI Spawner: Agent active (Wanderer)
+AI: No available vantage points -> Combat
+Hit: LIMBS
+SAVE: World
+Loader: Reset Character
+DEATH: Standard
+Hit: TORSO
+Shelter available (Tent) -> Load available
+Shelter available (Tent) -> Load available
+LOAD: World
+LOAD: Character
+LOAD: Tent
+WARNING: ObjectDB instances leaked at exit (run with --verbose for details).
+   at: cleanup (core/object/object.cpp:2641)

@@ -1,0 +1,370 @@
+Godot Engine v4.6.2.stable.official.71f334935 - https://godotengine.org
+D3D12 12_0 - Forward+ - Using Device #0: AMD - AMD Radeon RX 7700 XT
+
+[FileScope] _mount_previous_session() starting
+[FileScope] 6 archive path(s) in pass state
+[FileScope]   EXISTS: D:/Road.to.Vostok/mods/00ModConfigurationMenu.vmz
+[FileScope]   EXISTS: D:/Road.to.Vostok/mods/FiremodeHUD.vmz
+[FileScope]   EXISTS: D:/Road.to.Vostok/mods/LootHighlight_v2.8.vmz
+[FileScope]   EXISTS: D:/Road.to.Vostok/mods/Quick-Stack-Sort v2.vmz
+[FileScope]   EXISTS: D:/Road.to.Vostok/mods/RedSmokeAirdrop.vmz
+[FileScope]   EXISTS: D:/Road.to.Vostok/mods/MedicalDurability.vmz
+[FileScope]   MOUNTED (vmz->zip): D:/Road.to.Vostok/mods/00ModConfigurationMenu.vmz
+[FileScope]   MOUNTED (vmz->zip): D:/Road.to.Vostok/mods/FiremodeHUD.vmz
+[FileScope]   MOUNTED (vmz->zip): D:/Road.to.Vostok/mods/LootHighlight_v2.8.vmz
+[FileScope]   MOUNTED (vmz->zip): D:/Road.to.Vostok/mods/Quick-Stack-Sort v2.vmz
+[FileScope]   MOUNTED (vmz->zip): D:/Road.to.Vostok/mods/RedSmokeAirdrop.vmz
+[FileScope]   MOUNTED (vmz->zip): D:/Road.to.Vostok/mods/MedicalDurability.vmz
+[FileScope] PRE-INIT cache: 0/1 wrapped scripts already cached at static init
+[FileScope]   NOT YET LOADED (preempt window open): Menu.gd
+[FileScope] HOOK PACK mounted at static init: user://modloader_hooks/framework_pack_7403.zip
+[FileScope] HOOK PACK preempted 1 wrapped script(s) at static init (0 failed, 0 other vanilla left to lenient lazy-compile)
+[FileScope] Done -- 6 archive(s) mounted
+ID valid
+Shelter available (Cabin) -> Load available
+Driver Detected: d3d12
+Method Detected: forward_plus
+[ModLoader][Info] Pass 2 -- 6 archive(s) mounted at file-scope
+WARNING: [ModLoader][Warning] Class cache has only 3 entries (raw=3) -- mod shadowing detected, using hardcoded fallback
+   at: push_warning (core/variant/variant_utility.cpp:1034)
+[ModLoader][Info] [RTVCodegen] parsed RTV.pck -- 17729 total file(s), 176 .gd script(s) under res://Scripts/
+[ModLoader][Info] Scanning mods dir: D:/Road.to.Vostok/mods
+[ModLoader][Info] [ModScan] inspecting 00ModConfigurationMenu.vmz
+[ModLoader][Info] [ModScan] inspecting FiremodeHUD.vmz
+[ModLoader][Info] [ModScan] inspecting LootHighlight_v2.8.vmz
+[ModLoader][Info] [ModScan] inspecting MedicalDurability.vmz
+[ModLoader][Info] [ModScan] inspecting Quick-Stack-Sort v2.vmz
+[ModLoader][Info] [ModScan] inspecting RedSmokeAirdrop.vmz
+[ModLoader][Info] Found 6 mod(s):
+[ModLoader][Info]   00ModConfigurationMenu.vmz (Mod Configuration Menu)
+[ModLoader][Info]   FiremodeHUD.vmz (Firemode HUD)
+[ModLoader][Info]   LootHighlight_v2.8.vmz (Loot Highlight v2.8)
+[ModLoader][Info]   MedicalDurability.vmz (Medical Durability)
+[ModLoader][Info]   Quick-Stack-Sort v2.vmz (Quick Stack & Sort)
+[ModLoader][Info]   RedSmokeAirdrop.vmz (Red Smoke Airdrop)
+[ModLoader][Info] === Load Order (Pass 2) ===
+[ModLoader][Info]   [1] Mod Configuration Menu | 00ModConfigurationMenu.vmz [priority=-100]
+[ModLoader][Info]   [2] Firemode HUD | FiremodeHUD.vmz [priority=0]
+[ModLoader][Info]   [3] Loot Highlight v2.8 | LootHighlight_v2.8.vmz [priority=0]
+[ModLoader][Info]   [4] Quick Stack & Sort | Quick-Stack-Sort v2.vmz [priority=0]
+[ModLoader][Info]   [5] Red Smoke Airdrop | RedSmokeAirdrop.vmz [priority=0]
+[ModLoader][Info]   [6] Medical Durability | MedicalDurability.vmz [priority=100]
+[ModLoader][Info] ===========================
+[ModLoader][Info] --- [1] Mod Configuration Menu (00ModConfigurationMenu.vmz)
+[ModLoader][Info] --- [2] Firemode HUD (FiremodeHUD.vmz)
+[ModLoader][Info] --- [3] Loot Highlight v2.8 (LootHighlight_v2.8.vmz)
+[ModLoader][Info] --- [4] Quick Stack & Sort (Quick-Stack-Sort v2.vmz)
+[ModLoader][Info] --- [5] Red Smoke Airdrop (RedSmokeAirdrop.vmz)
+[ModLoader][Info] --- [6] Medical Durability (MedicalDurability.vmz)
+[ModLoader][Info] [RTVModLib] modloader registered as Engine.meta('RTVModLib')
+[ModLoader][Info] [STABILITY] Detokenizer compatible: GDSC v101 on Godot 4.6.2-stable (official)
+[ModLoader][Info] [RTVCodegen] No user opt-in declarations ([hooks] / .hook() / [registry]) -- user mods' vanilla targets run unmodified (v2.1.0-equivalent). Pack contains core hooks only.
+[ModLoader][Info] [RTVCodegen] Wrap surface: 1 vanilla script(s) declared (1 via [hooks]/.hook(), 0 via [registry])
+[ModLoader][Info] [RTVCodegen] Skip lists: 7 runtime-sensitive, 25 data, 11 serialized (total 43 skipped from rewrite)
+[ModLoader][Info] [Autofix] Stripped 1 redundant .reload() call(s) from res://ModConfigurationMenu/Main.gd -- prevents Cannot-reload-while-instances-exist spam
+[ModLoader][Info] [Autofix] Patched sibling res://ModConfigurationMenu/Main.gd: bodyless=0 tool=0 onready=0 export=0
+[ModLoader][Info] [Autofix] Stripped 1 redundant .reload() call(s) from res://MedicalDurability/Main.gd -- prevents Cannot-reload-while-instances-exist spam
+[ModLoader][Info] [Autofix] Patched sibling res://MedicalDurability/Main.gd: bodyless=0 tool=0 onready=0 export=0
+[ModLoader][Info] [Autofix] 2 mod sibling script(s) repaired (0 bodyless blocks, 2 reload() stripped) -- packed into hook pack overlay
+[ModLoader][Info] [RTVCodegen] Skipped 1 zero-byte PCK entry(ies) (base game ships empty .gd files -- not hookable, not a modloader failure): res://Scripts/CasettePlayer.gd
+[ModLoader][Info] [RTVCodegen] Surface-skipped 131 vanilla script(s) with no mod interaction -- they run native (no dispatch overhead)
+[ModLoader][Info] [STABILITY] VFS canary OK: hook pack mount precedence verified (MODLOADER-VFS-CANARY-3.2.1)
+[ModLoader][Info] [RTVCodegen] Generated 1 rewritten vanilla script(s), 4 hook points -- pack mounted at res:// (framework_pack_2473.zip)
+[ModLoader][Info] [RTVCodegen] DEFER 1 script(s) with module-scope scene preload -- will lazy-compile via VFS after mod overrides: Menu.gd
+[ModLoader][Info] [RTVCodegen] PRE-ACTIVATE summary: inline-live=0, pinned-with-source=0, pinned-tokenized=0, other=0 / total=1
+[ModLoader][Info] [RTVCodegen] Activated 0/0 rewritten script(s) (0 already live from static-init preload; 1 deferred to lazy-compile)
+[ModLoader][Info] [RTVCodegen] Persisted hook pack path for next-session static-init mount: framework_pack_2473.zip (1 wrapped path(s))
+WARNING: 'res://ModConfigurationMenu/UI/Doink Oink/UI_MCM.tscn': In external resource #1, invalid UID: 'uid://bb2ho30bbe4pu' - using text path instead: 'res://ModConfigurationMenu/Scripts/Doink Oink/MCMMenu.gd'.
+   at: open (core/io/resource_format_binary.cpp:1092)
+WARNING: 'res://ModConfigurationMenu/UI/Doink Oink/UI_MCM.tscn': In external resource #4, invalid UID: 'uid://828yfc1f880u' - using text path instead: 'res://ModConfigurationMenu/Sprites/UI/Doink Oink/MCM-Logo.png'.
+   at: open (core/io/resource_format_binary.cpp:1092)
+WARNING: 'res://ModConfigurationMenu/UI/Doink Oink/UI_MCM.tscn': In external resource #5, invalid UID: 'uid://cmpb147ohg32n' - using text path instead: 'res://ModConfigurationMenu/Resources/Doink Oink/MCM_Mod_List_Button.tscn'.
+   at: open (core/io/resource_format_binary.cpp:1092)
+WARNING: 'res://ModConfigurationMenu/UI/Doink Oink/UI_MCM.tscn': In external resource #6, invalid UID: 'uid://ba1armg3os37p' - using text path instead: 'res://ModConfigurationMenu/Resources/Doink Oink/MCM_Header_String.tscn'.
+   at: open (core/io/resource_format_binary.cpp:1092)
+WARNING: 'res://ModConfigurationMenu/UI/Doink Oink/UI_MCM.tscn': In external resource #7, invalid UID: 'uid://7lg0l3h8unnq' - using text path instead: 'res://ModConfigurationMenu/Resources/Doink Oink/MCM_Bool_Value.tscn'.
+   at: open (core/io/resource_format_binary.cpp:1092)
+WARNING: 'res://ModConfigurationMenu/UI/Doink Oink/UI_MCM.tscn': In external resource #8, invalid UID: 'uid://cfkvwghmbu1b0' - using text path instead: 'res://ModConfigurationMenu/Resources/Doink Oink/MCM_Color_Value.tscn'.
+   at: open (core/io/resource_format_binary.cpp:1092)
+WARNING: 'res://ModConfigurationMenu/UI/Doink Oink/UI_MCM.tscn': In external resource #9, invalid UID: 'uid://cg7bdpjwt3mrv' - using text path instead: 'res://ModConfigurationMenu/Resources/Doink Oink/MCM_Dropdown_Value.tscn'.
+   at: open (core/io/resource_format_binary.cpp:1092)
+WARNING: 'res://ModConfigurationMenu/UI/Doink Oink/UI_MCM.tscn': In external resource #10, invalid UID: 'uid://ccio7axqb4r3q' - using text path instead: 'res://ModConfigurationMenu/Resources/Doink Oink/MCM_Keycode_Value.tscn'.
+   at: open (core/io/resource_format_binary.cpp:1092)
+WARNING: 'res://ModConfigurationMenu/UI/Doink Oink/UI_MCM.tscn': In external resource #11, invalid UID: 'uid://33nsgfalxfbr' - using text path instead: 'res://ModConfigurationMenu/Resources/Doink Oink/MCM_Slider_Value.tscn'.
+   at: open (core/io/resource_format_binary.cpp:1092)
+WARNING: 'res://ModConfigurationMenu/UI/Doink Oink/UI_MCM.tscn': In external resource #12, invalid UID: 'uid://dfu35yank8jbg' - using text path instead: 'res://ModConfigurationMenu/Resources/Doink Oink/MCM_String_Value.tscn'.
+   at: open (core/io/resource_format_binary.cpp:1092)
+WARNING: 'res://ModConfigurationMenu/Scripts/Doink Oink/MCM_Helpers.tres': In external resource #0, invalid UID: 'uid://hsf8iljwxg2d' - using text path instead: 'res://ModConfigurationMenu/Scripts/Doink Oink/MCM_Helpers.gd'.
+   at: open (core/io/resource_format_binary.cpp:1092)
+WARNING: 'res://ModConfigurationMenu/Resources/Doink Oink/MCM_Header_String.tscn': In external resource #1, invalid UID: 'uid://s787byv22jn1' - using text path instead: 'res://ModConfigurationMenu/Scripts/Doink Oink/MCM_Header.gd'.
+   at: open (core/io/resource_format_binary.cpp:1092)
+WARNING: 'res://ModConfigurationMenu/Resources/Doink Oink/MCM_Slider_Value.tscn': In external resource #1, invalid UID: 'uid://ccnh0q8le7s2q' - using text path instead: 'res://ModConfigurationMenu/Scripts/Doink Oink/MCM_Slider.gd'.
+   at: open (core/io/resource_format_binary.cpp:1092)
+WARNING: 'res://ModConfigurationMenu/Resources/Doink Oink/MCM_Slider_Value.tscn': In external resource #2, invalid UID: 'uid://bl21dxqpc5dcb' - using text path instead: 'res://ModConfigurationMenu/Sprites/UI/Doink Oink/revert.png'.
+   at: open (core/io/resource_format_binary.cpp:1092)
+WARNING: 'res://ModConfigurationMenu/Resources/Doink Oink/MCM_Bool_Value.tscn': In external resource #1, invalid UID: 'uid://crswrqyud8aod' - using text path instead: 'res://ModConfigurationMenu/Scripts/Doink Oink/MCM_Bool.gd'.
+   at: open (core/io/resource_format_binary.cpp:1092)
+WARNING: 'res://ModConfigurationMenu/Resources/Doink Oink/MCM_Bool_Value.tscn': In external resource #2, invalid UID: 'uid://bl21dxqpc5dcb' - using text path instead: 'res://ModConfigurationMenu/Sprites/UI/Doink Oink/revert.png'.
+   at: open (core/io/resource_format_binary.cpp:1092)
+WARNING: 'res://ModConfigurationMenu/Resources/Doink Oink/MCM_String_Value.tscn': In external resource #1, invalid UID: 'uid://bb486wqreeeu4' - using text path instead: 'res://ModConfigurationMenu/Scripts/Doink Oink/MCM_String.gd'.
+   at: open (core/io/resource_format_binary.cpp:1092)
+WARNING: 'res://ModConfigurationMenu/Resources/Doink Oink/MCM_String_Value.tscn': In external resource #2, invalid UID: 'uid://bl21dxqpc5dcb' - using text path instead: 'res://ModConfigurationMenu/Sprites/UI/Doink Oink/revert.png'.
+   at: open (core/io/resource_format_binary.cpp:1092)
+WARNING: 'res://ModConfigurationMenu/Resources/Doink Oink/MCM_Keycode_Value.tscn': In external resource #1, invalid UID: 'uid://0vo8q4ix2bcm' - using text path instead: 'res://ModConfigurationMenu/Scripts/Doink Oink/MCM_Keycode.gd'.
+   at: open (core/io/resource_format_binary.cpp:1092)
+WARNING: 'res://ModConfigurationMenu/Resources/Doink Oink/MCM_Keycode_Value.tscn': In external resource #2, invalid UID: 'uid://bl21dxqpc5dcb' - using text path instead: 'res://ModConfigurationMenu/Sprites/UI/Doink Oink/revert.png'.
+   at: open (core/io/resource_format_binary.cpp:1092)
+WARNING: 'res://ModConfigurationMenu/Resources/Doink Oink/MCM_Color_Value.tscn': In external resource #1, invalid UID: 'uid://c0qke58tpma3h' - using text path instead: 'res://ModConfigurationMenu/Scripts/Doink Oink/MCM_Color.gd'.
+   at: open (core/io/resource_format_binary.cpp:1092)
+WARNING: 'res://ModConfigurationMenu/Resources/Doink Oink/MCM_Color_Value.tscn': In external resource #2, invalid UID: 'uid://bl21dxqpc5dcb' - using text path instead: 'res://ModConfigurationMenu/Sprites/UI/Doink Oink/revert.png'.
+   at: open (core/io/resource_format_binary.cpp:1092)
+WARNING: 'res://ModConfigurationMenu/Resources/Doink Oink/MCM_Dropdown_Value.tscn': In external resource #1, invalid UID: 'uid://b6rlgwpcoyw4a' - using text path instead: 'res://ModConfigurationMenu/Scripts/Doink Oink/MCM_Dropdown.gd'.
+   at: open (core/io/resource_format_binary.cpp:1092)
+WARNING: 'res://ModConfigurationMenu/Resources/Doink Oink/MCM_Dropdown_Value.tscn': In external resource #2, invalid UID: 'uid://bl21dxqpc5dcb' - using text path instead: 'res://ModConfigurationMenu/Sprites/UI/Doink Oink/revert.png'.
+   at: open (core/io/resource_format_binary.cpp:1092)
+[MCM] FiremodeHUD has been successfully registered
+[MCM] LootHighlight has been successfully registered
+[MCM] LootHighlight Has successfully added the Input Action: lh_toggle_key
+[MCM] QuickStackSort has been successfully registered
+[MCM] QuickStackSort Has successfully added the Input Action: cfg_sort_key
+[MCM] QuickStackSort Has successfully added the Input Action: cfg_lock_key
+[MCM] MedicalDurability has been successfully registered
+[MedicalDurability] loaded
+[ModLoader][Info] [RTVModLib] frameworks_ready emitted
+[ModLoader][Info] [OverrideVerify] === Post-autoload cache check ===
+[ModLoader][Info] [OverrideVerify] Mod Configuration Menu | res://Scripts/Inputs.gd | resource_path=res://Scripts/Inputs.gd src_head=[extends "res://Scripts/Inputs.gd" |  | var MCMHelpers = preload(]
+[ModLoader][Info] [OverrideVerify] Mod Configuration Menu | res://Scripts/Menu.gd | resource_path=res://Scripts/Menu.gd src_head=[extends "res://Scripts/Menu.gd" |  | var mcmMenuScene = preload(]
+[ModLoader][Info] [OverrideVerify] Mod Configuration Menu | res://Scripts/UIManager.gd | resource_path=res://Scripts/UIManager.gd src_head=[extends "res://Scripts/UIManager.gd" |  | var MCMHelpers = prelo]
+[ModLoader][Info] [OverrideVerify] Medical Durability | res://Scripts/Interface.gd | resource_path=res://Scripts/Interface.gd src_head=[extends "res://Scripts/Interface.gd" |  | const MD_DEBUG := fals]
+[ModLoader][Info] [OverrideVerify] Medical Durability | res://Scripts/Item.gd | resource_path=res://Scripts/Item.gd src_head=[extends "res://Scripts/Item.gd" |  | func _set_amount_layout_def]
+[ModLoader][Info] [OverrideVerify] Medical Durability | res://Scripts/Tooltip.gd | resource_path=res://Scripts/Tooltip.gd src_head=[extends "res://Scripts/Tooltip.gd" |  | func Update(item: Item):]
+ID valid
+Shelter available (Cabin) -> Load available
+Driver Detected: d3d12
+Method Detected: forward_plus
+[ModLoader][Info] [ModLoader] Injected Mods button into main menu
+[RedSmokeAirdrop] Init
+Menu
+[MCM] LootHighlight Has successfully added the Input Action: lh_toggle_key
+ERROR: InputMap already has action "lh_toggle_key".
+   at: add_action (core/input/input_map.cpp:118)
+[MCM] QuickStackSort Has successfully added the Input Action: lh_toggle_key
+[MCM] QuickStackSort Has successfully added the Input Action: cfg_sort_key
+[MCM] QuickStackSort Has successfully added the Input Action: cfg_lock_key
+ERROR: InputMap already has action "lh_toggle_key".
+   at: add_action (core/input/input_map.cpp:118)
+[MCM] MedicalDurability Has successfully added the Input Action: lh_toggle_key
+ERROR: InputMap already has action "cfg_sort_key".
+   at: add_action (core/input/input_map.cpp:118)
+[MCM] MedicalDurability Has successfully added the Input Action: cfg_sort_key
+ERROR: InputMap already has action "cfg_lock_key".
+   at: add_action (core/input/input_map.cpp:118)
+[MCM] MedicalDurability Has successfully added the Input Action: cfg_lock_key
+Shelter available (Cabin) -> Load available
+[RedSmokeAirdrop] World scene changed to Cabin, resetting state
+[RedSmokeAirdrop] Smoke holder created
+[RedSmokeAirdrop] Smoke instance created
+Map
+[QuickStack] Found Interface: Core/UI/Interface
+[MCM] LootHighlight Has successfully added the Input Action: lh_toggle_key
+ERROR: InputMap already has action "lh_toggle_key".
+   at: add_action (core/input/input_map.cpp:118)
+[MCM] QuickStackSort Has successfully added the Input Action: lh_toggle_key
+[MCM] QuickStackSort Has successfully added the Input Action: cfg_sort_key
+[MCM] QuickStackSort Has successfully added the Input Action: cfg_lock_key
+ERROR: InputMap already has action "lh_toggle_key".
+   at: add_action (core/input/input_map.cpp:118)
+[MCM] MedicalDurability Has successfully added the Input Action: lh_toggle_key
+ERROR: InputMap already has action "cfg_sort_key".
+   at: add_action (core/input/input_map.cpp:118)
+[MCM] MedicalDurability Has successfully added the Input Action: cfg_sort_key
+ERROR: InputMap already has action "cfg_lock_key".
+   at: add_action (core/input/input_map.cpp:118)
+[MCM] MedicalDurability Has successfully added the Input Action: cfg_lock_key
+LOAD: World
+LOAD: Character
+LOAD: Cabin
+Message: Item Returned: Blanket
+Transition: Village
+Current time: 1372 Travel time: 0 Arrival time: 1372
+SAVE: Character
+SAVE: World
+SAVE: Cabin
+[RedSmokeAirdrop] World scene changed to Village, resetting state
+Map
+[QuickStack] Found Interface: Core/UI/Interface
+[MCM] LootHighlight Has successfully added the Input Action: lh_toggle_key
+ERROR: InputMap already has action "lh_toggle_key".
+   at: add_action (core/input/input_map.cpp:118)
+[MCM] QuickStackSort Has successfully added the Input Action: lh_toggle_key
+[MCM] QuickStackSort Has successfully added the Input Action: cfg_sort_key
+[MCM] QuickStackSort Has successfully added the Input Action: cfg_lock_key
+ERROR: InputMap already has action "lh_toggle_key".
+   at: add_action (core/input/input_map.cpp:118)
+[MCM] MedicalDurability Has successfully added the Input Action: lh_toggle_key
+ERROR: InputMap already has action "cfg_sort_key".
+   at: add_action (core/input/input_map.cpp:118)
+[MCM] MedicalDurability Has successfully added the Input Action: cfg_sort_key
+ERROR: InputMap already has action "cfg_lock_key".
+   at: add_action (core/input/input_map.cpp:118)
+[MCM] MedicalDurability Has successfully added the Input Action: cfg_lock_key
+AI Spawner: Pools created
+AI Spawner: Agent active (Guard)
+AI Spawner: Agent active (Wanderer)
+LOAD: World
+LOAD: Character
+Event Selected (Dynamic): Fighter Jets | Roll: 2/25
+Event Activated (Dynamic): Fighter Jets | Delay: 03:25
+Event Activated (Trader): Generalist returns to Village
+Killbox (Item Clear): Ammo_9x18
+Killbox (Item Clear): Matches
+AI Spawner: Agent active (Wanderer)
+Simulation: Weather (Neutral)
+Transition: Cabin
+Current time: 1392 Travel time: 0 Arrival time: 1392
+SAVE: Character
+SAVE: World
+[RedSmokeAirdrop] World scene changed to Cabin, resetting state
+Map
+[QuickStack] Found Interface: Core/UI/Interface
+[MCM] LootHighlight Has successfully added the Input Action: lh_toggle_key
+ERROR: InputMap already has action "lh_toggle_key".
+   at: add_action (core/input/input_map.cpp:118)
+[MCM] QuickStackSort Has successfully added the Input Action: lh_toggle_key
+[MCM] QuickStackSort Has successfully added the Input Action: cfg_sort_key
+[MCM] QuickStackSort Has successfully added the Input Action: cfg_lock_key
+ERROR: InputMap already has action "lh_toggle_key".
+   at: add_action (core/input/input_map.cpp:118)
+[MCM] MedicalDurability Has successfully added the Input Action: lh_toggle_key
+ERROR: InputMap already has action "cfg_sort_key".
+   at: add_action (core/input/input_map.cpp:118)
+[MCM] MedicalDurability Has successfully added the Input Action: cfg_sort_key
+ERROR: InputMap already has action "cfg_lock_key".
+   at: add_action (core/input/input_map.cpp:118)
+[MCM] MedicalDurability Has successfully added the Input Action: cfg_lock_key
+LOAD: World
+LOAD: Character
+LOAD: Cabin
+Transition: Village
+Current time: 1405 Travel time: 0 Arrival time: 1405
+SAVE: Character
+SAVE: World
+SAVE: Cabin
+[RedSmokeAirdrop] World scene changed to Village, resetting state
+Map
+[QuickStack] Found Interface: Core/UI/Interface
+[MCM] LootHighlight Has successfully added the Input Action: lh_toggle_key
+ERROR: InputMap already has action "lh_toggle_key".
+   at: add_action (core/input/input_map.cpp:118)
+[MCM] QuickStackSort Has successfully added the Input Action: lh_toggle_key
+[MCM] QuickStackSort Has successfully added the Input Action: cfg_sort_key
+[MCM] QuickStackSort Has successfully added the Input Action: cfg_lock_key
+ERROR: InputMap already has action "lh_toggle_key".
+   at: add_action (core/input/input_map.cpp:118)
+[MCM] MedicalDurability Has successfully added the Input Action: lh_toggle_key
+ERROR: InputMap already has action "cfg_sort_key".
+   at: add_action (core/input/input_map.cpp:118)
+[MCM] MedicalDurability Has successfully added the Input Action: cfg_sort_key
+ERROR: InputMap already has action "cfg_lock_key".
+   at: add_action (core/input/input_map.cpp:118)
+[MCM] MedicalDurability Has successfully added the Input Action: cfg_lock_key
+AI Spawner: Pools created
+AI Spawner: Agent active (Guard)
+AI Spawner: Agent active (Wanderer)
+LOAD: World
+LOAD: Character
+Event Selected (Dynamic): Punisher arrives to Area 05 | Roll: 32/10
+Event Activated (Trader): Generalist returns to Village
+AI Spawner: Agent active (Wanderer)
+LOAD: Traders (Generalist)
+SAVE: Traders (Generalist)
+LOAD: Traders (Generalist)
+SAVE: Traders (Generalist)
+LOAD: Traders (Generalist)
+SAVE: Traders (Generalist)
+LOAD: Traders (Generalist)
+SAVE: Traders (Generalist)
+AI: Process ended
+AI Spawner: Agent active (Wanderer)
+AI Spawner: Agent active (Wanderer)
+Simulation: Weather (Neutral)
+AI: Process ended
+AI: No available hide points
+AI: Process ended
+AI Spawner: Agent active (Wanderer)
+AI: No available vantage points -> Combat
+AI: No available hide points
+Hit: TORSO
+AI: No available vantage points -> Combat
+Hit: TORSO
+Hit: TORSO
+AI Spawner: Agent active (Wanderer)
+AI: Process ended
+LOAD: Traders (Generalist)
+AI: No available vantage points -> Combat
+Message: New Furniture Added [Catalog]
+SAVE: Traders (Generalist)
+LOAD: Traders (Generalist)
+SAVE: Traders (Generalist)
+LOAD: Traders (Generalist)
+SAVE: Traders (Generalist)
+LOAD: Traders (Generalist)
+SAVE: Traders (Generalist)
+LOAD: Traders (Generalist)
+SAVE: Traders (Generalist)
+Transition: Cabin
+Current time: 1816 Travel time: 0 Arrival time: 1816
+SAVE: Character
+SAVE: World
+[RedSmokeAirdrop] World scene changed to Cabin, resetting state
+Map
+[QuickStack] Found Interface: Core/UI/Interface
+[MCM] LootHighlight Has successfully added the Input Action: lh_toggle_key
+ERROR: InputMap already has action "lh_toggle_key".
+   at: add_action (core/input/input_map.cpp:118)
+[MCM] QuickStackSort Has successfully added the Input Action: lh_toggle_key
+[MCM] QuickStackSort Has successfully added the Input Action: cfg_sort_key
+[MCM] QuickStackSort Has successfully added the Input Action: cfg_lock_key
+ERROR: InputMap already has action "lh_toggle_key".
+   at: add_action (core/input/input_map.cpp:118)
+[MCM] MedicalDurability Has successfully added the Input Action: lh_toggle_key
+ERROR: InputMap already has action "cfg_sort_key".
+   at: add_action (core/input/input_map.cpp:118)
+[MCM] MedicalDurability Has successfully added the Input Action: cfg_sort_key
+ERROR: InputMap already has action "cfg_lock_key".
+   at: add_action (core/input/input_map.cpp:118)
+[MCM] MedicalDurability Has successfully added the Input Action: cfg_lock_key
+LOAD: World
+LOAD: Character
+LOAD: Cabin
+Simulation: Weather (Neutral)
+Simulation: Weather (Neutral)
+SAVE: World
+SAVE: Character
+SAVE: Cabin
+ID valid
+Shelter available (Cabin) -> Load available
+Driver Detected: d3d12
+Method Detected: forward_plus
+[ModLoader][Info] [ModLoader] Injected Mods button into main menu
+[RedSmokeAirdrop] World scene changed to Menu, resetting state
+Menu
+[MCM] LootHighlight Has successfully added the Input Action: lh_toggle_key
+ERROR: InputMap already has action "lh_toggle_key".
+   at: add_action (core/input/input_map.cpp:118)
+[MCM] QuickStackSort Has successfully added the Input Action: lh_toggle_key
+[MCM] QuickStackSort Has successfully added the Input Action: cfg_sort_key
+[MCM] QuickStackSort Has successfully added the Input Action: cfg_lock_key
+ERROR: InputMap already has action "lh_toggle_key".
+   at: add_action (core/input/input_map.cpp:118)
+[MCM] MedicalDurability Has successfully added the Input Action: lh_toggle_key
+ERROR: InputMap already has action "cfg_sort_key".
+   at: add_action (core/input/input_map.cpp:118)
+[MCM] MedicalDurability Has successfully added the Input Action: cfg_sort_key
+ERROR: InputMap already has action "cfg_lock_key".
+   at: add_action (core/input/input_map.cpp:118)
+[MCM] MedicalDurability Has successfully added the Input Action: cfg_lock_key
+WARNING: ObjectDB instances leaked at exit (run with --verbose for details).
+   at: cleanup (core/object/object.cpp:2641)
+ERROR: 2 resources still in use at exit (run with --verbose for details).
+   at: clear (core/io/resource.cpp:810)

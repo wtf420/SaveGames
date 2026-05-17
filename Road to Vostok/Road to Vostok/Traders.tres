@@ -1,0 +1,20 @@
+[gd_resource type="Resource" script_class="TraderSave" format=3]
+
+[ext_resource type="Script" path="res://Scripts/TraderSave.gd" id="1"]
+[ext_resource type="Script" path="res://Scripts/TaskData.gd" id="2"]
+[ext_resource type="Resource" path="res://Traders/Generalist/Tasks/07_Six_Pack.tres" id="3"]
+[ext_resource type="Resource" path="res://Traders/Generalist/Tasks/04_Coffee_Reserve.tres" id="4"]
+[ext_resource type="Resource" path="res://Traders/Generalist/Tasks/03_Backpains.tres" id="5"]
+[ext_resource type="Resource" path="res://Traders/Generalist/Tasks/02_Bad_Habits.tres" id="6"]
+[ext_resource type="Resource" path="res://Traders/Generalist/Tasks/06_Handyman.tres" id="7"]
+[ext_resource type="Resource" path="res://Traders/Generalist/Tasks/08_Old_Friend.tres" id="8"]
+[ext_resource type="Resource" path="res://Traders/Generalist/Tasks/09_Road_Trip.tres" id="9"]
+[ext_resource type="Resource" path="res://Traders/Generalist/Tasks/10_Homemade.tres" id="10"]
+
+[resource]
+script = ExtResource("1")
+generalist = Array[String](["Prime Time", "Sweaty Business", "Bad Habits"])
+doctor = Array[String](["Bookworm"])
+gunsmith = Array[String]([])
+grandma = Array[String]([])
+taskNotes = Array[ExtResource("2")]([ExtResource("3"), ExtResource("4"), ExtResource("5"), ExtResource("6"), ExtResource("7"), ExtResource("8"), ExtResource("9"), ExtResource("10")])

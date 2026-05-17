@@ -1,0 +1,136 @@
+Godot Engine v4.6.2.stable.official.71f334935 - https://godotengine.org
+D3D12 12_0 - Forward+ - Using Device #0: AMD - AMD Radeon RX 7700 XT
+
+ID valid
+Shelter available (Cabin) -> Load available
+Driver Detected: d3d12
+Method Detected: forward_plus
+Shelter available (Cabin) -> Load available
+LOAD: World
+LOAD: Character
+LOAD: Cabin
+Transition: Village
+Current time: 342 Travel time: 0 Arrival time: 342
+SAVE: Character
+SAVE: World
+SAVE: Cabin
+AI Spawner: Pools created
+AI Spawner: Agent active (Guard)
+Hider spawned
+AI Spawner: Agent active (Wanderer)
+LOAD: World
+LOAD: Character
+Event Selected (Dynamic): Fighter Jets | Roll: 24/25
+Event Activated (Dynamic): Fighter Jets | Delay: 01:57
+Event Activated (Trader): Generalist returns to Village
+Killbox (Item Clear): Battery_Cables
+LOAD: Traders (Generalist)
+SAVE: Traders (Generalist)
+Fighter Jet: Distance cleared
+Simulation: Weather (Neutral)
+LOAD: Traders (Generalist)
+SAVE: Traders (Generalist)
+LOAD: Traders (Generalist)
+SAVE: Traders (Generalist)
+LOAD: Traders (Generalist)
+Message: New Furniture Added [Catalog]
+SAVE: Traders (Generalist)
+Transition: Cabin
+Current time: 540 Travel time: 0 Arrival time: 540
+SAVE: Character
+SAVE: World
+LOAD: World
+LOAD: Character
+LOAD: Cabin
+SAVE: World
+SAVE: Character
+SAVE: Cabin
+ID valid
+Shelter available (Cabin) -> Load available
+Driver Detected: d3d12
+Method Detected: forward_plus
+Shelter available (Cabin) -> Load available
+LOAD: World
+LOAD: Character
+LOAD: Cabin
+Transition: Village
+Current time: 632 Travel time: 0 Arrival time: 632
+SAVE: Character
+SAVE: World
+SAVE: Cabin
+AI Spawner: Pools created
+AI Spawner: Agent active (Guard)
+AI Spawner: Agent active (Wanderer)
+LOAD: World
+LOAD: Character
+Event Selected (Dynamic): Fighter Jets | Roll: 59/25
+Event Activated (Trader): Generalist returns to Village
+Killbox (Item Clear): Matches
+AI Spawner: Agent active (Wanderer)
+Simulation: Weather (Overcast)
+Transition: School
+Current time: 686 Travel time: 100 Arrival time: 786
+SAVE: Character
+SAVE: World
+AI Spawner: Pools created
+AI Spawner: Agent active (Guard)
+AI Spawner: Agent active (Wanderer)
+LOAD: World
+LOAD: Character
+Event Selected (Dynamic): Fighter Jets | Roll: 88/25
+Event Activated (Trader): Doctor returns to School
+AI Spawner: Agent active (Wanderer)
+AI Spawner: Agent active (Wanderer)
+AI: Process ended
+AI: No available vantage points -> Combat
+AI: No available vantage points -> Combat
+Simulation: Weather (Neutral)
+AI: No available cover points -> Combat
+AI: No available vantage points -> Combat
+AI: Process ended
+AI Spawner: Agent active (Wanderer)
+LOAD: Traders (Doctor)
+SAVE: Traders (Doctor)
+LOAD: Traders (Doctor)
+SAVE: Traders (Doctor)
+LOAD: Traders (Doctor)
+Message: Task Completed: Nasty Draft
+SAVE: Traders (Doctor)
+SAVE: Traders (Doctor)
+Simulation: Weather (Neutral)
+AI Spawner: Agent active (Wanderer)
+AI: Process ended
+LOAD: Traders (Doctor)
+SAVE: Traders (Doctor)
+LOAD: Traders (Doctor)
+SAVE: Traders (Doctor)
+LOAD: Traders (Doctor)
+SAVE: Traders (Doctor)
+LOAD: Traders (Doctor)
+SAVE: Traders (Doctor)
+AI: Process ended
+AI: Process ended
+AI Spawner: Agent active (Wanderer)
+LOAD: Traders (Doctor)
+SAVE: Traders (Doctor)
+LOAD: Traders (Doctor)
+AI Spawner: Agent active (Wanderer)
+SAVE: Traders (Doctor)
+LOAD: Traders (Doctor)
+SAVE: Traders (Doctor)
+AI: No available cover points -> Combat
+AI: No available vantage points -> Combat
+Hit: LIMBS
+Hit: HEAD
+Hit: HEAD
+Hit: LIMBS
+SAVE: World
+Loader: Reset Character
+DEATH: Standard
+Shelter available (Cabin) -> Load available
+Shelter available (Cabin) -> Load available
+LOAD: World
+LOAD: Character
+LOAD: Cabin
+WARNING: ObjectDB instances leaked at exit (run with --verbose for details).
+   at: cleanup (core/object/object.cpp:2641)

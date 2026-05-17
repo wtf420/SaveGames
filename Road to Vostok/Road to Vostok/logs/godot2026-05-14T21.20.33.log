@@ -1,0 +1,56 @@
+Godot Engine v4.6.2.stable.official.71f334935 - https://godotengine.org
+D3D12 12_0 - Forward+ - Using Device #0: AMD - AMD Radeon RX 7700 XT
+
+[FileScope] _mount_previous_session() starting
+[FileScope] No pass state file -- skipping
+ID valid
+Shelter available (Cabin) -> Load available
+Driver Detected: d3d12
+Method Detected: forward_plus
+[ModLoader][Info] Metro Mod Loader v3.2.1
+[ModLoader][Info] Loaded 58 class_name mappings from game cache
+[ModLoader][Info] [RTVCodegen] parsed RTV.pck -- 17729 total file(s), 176 .gd script(s) under res://Scripts/
+[ModLoader][Info] Scanning mods dir: D:/Road.to.Vostok/mods
+[ModLoader][Info] [ModScan] inspecting 00ModConfigurationMenu.vmz
+[ModLoader][Info] [ModScan] inspecting FiremodeHUD.vmz
+[ModLoader][Info] [ModScan] inspecting LootHighlight_v2.8.vmz
+[ModLoader][Info] [ModScan] inspecting MedicalDurability.vmz
+[ModLoader][Info] [ModScan] inspecting Quick-Stack-Sort v2.vmz
+[ModLoader][Info] [ModScan] inspecting RedSmokeAirdrop.vmz
+[ModLoader][Info] Found 6 mod(s):
+[ModLoader][Info]   00ModConfigurationMenu.vmz (Mod Configuration Menu)
+[ModLoader][Info]   FiremodeHUD.vmz (Firemode HUD)
+[ModLoader][Info]   LootHighlight_v2.8.vmz (Loot Highlight v2.8)
+[ModLoader][Info]   MedicalDurability.vmz (Medical Durability)
+[ModLoader][Info]   Quick-Stack-Sort v2.vmz (Quick Stack & Sort)
+[ModLoader][Info]   RedSmokeAirdrop.vmz (Red Smoke Airdrop)
+[ModLoader][Info] === Load Order ===
+[ModLoader][Info]   [1] Mod Configuration Menu | 00ModConfigurationMenu.vmz [priority=-100]
+[ModLoader][Info]   [2] Firemode HUD | FiremodeHUD.vmz [priority=0]
+[ModLoader][Info]   [3] Loot Highlight v2.8 | LootHighlight_v2.8.vmz [priority=0]
+[ModLoader][Info]   [4] Quick Stack & Sort | Quick-Stack-Sort v2.vmz [priority=0]
+[ModLoader][Info]   [5] Red Smoke Airdrop | RedSmokeAirdrop.vmz [priority=0]
+[ModLoader][Info]   [6] Medical Durability | MedicalDurability.vmz [priority=100]
+[ModLoader][Info] ==================
+[ModLoader][Info] --- [1] Mod Configuration Menu (00ModConfigurationMenu.vmz)
+[ModLoader][Info] --- [2] Firemode HUD (FiremodeHUD.vmz)
+[ModLoader][Info] --- [3] Loot Highlight v2.8 (LootHighlight_v2.8.vmz)
+[ModLoader][Info] --- [4] Quick Stack & Sort (Quick-Stack-Sort v2.vmz)
+[ModLoader][Info] --- [5] Red Smoke Airdrop (RedSmokeAirdrop.vmz)
+[ModLoader][Info] --- [6] Medical Durability (MedicalDurability.vmz)
+[ModLoader][Info] Preparing two-pass restart -- 6 archive(s)
+[ModLoader][Info] [RTVModLib] modloader registered as Engine.meta('RTVModLib')
+[ModLoader][Info] [STABILITY] Detokenizer compatible: GDSC v101 on Godot 4.6.2-stable (official)
+[ModLoader][Info] [RTVCodegen] No user opt-in declarations ([hooks] / .hook() / [registry]) -- user mods' vanilla targets run unmodified (v2.1.0-equivalent). Pack contains core hooks only.
+[ModLoader][Info] [RTVCodegen] Wrap surface: 1 vanilla script(s) declared (1 via [hooks]/.hook(), 0 via [registry])
+[ModLoader][Info] [RTVCodegen] Skip lists: 7 runtime-sensitive, 25 data, 11 serialized (total 43 skipped from rewrite)
+[ModLoader][Info] [Detokenize] Reconstructed: res://Scripts/Menu.gd (1230 tokens, 318 lines) -- parse OK
+[ModLoader][Info] [Autofix] Stripped 1 redundant .reload() call(s) from res://ModConfigurationMenu/Main.gd -- prevents Cannot-reload-while-instances-exist spam
+[ModLoader][Info] [Autofix] Patched sibling res://ModConfigurationMenu/Main.gd: bodyless=0 tool=0 onready=0 export=0
+[ModLoader][Info] [Autofix] Stripped 1 redundant .reload() call(s) from res://MedicalDurability/Main.gd -- prevents Cannot-reload-while-instances-exist spam
+[ModLoader][Info] [Autofix] Patched sibling res://MedicalDurability/Main.gd: bodyless=0 tool=0 onready=0 export=0
+[ModLoader][Info] [Autofix] 2 mod sibling script(s) repaired (0 bodyless blocks, 2 reload() stripped) -- packed into hook pack overlay
+[ModLoader][Info] [RTVCodegen] Skipped 1 zero-byte PCK entry(ies) (base game ships empty .gd files -- not hookable, not a modloader failure): res://Scripts/CasettePlayer.gd
+[ModLoader][Info] [RTVCodegen] Surface-skipped 131 vanilla script(s) with no mod interaction -- they run native (no dispatch overhead)
+[ModLoader][Info] [RTVCodegen] Generated 1 rewritten vanilla script(s), 4 hook points -- activation deferred to Pass 2 fresh engine
+[ModLoader][Info] [RTVCodegen] Persisted hook pack path for next-session static-init mount: framework_pack_7403.zip (1 wrapped path(s))

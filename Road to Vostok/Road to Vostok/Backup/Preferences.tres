@@ -1,0 +1,85 @@
+[gd_resource type="Resource" script_class="Preferences" format=3]
+
+[ext_resource type="Script" path="res://Scripts/Preferences.gd" id="1"]
+
+[sub_resource type="InputEventMouseButton" id="InputEventMouseButton_n0pv8"]
+button_mask = 256
+position = Vector2(438, 583)
+global_position = Vector2(438, 583)
+button_index = 9
+pressed = true
+
+[sub_resource type="InputEventMouseButton" id="InputEventMouseButton_80vj2"]
+button_mask = 128
+position = Vector2(505, 418)
+global_position = Vector2(505, 418)
+button_index = 8
+pressed = true
+
+[sub_resource type="InputEventMouseButton" id="InputEventMouseButton_7g6mt"]
+button_mask = 256
+position = Vector2(457, 587)
+global_position = Vector2(457, 587)
+button_index = 9
+pressed = true
+
+[sub_resource type="InputEventKey" id="InputEventKey_n0pv8"]
+pressed = true
+keycode = 78
+physical_keycode = 78
+key_label = 78
+unicode = 110
+
+[resource]
+script = ExtResource("1")
+menuLog = 2
+menuHardware = 1
+menuIntro = 2
+menuMusic = 2
+defaultTool = 1
+defaultType = 1
+casetteVolume = 1.0
+casetteOverride = true
+actionEvents = {
+"canted": SubResource("InputEventMouseButton_n0pv8"),
+"flashlight": SubResource("InputEventMouseButton_80vj2"),
+"interact": SubResource("InputEventMouseButton_7g6mt"),
+"nvg": SubResource("InputEventKey_n0pv8")
+}
+mouseMode = 1
+sprintMode = 1
+leanMode = 1
+aimMode = 1
+masterVolume = 1.0
+ambientVolume = 1.0
+musicVolume = 0.2
+musicPreset = 2
+interpolate = true
+baseFOV = 70.0
+headbob = 1.0
+lookSensitivity = 1.0
+aimSensitivity = 1.0
+scopeSensitivity = 1.0
+exposure = 1.0
+contrast = 1.0
+saturation = 1.0
+map = true
+FPS = true
+vitals = true
+medical = true
+placement = true
+decor = true
+tooltip = 1
+PIP = 2
+detailShadows = 1
+reflections = 1
+ambientOcclusion = 1
+displayMode = 1
+windowSize = 0
+monitor = 0
+frameLimit = 6
+rendering = 2
+sharpness = 1.0
+lighting = 4
+antialiasing = 4
+smaa = 2

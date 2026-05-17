@@ -1,0 +1,323 @@
+Godot Engine v4.6.2.stable.official.71f334935 - https://godotengine.org
+D3D12 12_0 - Forward+ - Using Device #0: AMD - AMD Radeon RX 7700 XT
+
+ID valid
+Shelter available (Cabin) -> Load available
+Driver Detected: d3d12
+Method Detected: forward_plus
+Shelter available (Cabin) -> Load available
+LOAD: World
+LOAD: Character
+LOAD: Cabin
+Transition: Village
+Current time: 621 Travel time: 0 Arrival time: 621
+SAVE: Character
+SAVE: World
+SAVE: Cabin
+AI Spawner: Pools created
+AI Spawner: Agent active (Guard)
+AI Spawner: Agent active (Wanderer)
+LOAD: World
+LOAD: Character
+Event Selected (Dynamic): Fighter Jets | Roll: 79/25
+Event Activated (Trader): Generalist returns to Village
+Killbox (Item Clear): Ammo_9x18
+AI Spawner: Agent active (Wanderer)
+AI: No available vantage points -> Combat
+Simulation: Weather (Neutral)
+AI Spawner: Agent active (Wanderer)
+AI: Process ended
+Transition: School
+Current time: 675 Travel time: 100 Arrival time: 775
+SAVE: Character
+SAVE: World
+AI Spawner: Pools created
+AI Spawner: Agent active (Guard)
+Hider spawned
+AI Spawner: Agent active (Wanderer)
+LOAD: World
+LOAD: Character
+Event Selected (Dynamic): Fighter Jets | Roll: 94/25
+Event Activated (Trader): Doctor returns to School
+Killbox (Item Clear): Matches
+Killbox (Item Clear): Ammo_762x39
+Killbox (Item Clear): Matches
+AI: Process ended
+AI Spawner: Agent active (Wanderer)
+AI: No available hide points
+Simulation: Weather (Storm)
+Transition: Outpost
+Current time: 861 Travel time: 200 Arrival time: 1061
+SAVE: Character
+SAVE: World
+AI Spawner: Pools created
+Hider spawned
+AI Spawner: Agent active (Wanderer)
+LOAD: World
+LOAD: Character
+Event Selected (Dynamic): Fighter Jets | Roll: 67/25
+Killbox (Item Clear): Matches
+Killbox (Item Clear): Ammo_12x70
+Killbox (Item Clear): Makarov_Magazine
+Killbox (Item Clear): Kobra
+AI: No available hide points
+AI: No available vantage points -> Combat
+AI: Process ended
+AI Spawner: Agent active (Wanderer)
+AI Spawner: Agent active (Wanderer)
+AI: No available vantage points -> Combat
+AI: No available cover points -> Combat
+AI: No available hide points
+AI: No available cover points -> Combat
+AI: No available hide points
+AI: No available hide points
+AI: No available hide points
+AI: No available cover points -> Combat
+AI: No available hide points
+AI: No available hide points
+Transition: Tent
+Current time: 1192 Travel time: 0 Arrival time: 1192
+SAVE: Character
+SAVE: World
+LOAD: World
+LOAD: Character
+LOAD: Tent
+SAVE: World
+SAVE: Character
+SAVE: Tent
+ID valid
+Shelter available (Tent) -> Load available
+Driver Detected: d3d12
+Method Detected: forward_plus
+Shelter available (Tent) -> Load available
+LOAD: World
+LOAD: Character
+LOAD: Tent
+Transition: Outpost
+Current time: 1204 Travel time: 0 Arrival time: 1204
+SAVE: Character
+SAVE: World
+SAVE: Tent
+AI Spawner: Pools created
+Hider spawned
+AI Spawner: Agent active (Wanderer)
+LOAD: World
+LOAD: Character
+Event Selected (Dynamic): Fighter Jets | Roll: 45/25
+Killbox (Item Clear): Ammo_762x39
+Transition: School
+Current time: 1212 Travel time: 200 Arrival time: 1412
+SAVE: Character
+SAVE: World
+AI Spawner: Pools created
+AI Spawner: Agent active (Guard)
+AI Spawner: Agent active (Wanderer)
+LOAD: World
+LOAD: Character
+Event Selected (Dynamic): Fighter Jets | Roll: 35/25
+Event Activated (Trader): Doctor returns to School
+Killbox (Item Clear): Battery_Cables
+Killbox (Item Clear): Canned_Tuna
+Killbox (Item Clear): Sticks
+Simulation: Weather (Storm)
+AI Spawner: Agent active (Wanderer)
+LOAD: Traders (Doctor)
+SAVE: Traders (Doctor)
+LOAD: Traders (Doctor)
+SAVE: Traders (Doctor)
+AI: Process ended
+AI Spawner: Agent active (Wanderer)
+Simulation: Weather (Wind)
+AI: Process ended
+Hit: TORSO
+Hit: TORSO
+Hit: LIMBS
+Hit: TORSO
+Hit: LIMBS
+Hit: TORSO
+SAVE: World
+Loader: Reset Character
+DEATH: Standard
+Hit: TORSO
+Hit: HEAD
+Hit: TORSO
+Hit: LIMBS
+Hit: HEAD
+Hit: LIMBS
+Hit: LIMBS
+Hit: TORSO
+Hit: HEAD
+Hit: HEAD
+Hit: TORSO
+Hit: LIMBS
+Hit: LIMBS
+Shelter available (Tent) -> Load available
+ID valid
+Shelter available (Tent) -> Load available
+Driver Detected: d3d12
+Method Detected: forward_plus
+Shelter available (Tent) -> Load available
+LOAD: World
+LOAD: Character
+LOAD: Tent
+Transition: Outpost
+Current time: 1203 Travel time: 0 Arrival time: 1203
+SAVE: Character
+SAVE: World
+SAVE: Tent
+AI Spawner: Pools created
+AI Spawner: Agent active (Wanderer)
+LOAD: World
+LOAD: Character
+Event Selected (Dynamic): Fighter Jets | Roll: 30/25
+AI Spawner: Agent active (Wanderer)
+Transition: School
+Current time: 1220 Travel time: 200 Arrival time: 1420
+SAVE: Character
+SAVE: World
+AI Spawner: Pools created
+AI Spawner: Agent active (Guard)
+AI Spawner: Agent active (Wanderer)
+LOAD: World
+LOAD: Character
+Event Selected (Dynamic): Fighter Jets | Roll: 31/25
+Event Activated (Trader): Doctor returns to School
+Killbox (Item Clear): Book_Children
+Simulation: Weather (Overcast)
+AI Spawner: Agent active (Wanderer)
+AI: Process ended
+AI Spawner: Agent active (Wanderer)
+AI: No available vantage points -> Combat
+AI: No available vantage points -> Combat
+AI: No available vantage points -> Combat
+AI: No available hide points
+AI: No available vantage points -> Combat
+AI: No available hide points
+AI: No available hide points
+AI: No available hide points
+AI: No available vantage points -> Combat
+AI: No available vantage points -> Combat
+LOAD: Traders (Doctor)
+AI: No available cover points -> Combat
+SAVE: Traders (Doctor)
+LOAD: Traders (Doctor)
+AI: No available vantage points -> Combat
+AI: No available hide points
+SAVE: Traders (Doctor)
+AI: No available cover points -> Combat
+AI: No available hide points
+AI: No available cover points -> Combat
+LOAD: Traders (Doctor)
+SAVE: Traders (Doctor)
+AI: No available vantage points -> Combat
+AI: No available hide points
+AI: No available cover points -> Combat
+AI: Process ended
+AI Spawner: Agent active (Wanderer)
+AI: No available hide points
+LOAD: Traders (Doctor)
+SAVE: Traders (Doctor)
+LOAD: Traders (Doctor)
+SAVE: Traders (Doctor)
+LOAD: Traders (Doctor)
+SAVE: Traders (Doctor)
+LOAD: Traders (Doctor)
+SAVE: Traders (Doctor)
+Transition: Outpost
+Current time: 1642 Travel time: 200 Arrival time: 1842
+SAVE: Character
+SAVE: World
+Simulation: Weather (Storm)
+AI Spawner: Pools created
+AI Spawner: Agent active (Wanderer)
+LOAD: World
+Simulation: Weather (Wind)
+LOAD: Character
+Event Selected (Dynamic): Fighter Jets | Roll: 37/25
+Killbox (Item Clear): Map
+AI Spawner: Agent active (Wanderer)
+Transition: Tent
+Current time: 1853 Travel time: 0 Arrival time: 1853
+SAVE: Character
+SAVE: World
+LOAD: World
+LOAD: Character
+LOAD: Tent
+SAVE: World
+SAVE: Character
+SAVE: Tent
+ID valid
+Shelter available (Tent) -> Load available
+Driver Detected: d3d12
+Method Detected: forward_plus
+Shelter available (Tent) -> Load available
+LOAD: World
+LOAD: Character
+LOAD: Tent
+Transition: Outpost
+Current time: 1881 Travel time: 0 Arrival time: 1881
+SAVE: Character
+SAVE: World
+SAVE: Tent
+AI Spawner: Pools created
+AI Spawner: Agent active (Wanderer)
+LOAD: World
+LOAD: Character
+Event Selected (Dynamic): Fighter Jets | Roll: 91/25
+Transition: Tent
+Current time: 1881 Travel time: 0 Arrival time: 1881
+SAVE: Character
+SAVE: World
+Killbox (Item Clear): Cat_Food
+LOAD: World
+LOAD: Character
+LOAD: Tent
+Transition: Outpost
+Current time: 1891 Travel time: 0 Arrival time: 1891
+SAVE: Character
+SAVE: World
+SAVE: Tent
+AI Spawner: Pools created
+AI Spawner: Agent active (Wanderer)
+LOAD: World
+LOAD: Character
+Event Selected (Dynamic): Fighter Jets | Roll: 98/25
+Transition: Tent
+Current time: 1893 Travel time: 0 Arrival time: 1893
+SAVE: Character
+SAVE: World
+LOAD: World
+LOAD: Character
+LOAD: Tent
+Transition: Outpost
+Current time: 1895 Travel time: 0 Arrival time: 1895
+SAVE: Character
+SAVE: World
+SAVE: Tent
+AI Spawner: Pools created
+AI Spawner: Agent active (Wanderer)
+LOAD: World
+LOAD: Character
+Event Selected (Dynamic): Fighter Jets | Roll: 76/25
+AI Spawner: Agent active (Wanderer)
+AI Spawner: Agent active (Wanderer)
+Hit: LIMBS
+Hit: LIMBS
+Hit: LIMBS
+Hit: TORSO
+Hit: HEAD
+Hit: TORSO
+Hit: TORSO
+SAVE: World
+Loader: Reset Character
+DEATH: Standard
+Hit: HEAD
+Hit: TORSO
+Hit: TORSO
+Hit: TORSO
+Hit: TORSO
+Hit: TORSO
+Hit: LIMBS
+Shelter available (Tent) -> Load available
+WARNING: ObjectDB instances leaked at exit (run with --verbose for details).
+   at: cleanup (core/object/object.cpp:2641)

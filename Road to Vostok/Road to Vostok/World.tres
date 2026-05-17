@@ -1,0 +1,13 @@
+[gd_resource type="Resource" script_class="WorldSave" format=3]
+
+[ext_resource type="Script" path="res://Scripts/WorldSave.gd" id="1"]
+
+[resource]
+script = ExtResource("1")
+difficulty = 1
+season = 1
+day = 7
+time = 57.08967458067537
+weather = "Neutral"
+weatherTime = 1081.5907950106127
+shelters = 0

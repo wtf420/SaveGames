@@ -1,0 +1,217 @@
+Godot Engine v4.6.2.stable.official.71f334935 - https://godotengine.org
+D3D12 12_0 - Forward+ - Using Device #0: AMD - AMD Radeon RX 7700 XT
+
+ID valid
+Shelter available (Tent) -> Load available
+Driver Detected: d3d12
+Method Detected: forward_plus
+Shelter available (Tent) -> Load available
+LOAD: World
+LOAD: Character
+LOAD: Tent
+Transition: Outpost
+Current time: 2091 Travel time: 0 Arrival time: 2091
+SAVE: Character
+SAVE: World
+SAVE: Tent
+AI Spawner: Pools created
+Hider spawned
+AI Spawner: Agent active (Wanderer)
+LOAD: World
+LOAD: Character
+Event Selected (Dynamic): Fighter Jets | Roll: 39/25
+Killbox (Item Clear): Remington_870
+AI Spawner: Agent active (Wanderer)
+AI: No available hide points
+AI: Process ended
+Simulation: Weather (Neutral)
+AI Spawner: Agent active (Wanderer)
+AI: Process ended
+AI Spawner: Agent active (Wanderer)
+Transition: Tent
+Current time: 2193 Travel time: 0 Arrival time: 2193
+SAVE: Character
+SAVE: World
+LOAD: World
+LOAD: Character
+LOAD: Tent
+Transition: Outpost
+Current time: 2197 Travel time: 0 Arrival time: 2197
+SAVE: Character
+SAVE: World
+SAVE: Tent
+AI Spawner: Pools created
+AI Spawner: Agent active (Wanderer)
+LOAD: World
+LOAD: Character
+Event Selected (Dynamic): Fighter Jets | Roll: 87/25
+Killbox (Item Clear): Gum
+AI: Process ended
+AI Spawner: Agent active (Wanderer)
+AI Spawner: Agent active (Wanderer)
+Transition: Tent
+Current time: 2219 Travel time: 0 Arrival time: 2219
+SAVE: Character
+SAVE: World
+LOAD: World
+LOAD: Character
+LOAD: Tent
+Transition: Outpost
+Current time: 2266 Travel time: 0 Arrival time: 2266
+SAVE: Character
+SAVE: World
+SAVE: Tent
+AI Spawner: Pools created
+AI Spawner: Agent active (Wanderer)
+LOAD: World
+LOAD: Character
+Event Selected (Dynamic): Fighter Jets | Roll: 85/25
+AI Spawner: Agent active (Wanderer)
+AI Spawner: Agent active (Wanderer)
+Transition: School
+Current time: 2283 Travel time: 200 Arrival time: 83
+SAVE: Character
+SAVE: World
+AI Spawner: Pools created
+AI Spawner: Agent active (Guard)
+Hider spawned
+AI Spawner: Agent active (Wanderer)
+LOAD: World
+LOAD: Character
+Event Selected (Dynamic): Fighter Jets | Roll: 49/25
+Event Activated (Trader): Doctor returns to School
+Killbox (Item Clear): Ammo_762x39
+Killbox (Item Clear): Gum
+Simulation: Weather (Overcast)
+LOAD: Traders (Doctor)
+Message: New Furniture Added [Catalog]
+Message: New Furniture Added [Catalog]
+SAVE: Traders (Doctor)
+LOAD: Traders (Doctor)
+SAVE: Traders (Doctor)
+LOAD: Traders (Doctor)
+SAVE: Traders (Doctor)
+SAVE: World
+Loader: Reset Character
+ID valid
+Shelter available (Tent) -> Load available
+Driver Detected: d3d12
+Method Detected: forward_plus
+Shelter available (Tent) -> Load available
+LOAD: World
+LOAD: Character
+LOAD: Tent
+Message: Item Returned: Gum
+Transition: Outpost
+Current time: 2088 Travel time: 0 Arrival time: 2088
+SAVE: Character
+SAVE: World
+SAVE: Tent
+AI Spawner: Pools created
+AI Spawner: Agent active (Wanderer)
+LOAD: World
+LOAD: Character
+Event Selected (Dynamic): Fighter Jets | Roll: 22/25
+Event Activated (Dynamic): Fighter Jets | Delay: 00:10
+Killbox (Item Clear): Rags
+AI Spawner: Agent active (Wanderer)
+Fighter Jet: Distance cleared
+AI Spawner: Agent active (Wanderer)
+Transition: School
+Current time: 2100 Travel time: 200 Arrival time: 2300
+SAVE: Character
+SAVE: World
+Simulation: Weather (Neutral)
+AI Spawner: Pools created
+AI Spawner: Agent active (Guard)
+AI Spawner: Agent active (Wanderer)
+LOAD: World
+Simulation: Weather (Neutral)
+LOAD: Character
+Event Selected (Dynamic): Fighter Jets | Roll: 23/25
+Event Activated (Dynamic): Fighter Jets | Delay: 00:09
+Event Activated (Trader): Doctor returns to School
+Killbox (Item Clear): Battery_Cables
+Killbox (Item Clear): Battery_Cables
+AI Spawner: Agent active (Wanderer)
+Fighter Jet: Distance cleared
+LOAD: Traders (Doctor)
+Message: New Furniture Added [Catalog]
+SAVE: Traders (Doctor)
+LOAD: Traders (Doctor)
+SAVE: Traders (Doctor)
+AI Spawner: Agent active (Wanderer)
+AI: Process ended
+Simulation: New Day (4)
+Transition: Village
+Current time: 25 Travel time: 100 Arrival time: 125
+SAVE: Character
+SAVE: World
+AI Spawner: Pools created
+AI Spawner: Agent active (Guard)
+AI Spawner: Agent active (Wanderer)
+LOAD: World
+LOAD: Character
+Event Selected (Dynamic): Fighter Jets | Roll: 17/25
+Event Activated (Dynamic): Fighter Jets | Delay: 03:21
+Event Activated (Trader): Generalist returns to Village
+Killbox (Item Clear): Battery_Cables
+Killbox (Item Clear): Ammo_9x18
+Killbox (Item Clear): Gum
+AI Spawner: Agent active (Wanderer)
+LOAD: Traders (Generalist)
+Fighter Jet: Distance cleared
+SAVE: Traders (Generalist)
+LOAD: Traders (Generalist)
+SAVE: Traders (Generalist)
+Simulation: Weather (Overcast)
+LOAD: Traders (Generalist)
+SAVE: Traders (Generalist)
+Transition: Cabin
+Current time: 236 Travel time: 0 Arrival time: 236
+SAVE: Character
+SAVE: World
+LOAD: World
+LOAD: Character
+LOAD: Cabin
+Transition: Village
+Current time: 285 Travel time: 0 Arrival time: 285
+SAVE: Character
+SAVE: World
+SAVE: Cabin
+AI Spawner: Pools created
+AI Spawner: Agent active (Guard)
+AI Spawner: Agent active (Wanderer)
+LOAD: World
+LOAD: Character
+Event Selected (Dynamic): Fighter Jets | Roll: 48/25
+Event Activated (Trader): Generalist returns to Village
+Killbox (Item Clear): Alarm_Clock
+Killbox (Item Clear): Balm
+AI Spawner: Agent active (Wanderer)
+LOAD: Traders (Generalist)
+Message: Task Completed: Sweaty Business
+SAVE: Traders (Generalist)
+SAVE: Traders (Generalist)
+LOAD: Traders (Generalist)
+SAVE: Traders (Generalist)
+LOAD: Traders (Generalist)
+Message: New Furniture Added [Catalog]
+SAVE: Traders (Generalist)
+LOAD: Traders (Generalist)
+SAVE: Traders (Generalist)
+Transition: Cabin
+Current time: 388 Travel time: 0 Arrival time: 388
+SAVE: Character
+SAVE: World
+LOAD: World
+LOAD: Character
+LOAD: Cabin
+Simulation: Weather (Overcast)
+SAVE: World
+SAVE: Character
+SAVE: Cabin
+ID valid
+Shelter available (Cabin) -> Load available
+Driver Detected: d3d12
+Method Detected: forward_plus
