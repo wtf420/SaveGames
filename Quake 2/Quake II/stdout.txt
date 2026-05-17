@@ -1,0 +1,2907 @@
+19:19:05: User data system initialized
+19:19:05: Cvar System Initialized
+19:19:05: Runtime Object Initialized
+19:19:05: File System Initialized
+19:19:05: kexPakFileLocal::LoadZipFile: Loading D:\Quake II Enhanced\\Q2Game.kpf
+19:19:05: Warning: C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\user01\kexengine.cfg not found
+19:19:05: Warning: C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\user01\exdefault.cfg not found
+19:19:05: Warning: C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\user01\globalplatform.cfg not found
+19:19:05: Warning: C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\user02\kexengine.cfg not found
+19:19:05: Warning: C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\user02\exdefault.cfg not found
+19:19:05: Warning: C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\user02\globalplatform.cfg not found
+19:19:05: Warning: C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\user03\kexengine.cfg not found
+19:19:05: Warning: C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\user03\exdefault.cfg not found
+19:19:05: Warning: C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\user03\globalplatform.cfg not found
+19:19:05: Warning: C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\user04\kexengine.cfg not found
+19:19:05: Warning: C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\user04\exdefault.cfg not found
+19:19:05: Warning: C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\user04\globalplatform.cfg not found
+19:19:05: Warning: C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\user05\kexengine.cfg not found
+19:19:05: Warning: C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\user05\exdefault.cfg not found
+19:19:05: Warning: C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\user05\globalplatform.cfg not found
+19:19:05: Warning: C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\user06\kexengine.cfg not found
+19:19:05: Warning: C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\user06\exdefault.cfg not found
+19:19:05: Warning: C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\user06\globalplatform.cfg not found
+19:19:05: Warning: C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\user07\kexengine.cfg not found
+19:19:05: Warning: C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\user07\exdefault.cfg not found
+19:19:05: Warning: C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\user07\globalplatform.cfg not found
+19:19:05: RelationNumaNode count: 1
+19:19:05: Max Worker Threads: 11
+19:19:05: Max Logical CPU Cores: 12
+19:19:05: Job System Initialized
+19:19:05: Input Initialized
+19:19:05: Sound System Initialized
+19:19:05: SDL Initialized
+19:19:05: Available video displays: 1
+19:19:05: Display monitor: Generic PnP Monitor
+19:19:05: Video Initialized
+19:19:05: Initializing RHI and renderer
+19:19:05: Initializing Rendering Hardware Interface
+19:19:05: vkGetInstanceProcAddr: vkGetPhysicalDeviceDisplayPropertiesKHR not found
+19:19:05: vkGetInstanceProcAddr: vkGetPhysicalDeviceDisplayPlanePropertiesKHR not found
+19:19:05: vkGetInstanceProcAddr: vkGetDisplayPlaneSupportedDisplaysKHR not found
+19:19:05: vkGetInstanceProcAddr: vkGetDisplayModePropertiesKHR not found
+19:19:05: vkGetInstanceProcAddr: vkCreateDisplayModeKHR not found
+19:19:05: vkGetInstanceProcAddr: vkGetDisplayPlaneCapabilitiesKHR not found
+19:19:05: vkGetInstanceProcAddr: vkCreateDisplayPlaneSurfaceKHR not found
+19:19:05: vkGetInstanceProcAddr: vkDebugReportMessageEXT not found
+19:19:05: vkGetInstanceProcAddr: vkSetDebugUtilsObjectNameEXT not found
+19:19:05: vkGetInstanceProcAddr: vkSetDebugUtilsObjectTagEXT not found
+19:19:05: vkGetInstanceProcAddr: vkQueueBeginDebugUtilsLabelEXT not found
+19:19:05: vkGetInstanceProcAddr: vkQueueEndDebugUtilsLabelEXT not found
+19:19:05: vkGetInstanceProcAddr: vkQueueInsertDebugUtilsLabelEXT not found
+19:19:05: vkGetInstanceProcAddr: vkCmdBeginDebugUtilsLabelEXT not found
+19:19:05: vkGetInstanceProcAddr: vkCmdEndDebugUtilsLabelEXT not found
+19:19:05: vkGetInstanceProcAddr: vkCmdInsertDebugUtilsLabelEXT not found
+19:19:05: vkGetInstanceProcAddr: vkCreateDebugUtilsMessengerEXT not found
+19:19:05: vkGetInstanceProcAddr: vkDestroyDebugUtilsMessengerEXT not found
+19:19:05: vkGetInstanceProcAddr: vkSubmitDebugUtilsMessageEXT not found
+19:19:05: kexVKDevice::Create: maxBoundDescriptorSets: 32
+19:19:05: kexVKDevice::Create: maxImageDimension1D: 16384
+19:19:05: kexVKDevice::Create: maxImageDimension2D: 16384
+19:19:05: kexVKDevice::Create: maxImageDimension3D: 8192
+19:19:05: kexVKDevice::Create: maxImageDimensionCube: 16384
+19:19:05: kexVKDevice::Create: maxImageArrayLayers: 8192
+19:19:05: kexVKDevice::Create: maxTexelBufferElements: 2147483647
+19:19:05: kexVKDevice::Create: maxUniformBufferRange: 4294967295
+19:19:05: kexVKDevice::Create: maxStorageBufferRange: 4294967295
+19:19:05: kexVKDevice::Create: maxPushConstantsSize: 256
+19:19:05: kexVKSwapChain::kexVKSwapChain: Creating surface...
+19:19:05: kexVKSwapChain::kexVKSwapChain: Present mode: VK_PRESENT_MODE_FIFO_KHR
+19:19:05: kexVKSwapChain::kexVKSwapChain: Creating swapchain...
+19:19:06: Device Name: AMD Radeon RX 7700 XT
+19:19:06: Device Type: 29822
+19:19:06: Driver Version: 2.0.388
+19:19:06: Vendor: ATI Technologies
+19:19:06: Vulkan Initialized
+19:19:06: Running game session
+19:19:06: kexPlatformAppSDL::SetWindowSize: Changing to 1920x1080
+19:19:06: kexPlatformAppSDL::SetWindowSize: Aborted (no change)
+19:19:06: playfabUser_s: userState_e::Nill -> userState_e::DoingSignIn
+19:19:06: Playfab::signin -- Login failed (Galaxy Auth token is invalid)
+19:19:06: playfabUser_s: userState_e::DoingSignIn -> userState_e::Nill
+19:19:11: 
+Starting Game
+
+Added packfile D:\Quake II Enhanced/baseq2/pak0.pak (14663 files)
+execing default.cfg
+execing default.cfg
+
+------- sound initialization -------
+------------------------------------
+19:19:11: Added 5 episodes and 232 maps to mapdb
+19:19:11: R_InitClusteredShading: Clustered frustums initialized
+CD Audio Initialized
+19:19:11: M_ImguiInit: Initializing IMGUI library...
+couldn't exec autoexec.cfg
+==== InitGame ====
+------- Server Initialization -------
+0 entities inhibited
+0 teams repaired
+0 teams with 0 entities
+-------------------------------------
+====== Quake2 Initialized ======
+
+
+
+=====================================
+
+Installation
+19:19:12: R_NewMap: Initializing render data for level...
+19:19:12: R_LoadAllWals: Loading all 1118 texinfos
+19:19:12: R_LoadAllWals: 24 groups allocated, 3084 dupes avoided
+
+
+=====================================
+
+          Secondary Objective:
+       Use sewer tunnels to gain
+       access to the Comm Center.
+
+
+=====================================
+
+19:19:14: playfabUser_s: userState_e::Nill -> userState_e::DoingSignIn
+19:19:14: Playfab::signin -- Login failed (Galaxy Auth token is invalid)
+19:19:14: playfabUser_s: userState_e::DoingSignIn -> userState_e::Nill
+19:19:20: GOG Galaxy: Failed to authorize with Galaxy client: Galaxy Service is not installed properly or fails to start.
+19:19:55: kexGenericSaveThread::Run: Unable to open C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\baseq2\save\quick.pak.gz for reading
+Loading game...
+==== ShutdownGame ====
+==== InitGame ====
+------- Server Initialization -------
+19:19:56: Settings Manager: Loading Bot Settings...
+19:19:56: Settings Manager: Loading Chat Settings...
+19:19:56: Settings Manager: Parsing Language Specific Chats...
+19:19:56: Settings Manager: Found 23 Chat Types
+19:19:56: Settings Manager: Found 228 Total Chats
+19:19:56: Settings Manager: Loading Weapon Settings...
+19:19:56: Settings Manager: Found 21 Weapon Settings
+19:19:56: Settings Manager: Loading Monster Settings...
+19:19:56: Settings Manager: Found 45 Monster Settings
+19:19:56: Settings Manager: Loading Item Settings...
+19:19:56: Settings Manager: Found 79 Item Settings
+19:19:56: Settings Manager: Loading Interactable Settings...
+19:19:56: Settings Manager: Found 18 Interactable Settings
+19:19:56: Settings Manager: Loading Game Settings...
+19:19:56: Settings Manager: Found 7 Game Settings
+19:19:56: Settings Manager: Loading Team Settings...
+19:19:56: Settings Manager: Found 2 Team Settings
+19:19:56: Settings Manager: Loading Danger Settings...
+19:19:56: Settings Manager: Found 9 Danger Settings
+19:19:56: Bot Manager: Loading Bot Characters...
+19:19:56: Bot Manager: Found 121 Bot Characters
+69 entities inhibited
+0 teams repaired
+10 teams with 32 entities
+19:19:56: Nav Manager: Attempting To Load Version 6 Navigation File bots/navigation/command.nav
+19:19:56: Nav Manager: Loading Navigation File 'bots/navigation/command.nav'
+19:19:56: Nav Manager: Loading 275 Nav Nodes
+19:19:56: Nav Manager: Loading 861 Nav Links
+19:19:56: Nav Manager: Loading 19 Nav Traversals
+19:19:56: Nav Manager: Using Nav Heuristic of 0.8
+19:19:56: Nav Manager: Loading 5 Nav Edicts
+19:19:56: Nav Manager: Processing Nav Edicts...
+-------------------------------------
+Server restarted
+Server disconnected, reconnecting
+Connecting to lobby game...
+
+
+=====================================
+
+Launch Command
+19:19:57: R_NewMap: Initializing render data for level...
+19:19:57: R_LoadAllWals: Loading all 994 texinfos
+19:19:57: R_LoadAllWals: 22 groups allocated, 2652 dupes avoided
+19:19:57: Bot Entity Manager: Tracking 0 Players | 0 Monsters | 0 Objectives | 0 Items | 0 Dangers
+19:20:06: kexGenericSaveThread::Run: Unable to open C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\baseq2\save\quick.pak.gz for reading
+Loading game...
+==== ShutdownGame ====
+==== InitGame ====
+------- Server Initialization -------
+19:20:06: Settings Manager: Loading Bot Settings...
+19:20:06: Settings Manager: Loading Chat Settings...
+19:20:06: Settings Manager: Parsing Language Specific Chats...
+19:20:06: Settings Manager: Found 23 Chat Types
+19:20:06: Settings Manager: Found 228 Total Chats
+19:20:06: Settings Manager: Loading Weapon Settings...
+19:20:06: Settings Manager: Found 21 Weapon Settings
+19:20:06: Settings Manager: Loading Monster Settings...
+19:20:06: Settings Manager: Found 45 Monster Settings
+19:20:06: Settings Manager: Loading Item Settings...
+19:20:06: Settings Manager: Found 79 Item Settings
+19:20:06: Settings Manager: Loading Interactable Settings...
+19:20:06: Settings Manager: Found 18 Interactable Settings
+19:20:06: Settings Manager: Loading Game Settings...
+19:20:06: Settings Manager: Found 7 Game Settings
+19:20:06: Settings Manager: Loading Team Settings...
+19:20:06: Settings Manager: Found 2 Team Settings
+19:20:06: Settings Manager: Loading Danger Settings...
+19:20:06: Settings Manager: Found 9 Danger Settings
+19:20:06: Bot Manager: Loading Bot Characters...
+19:20:06: Bot Manager: Found 121 Bot Characters
+69 entities inhibited
+0 teams repaired
+10 teams with 32 entities
+19:20:06: Nav Manager: Attempting To Load Version 6 Navigation File bots/navigation/command.nav
+19:20:06: Nav Manager: Loading Navigation File 'bots/navigation/command.nav'
+19:20:06: Nav Manager: Loading 275 Nav Nodes
+19:20:06: Nav Manager: Loading 861 Nav Links
+19:20:06: Nav Manager: Loading 19 Nav Traversals
+19:20:06: Nav Manager: Using Nav Heuristic of 0.8
+19:20:06: Nav Manager: Loading 5 Nav Edicts
+19:20:06: Nav Manager: Processing Nav Edicts...
+-------------------------------------
+Server restarted
+Server disconnected, reconnecting
+Connecting to lobby game...
+
+
+=====================================
+
+Launch Command
+19:20:06: R_NewMap: Initializing render data for level...
+19:20:06: R_LoadAllWals: Loading all 994 texinfos
+19:20:06: R_LoadAllWals: 22 groups allocated, 2652 dupes avoided
+19:20:07: Bot Entity Manager: Tracking 1 Players | 23 Monsters | 0 Objectives | 37 Items | 7 Dangers
+
+
+=====================================
+
+   The core CPU has locked this door
+
+
+=====================================
+
+Admin died.
+19:20:31: kexGenericSaveThread::Run: Unable to open C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\baseq2\save\quick.pak.gz for reading
+Loading game...
+==== ShutdownGame ====
+==== InitGame ====
+------- Server Initialization -------
+19:20:31: Settings Manager: Loading Bot Settings...
+19:20:31: Settings Manager: Loading Chat Settings...
+19:20:31: Settings Manager: Parsing Language Specific Chats...
+19:20:31: Settings Manager: Found 23 Chat Types
+19:20:31: Settings Manager: Found 228 Total Chats
+19:20:31: Settings Manager: Loading Weapon Settings...
+19:20:31: Settings Manager: Found 21 Weapon Settings
+19:20:31: Settings Manager: Loading Monster Settings...
+19:20:31: Settings Manager: Found 45 Monster Settings
+19:20:31: Settings Manager: Loading Item Settings...
+19:20:31: Settings Manager: Found 79 Item Settings
+19:20:31: Settings Manager: Loading Interactable Settings...
+19:20:31: Settings Manager: Found 18 Interactable Settings
+19:20:31: Settings Manager: Loading Game Settings...
+19:20:31: Settings Manager: Found 7 Game Settings
+19:20:31: Settings Manager: Loading Team Settings...
+19:20:31: Settings Manager: Found 2 Team Settings
+19:20:31: Settings Manager: Loading Danger Settings...
+19:20:31: Settings Manager: Found 9 Danger Settings
+19:20:31: Bot Manager: Loading Bot Characters...
+19:20:31: Bot Manager: Found 121 Bot Characters
+35 entities inhibited
+0 teams repaired
+0 teams with 0 entities
+fixed stuck monster_hover @ 1536 300 -1020
+fixed stuck monster_gunner @ 528 1384 -753.96875
+19:20:31: Nav Manager: Attempting To Load Version 6 Navigation File bots/navigation/hangar2.nav
+19:20:31: Nav Manager: Loading Navigation File 'bots/navigation/hangar2.nav'
+19:20:31: Nav Manager: Loading 430 Nav Nodes
+19:20:31: Nav Manager: Loading 1381 Nav Links
+19:20:31: Nav Manager: Loading 114 Nav Traversals
+19:20:31: Nav Manager: Using Nav Heuristic of 0.8
+19:20:31: Nav Manager: Loading 17 Nav Edicts
+19:20:31: Nav Manager: Processing Nav Edicts...
+-------------------------------------
+Server restarted
+Server disconnected, reconnecting
+Connecting to lobby game...
+
+
+=====================================
+
+Inner Hangar
+19:20:31: R_NewMap: Initializing render data for level...
+19:20:31: R_LoadAllWals: Loading all 1137 texinfos
+19:20:31: R_LoadAllWals: 23 groups allocated, 3654 dupes avoided
+19:20:31: Bot Entity Manager: Tracking 0 Players | 0 Monsters | 0 Objectives | 0 Items | 0 Dangers
+19:20:33: kexGenericSaveThread::Run: Unable to open C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\baseq2\save\quick.pak.gz for reading
+Loading game...
+==== ShutdownGame ====
+==== InitGame ====
+------- Server Initialization -------
+19:20:33: Settings Manager: Loading Bot Settings...
+19:20:33: Settings Manager: Loading Chat Settings...
+19:20:33: Settings Manager: Parsing Language Specific Chats...
+19:20:33: Settings Manager: Found 23 Chat Types
+19:20:33: Settings Manager: Found 228 Total Chats
+19:20:33: Settings Manager: Loading Weapon Settings...
+19:20:33: Settings Manager: Found 21 Weapon Settings
+19:20:33: Settings Manager: Loading Monster Settings...
+19:20:33: Settings Manager: Found 45 Monster Settings
+19:20:33: Settings Manager: Loading Item Settings...
+19:20:33: Settings Manager: Found 79 Item Settings
+19:20:33: Settings Manager: Loading Interactable Settings...
+19:20:33: Settings Manager: Found 18 Interactable Settings
+19:20:33: Settings Manager: Loading Game Settings...
+19:20:33: Settings Manager: Found 7 Game Settings
+19:20:33: Settings Manager: Loading Team Settings...
+19:20:33: Settings Manager: Found 2 Team Settings
+19:20:33: Settings Manager: Loading Danger Settings...
+19:20:33: Settings Manager: Found 9 Danger Settings
+19:20:33: Bot Manager: Loading Bot Characters...
+19:20:33: Bot Manager: Found 121 Bot Characters
+69 entities inhibited
+0 teams repaired
+10 teams with 32 entities
+19:20:33: Nav Manager: Attempting To Load Version 6 Navigation File bots/navigation/command.nav
+19:20:33: Nav Manager: Loading Navigation File 'bots/navigation/command.nav'
+19:20:33: Nav Manager: Loading 275 Nav Nodes
+19:20:33: Nav Manager: Loading 861 Nav Links
+19:20:33: Nav Manager: Loading 19 Nav Traversals
+19:20:33: Nav Manager: Using Nav Heuristic of 0.8
+19:20:33: Nav Manager: Loading 5 Nav Edicts
+19:20:33: Nav Manager: Processing Nav Edicts...
+-------------------------------------
+Server restarted
+Server disconnected, reconnecting
+Connecting to lobby game...
+
+
+=====================================
+
+Launch Command
+19:20:34: R_NewMap: Initializing render data for level...
+19:20:34: R_LoadAllWals: Loading all 994 texinfos
+19:20:34: R_LoadAllWals: 22 groups allocated, 2652 dupes avoided
+19:20:34: Bot Entity Manager: Tracking 1 Players | 23 Monsters | 0 Objectives | 37 Items | 7 Dangers
+
+
+=====================================
+
+            1 more to go...
+
+
+=====================================
+
+
+
+=====================================
+
+          Sequence completed!
+
+
+=====================================
+
+
+
+=====================================
+
+         Chamber 2 Deactivated
+
+
+=====================================
+
+
+
+=====================================
+
+         Chamber 1 deactivated
+
+
+=====================================
+
+
+
+=====================================
+
+    Core CPU is no longer functional
+
+
+=====================================
+
+
+
+=====================================
+
+          Secondary Objective:
+         Take out the blackhole
+          generator computers.
+
+
+=====================================
+
+
+
+=====================================
+
+  Access now possible to launch system
+
+
+=====================================
+
+
+
+=====================================
+
+         Destroy the computers.
+
+
+=====================================
+
+
+
+=====================================
+
+            1 more to go...
+
+
+=====================================
+
+19:24:45: kexGenericSaveThread::Run: Unable to open C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\baseq2\save\quick.pak.gz for reading
+19:24:46: kexGenericSaveThread::Run: Saved file C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\baseq2\save\save11.pak.gz
+
+
+=====================================
+
+          Sequence completed!
+
+
+=====================================
+
+
+
+=====================================
+
+           Primary Objective:
+        Primary unit objectives
+               complete.
+
+
+=====================================
+
+
+
+=====================================
+
+          Secondary Objective:
+       Launch systems destroyed.
+         Force field disabled.
+            Proceed to exit.
+
+
+=====================================
+
+
+
+=====================================
+
+    All systems have been shut down
+
+
+=====================================
+
+
+
+=====================================
+
+        Forcefield now disabled
+
+
+=====================================
+
+------- Server Initialization -------
+19:25:24: Settings Manager: Loading Bot Settings...
+19:25:24: Settings Manager: Loading Chat Settings...
+19:25:24: Settings Manager: Parsing Language Specific Chats...
+19:25:24: Settings Manager: Found 23 Chat Types
+19:25:24: Settings Manager: Found 228 Total Chats
+19:25:24: Settings Manager: Loading Weapon Settings...
+19:25:24: Settings Manager: Found 21 Weapon Settings
+19:25:24: Settings Manager: Loading Monster Settings...
+19:25:24: Settings Manager: Found 45 Monster Settings
+19:25:24: Settings Manager: Loading Item Settings...
+19:25:24: Settings Manager: Found 79 Item Settings
+19:25:24: Settings Manager: Loading Interactable Settings...
+19:25:24: Settings Manager: Found 18 Interactable Settings
+19:25:24: Settings Manager: Loading Game Settings...
+19:25:24: Settings Manager: Found 7 Game Settings
+19:25:24: Settings Manager: Loading Team Settings...
+19:25:24: Settings Manager: Found 2 Team Settings
+19:25:24: Settings Manager: Loading Danger Settings...
+19:25:24: Settings Manager: Found 9 Danger Settings
+19:25:24: Bot Manager: Loading Bot Characters...
+19:25:24: Bot Manager: Found 121 Bot Characters
+61 entities inhibited
+0 teams repaired
+6 teams with 17 entities
+19:25:24: Nav Manager: Attempting To Load Version 6 Navigation File bots/navigation/strike.nav
+19:25:24: Nav Manager: Loading Navigation File 'bots/navigation/strike.nav'
+19:25:24: Nav Manager: Loading 233 Nav Nodes
+19:25:24: Nav Manager: Loading 852 Nav Links
+19:25:24: Nav Manager: Loading 9 Nav Traversals
+19:25:24: Nav Manager: Using Nav Heuristic of 0.8
+-------------------------------------
+19:25:24: kexGenericSaveThread::Run: Saved file C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\baseq2\save\save0.pak.gz
+
+Changing map...
+reconnecting...
+
+
+=====================================
+
+Outlands
+19:25:25: R_NewMap: Initializing render data for level...
+19:25:25: R_LoadAllWals: Loading all 348 texinfos
+19:25:25: R_LoadAllWals: 19 groups allocated, 1042 dupes avoided
+
+
+=====================================
+
+          Secondary Objective:
+         Retrieve the airstrike
+                marker.
+
+
+=====================================
+
+19:25:25: Bot Entity Manager: Unknown Item trigger_key Was Spawned - Skipping Entity!
+19:25:25: Bot Entity Manager: Unknown Item trigger_key Was Spawned - Skipping Entity!
+19:25:25: Bot Entity Manager: Tracking 1 Players | 56 Monsters | 0 Objectives | 25 Items | 0 Dangers
+19:25:28: kexGenericSaveThread::Run: Unable to open C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\baseq2\save\quick.pak.gz for reading
+19:25:29: kexGenericSaveThread::Run: Saved file C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\baseq2\save\save11.pak.gz
+19:26:22: kexGenericSaveThread::Run: Unable to open C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\baseq2\save\quick.pak.gz for reading
+Loading game...
+==== ShutdownGame ====
+==== InitGame ====
+------- Server Initialization -------
+19:26:23: Settings Manager: Loading Bot Settings...
+19:26:23: Settings Manager: Loading Chat Settings...
+19:26:23: Settings Manager: Parsing Language Specific Chats...
+19:26:23: Settings Manager: Found 23 Chat Types
+19:26:23: Settings Manager: Found 228 Total Chats
+19:26:23: Settings Manager: Loading Weapon Settings...
+19:26:23: Settings Manager: Found 21 Weapon Settings
+19:26:23: Settings Manager: Loading Monster Settings...
+19:26:23: Settings Manager: Found 45 Monster Settings
+19:26:23: Settings Manager: Loading Item Settings...
+19:26:23: Settings Manager: Found 79 Item Settings
+19:26:23: Settings Manager: Loading Interactable Settings...
+19:26:23: Settings Manager: Found 18 Interactable Settings
+19:26:23: Settings Manager: Loading Game Settings...
+19:26:23: Settings Manager: Found 7 Game Settings
+19:26:23: Settings Manager: Loading Team Settings...
+19:26:23: Settings Manager: Found 2 Team Settings
+19:26:23: Settings Manager: Loading Danger Settings...
+19:26:23: Settings Manager: Found 9 Danger Settings
+19:26:23: Bot Manager: Loading Bot Characters...
+19:26:23: Bot Manager: Found 121 Bot Characters
+61 entities inhibited
+0 teams repaired
+6 teams with 17 entities
+19:26:23: Nav Manager: Attempting To Load Version 6 Navigation File bots/navigation/strike.nav
+19:26:23: Nav Manager: Loading Navigation File 'bots/navigation/strike.nav'
+19:26:23: Nav Manager: Loading 233 Nav Nodes
+19:26:23: Nav Manager: Loading 852 Nav Links
+19:26:23: Nav Manager: Loading 9 Nav Traversals
+19:26:23: Nav Manager: Using Nav Heuristic of 0.8
+-------------------------------------
+Server restarted
+Server disconnected, reconnecting
+Connecting to lobby game...
+
+
+=====================================
+
+Outlands
+19:26:23: R_NewMap: Initializing render data for level...
+19:26:23: R_LoadAllWals: Loading all 348 texinfos
+19:26:23: R_LoadAllWals: 19 groups allocated, 1042 dupes avoided
+19:26:24: Bot Entity Manager: Unknown Item trigger_key Was Spawned - Skipping Entity!
+19:26:24: Bot Entity Manager: Unknown Item trigger_key Was Spawned - Skipping Entity!
+19:26:24: Bot Entity Manager: Tracking 1 Players | 56 Monsters | 0 Objectives | 25 Items | 0 Dangers
+19:27:56: kexGenericSaveThread::Run: Unable to open C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\baseq2\save\quick.pak.gz for reading
+19:27:57: kexGenericSaveThread::Run: Saved file C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\baseq2\save\save12.pak.gz
+
+
+=====================================
+
+          Secondary Objective:
+         Place airstrike marker
+        in the receptacle beside
+             the fuel pod.
+
+
+=====================================
+
+19:28:24: kexGenericSaveThread::Run: Unable to open C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\baseq2\save\quick.pak.gz for reading
+19:28:25: kexGenericSaveThread::Run: Saved file C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\baseq2\save\save12.pak.gz
+fixed stuck monster_flyer @ 2088 1072 413
+
+
+=====================================
+
+  This door is locked from the inside
+
+
+=====================================
+
+
+
+=====================================
+
+  This door is locked from the inside
+
+
+=====================================
+
+19:31:10: kexGenericSaveThread::Run: Unable to open C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\baseq2\save\quick.pak.gz for reading
+19:31:12: kexGenericSaveThread::Run: Saved file C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\baseq2\save\save13.pak.gz
+
+
+=====================================
+
+       Airstrike incoming in: 10
+
+
+=====================================
+
+
+
+=====================================
+
+        Airstrike incoming in: 9
+
+
+=====================================
+
+
+
+=====================================
+
+        Airstrike incoming in: 8
+
+
+=====================================
+
+
+
+=====================================
+
+  This door is locked from the inside
+
+
+=====================================
+
+
+
+=====================================
+
+        Airstrike incoming in: 7
+
+
+=====================================
+
+
+
+=====================================
+
+        Airstrike incoming in: 6
+
+
+=====================================
+
+
+
+=====================================
+
+        Airstrike incoming in: 5
+
+
+=====================================
+
+
+
+=====================================
+
+        Airstrike incoming in: 4
+
+
+=====================================
+
+
+
+=====================================
+
+        Airstrike incoming in: 3
+
+
+=====================================
+
+
+
+=====================================
+
+        Airstrike incoming in: 2
+
+
+=====================================
+
+
+
+=====================================
+
+        Airstrike incoming in: 1
+
+
+=====================================
+
+
+
+=====================================
+
+          Secondary Objective:
+           Target destroyed.
+            Proceed to exit.
+
+
+=====================================
+
+19:32:14: kexGenericSaveThread::Run: Unable to open C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\baseq2\save\quick.pak.gz for reading
+19:32:15: kexGenericSaveThread::Run: Saved file C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\baseq2\save\save13.pak.gz
+19:32:45: kexGenericSaveThread::Run: Unable to open C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\baseq2\save\quick.pak.gz for reading
+19:32:45: kexGenericSaveThread::Run: Saved file C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\baseq2\save\save13.pak.gz
+G_PickTarget called with nullptr targetname
+19:32:56: playfabUser_s: userState_e::Nill -> userState_e::DoingSignIn
+19:32:56: Playfab::signin -- Login failed (Galaxy Auth token is invalid)
+19:32:56: playfabUser_s: userState_e::DoingSignIn -> userState_e::Nill
+------- Server Initialization -------
+0 entities inhibited
+0 teams repaired
+0 teams with 0 entities
+-------------------------------------
+
+Changing map...
+reconnecting...
+------- Server Initialization -------
+19:33:10: Settings Manager: Loading Bot Settings...
+19:33:10: Settings Manager: Loading Chat Settings...
+19:33:10: Settings Manager: Parsing Language Specific Chats...
+19:33:10: Settings Manager: Found 23 Chat Types
+19:33:10: Settings Manager: Found 228 Total Chats
+19:33:10: Settings Manager: Loading Weapon Settings...
+19:33:10: Settings Manager: Found 21 Weapon Settings
+19:33:10: Settings Manager: Loading Monster Settings...
+19:33:10: Settings Manager: Found 45 Monster Settings
+19:33:10: Settings Manager: Loading Item Settings...
+19:33:10: Settings Manager: Found 79 Item Settings
+19:33:10: Settings Manager: Loading Interactable Settings...
+19:33:10: Settings Manager: Found 18 Interactable Settings
+19:33:10: Settings Manager: Loading Game Settings...
+19:33:10: Settings Manager: Found 7 Game Settings
+19:33:10: Settings Manager: Loading Team Settings...
+19:33:10: Settings Manager: Found 2 Team Settings
+19:33:10: Settings Manager: Loading Danger Settings...
+19:33:10: Settings Manager: Found 9 Danger Settings
+19:33:10: Bot Manager: Loading Bot Characters...
+19:33:10: Bot Manager: Found 121 Bot Characters
+92 entities inhibited
+0 teams repaired
+10 teams with 20 entities
+19:33:10: Nav Manager: Attempting To Load Version 6 Navigation File bots/navigation/city1.nav
+19:33:10: Nav Manager: Loading Navigation File 'bots/navigation/city1.nav'
+19:33:10: Nav Manager: Loading 301 Nav Nodes
+19:33:10: Nav Manager: Loading 870 Nav Links
+19:33:10: Nav Manager: Loading 45 Nav Traversals
+19:33:10: Nav Manager: Using Nav Heuristic of 0.8
+19:33:10: Nav Manager: Loading 9 Nav Edicts
+19:33:10: Nav Manager: Processing Nav Edicts...
+-------------------------------------
+19:33:10: kexGenericSaveThread::Run: Saved file C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\baseq2\save\save0.pak.gz
+19:33:11: Bot Entity Manager: Tracking 0 Players | 68 Monsters | 0 Objectives | 98 Items | 0 Dangers
+
+Changing map...
+reconnecting...
+
+
+=====================================
+
+Outer Courts
+19:33:11: R_NewMap: Initializing render data for level...
+19:33:11: R_LoadAllWals: Loading all 962 texinfos
+19:33:11: R_LoadAllWals: 24 groups allocated, 2893 dupes avoided
+
+
+=====================================
+
+           Primary Objective:
+       Neutralize Strogg Leader's
+          Communication System.
+
+
+=====================================
+
+
+
+=====================================
+
+          Secondary Objective:
+            Find functioning
+              Data Spinner
+            in Outer Courts.
+
+
+=====================================
+
+19:33:55: kexGenericSaveThread::Run: Unable to open C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\baseq2\save\quick.pak.gz for reading
+19:33:56: Settings Manager: Loading Bot Settings...
+19:33:56: Settings Manager: Loading Chat Settings...
+19:33:56: Settings Manager: Parsing Language Specific Chats...
+19:33:56: Settings Manager: Found 23 Chat Types
+19:33:56: Settings Manager: Found 228 Total Chats
+19:33:56: Settings Manager: Loading Weapon Settings...
+19:33:56: Settings Manager: Found 21 Weapon Settings
+19:33:56: Settings Manager: Loading Monster Settings...
+19:33:56: Settings Manager: Found 45 Monster Settings
+19:33:56: Settings Manager: Loading Item Settings...
+19:33:56: Settings Manager: Found 79 Item Settings
+19:33:56: Settings Manager: Loading Interactable Settings...
+19:33:56: Settings Manager: Found 18 Interactable Settings
+19:33:56: Settings Manager: Loading Game Settings...
+19:33:56: Settings Manager: Found 7 Game Settings
+19:33:56: Settings Manager: Loading Team Settings...
+19:33:56: Settings Manager: Found 2 Team Settings
+19:33:56: Settings Manager: Loading Danger Settings...
+19:33:56: Settings Manager: Found 9 Danger Settings
+19:33:56: Bot Manager: Loading Bot Characters...
+19:33:56: Bot Manager: Found 121 Bot Characters
+92 entities inhibited
+0 teams repaired
+10 teams with 20 entities
+19:33:56: Bot Entity Manager: Tracking 1 Players | 68 Monsters | 0 Objectives | 98 Items | 0 Dangers
+
+
+=====================================
+
+           Primary Objective:
+       Neutralize Strogg Leader's
+          Communication System.
+
+
+=====================================
+
+
+
+=====================================
+
+          Secondary Objective:
+            Find functioning
+              Data Spinner
+            in Outer Courts.
+
+
+=====================================
+
+
+
+=====================================
+
+  A secret door has opened elsewhere.
+
+
+=====================================
+
+19:36:34: kexGenericSaveThread::Run: Unable to open C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\baseq2\save\quick.pak.gz for reading
+19:36:35: kexGenericSaveThread::Run: Saved file C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\baseq2\save\save13.pak.gz
+
+
+=====================================
+
+        You found a secret area!
+
+
+=====================================
+
+19:37:10: kexGenericSaveThread::Run: Unable to open C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\baseq2\save\quick.pak.gz for reading
+19:37:12: kexGenericSaveThread::Run: Saved file C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\baseq2\save\save13.pak.gz
+19:37:16: kexGenericSaveThread::Run: Unable to open C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\baseq2\save\quick.pak.gz for reading
+Loading game...
+==== ShutdownGame ====
+==== InitGame ====
+------- Server Initialization -------
+19:37:17: Settings Manager: Loading Bot Settings...
+19:37:17: Settings Manager: Loading Chat Settings...
+19:37:17: Settings Manager: Parsing Language Specific Chats...
+19:37:17: Settings Manager: Found 23 Chat Types
+19:37:17: Settings Manager: Found 228 Total Chats
+19:37:17: Settings Manager: Loading Weapon Settings...
+19:37:17: Settings Manager: Found 21 Weapon Settings
+19:37:17: Settings Manager: Loading Monster Settings...
+19:37:17: Settings Manager: Found 45 Monster Settings
+19:37:17: Settings Manager: Loading Item Settings...
+19:37:17: Settings Manager: Found 79 Item Settings
+19:37:17: Settings Manager: Loading Interactable Settings...
+19:37:17: Settings Manager: Found 18 Interactable Settings
+19:37:17: Settings Manager: Loading Game Settings...
+19:37:17: Settings Manager: Found 7 Game Settings
+19:37:17: Settings Manager: Loading Team Settings...
+19:37:17: Settings Manager: Found 2 Team Settings
+19:37:17: Settings Manager: Loading Danger Settings...
+19:37:17: Settings Manager: Found 9 Danger Settings
+19:37:17: Bot Manager: Loading Bot Characters...
+19:37:17: Bot Manager: Found 121 Bot Characters
+92 entities inhibited
+0 teams repaired
+10 teams with 20 entities
+19:37:17: Nav Manager: Attempting To Load Version 6 Navigation File bots/navigation/city1.nav
+19:37:17: Nav Manager: Loading Navigation File 'bots/navigation/city1.nav'
+19:37:17: Nav Manager: Loading 301 Nav Nodes
+19:37:17: Nav Manager: Loading 870 Nav Links
+19:37:17: Nav Manager: Loading 45 Nav Traversals
+19:37:17: Nav Manager: Using Nav Heuristic of 0.8
+19:37:17: Nav Manager: Loading 9 Nav Edicts
+19:37:17: Nav Manager: Processing Nav Edicts...
+-------------------------------------
+Server restarted
+Server disconnected, reconnecting
+Connecting to lobby game...
+
+
+=====================================
+
+Outer Courts
+19:37:17: R_NewMap: Initializing render data for level...
+19:37:17: R_LoadAllWals: Loading all 962 texinfos
+19:37:17: R_LoadAllWals: 24 groups allocated, 2893 dupes avoided
+19:37:17: Bot Entity Manager: Tracking 1 Players | 49 Monsters | 0 Objectives | 80 Items | 0 Dangers
+19:37:57: kexGenericSaveThread::Run: Unable to open C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\baseq2\save\quick.pak.gz for reading
+Loading game...
+==== ShutdownGame ====
+==== InitGame ====
+------- Server Initialization -------
+19:37:58: Settings Manager: Loading Bot Settings...
+19:37:58: Settings Manager: Loading Chat Settings...
+19:37:58: Settings Manager: Parsing Language Specific Chats...
+19:37:58: Settings Manager: Found 23 Chat Types
+19:37:58: Settings Manager: Found 228 Total Chats
+19:37:58: Settings Manager: Loading Weapon Settings...
+19:37:58: Settings Manager: Found 21 Weapon Settings
+19:37:58: Settings Manager: Loading Monster Settings...
+19:37:58: Settings Manager: Found 45 Monster Settings
+19:37:58: Settings Manager: Loading Item Settings...
+19:37:58: Settings Manager: Found 79 Item Settings
+19:37:58: Settings Manager: Loading Interactable Settings...
+19:37:58: Settings Manager: Found 18 Interactable Settings
+19:37:58: Settings Manager: Loading Game Settings...
+19:37:58: Settings Manager: Found 7 Game Settings
+19:37:58: Settings Manager: Loading Team Settings...
+19:37:58: Settings Manager: Found 2 Team Settings
+19:37:58: Settings Manager: Loading Danger Settings...
+19:37:58: Settings Manager: Found 9 Danger Settings
+19:37:58: Bot Manager: Loading Bot Characters...
+19:37:58: Bot Manager: Found 121 Bot Characters
+92 entities inhibited
+0 teams repaired
+10 teams with 20 entities
+19:37:58: Nav Manager: Attempting To Load Version 6 Navigation File bots/navigation/city1.nav
+19:37:58: Nav Manager: Loading Navigation File 'bots/navigation/city1.nav'
+19:37:58: Nav Manager: Loading 301 Nav Nodes
+19:37:58: Nav Manager: Loading 870 Nav Links
+19:37:58: Nav Manager: Loading 45 Nav Traversals
+19:37:58: Nav Manager: Using Nav Heuristic of 0.8
+19:37:58: Nav Manager: Loading 9 Nav Edicts
+19:37:58: Nav Manager: Processing Nav Edicts...
+-------------------------------------
+Server restarted
+Server disconnected, reconnecting
+Connecting to lobby game...
+
+
+=====================================
+
+Outer Courts
+19:37:58: R_NewMap: Initializing render data for level...
+19:37:58: R_LoadAllWals: Loading all 962 texinfos
+19:37:58: R_LoadAllWals: 24 groups allocated, 2893 dupes avoided
+19:37:58: Bot Entity Manager: Tracking 1 Players | 49 Monsters | 0 Objectives | 80 Items | 0 Dangers
+19:38:32: kexGenericSaveThread::Run: Unable to open C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\baseq2\save\quick.pak.gz for reading
+Loading game...
+==== ShutdownGame ====
+==== InitGame ====
+------- Server Initialization -------
+19:38:32: Settings Manager: Loading Bot Settings...
+19:38:32: Settings Manager: Loading Chat Settings...
+19:38:32: Settings Manager: Parsing Language Specific Chats...
+19:38:32: Settings Manager: Found 23 Chat Types
+19:38:32: Settings Manager: Found 228 Total Chats
+19:38:32: Settings Manager: Loading Weapon Settings...
+19:38:32: Settings Manager: Found 21 Weapon Settings
+19:38:32: Settings Manager: Loading Monster Settings...
+19:38:32: Settings Manager: Found 45 Monster Settings
+19:38:32: Settings Manager: Loading Item Settings...
+19:38:32: Settings Manager: Found 79 Item Settings
+19:38:32: Settings Manager: Loading Interactable Settings...
+19:38:32: Settings Manager: Found 18 Interactable Settings
+19:38:32: Settings Manager: Loading Game Settings...
+19:38:32: Settings Manager: Found 7 Game Settings
+19:38:32: Settings Manager: Loading Team Settings...
+19:38:32: Settings Manager: Found 2 Team Settings
+19:38:32: Settings Manager: Loading Danger Settings...
+19:38:32: Settings Manager: Found 9 Danger Settings
+19:38:32: Bot Manager: Loading Bot Characters...
+19:38:32: Bot Manager: Found 121 Bot Characters
+92 entities inhibited
+0 teams repaired
+10 teams with 20 entities
+19:38:32: Nav Manager: Attempting To Load Version 6 Navigation File bots/navigation/city1.nav
+19:38:32: Nav Manager: Loading Navigation File 'bots/navigation/city1.nav'
+19:38:32: Nav Manager: Loading 301 Nav Nodes
+19:38:32: Nav Manager: Loading 870 Nav Links
+19:38:32: Nav Manager: Loading 45 Nav Traversals
+19:38:32: Nav Manager: Using Nav Heuristic of 0.8
+19:38:32: Nav Manager: Loading 9 Nav Edicts
+19:38:32: Nav Manager: Processing Nav Edicts...
+-------------------------------------
+Server restarted
+Server disconnected, reconnecting
+Connecting to lobby game...
+
+
+=====================================
+
+Outer Courts
+19:38:33: R_NewMap: Initializing render data for level...
+19:38:33: R_LoadAllWals: Loading all 962 texinfos
+19:38:33: R_LoadAllWals: 24 groups allocated, 2893 dupes avoided
+19:38:33: Bot Entity Manager: Tracking 1 Players | 49 Monsters | 0 Objectives | 80 Items | 0 Dangers
+fixed stuck monster_gladiator @ -806.63666 -2468.1213 263.18738
+fixed stuck monster_gladiator @ -802.0542 -2370.7273 222.79797
+19:40:14: kexGenericSaveThread::Run: Unable to open C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\baseq2\save\quick.pak.gz for reading
+19:40:15: kexGenericSaveThread::Run: Saved file C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\baseq2\save\save14.pak.gz
+19:41:14: kexGenericSaveThread::Run: Unable to open C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\baseq2\save\quick.pak.gz for reading
+19:41:16: kexGenericSaveThread::Run: Saved file C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\baseq2\save\save14.pak.gz
+19:41:28: kexGenericSaveThread::Run: Unable to open C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\baseq2\save\quick.pak.gz for reading
+Loading game...
+==== ShutdownGame ====
+==== InitGame ====
+------- Server Initialization -------
+19:41:29: Settings Manager: Loading Bot Settings...
+19:41:29: Settings Manager: Loading Chat Settings...
+19:41:29: Settings Manager: Parsing Language Specific Chats...
+19:41:29: Settings Manager: Found 23 Chat Types
+19:41:29: Settings Manager: Found 228 Total Chats
+19:41:29: Settings Manager: Loading Weapon Settings...
+19:41:29: Settings Manager: Found 21 Weapon Settings
+19:41:29: Settings Manager: Loading Monster Settings...
+19:41:29: Settings Manager: Found 45 Monster Settings
+19:41:29: Settings Manager: Loading Item Settings...
+19:41:29: Settings Manager: Found 79 Item Settings
+19:41:29: Settings Manager: Loading Interactable Settings...
+19:41:29: Settings Manager: Found 18 Interactable Settings
+19:41:29: Settings Manager: Loading Game Settings...
+19:41:29: Settings Manager: Found 7 Game Settings
+19:41:29: Settings Manager: Loading Team Settings...
+19:41:29: Settings Manager: Found 2 Team Settings
+19:41:29: Settings Manager: Loading Danger Settings...
+19:41:29: Settings Manager: Found 9 Danger Settings
+19:41:29: Bot Manager: Loading Bot Characters...
+19:41:29: Bot Manager: Found 121 Bot Characters
+92 entities inhibited
+0 teams repaired
+10 teams with 20 entities
+19:41:29: Nav Manager: Attempting To Load Version 6 Navigation File bots/navigation/city1.nav
+19:41:29: Nav Manager: Loading Navigation File 'bots/navigation/city1.nav'
+19:41:29: Nav Manager: Loading 301 Nav Nodes
+19:41:29: Nav Manager: Loading 870 Nav Links
+19:41:29: Nav Manager: Loading 45 Nav Traversals
+19:41:29: Nav Manager: Using Nav Heuristic of 0.8
+19:41:29: Nav Manager: Loading 9 Nav Edicts
+19:41:29: Nav Manager: Processing Nav Edicts...
+-------------------------------------
+Server restarted
+Server disconnected, reconnecting
+Connecting to lobby game...
+
+
+=====================================
+
+Outer Courts
+19:41:29: R_NewMap: Initializing render data for level...
+19:41:29: R_LoadAllWals: Loading all 962 texinfos
+19:41:29: R_LoadAllWals: 24 groups allocated, 2893 dupes avoided
+19:41:29: Bot Entity Manager: Tracking 1 Players | 23 Monsters | 0 Objectives | 64 Items | 0 Dangers
+19:42:13: kexGenericSaveThread::Run: Unable to open C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\baseq2\save\quick.pak.gz for reading
+19:42:13: kexGenericSaveThread::Run: Saved file C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\baseq2\save\save14.pak.gz
+
+
+=====================================
+
+          Secondary Objective:
+       Find Communications Laser
+        Data CD in Upper Palace.
+
+
+=====================================
+
+19:44:40: kexGenericSaveThread::Run: Unable to open C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\baseq2\save\quick.pak.gz for reading
+19:44:41: kexGenericSaveThread::Run: Saved file C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\baseq2\save\save14.pak.gz
+19:44:55: kexGenericSaveThread::Run: Unable to open C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\baseq2\save\quick.pak.gz for reading
+Loading game...
+==== ShutdownGame ====
+==== InitGame ====
+------- Server Initialization -------
+19:44:56: Settings Manager: Loading Bot Settings...
+19:44:56: Settings Manager: Loading Chat Settings...
+19:44:56: Settings Manager: Parsing Language Specific Chats...
+19:44:56: Settings Manager: Found 23 Chat Types
+19:44:56: Settings Manager: Found 228 Total Chats
+19:44:56: Settings Manager: Loading Weapon Settings...
+19:44:56: Settings Manager: Found 21 Weapon Settings
+19:44:56: Settings Manager: Loading Monster Settings...
+19:44:56: Settings Manager: Found 45 Monster Settings
+19:44:56: Settings Manager: Loading Item Settings...
+19:44:56: Settings Manager: Found 79 Item Settings
+19:44:56: Settings Manager: Loading Interactable Settings...
+19:44:56: Settings Manager: Found 18 Interactable Settings
+19:44:56: Settings Manager: Loading Game Settings...
+19:44:56: Settings Manager: Found 7 Game Settings
+19:44:56: Settings Manager: Loading Team Settings...
+19:44:56: Settings Manager: Found 2 Team Settings
+19:44:56: Settings Manager: Loading Danger Settings...
+19:44:56: Settings Manager: Found 9 Danger Settings
+19:44:56: Bot Manager: Loading Bot Characters...
+19:44:56: Bot Manager: Found 121 Bot Characters
+92 entities inhibited
+0 teams repaired
+10 teams with 20 entities
+19:44:56: Nav Manager: Attempting To Load Version 6 Navigation File bots/navigation/city1.nav
+19:44:56: Nav Manager: Loading Navigation File 'bots/navigation/city1.nav'
+19:44:56: Nav Manager: Loading 301 Nav Nodes
+19:44:56: Nav Manager: Loading 870 Nav Links
+19:44:56: Nav Manager: Loading 45 Nav Traversals
+19:44:56: Nav Manager: Using Nav Heuristic of 0.8
+19:44:56: Nav Manager: Loading 9 Nav Edicts
+19:44:56: Nav Manager: Processing Nav Edicts...
+-------------------------------------
+Server restarted
+Server disconnected, reconnecting
+Connecting to lobby game...
+
+
+=====================================
+
+Outer Courts
+19:44:56: R_NewMap: Initializing render data for level...
+19:44:56: R_LoadAllWals: Loading all 962 texinfos
+19:44:56: R_LoadAllWals: 24 groups allocated, 2893 dupes avoided
+19:44:56: Bot Entity Manager: Tracking 1 Players | 5 Monsters | 0 Objectives | 46 Items | 0 Dangers
+19:45:55: kexGenericSaveThread::Run: Unable to open C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\baseq2\save\quick.pak.gz for reading
+19:45:56: kexGenericSaveThread::Run: Saved file C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\baseq2\save\save14.pak.gz
+------- Server Initialization -------
+19:46:03: Settings Manager: Loading Bot Settings...
+19:46:03: Settings Manager: Loading Chat Settings...
+19:46:03: Settings Manager: Parsing Language Specific Chats...
+19:46:03: Settings Manager: Found 23 Chat Types
+19:46:03: Settings Manager: Found 228 Total Chats
+19:46:03: Settings Manager: Loading Weapon Settings...
+19:46:03: Settings Manager: Found 21 Weapon Settings
+19:46:03: Settings Manager: Loading Monster Settings...
+19:46:03: Settings Manager: Found 45 Monster Settings
+19:46:03: Settings Manager: Loading Item Settings...
+19:46:03: Settings Manager: Found 79 Item Settings
+19:46:03: Settings Manager: Loading Interactable Settings...
+19:46:03: Settings Manager: Found 18 Interactable Settings
+19:46:03: Settings Manager: Loading Game Settings...
+19:46:03: Settings Manager: Found 7 Game Settings
+19:46:03: Settings Manager: Loading Team Settings...
+19:46:03: Settings Manager: Found 2 Team Settings
+19:46:03: Settings Manager: Loading Danger Settings...
+19:46:03: Settings Manager: Found 9 Danger Settings
+19:46:03: Bot Manager: Loading Bot Characters...
+19:46:03: Bot Manager: Found 121 Bot Characters
+109 entities inhibited
+0 teams repaired
+19 teams with 43 entities
+19:46:03: Nav Manager: Attempting To Load Version 6 Navigation File bots/navigation/city2.nav
+19:46:03: Nav Manager: Loading Navigation File 'bots/navigation/city2.nav'
+19:46:03: Nav Manager: Loading 253 Nav Nodes
+19:46:03: Nav Manager: Loading 734 Nav Links
+19:46:03: Nav Manager: Loading 29 Nav Traversals
+19:46:03: Nav Manager: Using Nav Heuristic of 0.8
+19:46:03: Nav Manager: Loading 6 Nav Edicts
+19:46:03: Nav Manager: Processing Nav Edicts...
+-------------------------------------
+19:46:03: kexGenericSaveThread::Run: Saved file C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\baseq2\save\save0.pak.gz
+
+Changing map...
+reconnecting...
+
+
+=====================================
+
+Lower Palace
+19:46:04: R_NewMap: Initializing render data for level...
+19:46:04: R_LoadAllWals: Loading all 1051 texinfos
+19:46:04: R_LoadAllWals: 24 groups allocated, 3366 dupes avoided
+19:46:05: Bot Entity Manager: Unknown Item trigger_key Was Spawned - Skipping Entity!
+19:46:05: Bot Entity Manager: Unknown Item trigger_key Was Spawned - Skipping Entity!
+19:46:05: Bot Entity Manager: Tracking 1 Players | 71 Monsters | 0 Objectives | 76 Items | 12 Dangers
+19:46:41: kexGenericSaveThread::Run: Unable to open C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\baseq2\save\quick.pak.gz for reading
+Loading game...
+==== ShutdownGame ====
+==== InitGame ====
+------- Server Initialization -------
+19:46:41: Settings Manager: Loading Bot Settings...
+19:46:41: Settings Manager: Loading Chat Settings...
+19:46:41: Settings Manager: Parsing Language Specific Chats...
+19:46:41: Settings Manager: Found 23 Chat Types
+19:46:41: Settings Manager: Found 228 Total Chats
+19:46:41: Settings Manager: Loading Weapon Settings...
+19:46:41: Settings Manager: Found 21 Weapon Settings
+19:46:41: Settings Manager: Loading Monster Settings...
+19:46:41: Settings Manager: Found 45 Monster Settings
+19:46:41: Settings Manager: Loading Item Settings...
+19:46:41: Settings Manager: Found 79 Item Settings
+19:46:41: Settings Manager: Loading Interactable Settings...
+19:46:41: Settings Manager: Found 18 Interactable Settings
+19:46:41: Settings Manager: Loading Game Settings...
+19:46:41: Settings Manager: Found 7 Game Settings
+19:46:41: Settings Manager: Loading Team Settings...
+19:46:41: Settings Manager: Found 2 Team Settings
+19:46:41: Settings Manager: Loading Danger Settings...
+19:46:41: Settings Manager: Found 9 Danger Settings
+19:46:41: Bot Manager: Loading Bot Characters...
+19:46:41: Bot Manager: Found 121 Bot Characters
+92 entities inhibited
+0 teams repaired
+10 teams with 20 entities
+19:46:41: Nav Manager: Attempting To Load Version 6 Navigation File bots/navigation/city1.nav
+19:46:41: Nav Manager: Loading Navigation File 'bots/navigation/city1.nav'
+19:46:41: Nav Manager: Loading 301 Nav Nodes
+19:46:41: Nav Manager: Loading 870 Nav Links
+19:46:41: Nav Manager: Loading 45 Nav Traversals
+19:46:41: Nav Manager: Using Nav Heuristic of 0.8
+19:46:41: Nav Manager: Loading 9 Nav Edicts
+19:46:41: Nav Manager: Processing Nav Edicts...
+-------------------------------------
+Server restarted
+Server disconnected, reconnecting
+Connecting to lobby game...
+
+
+=====================================
+
+Outer Courts
+19:46:42: R_NewMap: Initializing render data for level...
+19:46:42: R_LoadAllWals: Loading all 962 texinfos
+19:46:42: R_LoadAllWals: 24 groups allocated, 2893 dupes avoided
+19:46:42: Bot Entity Manager: Tracking 1 Players | 5 Monsters | 0 Objectives | 46 Items | 0 Dangers
+------- Server Initialization -------
+19:46:45: Settings Manager: Loading Bot Settings...
+19:46:45: Settings Manager: Loading Chat Settings...
+19:46:45: Settings Manager: Parsing Language Specific Chats...
+19:46:45: Settings Manager: Found 23 Chat Types
+19:46:45: Settings Manager: Found 228 Total Chats
+19:46:45: Settings Manager: Loading Weapon Settings...
+19:46:45: Settings Manager: Found 21 Weapon Settings
+19:46:45: Settings Manager: Loading Monster Settings...
+19:46:45: Settings Manager: Found 45 Monster Settings
+19:46:45: Settings Manager: Loading Item Settings...
+19:46:45: Settings Manager: Found 79 Item Settings
+19:46:45: Settings Manager: Loading Interactable Settings...
+19:46:45: Settings Manager: Found 18 Interactable Settings
+19:46:45: Settings Manager: Loading Game Settings...
+19:46:45: Settings Manager: Found 7 Game Settings
+19:46:45: Settings Manager: Loading Team Settings...
+19:46:45: Settings Manager: Found 2 Team Settings
+19:46:45: Settings Manager: Loading Danger Settings...
+19:46:45: Settings Manager: Found 9 Danger Settings
+19:46:45: Bot Manager: Loading Bot Characters...
+19:46:45: Bot Manager: Found 121 Bot Characters
+109 entities inhibited
+0 teams repaired
+19 teams with 43 entities
+19:46:45: Nav Manager: Attempting To Load Version 6 Navigation File bots/navigation/city2.nav
+19:46:45: Nav Manager: Loading Navigation File 'bots/navigation/city2.nav'
+19:46:45: Nav Manager: Loading 253 Nav Nodes
+19:46:45: Nav Manager: Loading 734 Nav Links
+19:46:45: Nav Manager: Loading 29 Nav Traversals
+19:46:45: Nav Manager: Using Nav Heuristic of 0.8
+19:46:45: Nav Manager: Loading 6 Nav Edicts
+19:46:45: Nav Manager: Processing Nav Edicts...
+-------------------------------------
+19:46:45: kexGenericSaveThread::Run: Saved file C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\baseq2\save\save0.pak.gz
+
+Changing map...
+reconnecting...
+
+
+=====================================
+
+Lower Palace
+19:46:46: R_NewMap: Initializing render data for level...
+19:46:46: R_LoadAllWals: Loading all 1051 texinfos
+19:46:46: R_LoadAllWals: 24 groups allocated, 3366 dupes avoided
+19:46:47: Bot Entity Manager: Unknown Item trigger_key Was Spawned - Skipping Entity!
+19:46:47: Bot Entity Manager: Unknown Item trigger_key Was Spawned - Skipping Entity!
+19:46:47: Bot Entity Manager: Tracking 1 Players | 71 Monsters | 0 Objectives | 76 Items | 12 Dangers
+19:46:54: kexGenericSaveThread::Run: Unable to open C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\baseq2\save\quick.pak.gz for reading
+19:46:57: kexGenericSaveThread::Run: Saved file C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\baseq2\save\save1.pak.gz
+
+
+=====================================
+
+            1 more to go...
+
+
+=====================================
+
+19:47:36: kexGenericSaveThread::Run: Unable to open C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\baseq2\save\quick.pak.gz for reading
+Loading game...
+==== ShutdownGame ====
+==== InitGame ====
+------- Server Initialization -------
+19:47:36: Settings Manager: Loading Bot Settings...
+19:47:36: Settings Manager: Loading Chat Settings...
+19:47:36: Settings Manager: Parsing Language Specific Chats...
+19:47:36: Settings Manager: Found 23 Chat Types
+19:47:36: Settings Manager: Found 228 Total Chats
+19:47:36: Settings Manager: Loading Weapon Settings...
+19:47:36: Settings Manager: Found 21 Weapon Settings
+19:47:36: Settings Manager: Loading Monster Settings...
+19:47:36: Settings Manager: Found 45 Monster Settings
+19:47:36: Settings Manager: Loading Item Settings...
+19:47:36: Settings Manager: Found 79 Item Settings
+19:47:36: Settings Manager: Loading Interactable Settings...
+19:47:36: Settings Manager: Found 18 Interactable Settings
+19:47:36: Settings Manager: Loading Game Settings...
+19:47:36: Settings Manager: Found 7 Game Settings
+19:47:36: Settings Manager: Loading Team Settings...
+19:47:36: Settings Manager: Found 2 Team Settings
+19:47:36: Settings Manager: Loading Danger Settings...
+19:47:36: Settings Manager: Found 9 Danger Settings
+19:47:36: Bot Manager: Loading Bot Characters...
+19:47:36: Bot Manager: Found 121 Bot Characters
+109 entities inhibited
+0 teams repaired
+19 teams with 43 entities
+19:47:36: Nav Manager: Attempting To Load Version 6 Navigation File bots/navigation/city2.nav
+19:47:36: Nav Manager: Loading Navigation File 'bots/navigation/city2.nav'
+19:47:36: Nav Manager: Loading 253 Nav Nodes
+19:47:36: Nav Manager: Loading 734 Nav Links
+19:47:36: Nav Manager: Loading 29 Nav Traversals
+19:47:36: Nav Manager: Using Nav Heuristic of 0.8
+19:47:36: Nav Manager: Loading 6 Nav Edicts
+19:47:36: Nav Manager: Processing Nav Edicts...
+-------------------------------------
+Server restarted
+Server disconnected, reconnecting
+Connecting to lobby game...
+
+
+=====================================
+
+Lower Palace
+19:47:37: R_NewMap: Initializing render data for level...
+19:47:37: R_LoadAllWals: Loading all 1051 texinfos
+19:47:37: R_LoadAllWals: 24 groups allocated, 3366 dupes avoided
+19:47:37: Bot Entity Manager: Unknown Item trigger_key Was Spawned - Skipping Entity!
+19:47:37: Bot Entity Manager: Unknown Item trigger_key Was Spawned - Skipping Entity!
+19:47:37: Bot Entity Manager: Tracking 1 Players | 71 Monsters | 0 Objectives | 76 Items | 12 Dangers
+
+
+=====================================
+
+            1 more to go...
+
+
+=====================================
+
+
+
+=====================================
+
+          This force field is
+         deactivated elsewhere.
+
+
+=====================================
+
+
+
+=====================================
+
+          This force field is
+         deactivated elsewhere.
+
+
+=====================================
+
+
+
+=====================================
+
+          This force field is
+         deactivated elsewhere.
+
+
+=====================================
+
+
+
+=====================================
+
+          This force field is
+         deactivated elsewhere.
+
+
+=====================================
+
+19:49:50: kexGenericSaveThread::Run: Unable to open C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\baseq2\save\quick.pak.gz for reading
+19:49:51: kexGenericSaveThread::Run: Saved file C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\baseq2\save\save1.pak.gz
+
+
+=====================================
+
+     This door is opened elsewhere.
+
+
+=====================================
+
+
+
+=====================================
+
+     Red force fields deactivated.
+
+
+=====================================
+
+19:51:14: kexGenericSaveThread::Run: Unable to open C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\baseq2\save\quick.pak.gz for reading
+19:51:15: kexGenericSaveThread::Run: Saved file C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\baseq2\save\save2.pak.gz
+
+
+=====================================
+
+        You found a secret area!
+
+
+=====================================
+
+
+
+=====================================
+
+          You need the Data CD
+
+
+=====================================
+
+
+
+=====================================
+
+Data Spinner inserted for reprogramming.
+
+
+=====================================
+
+
+
+=====================================
+
+          Secondary Objective:
+           Obtain the Data CD
+         from the Upper Palace.
+
+
+=====================================
+
+
+
+=====================================
+
+          You need the Data CD
+
+
+=====================================
+
+------- Server Initialization -------
+19:54:02: Settings Manager: Loading Bot Settings...
+19:54:02: Settings Manager: Loading Chat Settings...
+19:54:02: Settings Manager: Parsing Language Specific Chats...
+19:54:02: Settings Manager: Found 23 Chat Types
+19:54:02: Settings Manager: Found 228 Total Chats
+19:54:02: Settings Manager: Loading Weapon Settings...
+19:54:02: Settings Manager: Found 21 Weapon Settings
+19:54:02: Settings Manager: Loading Monster Settings...
+19:54:02: Settings Manager: Found 45 Monster Settings
+19:54:02: Settings Manager: Loading Item Settings...
+19:54:02: Settings Manager: Found 79 Item Settings
+19:54:02: Settings Manager: Loading Interactable Settings...
+19:54:02: Settings Manager: Found 18 Interactable Settings
+19:54:02: Settings Manager: Loading Game Settings...
+19:54:02: Settings Manager: Found 7 Game Settings
+19:54:02: Settings Manager: Loading Team Settings...
+19:54:02: Settings Manager: Found 2 Team Settings
+19:54:02: Settings Manager: Loading Danger Settings...
+19:54:02: Settings Manager: Found 9 Danger Settings
+19:54:02: Bot Manager: Loading Bot Characters...
+19:54:02: Bot Manager: Found 121 Bot Characters
+92 entities inhibited
+0 teams repaired
+10 teams with 20 entities
+19:54:02: Nav Manager: Attempting To Load Version 6 Navigation File bots/navigation/city1.nav
+19:54:02: Nav Manager: Loading Navigation File 'bots/navigation/city1.nav'
+19:54:02: Nav Manager: Loading 301 Nav Nodes
+19:54:02: Nav Manager: Loading 870 Nav Links
+19:54:02: Nav Manager: Loading 45 Nav Traversals
+19:54:02: Nav Manager: Using Nav Heuristic of 0.8
+19:54:02: Nav Manager: Loading 9 Nav Edicts
+19:54:02: Nav Manager: Processing Nav Edicts...
+-------------------------------------
+19:54:02: kexGenericSaveThread::Run: Saved file C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\baseq2\save\save0.pak.gz
+
+Changing map...
+reconnecting...
+
+
+=====================================
+
+Outer Courts
+19:54:03: R_NewMap: Initializing render data for level...
+19:54:03: R_LoadAllWals: Loading all 962 texinfos
+19:54:03: R_LoadAllWals: 24 groups allocated, 2893 dupes avoided
+19:54:04: Bot Entity Manager: Tracking 1 Players | 5 Monsters | 0 Objectives | 46 Items | 0 Dangers
+19:54:17: kexGenericSaveThread::Run: Unable to open C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\baseq2\save\quick.pak.gz for reading
+19:54:18: kexGenericSaveThread::Run: Saved file C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\baseq2\save\save4.pak.gz
+19:54:19: kexGenericSaveThread::Run: Unable to open C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\baseq2\save\quick.pak.gz for reading
+------- Server Initialization -------
+19:54:50: Settings Manager: Loading Bot Settings...
+19:54:50: Settings Manager: Loading Chat Settings...
+19:54:50: Settings Manager: Parsing Language Specific Chats...
+19:54:50: Settings Manager: Found 23 Chat Types
+19:54:50: Settings Manager: Found 228 Total Chats
+19:54:50: Settings Manager: Loading Weapon Settings...
+19:54:50: Settings Manager: Found 21 Weapon Settings
+19:54:50: Settings Manager: Loading Monster Settings...
+19:54:50: Settings Manager: Found 45 Monster Settings
+19:54:50: Settings Manager: Loading Item Settings...
+19:54:50: Settings Manager: Found 79 Item Settings
+19:54:50: Settings Manager: Loading Interactable Settings...
+19:54:50: Settings Manager: Found 18 Interactable Settings
+19:54:50: Settings Manager: Loading Game Settings...
+19:54:50: Settings Manager: Found 7 Game Settings
+19:54:50: Settings Manager: Loading Team Settings...
+19:54:50: Settings Manager: Found 2 Team Settings
+19:54:50: Settings Manager: Loading Danger Settings...
+19:54:50: Settings Manager: Found 9 Danger Settings
+19:54:50: Bot Manager: Loading Bot Characters...
+19:54:50: Bot Manager: Found 121 Bot Characters
+109 entities inhibited
+0 teams repaired
+19 teams with 43 entities
+19:54:50: Nav Manager: Attempting To Load Version 6 Navigation File bots/navigation/city2.nav
+19:54:50: Nav Manager: Loading Navigation File 'bots/navigation/city2.nav'
+19:54:50: Nav Manager: Loading 253 Nav Nodes
+19:54:50: Nav Manager: Loading 734 Nav Links
+19:54:50: Nav Manager: Loading 29 Nav Traversals
+19:54:50: Nav Manager: Using Nav Heuristic of 0.8
+19:54:50: Nav Manager: Loading 6 Nav Edicts
+19:54:50: Nav Manager: Processing Nav Edicts...
+-------------------------------------
+19:54:50: kexGenericSaveThread::Run: Saved file C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\baseq2\save\save0.pak.gz
+
+Changing map...
+reconnecting...
+
+
+=====================================
+
+Lower Palace
+19:54:51: R_NewMap: Initializing render data for level...
+19:54:51: R_LoadAllWals: Loading all 1051 texinfos
+19:54:51: R_LoadAllWals: 24 groups allocated, 3366 dupes avoided
+19:54:51: Bot Entity Manager: Unknown Item trigger_key Was Spawned - Skipping Entity!
+19:54:51: Bot Entity Manager: Unknown Item trigger_key Was Spawned - Skipping Entity!
+19:54:51: Bot Entity Manager: Tracking 1 Players | 20 Monsters | 0 Objectives | 40 Items | 11 Dangers
+19:56:32: kexGenericSaveThread::Run: Unable to open C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\baseq2\save\quick.pak.gz for reading
+19:56:33: kexGenericSaveThread::Run: Saved file C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\baseq2\save\save4.pak.gz
+
+
+=====================================
+
+          You found a secret.
+        Gun trap is deactivated.
+
+
+=====================================
+
+19:57:44: kexGenericSaveThread::Run: Unable to open C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\baseq2\save\quick.pak.gz for reading
+19:57:44: kexGenericSaveThread::Run: Saved file C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\baseq2\save\save4.pak.gz
+19:58:01: kexGenericSaveThread::Run: Unable to open C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\baseq2\save\quick.pak.gz for reading
+19:58:03: kexGenericSaveThread::Run: Saved file C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\baseq2\save\save4.pak.gz
+------- Server Initialization -------
+19:58:04: Settings Manager: Loading Bot Settings...
+19:58:04: Settings Manager: Loading Chat Settings...
+19:58:04: Settings Manager: Parsing Language Specific Chats...
+19:58:04: Settings Manager: Found 23 Chat Types
+19:58:04: Settings Manager: Found 228 Total Chats
+19:58:04: Settings Manager: Loading Weapon Settings...
+19:58:04: Settings Manager: Found 21 Weapon Settings
+19:58:04: Settings Manager: Loading Monster Settings...
+19:58:04: Settings Manager: Found 45 Monster Settings
+19:58:04: Settings Manager: Loading Item Settings...
+19:58:04: Settings Manager: Found 79 Item Settings
+19:58:04: Settings Manager: Loading Interactable Settings...
+19:58:04: Settings Manager: Found 18 Interactable Settings
+19:58:04: Settings Manager: Loading Game Settings...
+19:58:04: Settings Manager: Found 7 Game Settings
+19:58:04: Settings Manager: Loading Team Settings...
+19:58:04: Settings Manager: Found 2 Team Settings
+19:58:04: Settings Manager: Loading Danger Settings...
+19:58:04: Settings Manager: Found 9 Danger Settings
+19:58:04: Bot Manager: Loading Bot Characters...
+19:58:04: Bot Manager: Found 121 Bot Characters
+117 entities inhibited
+0 teams repaired
+14 teams with 27 entities
+fixed stuck misc_insane @ -4 -264 -628
+19:58:04: Nav Manager: Attempting To Load Version 5 Navigation File bots/navigation/city3.nav
+19:58:04: Nav Manager: Loading Navigation File 'bots/navigation/city3.nav'
+19:58:04: Nav Manager: Loading 282 Nav Nodes
+19:58:04: Nav Manager: Loading 746 Nav Links
+19:58:04: Nav Manager: Loading 49 Nav Traversals
+19:58:04: Nav Manager: Using Nav Heuristic of 0.8
+19:58:04: Nav Manager: Loading 13 Nav Edicts
+19:58:04: Nav Manager: Processing Nav Edicts...
+-------------------------------------
+19:58:04: kexGenericSaveThread::Run: Saved file C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\baseq2\save\save0.pak.gz
+
+Changing map...
+reconnecting...
+
+
+=====================================
+
+Upper Palace
+19:58:05: R_NewMap: Initializing render data for level...
+19:58:05: R_LoadAllWals: Loading all 1365 texinfos
+19:58:05: R_LoadAllWals: 29 groups allocated, 4999 dupes avoided
+19:58:06: Bot Entity Manager: Unknown Item trigger_key Was Spawned - Skipping Entity!
+19:58:06: Bot Entity Manager: Unknown Item trigger_key Was Spawned - Skipping Entity!
+19:58:06: Bot Entity Manager: Unknown Item trigger_key Was Spawned - Skipping Entity!
+19:58:06: Bot Entity Manager: Tracking 1 Players | 76 Monsters | 0 Objectives | 78 Items | 14 Dangers
+
+
+=====================================
+
+       You need the Security Pass
+
+
+=====================================
+
+
+
+=====================================
+
+       You need the Security Pass
+
+
+=====================================
+
+20:00:16: kexGenericSaveThread::Run: Unable to open C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\baseq2\save\quick.pak.gz for reading
+20:00:17: kexGenericSaveThread::Run: Saved file C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\baseq2\save\save3.pak.gz
+
+
+=====================================
+
+     This force field is activated
+      by the communication laser.
+
+
+=====================================
+
+20:01:43: kexGenericSaveThread::Run: Unable to open C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\baseq2\save\quick.pak.gz for reading
+20:01:44: kexGenericSaveThread::Run: Saved file C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\baseq2\save\save3.pak.gz
+
+
+=====================================
+
+         Security pass required
+   to deactivate yellow force fields.
+
+
+=====================================
+
+
+
+=====================================
+
+          Secondary Objective:
+         Reprogram Data Spinner
+          at Central Computer.
+
+
+=====================================
+
+
+
+=====================================
+
+     This force field is activated
+      by the communication laser.
+
+
+=====================================
+
+
+
+=====================================
+
+       You need the Security Pass
+
+
+=====================================
+
+------- Server Initialization -------
+20:02:24: Settings Manager: Loading Bot Settings...
+20:02:24: Settings Manager: Loading Chat Settings...
+20:02:24: Settings Manager: Parsing Language Specific Chats...
+20:02:24: Settings Manager: Found 23 Chat Types
+20:02:24: Settings Manager: Found 228 Total Chats
+20:02:24: Settings Manager: Loading Weapon Settings...
+20:02:24: Settings Manager: Found 21 Weapon Settings
+20:02:24: Settings Manager: Loading Monster Settings...
+20:02:24: Settings Manager: Found 45 Monster Settings
+20:02:24: Settings Manager: Loading Item Settings...
+20:02:24: Settings Manager: Found 79 Item Settings
+20:02:24: Settings Manager: Loading Interactable Settings...
+20:02:24: Settings Manager: Found 18 Interactable Settings
+20:02:24: Settings Manager: Loading Game Settings...
+20:02:24: Settings Manager: Found 7 Game Settings
+20:02:24: Settings Manager: Loading Team Settings...
+20:02:24: Settings Manager: Found 2 Team Settings
+20:02:24: Settings Manager: Loading Danger Settings...
+20:02:24: Settings Manager: Found 9 Danger Settings
+20:02:24: Bot Manager: Loading Bot Characters...
+20:02:24: Bot Manager: Found 121 Bot Characters
+109 entities inhibited
+0 teams repaired
+19 teams with 43 entities
+20:02:24: Nav Manager: Attempting To Load Version 6 Navigation File bots/navigation/city2.nav
+20:02:24: Nav Manager: Loading Navigation File 'bots/navigation/city2.nav'
+20:02:24: Nav Manager: Loading 253 Nav Nodes
+20:02:24: Nav Manager: Loading 734 Nav Links
+20:02:24: Nav Manager: Loading 29 Nav Traversals
+20:02:24: Nav Manager: Using Nav Heuristic of 0.8
+20:02:24: Nav Manager: Loading 6 Nav Edicts
+20:02:24: Nav Manager: Processing Nav Edicts...
+-------------------------------------
+20:02:24: kexGenericSaveThread::Run: Saved file C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\baseq2\save\save0.pak.gz
+
+Changing map...
+reconnecting...
+
+
+=====================================
+
+Lower Palace
+20:02:25: R_NewMap: Initializing render data for level...
+20:02:25: R_LoadAllWals: Loading all 1051 texinfos
+20:02:25: R_LoadAllWals: 24 groups allocated, 3366 dupes avoided
+20:02:26: Bot Entity Manager: Unknown Item trigger_key Was Spawned - Skipping Entity!
+20:02:26: Bot Entity Manager: Unknown Item trigger_key Was Spawned - Skipping Entity!
+20:02:26: Bot Entity Manager: Tracking 1 Players | 10 Monsters | 0 Objectives | 38 Items | 11 Dangers
+20:02:27: kexGenericSaveThread::Run: Unable to open C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\baseq2\save\quick.pak.gz for reading
+20:02:29: kexGenericSaveThread::Run: Saved file C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\baseq2\save\save5.pak.gz
+
+
+=====================================
+
+         New program accepted.
+
+
+=====================================
+
+
+
+=====================================
+
+          Secondary Objective:
+        Access Central Computer
+           keyboard to return
+             data spinner.
+
+
+=====================================
+
+
+
+=====================================
+
+              Data Spinner
+          is now reprogrammed.
+
+
+=====================================
+
+
+
+=====================================
+
+            Access keyboard
+        to return Data Spinner.
+
+
+=====================================
+
+
+
+=====================================
+
+          Secondary Objective:
+        Shut down communication
+         laser in Upper Palace.
+
+
+=====================================
+
+20:03:58: kexGenericSaveThread::Run: Unable to open C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\baseq2\save\quick.pak.gz for reading
+20:04:00: kexGenericSaveThread::Run: Saved file C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\baseq2\save\save6.pak.gz
+20:05:16: kexGenericSaveThread::Run: Unable to open C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\baseq2\save\quick.pak.gz for reading
+20:05:19: kexGenericSaveThread::Run: Saved file C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\baseq2\save\save6.pak.gz
+------- Server Initialization -------
+20:05:20: Settings Manager: Loading Bot Settings...
+20:05:20: Settings Manager: Loading Chat Settings...
+20:05:20: Settings Manager: Parsing Language Specific Chats...
+20:05:20: Settings Manager: Found 23 Chat Types
+20:05:20: Settings Manager: Found 228 Total Chats
+20:05:20: Settings Manager: Loading Weapon Settings...
+20:05:20: Settings Manager: Found 21 Weapon Settings
+20:05:20: Settings Manager: Loading Monster Settings...
+20:05:20: Settings Manager: Found 45 Monster Settings
+20:05:20: Settings Manager: Loading Item Settings...
+20:05:20: Settings Manager: Found 79 Item Settings
+20:05:20: Settings Manager: Loading Interactable Settings...
+20:05:20: Settings Manager: Found 18 Interactable Settings
+20:05:20: Settings Manager: Loading Game Settings...
+20:05:20: Settings Manager: Found 7 Game Settings
+20:05:20: Settings Manager: Loading Team Settings...
+20:05:20: Settings Manager: Found 2 Team Settings
+20:05:20: Settings Manager: Loading Danger Settings...
+20:05:20: Settings Manager: Found 9 Danger Settings
+20:05:20: Bot Manager: Loading Bot Characters...
+20:05:20: Bot Manager: Found 121 Bot Characters
+117 entities inhibited
+0 teams repaired
+14 teams with 27 entities
+fixed stuck misc_insane @ -4 -264 -628
+20:05:20: Nav Manager: Attempting To Load Version 5 Navigation File bots/navigation/city3.nav
+20:05:20: Nav Manager: Loading Navigation File 'bots/navigation/city3.nav'
+20:05:20: Nav Manager: Loading 282 Nav Nodes
+20:05:20: Nav Manager: Loading 746 Nav Links
+20:05:20: Nav Manager: Loading 49 Nav Traversals
+20:05:20: Nav Manager: Using Nav Heuristic of 0.8
+20:05:20: Nav Manager: Loading 13 Nav Edicts
+20:05:20: Nav Manager: Processing Nav Edicts...
+-------------------------------------
+20:05:20: kexGenericSaveThread::Run: Saved file C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\baseq2\save\save0.pak.gz
+
+Changing map...
+reconnecting...
+
+
+=====================================
+
+Upper Palace
+20:05:21: R_NewMap: Initializing render data for level...
+20:05:21: R_LoadAllWals: Loading all 1365 texinfos
+20:05:21: R_LoadAllWals: 29 groups allocated, 4999 dupes avoided
+20:05:22: Bot Entity Manager: Unknown Item trigger_key Was Spawned - Skipping Entity!
+20:05:22: Bot Entity Manager: Unknown Item trigger_key Was Spawned - Skipping Entity!
+20:05:22: Bot Entity Manager: Unknown Item trigger_key Was Spawned - Skipping Entity!
+20:05:22: Bot Entity Manager: Tracking 1 Players | 42 Monsters | 0 Objectives | 64 Items | 14 Dangers
+20:05:34: kexGenericSaveThread::Run: Unable to open C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\baseq2\save\quick.pak.gz for reading
+20:05:36: kexGenericSaveThread::Run: Saved file C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\baseq2\save\save6.pak.gz
+
+
+=====================================
+
+     This force field is activated
+      by the communication laser.
+
+
+=====================================
+
+entity was removed while using targets
+
+
+=====================================
+
+Warning. Communication laser shut down.
+
+
+=====================================
+
+
+
+=====================================
+
+          Secondary Objective:
+          Locate and use exit
+              from Palace.
+
+
+=====================================
+
+20:06:18: kexGenericSaveThread::Run: Unable to open C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\baseq2\save\quick.pak.gz for reading
+20:06:19: kexGenericSaveThread::Run: Saved file C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\baseq2\save\save7.pak.gz
+20:07:17: kexGenericSaveThread::Run: Unable to open C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\baseq2\save\quick.pak.gz for reading
+20:07:17: kexGenericSaveThread::Run: Saved file C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\baseq2\save\save7.pak.gz
+G_PickTarget called with nullptr targetname
+20:07:46: playfabUser_s: userState_e::Nill -> userState_e::DoingSignIn
+20:07:46: Playfab::signin -- Login failed (Galaxy Auth token is invalid)
+20:07:46: playfabUser_s: userState_e::DoingSignIn -> userState_e::Nill
+------- Server Initialization -------
+20:07:52: Settings Manager: Loading Bot Settings...
+20:07:52: Settings Manager: Loading Chat Settings...
+20:07:52: Settings Manager: Parsing Language Specific Chats...
+20:07:52: Settings Manager: Found 23 Chat Types
+20:07:52: Settings Manager: Found 228 Total Chats
+20:07:52: Settings Manager: Loading Weapon Settings...
+20:07:52: Settings Manager: Found 21 Weapon Settings
+20:07:52: Settings Manager: Loading Monster Settings...
+20:07:52: Settings Manager: Found 45 Monster Settings
+20:07:52: Settings Manager: Loading Item Settings...
+20:07:52: Settings Manager: Found 79 Item Settings
+20:07:52: Settings Manager: Loading Interactable Settings...
+20:07:52: Settings Manager: Found 18 Interactable Settings
+20:07:52: Settings Manager: Loading Game Settings...
+20:07:52: Settings Manager: Found 7 Game Settings
+20:07:52: Settings Manager: Loading Team Settings...
+20:07:52: Settings Manager: Found 2 Team Settings
+20:07:52: Settings Manager: Loading Danger Settings...
+20:07:52: Settings Manager: Found 9 Danger Settings
+20:07:52: Bot Manager: Loading Bot Characters...
+20:07:52: Bot Manager: Found 121 Bot Characters
+48 entities inhibited
+0 teams repaired
+2 teams with 17 entities
+20:07:52: Nav Manager: Attempting To Load Version 6 Navigation File bots/navigation/boss1.nav
+20:07:52: Nav Manager: Loading Navigation File 'bots/navigation/boss1.nav'
+20:07:52: Nav Manager: Loading 126 Nav Nodes
+20:07:52: Nav Manager: Loading 311 Nav Links
+20:07:52: Nav Manager: Loading 18 Nav Traversals
+20:07:52: Nav Manager: Using Nav Heuristic of 0.8
+20:07:52: Nav Manager: Loading 3 Nav Edicts
+20:07:52: Nav Manager: Processing Nav Edicts...
+-------------------------------------
+20:07:52: kexGenericSaveThread::Run: Saved file C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\baseq2\save\save0.pak.gz
+
+Changing map...
+reconnecting...
+
+
+=====================================
+
+Inner Chamber
+20:07:53: R_NewMap: Initializing render data for level...
+20:07:53: R_LoadAllWals: Loading all 633 texinfos
+20:07:53: R_LoadAllWals: 20 groups allocated, 1876 dupes avoided
+
+
+=====================================
+
+           Primary Objective:
+           Locate and destroy
+             Strogg leader.
+
+
+=====================================
+
+
+
+=====================================
+
+          Secondary Objective:
+            Pursue Makron to
+             Inner Chamber.
+
+
+=====================================
+
+20:07:54: Bot Entity Manager: Tracking 1 Players | 8 Monsters | 0 Objectives | 14 Items | 9 Dangers
+20:07:57: kexGenericSaveThread::Run: Unable to open C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\baseq2\save\quick.pak.gz for reading
+20:07:58: kexGenericSaveThread::Run: Saved file C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\baseq2\save\save8.pak.gz
+20:08:54: kexGenericSaveThread::Run: Unable to open C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\baseq2\save\quick.pak.gz for reading
+20:08:54: kexGenericSaveThread::Run: Saved file C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\baseq2\save\save8.pak.gz
+
+
+=====================================
+
+            1 more to go...
+
+
+=====================================
+
+
+
+=====================================
+
+          Sequence completed!
+
+
+=====================================
+
+20:10:09: kexGenericSaveThread::Run: Unable to open C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\baseq2\save\quick.pak.gz for reading
+20:10:10: kexGenericSaveThread::Run: Saved file C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\baseq2\save\save8.pak.gz
+20:10:39: kexGenericSaveThread::Run: Unable to open C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\baseq2\save\quick.pak.gz for reading
+Loading game...
+==== ShutdownGame ====
+==== InitGame ====
+------- Server Initialization -------
+20:10:39: Settings Manager: Loading Bot Settings...
+20:10:39: Settings Manager: Loading Chat Settings...
+20:10:39: Settings Manager: Parsing Language Specific Chats...
+20:10:39: Settings Manager: Found 23 Chat Types
+20:10:39: Settings Manager: Found 228 Total Chats
+20:10:39: Settings Manager: Loading Weapon Settings...
+20:10:39: Settings Manager: Found 21 Weapon Settings
+20:10:39: Settings Manager: Loading Monster Settings...
+20:10:39: Settings Manager: Found 45 Monster Settings
+20:10:39: Settings Manager: Loading Item Settings...
+20:10:39: Settings Manager: Found 79 Item Settings
+20:10:39: Settings Manager: Loading Interactable Settings...
+20:10:39: Settings Manager: Found 18 Interactable Settings
+20:10:39: Settings Manager: Loading Game Settings...
+20:10:39: Settings Manager: Found 7 Game Settings
+20:10:39: Settings Manager: Loading Team Settings...
+20:10:39: Settings Manager: Found 2 Team Settings
+20:10:39: Settings Manager: Loading Danger Settings...
+20:10:39: Settings Manager: Found 9 Danger Settings
+20:10:39: Bot Manager: Loading Bot Characters...
+20:10:39: Bot Manager: Found 121 Bot Characters
+48 entities inhibited
+0 teams repaired
+2 teams with 17 entities
+20:10:39: Nav Manager: Attempting To Load Version 6 Navigation File bots/navigation/boss1.nav
+20:10:39: Nav Manager: Loading Navigation File 'bots/navigation/boss1.nav'
+20:10:39: Nav Manager: Loading 126 Nav Nodes
+20:10:39: Nav Manager: Loading 311 Nav Links
+20:10:39: Nav Manager: Loading 18 Nav Traversals
+20:10:39: Nav Manager: Using Nav Heuristic of 0.8
+20:10:39: Nav Manager: Loading 3 Nav Edicts
+20:10:39: Nav Manager: Processing Nav Edicts...
+-------------------------------------
+Server restarted
+Server disconnected, reconnecting
+Connecting to lobby game...
+
+
+=====================================
+
+Inner Chamber
+20:10:39: R_NewMap: Initializing render data for level...
+20:10:39: R_LoadAllWals: Loading all 633 texinfos
+20:10:39: R_LoadAllWals: 20 groups allocated, 1876 dupes avoided
+20:10:40: Bot Entity Manager: Tracking 1 Players | 6 Monsters | 0 Objectives | 8 Items | 4 Dangers
+20:11:05: kexGenericSaveThread::Run: Unable to open C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\baseq2\save\quick.pak.gz for reading
+Loading game...
+==== ShutdownGame ====
+==== InitGame ====
+------- Server Initialization -------
+20:11:05: Settings Manager: Loading Bot Settings...
+20:11:05: Settings Manager: Loading Chat Settings...
+20:11:05: Settings Manager: Parsing Language Specific Chats...
+20:11:05: Settings Manager: Found 23 Chat Types
+20:11:05: Settings Manager: Found 228 Total Chats
+20:11:05: Settings Manager: Loading Weapon Settings...
+20:11:05: Settings Manager: Found 21 Weapon Settings
+20:11:05: Settings Manager: Loading Monster Settings...
+20:11:05: Settings Manager: Found 45 Monster Settings
+20:11:05: Settings Manager: Loading Item Settings...
+20:11:05: Settings Manager: Found 79 Item Settings
+20:11:05: Settings Manager: Loading Interactable Settings...
+20:11:05: Settings Manager: Found 18 Interactable Settings
+20:11:05: Settings Manager: Loading Game Settings...
+20:11:05: Settings Manager: Found 7 Game Settings
+20:11:05: Settings Manager: Loading Team Settings...
+20:11:05: Settings Manager: Found 2 Team Settings
+20:11:05: Settings Manager: Loading Danger Settings...
+20:11:05: Settings Manager: Found 9 Danger Settings
+20:11:05: Bot Manager: Loading Bot Characters...
+20:11:05: Bot Manager: Found 121 Bot Characters
+48 entities inhibited
+0 teams repaired
+2 teams with 17 entities
+20:11:05: Nav Manager: Attempting To Load Version 6 Navigation File bots/navigation/boss1.nav
+20:11:05: Nav Manager: Loading Navigation File 'bots/navigation/boss1.nav'
+20:11:05: Nav Manager: Loading 126 Nav Nodes
+20:11:05: Nav Manager: Loading 311 Nav Links
+20:11:05: Nav Manager: Loading 18 Nav Traversals
+20:11:05: Nav Manager: Using Nav Heuristic of 0.8
+20:11:05: Nav Manager: Loading 3 Nav Edicts
+20:11:05: Nav Manager: Processing Nav Edicts...
+-------------------------------------
+Server restarted
+Server disconnected, reconnecting
+Connecting to lobby game...
+
+
+=====================================
+
+Inner Chamber
+20:11:05: R_NewMap: Initializing render data for level...
+20:11:05: R_LoadAllWals: Loading all 633 texinfos
+20:11:05: R_LoadAllWals: 20 groups allocated, 1876 dupes avoided
+20:11:06: Bot Entity Manager: Tracking 1 Players | 6 Monsters | 0 Objectives | 8 Items | 4 Dangers
+Admin saw the light.
+20:11:14: kexGenericSaveThread::Run: Unable to open C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\baseq2\save\quick.pak.gz for reading
+Loading game...
+==== ShutdownGame ====
+==== InitGame ====
+------- Server Initialization -------
+20:11:15: Settings Manager: Loading Bot Settings...
+20:11:15: Settings Manager: Loading Chat Settings...
+20:11:15: Settings Manager: Parsing Language Specific Chats...
+20:11:15: Settings Manager: Found 23 Chat Types
+20:11:15: Settings Manager: Found 228 Total Chats
+20:11:15: Settings Manager: Loading Weapon Settings...
+20:11:15: Settings Manager: Found 21 Weapon Settings
+20:11:15: Settings Manager: Loading Monster Settings...
+20:11:15: Settings Manager: Found 45 Monster Settings
+20:11:15: Settings Manager: Loading Item Settings...
+20:11:15: Settings Manager: Found 79 Item Settings
+20:11:15: Settings Manager: Loading Interactable Settings...
+20:11:15: Settings Manager: Found 18 Interactable Settings
+20:11:15: Settings Manager: Loading Game Settings...
+20:11:15: Settings Manager: Found 7 Game Settings
+20:11:15: Settings Manager: Loading Team Settings...
+20:11:15: Settings Manager: Found 2 Team Settings
+20:11:15: Settings Manager: Loading Danger Settings...
+20:11:15: Settings Manager: Found 9 Danger Settings
+20:11:15: Bot Manager: Loading Bot Characters...
+20:11:15: Bot Manager: Found 121 Bot Characters
+48 entities inhibited
+0 teams repaired
+2 teams with 17 entities
+20:11:15: Nav Manager: Attempting To Load Version 6 Navigation File bots/navigation/boss1.nav
+20:11:15: Nav Manager: Loading Navigation File 'bots/navigation/boss1.nav'
+20:11:15: Nav Manager: Loading 126 Nav Nodes
+20:11:15: Nav Manager: Loading 311 Nav Links
+20:11:15: Nav Manager: Loading 18 Nav Traversals
+20:11:15: Nav Manager: Using Nav Heuristic of 0.8
+20:11:15: Nav Manager: Loading 3 Nav Edicts
+20:11:15: Nav Manager: Processing Nav Edicts...
+-------------------------------------
+Server restarted
+Server disconnected, reconnecting
+Connecting to lobby game...
+
+
+=====================================
+
+Inner Chamber
+20:11:15: R_NewMap: Initializing render data for level...
+20:11:15: R_LoadAllWals: Loading all 633 texinfos
+20:11:15: R_LoadAllWals: 20 groups allocated, 1876 dupes avoided
+20:11:15: Bot Entity Manager: Tracking 1 Players | 6 Monsters | 0 Objectives | 8 Items | 4 Dangers
+
+
+=====================================
+
+            1 more to go...
+
+
+=====================================
+
+
+
+=====================================
+
+          Sequence completed!
+
+
+=====================================
+
+G_PickTarget called with nullptr targetname
+------- Server Initialization -------
+20:11:51: Settings Manager: Loading Bot Settings...
+20:11:51: Settings Manager: Loading Chat Settings...
+20:11:51: Settings Manager: Parsing Language Specific Chats...
+20:11:51: Settings Manager: Found 23 Chat Types
+20:11:51: Settings Manager: Found 228 Total Chats
+20:11:51: Settings Manager: Loading Weapon Settings...
+20:11:51: Settings Manager: Found 21 Weapon Settings
+20:11:51: Settings Manager: Loading Monster Settings...
+20:11:51: Settings Manager: Found 45 Monster Settings
+20:11:51: Settings Manager: Loading Item Settings...
+20:11:51: Settings Manager: Found 79 Item Settings
+20:11:51: Settings Manager: Loading Interactable Settings...
+20:11:51: Settings Manager: Found 18 Interactable Settings
+20:11:51: Settings Manager: Loading Game Settings...
+20:11:51: Settings Manager: Found 7 Game Settings
+20:11:51: Settings Manager: Loading Team Settings...
+20:11:51: Settings Manager: Found 2 Team Settings
+20:11:51: Settings Manager: Loading Danger Settings...
+20:11:51: Settings Manager: Found 9 Danger Settings
+20:11:51: Bot Manager: Loading Bot Characters...
+20:11:51: Bot Manager: Found 121 Bot Characters
+28 entities inhibited
+0 teams repaired
+0 teams with 0 entities
+fixed stuck misc_insane @ -1600 -1824 -308
+fixed stuck misc_insane @ -1784 -1824 -308
+20:11:51: Nav Manager: Attempting To Load Version 6 Navigation File bots/navigation/boss2.nav
+20:11:51: Nav Manager: Loading Navigation File 'bots/navigation/boss2.nav'
+20:11:51: Nav Manager: Loading 184 Nav Nodes
+20:11:51: Nav Manager: Loading 740 Nav Links
+20:11:51: Nav Manager: Loading 16 Nav Traversals
+20:11:51: Nav Manager: Using Nav Heuristic of 0.8
+20:11:51: Nav Manager: Loading 2 Nav Edicts
+20:11:51: Nav Manager: Processing Nav Edicts...
+-------------------------------------
+20:11:51: kexGenericSaveThread::Run: Saved file C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\baseq2\save\save0.pak.gz
+
+Changing map...
+reconnecting...
+
+
+=====================================
+
+Final Showdown
+20:11:53: R_NewMap: Initializing render data for level...
+20:11:53: R_LoadAllWals: Loading all 1027 texinfos
+20:11:53: R_LoadAllWals: 25 groups allocated, 3389 dupes avoided
+20:11:53: Bot Entity Manager: Tracking 1 Players | 4 Monsters | 0 Objectives | 46 Items | 0 Dangers
+20:13:13: kexGenericSaveThread::Run: Unable to open C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\baseq2\save\quick.pak.gz for reading
+Loading game...
+==== ShutdownGame ====
+==== InitGame ====
+------- Server Initialization -------
+20:13:13: Settings Manager: Loading Bot Settings...
+20:13:13: Settings Manager: Loading Chat Settings...
+20:13:13: Settings Manager: Parsing Language Specific Chats...
+20:13:13: Settings Manager: Found 23 Chat Types
+20:13:13: Settings Manager: Found 228 Total Chats
+20:13:13: Settings Manager: Loading Weapon Settings...
+20:13:13: Settings Manager: Found 21 Weapon Settings
+20:13:13: Settings Manager: Loading Monster Settings...
+20:13:13: Settings Manager: Found 45 Monster Settings
+20:13:13: Settings Manager: Loading Item Settings...
+20:13:13: Settings Manager: Found 79 Item Settings
+20:13:13: Settings Manager: Loading Interactable Settings...
+20:13:13: Settings Manager: Found 18 Interactable Settings
+20:13:13: Settings Manager: Loading Game Settings...
+20:13:13: Settings Manager: Found 7 Game Settings
+20:13:13: Settings Manager: Loading Team Settings...
+20:13:13: Settings Manager: Found 2 Team Settings
+20:13:13: Settings Manager: Loading Danger Settings...
+20:13:13: Settings Manager: Found 9 Danger Settings
+20:13:13: Bot Manager: Loading Bot Characters...
+20:13:13: Bot Manager: Found 121 Bot Characters
+48 entities inhibited
+0 teams repaired
+2 teams with 17 entities
+20:13:13: Nav Manager: Attempting To Load Version 6 Navigation File bots/navigation/boss1.nav
+20:13:13: Nav Manager: Loading Navigation File 'bots/navigation/boss1.nav'
+20:13:13: Nav Manager: Loading 126 Nav Nodes
+20:13:13: Nav Manager: Loading 311 Nav Links
+20:13:13: Nav Manager: Loading 18 Nav Traversals
+20:13:13: Nav Manager: Using Nav Heuristic of 0.8
+20:13:13: Nav Manager: Loading 3 Nav Edicts
+20:13:13: Nav Manager: Processing Nav Edicts...
+-------------------------------------
+Server restarted
+Server disconnected, reconnecting
+Connecting to lobby game...
+
+
+=====================================
+
+Inner Chamber
+20:13:14: R_NewMap: Initializing render data for level...
+20:13:14: R_LoadAllWals: Loading all 633 texinfos
+20:13:14: R_LoadAllWals: 20 groups allocated, 1876 dupes avoided
+20:13:14: Bot Entity Manager: Tracking 1 Players | 6 Monsters | 0 Objectives | 8 Items | 4 Dangers
+
+
+=====================================
+
+            1 more to go...
+
+
+=====================================
+
+
+
+=====================================
+
+          Sequence completed!
+
+
+=====================================
+
+20:13:51: kexGenericSaveThread::Run: Unable to open C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\baseq2\save\quick.pak.gz for reading
+20:13:52: kexGenericSaveThread::Run: Saved file C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\baseq2\save\save8.pak.gz
+G_PickTarget called with nullptr targetname
+------- Server Initialization -------
+20:13:56: Settings Manager: Loading Bot Settings...
+20:13:56: Settings Manager: Loading Chat Settings...
+20:13:56: Settings Manager: Parsing Language Specific Chats...
+20:13:56: Settings Manager: Found 23 Chat Types
+20:13:56: Settings Manager: Found 228 Total Chats
+20:13:56: Settings Manager: Loading Weapon Settings...
+20:13:56: Settings Manager: Found 21 Weapon Settings
+20:13:56: Settings Manager: Loading Monster Settings...
+20:13:56: Settings Manager: Found 45 Monster Settings
+20:13:56: Settings Manager: Loading Item Settings...
+20:13:56: Settings Manager: Found 79 Item Settings
+20:13:56: Settings Manager: Loading Interactable Settings...
+20:13:56: Settings Manager: Found 18 Interactable Settings
+20:13:56: Settings Manager: Loading Game Settings...
+20:13:56: Settings Manager: Found 7 Game Settings
+20:13:56: Settings Manager: Loading Team Settings...
+20:13:56: Settings Manager: Found 2 Team Settings
+20:13:56: Settings Manager: Loading Danger Settings...
+20:13:56: Settings Manager: Found 9 Danger Settings
+20:13:56: Bot Manager: Loading Bot Characters...
+20:13:56: Bot Manager: Found 121 Bot Characters
+28 entities inhibited
+0 teams repaired
+0 teams with 0 entities
+fixed stuck misc_insane @ -1600 -1824 -308
+fixed stuck misc_insane @ -1784 -1824 -308
+20:13:56: Nav Manager: Attempting To Load Version 6 Navigation File bots/navigation/boss2.nav
+20:13:56: Nav Manager: Loading Navigation File 'bots/navigation/boss2.nav'
+20:13:56: Nav Manager: Loading 184 Nav Nodes
+20:13:56: Nav Manager: Loading 740 Nav Links
+20:13:56: Nav Manager: Loading 16 Nav Traversals
+20:13:56: Nav Manager: Using Nav Heuristic of 0.8
+20:13:56: Nav Manager: Loading 2 Nav Edicts
+20:13:56: Nav Manager: Processing Nav Edicts...
+-------------------------------------
+20:13:56: kexGenericSaveThread::Run: Saved file C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\baseq2\save\save0.pak.gz
+
+Changing map...
+reconnecting...
+
+
+=====================================
+
+Final Showdown
+20:13:58: R_NewMap: Initializing render data for level...
+20:13:58: R_LoadAllWals: Loading all 1027 texinfos
+20:13:58: R_LoadAllWals: 25 groups allocated, 3389 dupes avoided
+20:13:58: Bot Entity Manager: Tracking 1 Players | 4 Monsters | 0 Objectives | 46 Items | 0 Dangers
+20:14:27: kexGenericSaveThread::Run: Unable to open C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\baseq2\save\quick.pak.gz for reading
+20:14:28: kexGenericSaveThread::Run: Saved file C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\baseq2\save\save9.pak.gz
+20:14:29: kexGenericSaveThread::Run: Unable to open C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\baseq2\save\quick.pak.gz for reading
+
+
+=====================================
+
+          Secondary Objective:
+             Locate an open
+              escape pod.
+
+
+=====================================
+
+
+
+=====================================
+
+       Welcome to the id Gallery!
+
+
+=====================================
+
+
+
+=====================================
+
+       John Carmack - Programming
+
+
+=====================================
+
+
+
+=====================================
+
+        Donna Jackson - id Mom 
+
+
+=====================================
+
+
+
+=====================================
+
+         Adrian Carmack - Art 
+
+
+=====================================
+
+
+
+=====================================
+
+        Brian Hook - Programming
+
+
+=====================================
+
+
+
+=====================================
+
+       Christian Antkow - Design 
+
+
+=====================================
+
+
+
+=====================================
+
+         Brandon James - Design
+
+
+=====================================
+
+
+
+=====================================
+
+         Tim Willits - Design 
+
+
+=====================================
+
+
+
+=====================================
+
+        American McGee - Design 
+
+
+=====================================
+
+
+
+=====================================
+
+         Brandon James - Design
+
+
+=====================================
+
+
+
+=====================================
+
+       Christian Antkow - Design 
+
+
+=====================================
+
+
+
+=====================================
+
+       Christian Antkow - Design 
+
+
+=====================================
+
+
+
+=====================================
+
+         Tim Willits - Design 
+
+
+=====================================
+
+
+
+=====================================
+
+    Something feels off here, as if
+    it came from a different time...
+
+
+=====================================
+
+
+
+=====================================
+
+              Kevin Cloud
+            (2023 Edition!)
+            Senior Producer
+
+
+=====================================
+
+
+
+=====================================
+
+             Donna Jackson
+            (2023 edition!)
+        id Mom & Office Manager
+
+
+=====================================
+
+
+
+=====================================
+
+               Adam Pyle
+             Design Manager
+
+
+=====================================
+
+
+
+=====================================
+
+          Mike 'sponge' Rubits
+           Senior Programmer
+
+
+=====================================
+
+
+
+=====================================
+
+         John 'Maleficus' Dean
+           Lead AI Programmer
+
+
+=====================================
+
+
+
+=====================================
+
+              James Haley
+             Lead Developer
+
+
+=====================================
+
+
+
+=====================================
+
+         John 'Maleficus' Dean
+           Lead AI Programmer
+
+
+=====================================
+
+
+
+=====================================
+
+           Samuel Villarreal
+         Lead Engine Programmer
+
+
+=====================================
+
+
+
+=====================================
+
+           Edward Richardson
+            Multiplayer Lead
+
+
+=====================================
+
+
+
+=====================================
+
+             Daniel Albano
+               Developer
+
+
+=====================================
+
+
+
+=====================================
+
+            Jonatan Pöljö
+    Enhanced Models & Additional Art
+
+
+=====================================
+
+
+
+=====================================
+
+                 EricW
+          Level Compiler Tools
+
+
+=====================================
+
+
+
+=====================================
+
+            Brendan McKinney
+          Cinematic Sequences
+
+
+=====================================
+
+
+
+=====================================
+
+        Jonathan 'Paril' Barkley
+         Additional Programming
+                    
+          Life Goal: Completed
+     Thanks Cyprezz, & my bro Chris
+
+
+=====================================
+
+
+
+=====================================
+
+         Thanks to our QA Team!
+              Nancy Parson
+               Gus Newton
+         Wayne 'Wayne' Dayberry
+        Jason 'JR' Rosenberger 
+              Gabe Glover
+            Garrett Pomeroy
+              Alex Henson
+              Emily Reyna
+              Hailey Hoose
+             Jordan Becker
+             Yosef Solomon
+              Zack Bregman
+
+
+=====================================
+
+
+
+=====================================
+
+      Max Waine & Sebastian Reddi
+                    
+         Additional Programming
+
+
+=====================================
+
+
+
+=====================================
+
+         Thank you for playing.
+ Quake II will always rule the cosmos!
+
+
+=====================================
+
+
+
+=====================================
+
+      Max Waine & Sebastian Reddi
+                    
+         Additional Programming
+
+
+=====================================
+
+20:18:01: kexGenericSaveThread::Run: Unable to open C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\baseq2\save\quick.pak.gz for reading
+Loading game...
+==== ShutdownGame ====
+==== InitGame ====
+------- Server Initialization -------
+20:18:02: Settings Manager: Loading Bot Settings...
+20:18:02: Settings Manager: Loading Chat Settings...
+20:18:02: Settings Manager: Parsing Language Specific Chats...
+20:18:02: Settings Manager: Found 23 Chat Types
+20:18:02: Settings Manager: Found 228 Total Chats
+20:18:02: Settings Manager: Loading Weapon Settings...
+20:18:02: Settings Manager: Found 21 Weapon Settings
+20:18:02: Settings Manager: Loading Monster Settings...
+20:18:02: Settings Manager: Found 45 Monster Settings
+20:18:02: Settings Manager: Loading Item Settings...
+20:18:02: Settings Manager: Found 79 Item Settings
+20:18:02: Settings Manager: Loading Interactable Settings...
+20:18:02: Settings Manager: Found 18 Interactable Settings
+20:18:02: Settings Manager: Loading Game Settings...
+20:18:02: Settings Manager: Found 7 Game Settings
+20:18:02: Settings Manager: Loading Team Settings...
+20:18:02: Settings Manager: Found 2 Team Settings
+20:18:02: Settings Manager: Loading Danger Settings...
+20:18:02: Settings Manager: Found 9 Danger Settings
+20:18:02: Bot Manager: Loading Bot Characters...
+20:18:02: Bot Manager: Found 121 Bot Characters
+28 entities inhibited
+0 teams repaired
+0 teams with 0 entities
+fixed stuck misc_insane @ -1600 -1824 -308
+fixed stuck misc_insane @ -1784 -1824 -308
+20:18:02: Nav Manager: Attempting To Load Version 6 Navigation File bots/navigation/boss2.nav
+20:18:02: Nav Manager: Loading Navigation File 'bots/navigation/boss2.nav'
+20:18:02: Nav Manager: Loading 184 Nav Nodes
+20:18:02: Nav Manager: Loading 740 Nav Links
+20:18:02: Nav Manager: Loading 16 Nav Traversals
+20:18:02: Nav Manager: Using Nav Heuristic of 0.8
+20:18:02: Nav Manager: Loading 2 Nav Edicts
+20:18:02: Nav Manager: Processing Nav Edicts...
+-------------------------------------
+Server restarted
+Server disconnected, reconnecting
+Connecting to lobby game...
+
+
+=====================================
+
+Final Showdown
+20:18:02: R_NewMap: Initializing render data for level...
+20:18:02: R_LoadAllWals: Loading all 1027 texinfos
+20:18:02: R_LoadAllWals: 25 groups allocated, 3389 dupes avoided
+20:18:02: Bot Entity Manager: Tracking 1 Players | 4 Monsters | 0 Objectives | 33 Items | 0 Dangers
+
+
+=====================================
+
+          Secondary Objective:
+             Locate an open
+              escape pod.
+
+
+=====================================
+
+20:19:01: kexGenericSaveThread::Run: Unable to open C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\baseq2\save\quick.pak.gz for reading
+20:19:02: kexGenericSaveThread::Run: Saved file C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\baseq2\save\save10.pak.gz
+Compass data not available for objective.
+Compass data not available for objective.
+
+
+=====================================
+
+       Welcome to the id Gallery!
+
+
+=====================================
+
+
+
+=====================================
+
+         Tim Willits - Design 
+
+
+=====================================
+
+
+
+=====================================
+
+         Brandon James - Design
+
+
+=====================================
+
+
+
+=====================================
+
+        American McGee - Design 
+
+
+=====================================
+
+
+
+=====================================
+
+       Christian Antkow - Design 
+
+
+=====================================
+
+
+
+=====================================
+
+           Paul Steed - Art 
+
+
+=====================================
+
+
+
+=====================================
+
+       John Carmack - Programming
+
+
+=====================================
+
+
+
+=====================================
+
+    Something feels off here, as if
+    it came from a different time...
+
+
+=====================================
+
+
+
+=====================================
+
+           Edward Richardson
+            Multiplayer Lead
+
+
+=====================================
+
+
+
+=====================================
+
+      Max Waine & Sebastian Reddi
+                    
+         Additional Programming
+
+
+=====================================
+
+
+
+=====================================
+
+         Thank you for playing.
+ Quake II will always rule the cosmos!
+
+
+=====================================
+
+Server fatal crashed:Disconnected from server
+********************
+ERROR: Disconnected from server
+********************
+An ERR_DROP was thrown: Disconnected from server
+==== ShutdownGame ====
+20:20:53: kexGenericSaveThread::Run: Saved file C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\baseq2\settings.cfg
+20:20:53: kexGenericSaveThread::Run: Saved file C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\baseq2\keybinds.cfg
+20:20:53: kexGenericSaveThread::Run: Saved file C:\Users\Admin\Saved Games\Nightdive Studios\Quake II\system.cfg
+20:20:53: Shutting down job system
+20:20:53: Shutting down audio
+20:20:53: Shutting down renderer
+20:20:53: kexVKTextureView::Destroy: Removing framebuffer referenced by imageView (0x5d1c4330)
+20:20:53: kexVKTextureView::Destroy: Removing framebuffer referenced by imageView (0x5d1c3f30)
+20:20:53: kexVKTextureView::Destroy: Removing framebuffer referenced by imageView (0x5d1c5030)
+20:20:53: kexVKTextureView::Destroy: Removing framebuffer referenced by imageView (0x5d1c3730)
+20:20:53: kexVKTextureView::Destroy: Removing framebuffer referenced by imageView (0x5d1c4730)
+20:20:53: kexVKTextureView::Destroy: Removing framebuffer referenced by imageView (0x5d1c5530)
+20:20:53: kexVKTextureView::Destroy: Removing framebuffer referenced by imageView (0x91033af0)
+20:20:53: kexVKTextureView::Destroy: Removing framebuffer referenced by imageView (0x5d1c4a30)
+20:20:53: kexVKTextureView::Destroy: Removing framebuffer referenced by imageView (0x5d1c4e30)
+20:20:53: kexVKTextureView::Destroy: Removing framebuffer referenced by imageView (0x5d1c4830)
+20:20:53: kexVKTextureView::Destroy: Removing framebuffer referenced by imageView (0x91032df0)
+20:20:53: kexVKTextureView::Destroy: Removing framebuffer referenced by imageView (0x91031cf0)
+20:20:53: kexVKTextureView::Destroy: Removing framebuffer referenced by imageView (0x910333f0)
+20:20:53: kexVKTextureView::Destroy: Removing framebuffer referenced by imageView (0x5d1c4f30)
+20:20:53: kexVKTextureView::Destroy: Removing framebuffer referenced by imageView (0x5d1c5430)
+20:20:53: kexVKTextureView::Destroy: Removing framebuffer referenced by imageView (0x76661d10)
+20:20:53: kexVKTextureView::Destroy: Removing framebuffer referenced by imageView (0x5d1c4530)
+20:20:53: Shutting down file system
+20:20:53: Shutting down cvar system
+20:20:53: kexVKTextureView::Destroy: Removing framebuffer referenced by imageView (0x5d1c4930)
+20:20:53: kexVKTextureView::Destroy: Removing framebuffer referenced by imageView (0x5d1c3830)
+20:20:53: kexVKTextureView::Destroy: Removing framebuffer referenced by imageView (0x3a82e40)
+20:20:53: kexVKTextureView::Destroy: Removing framebuffer referenced by imageView (0x910340f0)
+20:20:53: kexVKTextureView::Destroy: Removing framebuffer referenced by imageView (0x3cc55e0)
+20:20:53: kexVKTextureView::Destroy: Removing framebuffer referenced by imageView (0x3a82a50)
+20:20:53: kexVKSwapChain::~kexVKSwapChain: Destroying resources...
+20:20:53: Shutting down SDL
