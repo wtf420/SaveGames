@@ -1,0 +1,17 @@
+{
+  "gid": "1836506165571134",
+  "title": "Hotfix on July 3 — 1.1.0.4",
+  "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165571134",
+  "is_external_url": true,
+  "author": "Death",
+  "contents": "Please note that deploying the update will result in a short server downtime.⠀Infantry rearm speed modifier from “Supply” ability reduced — ×0,5 → ×0,...",
+  "feedlabel": "Community Announcements",
+  "date": 1783099575,
+  "feedname": "steam_community_announcements",
+  "feed_type": 1,
+  "appid": 1604270,
+  "tags": [
+    "patchnotes"
+  ],
+  "announcement_gid": "671746950739005642"
+}

@@ -1,0 +1,1 @@
+{"Time":"2026-08-17T16:43:07.7774657Z","Level":1,"Category":40,"Message":"EOS: Login completed","Metadata":{"Method":"OnLoginCallback","Location":"EosOpenIdAuthService.cs:93","ClientVersion":"1.1.1.2","SessionId":"30983812"}}

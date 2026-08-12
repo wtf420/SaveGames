@@ -1,0 +1,20 @@
+{
+  "gid": "1840310314338978",
+  "title": "Hotfix on August 5 — 1.1.1.1",
+  "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840310314338978",
+  "is_external_url": true,
+  "author": "Death",
+  "contents": "Please note that today, August 5, at 13:30 CEST, the servers will be temporarily unavailable during the build deployment. Based on our current estimat...",
+  "feedlabel": "Community Announcements",
+  "date": 1785930032,
+  "feedname": "steam_community_announcements",
+  "feed_type": 1,
+  "appid": 1604270,
+  "tags": [
+    "patchnotes",
+    "mod_reviewed",
+    "ModAct_1294976491_1785930807_0",
+    "mod_require_rereview"
+  ],
+  "announcement_gid": "690891053318799477"
+}

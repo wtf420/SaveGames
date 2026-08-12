@@ -1,0 +1,20 @@
+{
+  "gid": "1833968530884998",
+  "title": "Version 1.1.0.2 hotfix",
+  "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530884998",
+  "is_external_url": true,
+  "author": "Sam",
+  "contents": "Hello Everyone, Dear players, today, we are releasing a small patch for the main version of the game aimed at fixing the invisible unit exploit.We app...",
+  "feedlabel": "Community Announcements",
+  "date": 1779877455,
+  "feedname": "steam_community_announcements",
+  "feed_type": 1,
+  "appid": 1604270,
+  "tags": [
+    "patchnotes",
+    "mod_reviewed",
+    "ModAct_1878895840_1779880065_0",
+    "mod_require_rereview"
+  ],
+  "announcement_gid": "712276809750675481"
+}
