@@ -1,0 +1,382 @@
+{
+	"GameVersion" : {
+		"__type" : "string",
+		"value" : "1.2.2"
+	},
+	"loadKey" : {
+		"__type" : "System.Collections.Generic.Dictionary`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],mscorlib",
+		"value" : {"1":true,"2":true,"3":true,"4":true,"5":true,"8":true,"7":true
+	}
+	},
+	"Fries" : {
+		"__type" : "int",
+		"value" : 99999
+	},
+	"Wood" : {
+		"__type" : "int",
+		"value" : 100049
+	},
+	"Book" : {
+		"__type" : "int",
+		"value" : 99999
+	},
+	"IronOre" : {
+		"__type" : "int",
+		"value" : 99999
+	},
+	"Iron" : {
+		"__type" : "int",
+		"value" : 99999
+	},
+	"Salt" : {
+		"__type" : "int",
+		"value" : 99999
+	},
+	"PaperOld" : {
+		"__type" : "int",
+		"value" : 99999
+	},
+	"Bolts" : {
+		"__type" : "int",
+		"value" : 99999
+	},
+	"Carbon" : {
+		"__type" : "int",
+		"value" : 99999
+	},
+	"GearWheel" : {
+		"__type" : "int",
+		"value" : 99999
+	},
+	"Leather" : {
+		"__type" : "int",
+		"value" : 99999
+	},
+	"SteelBeam" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"GoldBrick" : {
+		"__type" : "int",
+		"value" : 82140
+	},
+	"PrintedCircuit" : {
+		"__type" : "int",
+		"value" : 99999
+	},
+	"TechnologyPoint" : {
+		"__type" : "int",
+		"value" : 99999
+	},
+	"Donut" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"Coin" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"EntertainmentPoint" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"BuldingUpgragingSaveKey" : {
+		"__type" : "System.Collections.Generic.Dictionary`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],mscorlib",
+		"value" : {"TownManage":false,"UpgradeWoodRefining":false,"UpgradeFriesMine":false,"UpgradeResearch":false,"UpgradeSaltMake":false,"UpgradeBookMake":false,"UpgradeIronOreMining":false,"UpgradeIronMake":false,"UpgradePaperOldMake":false,"UpgradeBoltsMake":false,"UpgradeCarbonMake":false,"UpgradeGearWheelMake":false,"UpgradeLeatherMake":false,"UpgradeGoldBrickMake":false,"UpgradePrintedCircuitMake":false
+	}
+	},
+	"BuldingUpgrageValueSaveKey" : {
+		"__type" : "System.Collections.Generic.Dictionary`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],mscorlib",
+		"value" : {"TownManage":10,"UpgradeWoodRefining":10,"UpgradeFriesMine":5,"UpgradeResearch":10,"UpgradeSaltMake":10,"UpgradeBookMake":10,"UpgradeIronOreMining":10,"UpgradeIronMake":10,"UpgradePaperOldMake":10,"UpgradeBoltsMake":10,"UpgradeCarbonMake":10,"UpgradeGearWheelMake":10,"UpgradeLeatherMake":10,"UpgradeGoldBrickMake":10,"UpgradePrintedCircuitMake":10
+	}
+	},
+	"IndicatorSaveKey" : {
+		"__type" : "System.Collections.Generic.Dictionary`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],mscorlib",
+		"value" : {"RefiningMachine":true,"Lab":true,"House1":true,"Cafe":true,"SaltWorks":true,"House2":true,"Bookstore":true,"IronOreMine":true,"SteelMill":true,"House3":true,"RecyclingCenter":true,"BoltWorkshop":true,"House4":true,"House5":true,"IncineratorPlant":true,"GearWorkshop":true,"TanneryCove":true,"House6":true,"AlchemyLab":true,"Fvidia":true,"House7":true,"House8":true
+	}
+	},
+	"TechnologyDataSaveKey" : {
+		"__type" : "System.Collections.Generic.Dictionary`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],mscorlib",
+		"value" : {"Refining1":true,"Technology":true,"Neighborhood":false,"Cafe":true,"Lumbering":false,"SaltProduction":true,"BookLore":true,"MiningBasic":true,"IronSmelting":true,"Recycling":true,"PrecisionEngine":true,"WasteManagement":true,"GearCrafting":true,"LeatherProcessing":true,"Alchemy":true,"ElectronicBasics":true,"House1":true,"House2":true,"House3":true,"House4":true,"House5":true,"House6":true,"House7":true,"House8":true,"1883":true,"Bunny":true,"Idol":true,"Victory":true,"AddMaxTaffyNumberLv1":true,"AddMaxTaffyNumberLv2":true,"AddMaxTaffyNumberLv3":true,"AddMaxTaffyNumberLv4":true,"AddMaxTaffyNumberLv5":true,"AddMaxTaffyNumberLv6":true
+	}
+	},
+	"BuildBuildingValueSaveKey" : {
+		"__type" : "System.Collections.Generic.Dictionary`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],mscorlib",
+		"value" : {"FriesShop":0,"RefiningMachine":0,"LoggingArea":0,"Lab":0,"Cafe":0,"House1":0,"House2":0,"House3":0,"House4":0,"House5":0,"House6":0,"House7":0,"House8":0,"NeighborhoodManager":0,"IronOreMine":0,"Bookstore":0,"SaltWorks":0,"SteelMill":0,"RecyclingCenter":0,"BoltWorkshop":0,"IncineratorPlant":0,"GearWorkshop":0,"TanneryCove":10,"SteelFactory":0,"AlchemyLab":0,"Fvidia":0,"GroundControl":0,"TownManage":0,"UpgradeWoodRefining":0,"UpgradeFriesMine":0,"UpgradeResearch":0,"UpgradeSaltMake":0,"UpgradeBookMake":0,"UpgradeIronOreMining":0,"UpgradeIronMake":0,"UpgradePaperOldMake":0,"UpgradeBoltsMake":0,"UpgradeCarbonMake":0,"UpgradeGearWheelMake":0,"UpgradeLeatherMake":0,"UpgradeGoldBrickMake":0,"UpgradePrintedCircuitMake":0
+	}
+	},
+	"BuildLevelSaveKey" : {
+		"__type" : "System.Collections.Generic.Dictionary`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],mscorlib",
+		"value" : {"TownManage":7,"WoodRefining":5,"UpgradeWoodRefining":4,"FriesMine":5,"UpgradeFriesMine":4,"Research":6,"UpgradeResearch":5,"SaltMake":5,"UpgradeSaltMake":4,"BookMake":5,"UpgradeBookMake":4,"IronOreMining":5,"UpgradeIronOreMining":4,"IronMake":5,"UpgradeIronMake":4,"PaperOldMake":5,"UpgradePaperOldMake":4,"BoltsMake":5,"UpgradeBoltsMake":4,"CarbonMake":5,"UpgradeCarbonMake":4,"GearWheelMake":5,"UpgradeGearWheelMake":4,"LeatherMake":5,"UpgradeLeatherMake":4,"GoldBrickMake":5,"UpgradeGoldBrickMake":4,"PrintedCircuitMake":5,"UpgradePrintedCircuitMake":4
+	}
+	},
+	"BuildStateSaveKey" : {
+		"__type" : "System.Collections.Generic.Dictionary`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[BuildingState, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]],mscorlib",
+		"value" : {"FriesShop":0,"RefiningMachine":3,"LoggingArea":0,"Lab":3,"Cafe":3,"House1":3,"House2":3,"House3":3,"House4":3,"House5":3,"House6":3,"House7":3,"House8":3,"NeighborhoodManager":0,"IronOreMine":3,"Bookstore":3,"SaltWorks":3,"SteelMill":3,"RecyclingCenter":3,"BoltWorkshop":3,"IncineratorPlant":3,"GearWorkshop":3,"TanneryCove":3,"SteelFactory":0,"AlchemyLab":3,"Fvidia":3,"GroundControl":0
+	}
+	},
+	"MainMenuTaffyUnlockSaveKey" : {
+		"__type" : "System.Collections.Generic.Dictionary`2[[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],mscorlib",
+		"value" : {0:true,1:true,2:true,3:true
+	}
+	},
+	"TaffyDataSaveKey" : {
+		"__type" : "System.Collections.Generic.Dictionary`2[[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[Luzhang.Game.CharacterStatusData, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]],mscorlib",
+		"value" : {0:{
+			"id" : 0,
+			"characterPrefabType" : 0,
+			"characterName" : "",
+			"job" : 0,
+			"workEfficiency" : 2,
+			"workValueIncreasementInterval" : 1,
+			"buffEffectTime" : 1,
+			"buffMultiplier" : 0,
+			"traits" : [
+				
+			],
+			"carryWeight" : 100,
+			"maxEntertainmentValue" : 200,
+			"entertainmentValue" : 46.6500626,
+			"entertainmentValueRecoveryInterval" : 5,
+			"entertainmentValueReductionRate" : -1,
+			"minEntertainmentValueReductionRate" : -0.1,
+			"maxCarryWeight" : 300,
+			"houseNumber" : 1
+		},1:{
+			"id" : 1,
+			"characterPrefabType" : 0,
+			"characterName" : "",
+			"job" : 0,
+			"workEfficiency" : 2,
+			"workValueIncreasementInterval" : 1,
+			"buffEffectTime" : 1,
+			"buffMultiplier" : 0,
+			"traits" : [
+				
+			],
+			"carryWeight" : 100,
+			"maxEntertainmentValue" : 200,
+			"entertainmentValue" : 169.099808,
+			"entertainmentValueRecoveryInterval" : 5,
+			"entertainmentValueReductionRate" : -1,
+			"minEntertainmentValueReductionRate" : -0.1,
+			"maxCarryWeight" : 300,
+			"houseNumber" : 0
+		},2:{
+			"id" : 2,
+			"characterPrefabType" : 1,
+			"characterName" : "",
+			"job" : 0,
+			"workEfficiency" : 2,
+			"workValueIncreasementInterval" : 1,
+			"buffEffectTime" : 1,
+			"buffMultiplier" : 0,
+			"traits" : [
+				
+			],
+			"carryWeight" : 100,
+			"maxEntertainmentValue" : 200,
+			"entertainmentValue" : 106.649414,
+			"entertainmentValueRecoveryInterval" : 5,
+			"entertainmentValueReductionRate" : -1,
+			"minEntertainmentValueReductionRate" : -0.1,
+			"maxCarryWeight" : 300,
+			"houseNumber" : 2
+		},3:{
+			"id" : 3,
+			"characterPrefabType" : 1,
+			"characterName" : "",
+			"job" : 0,
+			"workEfficiency" : 2,
+			"workValueIncreasementInterval" : 1,
+			"buffEffectTime" : 1,
+			"buffMultiplier" : 0,
+			"traits" : [
+				
+			],
+			"carryWeight" : 100,
+			"maxEntertainmentValue" : 200,
+			"entertainmentValue" : 66.64994,
+			"entertainmentValueRecoveryInterval" : 5,
+			"entertainmentValueReductionRate" : -1,
+			"minEntertainmentValueReductionRate" : -0.1,
+			"maxCarryWeight" : 300,
+			"houseNumber" : 4
+		},4:{
+			"id" : 4,
+			"characterPrefabType" : 0,
+			"characterName" : "",
+			"job" : 0,
+			"workEfficiency" : 2,
+			"workValueIncreasementInterval" : 1,
+			"buffEffectTime" : 1,
+			"buffMultiplier" : 0,
+			"traits" : [
+				
+			],
+			"carryWeight" : 100,
+			"maxEntertainmentValue" : 200,
+			"entertainmentValue" : 58.64998,
+			"entertainmentValueRecoveryInterval" : 5,
+			"entertainmentValueReductionRate" : -1,
+			"minEntertainmentValueReductionRate" : -0.1,
+			"maxCarryWeight" : 300,
+			"houseNumber" : 3
+		},5:{
+			"id" : 5,
+			"characterPrefabType" : 2,
+			"characterName" : "",
+			"job" : 0,
+			"workEfficiency" : 2,
+			"workValueIncreasementInterval" : 1,
+			"buffEffectTime" : 1,
+			"buffMultiplier" : 0,
+			"traits" : [
+				
+			],
+			"carryWeight" : 100,
+			"maxEntertainmentValue" : 200,
+			"entertainmentValue" : 58.89998,
+			"entertainmentValueRecoveryInterval" : 5,
+			"entertainmentValueReductionRate" : -1,
+			"minEntertainmentValueReductionRate" : -0.1,
+			"maxCarryWeight" : 300,
+			"houseNumber" : 5
+		},6:{
+			"id" : 6,
+			"characterPrefabType" : 3,
+			"characterName" : "",
+			"job" : 0,
+			"workEfficiency" : 2,
+			"workValueIncreasementInterval" : 1,
+			"buffEffectTime" : 1,
+			"buffMultiplier" : 0,
+			"traits" : [
+				
+			],
+			"carryWeight" : 100,
+			"maxEntertainmentValue" : 200,
+			"entertainmentValue" : 44.65007,
+			"entertainmentValueRecoveryInterval" : 5,
+			"entertainmentValueReductionRate" : -1,
+			"minEntertainmentValueReductionRate" : -0.1,
+			"maxCarryWeight" : 300,
+			"houseNumber" : 6
+		},7:{
+			"id" : 7,
+			"characterPrefabType" : 3,
+			"characterName" : "",
+			"job" : 0,
+			"workEfficiency" : 2,
+			"workValueIncreasementInterval" : 1,
+			"buffEffectTime" : 1,
+			"buffMultiplier" : 0,
+			"traits" : [
+				
+			],
+			"carryWeight" : 100,
+			"maxEntertainmentValue" : 200,
+			"entertainmentValue" : 200,
+			"entertainmentValueRecoveryInterval" : 5,
+			"entertainmentValueReductionRate" : -1,
+			"minEntertainmentValueReductionRate" : -0.1,
+			"maxCarryWeight" : 300,
+			"houseNumber" : 7
+		}
+	}
+	},
+	"BuffSaveKey" : {
+		"__type" : "System.Collections.Generic.Dictionary`2[[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.Collections.Generic.List`1[[Luzhang.Manager.BuffData, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],mscorlib",
+		"value" : {0:[
+			
+		],1:[
+			
+		],2:[
+			
+		],3:[
+			
+		],4:[
+			
+		],5:[
+			
+		],6:[
+			
+		],7:[
+			{
+				"buffID" : "Coffe",
+				"name" : "喝咖啡",
+				"level" : 0,
+				"type" : 0,
+				"description" : "喝咖啡可以提神醒脑！",
+				"buffDuration" : 120,
+				"maxEntertainmentValue" : 0,
+				"entertainmentValueRecoveryInterval" : 0,
+				"entertainmentValueReductionRate" : 0.2,
+				"workEfficiency" : 0.5,
+				"buffMultiplier" : 0,
+				"carryWeight" : 5,
+				"buffStartTime" : 1488.70776,
+				"buffDurationTime" : 12.8652344
+			}
+		]
+	}
+	},
+	"CurrentTaffyType" : {
+		"__type" : "Luzhang.Game.CharacterPrefabType,Assembly-CSharp",
+		"value" : 3
+	},
+	"CurrentUFOColor" : {
+		"__type" : "int",
+		"value" : 2
+	},
+	"CurrentLightBeamColor" : {
+		"__type" : "Luzhang.Manager.UFOLightBeamColor,Assembly-CSharp",
+		"value" : 0
+	},
+	"UFOColorUnlockSaveKey" : {
+		"__type" : "System.Boolean[],mscorlib",
+		"value" : [
+		true,false,true,false,false,false,false
+	]
+	},
+	"TaffyTypeUnlockSaveKey" : {
+		"__type" : "System.Boolean[],mscorlib",
+		"value" : [
+		true,false,true,true,false
+	]
+	},
+	"LightBeamColorUnlockSaveKey" : {
+		"__type" : "System.Boolean[],mscorlib",
+		"value" : [
+		true,false,false,false,false,false,false
+	]
+	},
+	"UpgradeCountSaveKey" : {
+		"__type" : "int",
+		"value" : 3
+	},
+	"Money" : {
+		"__type" : "int",
+		"value" : 2337
+	},
+	"Humanresource" : {
+		"__type" : "int",
+		"value" : 435
+	},
+	"FuelLevel" : {
+		"__type" : "int",
+		"value" : 4
+	},
+	"PowerLevel" : {
+		"__type" : "int",
+		"value" : 4
+	},
+	"HrMultiplyLevel" : {
+		"__type" : "int",
+		"value" : 4
+	},
+	"SpeedLevel" : {
+		"__type" : "int",
+		"value" : 4
+	}
+}
