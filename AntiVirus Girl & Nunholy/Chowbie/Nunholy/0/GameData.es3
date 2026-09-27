@@ -1,0 +1,158 @@
+{
+	"BackstabCount" : {
+		"__type" : "int",
+		"value" : 799
+	},
+	"BleedCount" : {
+		"__type" : "int",
+		"value" : 223
+	},
+	"PurifyingCount" : {
+		"__type" : "int",
+		"value" : 1
+	},
+	"BurnCount" : {
+		"__type" : "int",
+		"value" : 233
+	},
+	"CriticalCount" : {
+		"__type" : "int",
+		"value" : 129
+	},
+	"EnemiesKilled" : {
+		"__type" : "int",
+		"value" : 540
+	},
+	"HitCount" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"LoseCount" : {
+		"__type" : "int",
+		"value" : 3
+	},
+	"Silver" : {
+		"__type" : "int",
+		"value" : 100
+	},
+	"Ruby" : {
+		"__type" : "int",
+		"value" : 1
+	},
+	"BloodChange" : {
+		"__type" : "int",
+		"value" : 18
+	},
+	"TradeCount" : {
+		"__type" : "int",
+		"value" : 15
+	},
+	"RoomClear" : {
+		"__type" : "int",
+		"value" : 29
+	},
+	"OreBreakCount" : {
+		"__type" : "int",
+		"value" : 20
+	},
+	"SellCount" : {
+		"__type" : "int",
+		"value" : 2
+	},
+	"UltGetCount" : {
+		"__type" : "int",
+		"value" : 3
+	},
+	"MaidAffinity" : {
+		"__type" : "int",
+		"value" : 1
+	},
+	"GiftCount" : {
+		"__type" : "int",
+		"value" : 3
+	},
+	"LuckAdd" : {
+		"__type" : "int",
+		"value" : 1
+	},
+	"MWAttackPowerAdd" : {
+		"__type" : "int",
+		"value" : 2
+	},
+	"Contribution" : {
+		"__type" : "int",
+		"value" : 520
+	},
+	"PlatinaAffinity" : {
+		"__type" : "int",
+		"value" : 2
+	},
+	"KeepsakeGetCount" : {
+		"__type" : "int",
+		"value" : 1
+	},
+	"KnightKillCount" : {
+		"__type" : "int",
+		"value" : 1
+	},
+	"BossKill" : {
+		"__type" : "int",
+		"value" : 1
+	},
+	"MerchantAffinity" : {
+		"__type" : "int",
+		"value" : 1
+	},
+	"BloodAbsorb" : {
+		"__type" : "int",
+		"value" : 5
+	},
+	"NurseAffinity" : {
+		"__type" : "int",
+		"value" : 1
+	},
+	"NunAffinity" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"CarinaAffinity" : {
+		"__type" : "int",
+		"value" : 1
+	},
+	"PREIYA_MW_Melee" : {
+		"__type" : "int",
+		"value" : 2
+	},
+	"HelenaAffinity" : {
+		"__type" : "int",
+		"value" : 1
+	},
+	"Skill" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"PREIYA_Skill_Melee" : {
+		"__type" : "int",
+		"value" : 1
+	},
+	"SubWeapon" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"PREIYA_SW_Fire" : {
+		"__type" : "int",
+		"value" : 1
+	},
+	"MainWeapon" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"LastPlayedTime" : {
+		"__type" : "string",
+		"value" : "2026.09.11 23:01"
+	},
+	"Character" : {
+		"__type" : "Character,Assembly-CSharp",
+		"value" : 0
+	}
+}

@@ -1,0 +1,4148 @@
+{
+  "PlayerData": {
+    "Transition_X": 2165.40625,
+    "Transition_Y": 163.413467,
+    "clothState": 0,
+    "JumpTimes": 1,
+    "RobeStatus": 1,
+    "EPReduceSpeed": -0.05,
+    "MP": 100.0,
+    "MP_max": 100.0,
+    "MilkAccumulation": 0.0,
+    "ParaSlot_Oral": 0,
+    "ParaSlot_BoobB": 0,
+    "ParaSlot_BoobF": 0,
+    "ParaSlot_Breast": 0,
+    "ParaSlot_Belly": 0,
+    "ParaSlot_Vaginal": 0,
+    "ParaSlot_Anal": 0,
+    "ParaState_Oral": 0,
+    "ParaState_BoobF": 0,
+    "ParaState_BoobB": 0,
+    "ParaState_Breast": 0,
+    "ParaState_Belly": 0,
+    "ParaState_Vaginal": 0,
+    "ParaState_Anal": 0,
+    "EquipState_Collar": 0,
+    "EquipState_NippleRing": 0,
+    "Equiping_NippleRingCharm": 0,
+    "Preg_State": 31,
+    "Preg_Monster": 0,
+    "PregnantTimeCount": 0,
+    "SemenSlot_Oral": false,
+    "SemenSlot_Breast": false,
+    "SemenSlot_Belly": true,
+    "SemenSlot_Vaginal": false,
+    "SemenSlot_Anal": false,
+    "SemenSlot_Legs": true,
+    "MilkSlot": false,
+    "SemenSlot_Womb": false,
+    "SemenSlot_InAnal": false,
+    "CexP_Oral": 63,
+    "Cexp_Anal": 0,
+    "Cexp_Viginal": 0,
+    "Cexp_inPoolTime": 184.314728,
+    "MilkingTimer": 0,
+    "CumTimer_Oral": 0,
+    "CumTimer_Breast": 0,
+    "CumTimer_Anal": 0,
+    "CumTimer_Vaginal": 0,
+    "LustTimer_Breast": 0,
+    "Timer_TenPantie": 0,
+    "Timer_AnalHook": 0,
+    "CurrentLevel": 29,
+    "SandHeld": 9326,
+    "playerState": 0,
+    "Vitality": 13,
+    "Endurance": 15,
+    "Strength": 25,
+    "Resistance": 15,
+    "HP_max": 673.0,
+    "SP_max": 107.0,
+    "ATK": 73,
+    "DEF": 17.0,
+    "HP": 673.0,
+    "SP": 107.0,
+    "SP_RunReduceRate": 6.0,
+    "SP_RecoverRate": 45.0,
+    "SP_ATKReduce": 4.0,
+    "SlotsMax": 10,
+    "SlotsCur": 10,
+    "IsRestraintArms": false,
+    "Lose_Virginity": false,
+    "Lose_Monster": 0,
+    "Sexp_Oral": 1,
+    "Sexp_Anal": 0,
+    "Sexp_Nipple": 18,
+    "Sexp_Birth": 0,
+    "Sexp_Viginal": 0,
+    "Sexp_Orgasm": 0,
+    "Sexp_Orgasm_Nipple": 0,
+    "Sexp_Masturbation": 0,
+    "BCPillTime": 0,
+    "SlowgrowTime": 0,
+    "RefreshedTime": 0,
+    "VagProtectTime": 0,
+    "AnodyneLV": 0,
+    "WeaponLV": 2,
+    "AnodyneNumLV": 2,
+    "ShockKernalNumLV": 2,
+    "tempIsCrawl": false,
+    "lastLanternTag": 1,
+    "ConsumedPotential": 0,
+    "IncreaseItemLimit": 0,
+    "IncreaseOrgasmBar": 0,
+    "IncreaseStamina": 0,
+    "StruggleFaster": 0,
+    "RecoverMPfromOrgasm": 0
+  },
+  "myInventory_00": {
+    "ShockKernal": 5,
+    "Anodyne": 4,
+    "RepairHolyPowder": 10,
+    "BirthControlPilula": 8,
+    "PoorMemoFragment": 5,
+    "GirlMemoFragment": 7,
+    "HomewardBell": 7,
+    "GiantMonsterMemoFragment": 2
+  },
+  "myInventory_01": {
+    "PlagueDoctorCloth": 1,
+    "VitaPantie": 1,
+    "SteamEmissionDevice": 1,
+    "ReliefShard": 1,
+    "TearsofTheGoddess": 1,
+    "IncompleteMetalForgingStone": 4
+  },
+  "myInventory_02": {
+    "PlagueDoctorMask_Broken": 1,
+    "S0208_HalfKey": 0,
+    "S0004_HalfControlStick": 0,
+    "S0112_HalfControlStick": 0,
+    "AbandonedFloorDoorKey": 1,
+    "NippleRingCharm_RhombusCrystal": 1,
+    "VrKey": 1
+  },
+  "equipInventory": [
+    3,
+    2,
+    26,
+    4
+  ],
+  "currentSelectEquipItem": 3,
+  "mySkills": {
+    "VirginProtect": true,
+    "Bodyshock": true,
+    "BladeWave": false,
+    "Masturbation": true
+  },
+  "equipSkills": [
+    1,
+    0
+  ],
+  "currentSelectSkill": 0,
+  "SceneEnemyDataDict": {
+    "S0000_CautionScene": [],
+    "S0001_Main": [],
+    "S0100_Seminary": [],
+    "S0101_SeminaryGarden": [
+      {
+        "thisStat": 0,
+        "HP": 80.0,
+        "GUID": "b5778d2d-88cc-456b-a92a-9a8a4f91e11c",
+        "sceneEnum": 3
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "",
+        "sceneEnum": 3
+      }
+    ],
+    "S0200_VillageSewer": [],
+    "S0201_VillageSewer": [
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "3ccf3330-a107-4520-a6dc-bb1e901dc97e",
+        "sceneEnum": 5
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "20222ff5-adf5-4d02-a0f3-9d6702f74e03",
+        "sceneEnum": 5
+      }
+    ],
+    "S0202_VillageSewer": [
+      {
+        "thisStat": 0,
+        "HP": 80.0,
+        "GUID": "a7e5b02d-58de-44eb-8489-e6e63dd0c9cc",
+        "sceneEnum": 6
+      },
+      {
+        "thisStat": 0,
+        "HP": 25.0,
+        "GUID": "4e583c02-0853-47b4-89d3-d3c10b87be7c",
+        "sceneEnum": 6
+      }
+    ],
+    "S0203_VillageSewer": [
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "10f9bf3e-0cc6-4320-a04b-193814fefa01",
+        "sceneEnum": 7
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "29e6aab6-d3f5-42ad-bd6b-a379b63a3dfd",
+        "sceneEnum": 7
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "0eef5852-1bc0-4563-8560-c1b11825ad1b",
+        "sceneEnum": 7
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "abab7b1f-0b7d-485d-a03a-651f0072a087",
+        "sceneEnum": 7
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "a8ce948e-ca5d-4b71-8b06-07e47c3297b2",
+        "sceneEnum": 7
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "d52e98b6-e006-4007-a1c7-372bfd672dfc",
+        "sceneEnum": 7
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "5e669a44-5b34-4b3b-95cb-7e5f6a26bece",
+        "sceneEnum": 7
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "58b7f9e0-7727-497f-b272-bdcf2a77c32b",
+        "sceneEnum": 7
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "ea9f4bee-95f7-47b6-b14e-0c680b105cee",
+        "sceneEnum": 7
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "e28d4899-c4a5-4ec1-856d-23223d700d5e",
+        "sceneEnum": 7
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "ca25d859-c2af-47c4-873a-390bdd001689",
+        "sceneEnum": 7
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "c7090b1e-4bd3-429c-ae3a-de32e8681c83",
+        "sceneEnum": 7
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "bdaaf2f9-cc5a-45db-ba6b-2e946c675a5a",
+        "sceneEnum": 7
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "af0406d5-8504-4ee3-a0a2-444c6d962a09",
+        "sceneEnum": 7
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "84ebe714-99f2-4c73-adac-f2e39af13740",
+        "sceneEnum": 7
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "d8f9fd19-9855-4494-a985-a423ebcc7b52",
+        "sceneEnum": 7
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "16cd0d36-13fd-4389-85f5-bc871689ba68",
+        "sceneEnum": 7
+      }
+    ],
+    "S0204_VillageSewer": [],
+    "S0205_VillageSewer": [
+      {
+        "thisStat": 0,
+        "HP": 80.0,
+        "GUID": "d3e99dd6-c78e-4216-8e5d-6d0937430e03",
+        "sceneEnum": 9
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "179e08ac-71c3-464b-96ea-82e15160f73f",
+        "sceneEnum": 9
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "3b6429df-8abd-4ee2-ac52-6e595132c72b",
+        "sceneEnum": 9
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "d146d6d0-fdfd-4fe8-a8d8-3130d4a4d7eb",
+        "sceneEnum": 9
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "f0cb79e7-22de-4377-9409-a0402cb48ec9",
+        "sceneEnum": 9
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "cd3dde5f-32b4-46ce-9069-22783799ded5",
+        "sceneEnum": 9
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "32f87927-375a-4fcc-a3fb-c363446aa461",
+        "sceneEnum": 9
+      }
+    ],
+    "S0206_VillageSewer": [
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "27331816-eb44-47ff-b6a7-0156cce57593",
+        "sceneEnum": 10
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "7df47d01-19d3-4b89-ab13-bec2c07840be",
+        "sceneEnum": 10
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "68f24803-270a-4de3-91aa-2c0e1d0ef708",
+        "sceneEnum": 10
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "0ef955c2-e3bb-45a4-9347-4e55592eea72",
+        "sceneEnum": 10
+      },
+      {
+        "thisStat": 0,
+        "HP": 53.0,
+        "GUID": "d6499fc2-02da-4be1-b4bb-7a0dd39b75c1",
+        "sceneEnum": 10
+      },
+      {
+        "thisStat": 0,
+        "HP": 25.0,
+        "GUID": "1d3c49e1-6d58-425c-bf84-3c31c92ec9f3",
+        "sceneEnum": 10
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "d5714cf2-d488-47be-afbb-ae0d10c7dee2",
+        "sceneEnum": 10
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "5ac9b198-ad48-4584-b315-0229080e3759",
+        "sceneEnum": 10
+      }
+    ],
+    "S0207_VillageSewer": [
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "",
+        "sceneEnum": 11
+      }
+    ],
+    "S0208_VillageSewer": [
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "f4bf8f3a-6826-4e9d-b765-1de02dda8f9c",
+        "sceneEnum": 12
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "bd8d72c3-c94c-41b1-aebe-98ce7a2d90e9",
+        "sceneEnum": 12
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "25dc202e-9133-4588-9835-8b24996c9ab3",
+        "sceneEnum": 12
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "6a5d3a42-7ab7-4996-ab75-61512aac5205",
+        "sceneEnum": 12
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "26608631-8a0c-45c4-bb66-0a1084bebee0",
+        "sceneEnum": 12
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "40fbcf01-afc6-43f4-86ba-cb10a94cc396",
+        "sceneEnum": 12
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "",
+        "sceneEnum": 12
+      }
+    ],
+    "S0209_VillageSewer": [
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "7e94464f-7083-402e-9b3c-fb299d03dc05",
+        "sceneEnum": 13
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "c860718b-eae9-43a8-9615-034a69765dce",
+        "sceneEnum": 13
+      },
+      {
+        "thisStat": 0,
+        "HP": 60.0,
+        "GUID": "2cd6112b-4898-4a1b-acd5-2d70994e7742",
+        "sceneEnum": 13
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "a0d2c057-fa86-4793-b48d-4dc2755f48b5",
+        "sceneEnum": 13
+      },
+      {
+        "thisStat": 0,
+        "HP": 25.0,
+        "GUID": "18c2c65a-1b74-4563-a488-ff950ec57474",
+        "sceneEnum": 13
+      },
+      {
+        "thisStat": 0,
+        "HP": 25.0,
+        "GUID": "9bf4ce70-2241-4450-9889-7eef5c917bf9",
+        "sceneEnum": 13
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "7466e03b-06f9-4f97-b555-368ab79bc007",
+        "sceneEnum": 13
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "",
+        "sceneEnum": 13
+      }
+    ],
+    "S0210_VillageSewerElevator": [],
+    "S0211_VillageSewer": [
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "b2ba9df3-97fa-4482-8b9a-3d813281a1d0",
+        "sceneEnum": 15
+      },
+      {
+        "thisStat": 0,
+        "HP": 25.0,
+        "GUID": "c5df10e2-922e-428b-b8c5-2f4e0d89c91a",
+        "sceneEnum": 15
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "881b67a9-d2f9-443f-975e-952e26d5e520",
+        "sceneEnum": 15
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "a46eef48-d068-425a-9ff0-989db3042928",
+        "sceneEnum": 15
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "",
+        "sceneEnum": 15
+      }
+    ],
+    "S0212_VillageSewer": [
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "a2c9f0f3-dc6d-46a7-bd10-68ccf826ee19",
+        "sceneEnum": 16
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "305c90cb-e117-476b-9db6-f543e2fa6b59",
+        "sceneEnum": 16
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "3c721771-ef22-4809-85c3-4b51093d7ff2",
+        "sceneEnum": 16
+      }
+    ],
+    "S0213_TentaclesNest": [
+      {
+        "thisStat": 0,
+        "HP": 60.0,
+        "GUID": "6780632f-0d20-4950-a800-bc05e8a1ef31",
+        "sceneEnum": 17
+      },
+      {
+        "thisStat": 0,
+        "HP": 60.0,
+        "GUID": "ba178960-a0f3-49f5-92a1-31ef5dd38a64",
+        "sceneEnum": 17
+      },
+      {
+        "thisStat": 0,
+        "HP": 120.0,
+        "GUID": "aedab68b-73fd-4df9-a0fa-9417369d1324",
+        "sceneEnum": 17
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "0e88d0cb-7ea6-4a7e-836c-c39fd53e771f",
+        "sceneEnum": 17
+      },
+      {
+        "thisStat": 0,
+        "HP": 120.0,
+        "GUID": "f593ad2a-171f-45b0-98c8-ea2ebe657b23",
+        "sceneEnum": 17
+      },
+      {
+        "thisStat": 0,
+        "HP": 120.0,
+        "GUID": "ee450f0e-305c-4f40-b439-7a1e15076c74",
+        "sceneEnum": 17
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "94829732-59a0-4863-889b-a39462f03861",
+        "sceneEnum": 17
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "68f53662-8453-41cc-bd3f-3b9a7698d4bc",
+        "sceneEnum": 17
+      },
+      {
+        "thisStat": 0,
+        "HP": 25.0,
+        "GUID": "cc2e3720-c8e4-4f09-a3b6-410d06c2ab91",
+        "sceneEnum": 17
+      },
+      {
+        "thisStat": 0,
+        "HP": 25.0,
+        "GUID": "4addfa49-09fd-43d1-9caf-50b3582f80ee",
+        "sceneEnum": 17
+      },
+      {
+        "thisStat": 0,
+        "HP": 25.0,
+        "GUID": "b64951e2-f17b-47f5-ae1a-f23ad8b80d77",
+        "sceneEnum": 17
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "",
+        "sceneEnum": 17
+      }
+    ],
+    "S9998_TrialEnd": [],
+    "S0103_VillageSewerEntrance": [],
+    "S0104_VillageWineCellar": [],
+    "S0105_VillageWineCellar": [],
+    "S0106_BlackBerryTown": [],
+    "S0107_TownShelter": [],
+    "S0108_AlchemistSpire": [],
+    "S0109_AbandonedBasement": [
+      {
+        "thisStat": 0,
+        "HP": 60.0,
+        "GUID": "97aed4da-1acf-44bb-a375-b8b75d0cf616",
+        "sceneEnum": 25
+      },
+      {
+        "thisStat": 0,
+        "HP": 80.0,
+        "GUID": "21b76c00-e34a-4e25-a269-22fef8799f65",
+        "sceneEnum": 25
+      },
+      {
+        "thisStat": 0,
+        "HP": 80.0,
+        "GUID": "aa5eda04-be65-4901-8caf-43adf43d17c7",
+        "sceneEnum": 25
+      },
+      {
+        "thisStat": 0,
+        "HP": 80.0,
+        "GUID": "e5f23d07-c2b6-4970-9cc4-00b61909cc8e",
+        "sceneEnum": 25
+      },
+      {
+        "thisStat": 0,
+        "HP": 80.0,
+        "GUID": "f6472665-47a5-4c0b-9ae0-2f62ca1c0c9e",
+        "sceneEnum": 25
+      },
+      {
+        "thisStat": 0,
+        "HP": 25.0,
+        "GUID": "42414a48-e411-4b0b-a20f-1467876885c4",
+        "sceneEnum": 25
+      },
+      {
+        "thisStat": 0,
+        "HP": 25.0,
+        "GUID": "eccbf278-83c4-42de-8890-2ebb4adedb42",
+        "sceneEnum": 25
+      },
+      {
+        "thisStat": 0,
+        "HP": 25.0,
+        "GUID": "13aa84e4-61dd-4315-b364-e148afee17a8",
+        "sceneEnum": 25
+      },
+      {
+        "thisStat": 0,
+        "HP": 25.0,
+        "GUID": "ed6ee979-530c-4860-be29-9a0fea678f90",
+        "sceneEnum": 25
+      },
+      {
+        "thisStat": 0,
+        "HP": 25.0,
+        "GUID": "3d7794aa-a993-4ee8-a803-320d0a736850",
+        "sceneEnum": 25
+      },
+      {
+        "thisStat": 0,
+        "HP": 25.0,
+        "GUID": "4da42a2c-d95f-41a0-acf9-e7c4496c4950",
+        "sceneEnum": 25
+      },
+      {
+        "thisStat": 0,
+        "HP": 25.0,
+        "GUID": "230ff948-344f-406b-b4ca-3eba81c1e6c8",
+        "sceneEnum": 25
+      },
+      {
+        "thisStat": 0,
+        "HP": 25.0,
+        "GUID": "68a859cf-08c7-4bbc-bc85-30c3110caaa3",
+        "sceneEnum": 25
+      },
+      {
+        "thisStat": 0,
+        "HP": 25.0,
+        "GUID": "4ebe3582-b50e-4b1d-aff7-01dfbd32a866",
+        "sceneEnum": 25
+      },
+      {
+        "thisStat": 0,
+        "HP": 25.0,
+        "GUID": "7e402253-5abf-4ef4-a6c6-ff033e62c4a5",
+        "sceneEnum": 25
+      },
+      {
+        "thisStat": 0,
+        "HP": 25.0,
+        "GUID": "6ed62de6-78f4-4184-92ac-cd9746df3cad",
+        "sceneEnum": 25
+      },
+      {
+        "thisStat": 0,
+        "HP": 25.0,
+        "GUID": "f53193d2-4c18-405c-9876-604b34415728",
+        "sceneEnum": 25
+      },
+      {
+        "thisStat": 0,
+        "HP": 25.0,
+        "GUID": "3054f183-971f-4dc3-8eda-5f13ce335b35",
+        "sceneEnum": 25
+      },
+      {
+        "thisStat": 0,
+        "HP": 25.0,
+        "GUID": "d632eb53-cf8b-4959-a2a0-a6c3b86dd3da",
+        "sceneEnum": 25
+      },
+      {
+        "thisStat": 0,
+        "HP": 25.0,
+        "GUID": "99b65b49-4120-435b-a384-88b2537cffc9",
+        "sceneEnum": 25
+      },
+      {
+        "thisStat": 0,
+        "HP": 25.0,
+        "GUID": "bab5d4fd-cb86-4eb7-b54a-5843ffd86423",
+        "sceneEnum": 25
+      },
+      {
+        "thisStat": 0,
+        "HP": 25.0,
+        "GUID": "b2ecba9a-2651-438b-a874-f2b736d19531",
+        "sceneEnum": 25
+      },
+      {
+        "thisStat": 0,
+        "HP": 25.0,
+        "GUID": "8ca15fb8-8e81-4c4b-9905-03e3050149ba",
+        "sceneEnum": 25
+      },
+      {
+        "thisStat": 0,
+        "HP": 25.0,
+        "GUID": "e15eb0fe-8151-422e-a34f-59354b11c762",
+        "sceneEnum": 25
+      },
+      {
+        "thisStat": 0,
+        "HP": 25.0,
+        "GUID": "1624da50-4a9c-42b0-852d-154d1e93046b",
+        "sceneEnum": 25
+      },
+      {
+        "thisStat": 0,
+        "HP": 25.0,
+        "GUID": "819e6342-a8c7-444d-af7f-0d213176f6fe",
+        "sceneEnum": 25
+      },
+      {
+        "thisStat": 0,
+        "HP": 25.0,
+        "GUID": "a65a2164-d0dc-4247-bfbb-0198b057d3ba",
+        "sceneEnum": 25
+      },
+      {
+        "thisStat": 0,
+        "HP": 25.0,
+        "GUID": "",
+        "sceneEnum": 25
+      }
+    ],
+    "S0110_AlleyofAbandonedRemains": [
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "296c6648-70b4-482c-bda2-bc9d62b2bb05",
+        "sceneEnum": 26
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "cfcd7a57-edfa-4103-b7b0-0da2c3abffce",
+        "sceneEnum": 26
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "baa651fa-aaed-4df8-a489-5a676a7b07ab",
+        "sceneEnum": 26
+      }
+    ],
+    "S0111_AlleyofAbandonedRemains": [
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "1acabd45-44cf-46f1-9986-0b878fa3eb29",
+        "sceneEnum": 27
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "fe803cb5-8ef0-460e-b534-92e96e643108",
+        "sceneEnum": 27
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "388762ed-bc42-4da6-b2c6-e28fbc4a4018",
+        "sceneEnum": 27
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "8604ce36-d9fa-46c8-ac0d-89a98231f97b",
+        "sceneEnum": 27
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "e8c99472-f80e-4df7-81cf-5579503c2912",
+        "sceneEnum": 27
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "a6f55ec4-8c09-4ffe-9163-f00ff3d9bdad",
+        "sceneEnum": 27
+      }
+    ],
+    "S0112_AlleyofAbandonedRemains": [
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "06c4610a-2933-4926-99de-20c98de33ae0",
+        "sceneEnum": 28
+      }
+    ],
+    "S0113_QuarantineZone": [
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "e7f3bc36-e4c0-4ada-aabc-3a6ab27383b5",
+        "sceneEnum": 29
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "a3126a5c-e61d-4c9d-b29b-da9bfabdd250",
+        "sceneEnum": 29
+      }
+    ],
+    "S0114_QuarantineZone": [],
+    "S0115_QuarantineZone": [
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "e756925d-88b1-4a8d-8656-279ce1b98408",
+        "sceneEnum": 31
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "8fa6d35d-76a2-41ac-95f9-7d01f954089a",
+        "sceneEnum": 31
+      }
+    ],
+    "S0116_HiddenCompartment": [],
+    "S0117_QuarantineZone": [
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "a16ffc80-2ffa-4ea6-b07e-d468d4f2703d",
+        "sceneEnum": 33
+      },
+      {
+        "thisStat": 0,
+        "HP": 20.0,
+        "GUID": "7cf1eeb5-51b8-4b90-8370-d533f681c001",
+        "sceneEnum": 33
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "9fec5c0e-4db6-4813-b094-53fabcdcd30f",
+        "sceneEnum": 33
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "c77225dc-42ef-4868-9d33-ebb0c9516b90",
+        "sceneEnum": 33
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "6b73d6c6-6685-4551-94c3-53ee34c0ff49",
+        "sceneEnum": 33
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "cada6906-1827-457e-92f3-b4899e7510bc",
+        "sceneEnum": 33
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "8a1751b6-462b-4e2d-a236-e2623b001d56",
+        "sceneEnum": 33
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "a662b074-0bd5-434e-9269-f704e96012d8",
+        "sceneEnum": 33
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "601f3ec9-7312-41b3-bc61-ca961bf51442",
+        "sceneEnum": 33
+      }
+    ],
+    "S0118_SteamHotSpring": [],
+    "S0119_PurificationRoom": [
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "69a964fb-3cb0-473b-bc4c-7c919ca541e1",
+        "sceneEnum": 35
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "4ffad7b6-5de5-4e3f-8bd2-bc51f8ff7897",
+        "sceneEnum": 35
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "e0bf9c4b-a6f6-488c-9ca2-468c543cb5ea",
+        "sceneEnum": 35
+      }
+    ],
+    "S0120_PenisWormNest": [
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "5565867a-ff6c-493f-ba12-8ebf60606ed1",
+        "sceneEnum": 36
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "df08664f-eee0-498f-a655-df327601d09a",
+        "sceneEnum": 36
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "abebc4ea-52a4-4278-8e49-0eda6eadcdc1",
+        "sceneEnum": 36
+      }
+    ],
+    "S0121_QuarantineZone": [
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "a8f9ae8e-1a16-424d-ac59-0b204256bd6a",
+        "sceneEnum": 37
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "aa6fd906-4211-48ae-8f12-99855c8819c8",
+        "sceneEnum": 37
+      }
+    ],
+    "S0122_QuarantineZone": [
+      {
+        "thisStat": 0,
+        "HP": 110.0,
+        "GUID": "7b871969-b990-4c2a-89c9-c7f894ba2fb1",
+        "sceneEnum": 38
+      },
+      {
+        "thisStat": 0,
+        "HP": 110.0,
+        "GUID": "7d448d6b-6774-401c-976e-6331e68fd77c",
+        "sceneEnum": 38
+      },
+      {
+        "thisStat": 0,
+        "HP": 110.0,
+        "GUID": "61bcf0a3-e9d9-4aeb-8071-58dc601a6cfc",
+        "sceneEnum": 38
+      },
+      {
+        "thisStat": 0,
+        "HP": 110.0,
+        "GUID": "b4a63a14-b2ae-42f2-9ec6-53dde8f683ff",
+        "sceneEnum": 38
+      },
+      {
+        "thisStat": 0,
+        "HP": 110.0,
+        "GUID": "0d13d914-5078-4315-92a9-ee9f47ce0048",
+        "sceneEnum": 38
+      },
+      {
+        "thisStat": 0,
+        "HP": 110.0,
+        "GUID": "3e65e2b0-20bf-4573-9b08-dae0d4494099",
+        "sceneEnum": 38
+      },
+      {
+        "thisStat": 0,
+        "HP": 110.0,
+        "GUID": "1a673e11-dc14-4e71-8b50-3b339d2fa631",
+        "sceneEnum": 38
+      },
+      {
+        "thisStat": 0,
+        "HP": 110.0,
+        "GUID": "29e80db2-300e-4832-8d9f-820b9a23dd97",
+        "sceneEnum": 38
+      }
+    ],
+    "S0301_QuarantineZone": [],
+    "S0302_ZinniaRoad": [
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "7cfe50e6-f8e0-4b0c-90bf-1ad24f274796",
+        "sceneEnum": 40
+      },
+      {
+        "thisStat": 0,
+        "HP": 30.0,
+        "GUID": "65247db9-df10-4bac-b911-fe5b5f427bcd",
+        "sceneEnum": 40
+      },
+      {
+        "thisStat": 0,
+        "HP": 30.0,
+        "GUID": "6e440fec-058f-48fb-8966-c25008652822",
+        "sceneEnum": 40
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "230b5371-24d4-4fc4-a23d-febc980b2bb3",
+        "sceneEnum": 40
+      },
+      {
+        "thisStat": 0,
+        "HP": 30.0,
+        "GUID": "075ef78d-3e31-426b-93ab-7bcdea22a809",
+        "sceneEnum": 40
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "6b21a9d9-2f55-4de1-97bc-c05546bcc64b",
+        "sceneEnum": 40
+      },
+      {
+        "thisStat": 0,
+        "HP": 30.0,
+        "GUID": "32d96e8b-f448-4c05-82f4-6cb44113a289",
+        "sceneEnum": 40
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "",
+        "sceneEnum": 40
+      }
+    ],
+    "S0303_RoadSideCaveRuin": [
+      {
+        "thisStat": 0,
+        "HP": 30.0,
+        "GUID": "aaef9419-eb67-4383-8b87-e5b3452356d8",
+        "sceneEnum": 41
+      },
+      {
+        "thisStat": 0,
+        "HP": 30.0,
+        "GUID": "5d90dadb-adb9-4d96-a361-11308e05bc7f",
+        "sceneEnum": 41
+      },
+      {
+        "thisStat": 0,
+        "HP": 30.0,
+        "GUID": "ebc3e6c7-d3a3-47aa-8bf9-4655694f7377",
+        "sceneEnum": 41
+      },
+      {
+        "thisStat": 0,
+        "HP": 30.0,
+        "GUID": "c1304376-a075-41d8-ace0-aeee05b40b70",
+        "sceneEnum": 41
+      },
+      {
+        "thisStat": 0,
+        "HP": 30.0,
+        "GUID": "1d16619a-7979-4b76-98f1-4e5dd1a9dafb",
+        "sceneEnum": 41
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "b6f4e0f5-292e-4409-b889-c13e312003df",
+        "sceneEnum": 41
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "d71b665d-bd6c-4ba0-93dc-9b7292e48907",
+        "sceneEnum": 41
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "",
+        "sceneEnum": 41
+      }
+    ],
+    "S0304_RoadSideCaveRuin": [
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "9702b8bb-6af8-418c-a800-baec332591b6",
+        "sceneEnum": 42
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "",
+        "sceneEnum": 42
+      }
+    ],
+    "S0305_VoretoadNest": [
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "1a093206-71e1-44a9-8caa-740e265ed468",
+        "sceneEnum": 43
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "e2eb85b6-26b0-4226-b9f4-6f51eb7f289c",
+        "sceneEnum": 43
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "5f7dc443-8e44-4c9f-96f2-abd05511c226",
+        "sceneEnum": 43
+      },
+      {
+        "thisStat": 0,
+        "HP": 30.0,
+        "GUID": "722ad571-1081-489c-8d76-93fbc639b5d6",
+        "sceneEnum": 43
+      },
+      {
+        "thisStat": 0,
+        "HP": 30.0,
+        "GUID": "e91f0910-3185-44d8-a54c-4133b0a607d0",
+        "sceneEnum": 43
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "443df3ed-ed73-4755-b6bc-8944479823b9",
+        "sceneEnum": 43
+      },
+      {
+        "thisStat": 0,
+        "HP": 30.0,
+        "GUID": "506825e0-c059-4285-84ad-7f82a3864247",
+        "sceneEnum": 43
+      },
+      {
+        "thisStat": 0,
+        "HP": 30.0,
+        "GUID": "0acae898-a553-4e11-b754-8c4807c2ab5b",
+        "sceneEnum": 43
+      },
+      {
+        "thisStat": 0,
+        "HP": 30.0,
+        "GUID": "e27417e2-537b-4a17-a68e-9fb477a9b247",
+        "sceneEnum": 43
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "68d63571-7674-4ef0-bcd6-a6c6943912b1",
+        "sceneEnum": 43
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "5de0de97-4f5f-4bbc-868c-2bffc8c03e58",
+        "sceneEnum": 43
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "",
+        "sceneEnum": 43
+      }
+    ],
+    "S9997_MentalTraining": [],
+    "S0306_ZinniaRoad": [
+      {
+        "thisStat": 0,
+        "HP": 30.0,
+        "GUID": "f6e23459-3990-4c2f-84d8-82bcd3fe6f21",
+        "sceneEnum": 45
+      },
+      {
+        "thisStat": 0,
+        "HP": 30.0,
+        "GUID": "6c7fb77b-bdc5-441a-8c28-266911810e91",
+        "sceneEnum": 45
+      },
+      {
+        "thisStat": 0,
+        "HP": 30.0,
+        "GUID": "8266ce58-b98a-4b85-987c-35e8bf4d05a8",
+        "sceneEnum": 45
+      },
+      {
+        "thisStat": 0,
+        "HP": 85.0,
+        "GUID": "7926b141-a1cf-4c83-b327-f02194eb5b31",
+        "sceneEnum": 45
+      },
+      {
+        "thisStat": 0,
+        "HP": 80.0,
+        "GUID": "2f05bdd0-9547-4097-b3b2-e3aa818e0d20",
+        "sceneEnum": 45
+      },
+      {
+        "thisStat": 0,
+        "HP": 80.0,
+        "GUID": "b91f0dff-65d4-4e99-8519-182b80c57017",
+        "sceneEnum": 45
+      },
+      {
+        "thisStat": 0,
+        "HP": 25.0,
+        "GUID": "4d6ea3a0-9753-451d-8822-814d55949c5a",
+        "sceneEnum": 45
+      },
+      {
+        "thisStat": 0,
+        "HP": 25.0,
+        "GUID": "16e8d1f5-2b97-4b11-aacb-35113ed22a12",
+        "sceneEnum": 45
+      },
+      {
+        "thisStat": 0,
+        "HP": 25.0,
+        "GUID": "899c010f-2ee4-4be0-863f-05ce6a85ce50",
+        "sceneEnum": 45
+      },
+      {
+        "thisStat": 0,
+        "HP": 25.0,
+        "GUID": "4469e18b-1152-482c-9c69-7217e8f4ee62",
+        "sceneEnum": 45
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "",
+        "sceneEnum": 45
+      }
+    ],
+    "S0307_ZinniaRoad": [
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "181743df-4e30-41ca-b1bc-e87da8cad584",
+        "sceneEnum": 46
+      }
+    ],
+    "S0308_RoadSideCaveRuin": [
+      {
+        "thisStat": 0,
+        "HP": 60.0,
+        "GUID": "ebaafc85-8aef-4ee1-959d-592a6c51ea80",
+        "sceneEnum": 47
+      },
+      {
+        "thisStat": 0,
+        "HP": 60.0,
+        "GUID": "d8491876-f5c9-480a-8677-84a2e64b3957",
+        "sceneEnum": 47
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "008e22aa-d0ff-47d2-9130-5339cefbc056",
+        "sceneEnum": 47
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "55d9329a-b0fe-47f4-bdff-4066f1a27b87",
+        "sceneEnum": 47
+      },
+      {
+        "thisStat": 0,
+        "HP": 120.0,
+        "GUID": "2289fa4b-0874-46c5-b72f-d54863cac2fa",
+        "sceneEnum": 47
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "e2457efe-bd56-4ad1-842d-81e5370dd8fd",
+        "sceneEnum": 47
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "cdecb35f-cf85-44ae-8eca-1049ac943a2a",
+        "sceneEnum": 47
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "8f5c918e-bcae-4112-8cbc-58bac60e2c80",
+        "sceneEnum": 47
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "95c33969-aace-4bed-bb68-124fa842f80b",
+        "sceneEnum": 47
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "ac47dea5-f3f9-4329-828c-089668496255",
+        "sceneEnum": 47
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "0ff7eacf-8aff-427e-8c7d-a4dce2106ee3",
+        "sceneEnum": 47
+      },
+      {
+        "thisStat": 0,
+        "HP": 80.0,
+        "GUID": "c8c93d5d-8225-45dd-b75c-6211cac66b62",
+        "sceneEnum": 47
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "3f0d3567-8874-4a0d-adb1-65ee09d5de67",
+        "sceneEnum": 47
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "884af133-49fb-47e3-9ed6-6f1a025a35c2",
+        "sceneEnum": 47
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "7f5074b0-9f8e-4979-b968-802247fd6e38",
+        "sceneEnum": 47
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "3de5c2af-14ad-49ac-a8ab-c54e0bdc3c0c",
+        "sceneEnum": 47
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "6e96729e-ebad-4f52-ba7c-36515e9bfdef",
+        "sceneEnum": 47
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "a13d1b55-7a7d-42f6-aa95-e753b0fc6df3",
+        "sceneEnum": 47
+      },
+      {
+        "thisStat": 0,
+        "HP": 25.0,
+        "GUID": "4e9b51b9-950a-429b-a159-962b0cda4c12",
+        "sceneEnum": 47
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "16998b55-6c3c-4d08-940b-10a1459262c6",
+        "sceneEnum": 47
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "36106e47-0fd8-4ddf-9c20-b5e5b57738d7",
+        "sceneEnum": 47
+      },
+      {
+        "thisStat": 0,
+        "HP": 25.0,
+        "GUID": "0262662c-a2a7-4bc1-9e63-6022a0c03dd6",
+        "sceneEnum": 47
+      },
+      {
+        "thisStat": 0,
+        "HP": 25.0,
+        "GUID": "f381bdc0-9f87-47ea-9077-a311b926f1e8",
+        "sceneEnum": 47
+      }
+    ],
+    "S0309_PenisWormNest": [],
+    "S0310_TentaclesNest": [
+      {
+        "thisStat": 0,
+        "HP": 60.0,
+        "GUID": "61e2fbb3-d6f0-497b-9da9-8aeca005ec9d",
+        "sceneEnum": 49
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "7fb3cb7a-78ac-459a-a651-dabd52bf1ab3",
+        "sceneEnum": 49
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "08ee5c3e-089b-444d-81a1-105668552b51",
+        "sceneEnum": 49
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "4622d1d1-8429-4acb-a007-32bdbc4956e2",
+        "sceneEnum": 49
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "b5db9ae9-0df4-4dc7-9d18-7f9f25b7dc5b",
+        "sceneEnum": 49
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "106d0852-f2f3-416b-93a5-893691b4926b",
+        "sceneEnum": 49
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "e4aca07b-db9e-4561-993e-5844e3d86d4c",
+        "sceneEnum": 49
+      }
+    ],
+    "S0311_RoadSideHouse": [
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "a8109295-f4f4-4941-a241-77901ac89f39",
+        "sceneEnum": 50
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "f3d2e54c-2105-43b3-a264-11d4496e7013",
+        "sceneEnum": 50
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "c0ad03a2-175c-4cca-b8dc-e913237fbcc4",
+        "sceneEnum": 50
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "4d518d95-0b15-4f36-ac22-d12fd446b5e0",
+        "sceneEnum": 50
+      }
+    ],
+    "S0312_RoadSideHouse": [
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "971f427d-3091-408c-9ae9-1373e2589100",
+        "sceneEnum": 51
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "80d354a7-eaf5-4375-8a90-1876047572eb",
+        "sceneEnum": 51
+      }
+    ],
+    "S0214_VillageSewer": [
+      {
+        "thisStat": 0,
+        "HP": 60.0,
+        "GUID": "2b1688d9-2947-4371-8482-e3542432d3a2",
+        "sceneEnum": 52
+      },
+      {
+        "thisStat": 0,
+        "HP": 60.0,
+        "GUID": "975c519b-659d-420f-9f16-6520ccd97f65",
+        "sceneEnum": 52
+      },
+      {
+        "thisStat": 0,
+        "HP": 120.0,
+        "GUID": "04f34fe4-5d19-40a5-b4e3-6d6b57774667",
+        "sceneEnum": 52
+      },
+      {
+        "thisStat": 0,
+        "HP": 120.0,
+        "GUID": "b36466ee-c512-4246-ada3-80cc0e7a8273",
+        "sceneEnum": 52
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "89c7bbe8-7563-4cf2-a949-815476c43348",
+        "sceneEnum": 52
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "56cf7776-8ee2-4b2b-a186-ba163c131c9b",
+        "sceneEnum": 52
+      },
+      {
+        "thisStat": 0,
+        "HP": 80.0,
+        "GUID": "6fcaa84c-dd6d-40b3-8a31-d96e8bc56837",
+        "sceneEnum": 52
+      },
+      {
+        "thisStat": 0,
+        "HP": 7.0,
+        "GUID": "69302137-b976-4035-8da5-b4756859ba7b",
+        "sceneEnum": 52
+      },
+      {
+        "thisStat": 0,
+        "HP": 80.0,
+        "GUID": "00eb7310-35b6-4951-9c23-f7b662a995fe",
+        "sceneEnum": 52
+      },
+      {
+        "thisStat": 0,
+        "HP": 25.0,
+        "GUID": "bfd434e7-16c9-4978-85c3-0f64eadc0353",
+        "sceneEnum": 52
+      },
+      {
+        "thisStat": 0,
+        "HP": 25.0,
+        "GUID": "a849dba1-2f24-4402-8ae9-864f0e3dbca6",
+        "sceneEnum": 52
+      },
+      {
+        "thisStat": 0,
+        "HP": 25.0,
+        "GUID": "23db2bd6-6af5-4391-b305-4a7593ca26a8",
+        "sceneEnum": 52
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "2b0610bf-e72c-4a74-9943-da43172e5c79",
+        "sceneEnum": 52
+      },
+      {
+        "thisStat": 0,
+        "HP": 25.0,
+        "GUID": "256c9c70-01fa-4bea-b2ae-7341d3e8ab6f",
+        "sceneEnum": 52
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "4a5e35a4-4515-44c6-97ef-c5dda392e3d7",
+        "sceneEnum": 52
+      },
+      {
+        "thisStat": 0,
+        "HP": 25.0,
+        "GUID": "711f704a-819f-4119-979a-30ae16975d0c",
+        "sceneEnum": 52
+      },
+      {
+        "thisStat": 0,
+        "HP": 25.0,
+        "GUID": "dce6365e-38ce-480e-82d6-33e2298da4de",
+        "sceneEnum": 52
+      },
+      {
+        "thisStat": 0,
+        "HP": 25.0,
+        "GUID": "14495007-5296-42c0-963b-188e46bd1423",
+        "sceneEnum": 52
+      },
+      {
+        "thisStat": 0,
+        "HP": 25.0,
+        "GUID": "162bc06b-1fc4-425d-af95-93e34c991b2e",
+        "sceneEnum": 52
+      },
+      {
+        "thisStat": 0,
+        "HP": 25.0,
+        "GUID": "00fd8089-a76a-482b-a8db-4aaec3f40838",
+        "sceneEnum": 52
+      },
+      {
+        "thisStat": 0,
+        "HP": 25.0,
+        "GUID": "2f91797c-898a-4418-98c6-d03891441807",
+        "sceneEnum": 52
+      },
+      {
+        "thisStat": 0,
+        "HP": 25.0,
+        "GUID": "",
+        "sceneEnum": 52
+      }
+    ],
+    "S0401_DarkTunnel": [
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "2826faf7-b795-434d-b4c3-9883013aa5b7",
+        "sceneEnum": 53
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "38de1e81-cf7a-4b9d-ac93-cf54347ea584",
+        "sceneEnum": 53
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "b291bdcb-a26c-4622-82af-10f5c9a998c0",
+        "sceneEnum": 53
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "b6633fe2-5329-4413-ba6e-5ddcecbea5f3",
+        "sceneEnum": 53
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "c75ec7df-d16b-496a-8133-4fd65d759a07",
+        "sceneEnum": 53
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "49743e89-db00-40da-aabe-9accb3454756",
+        "sceneEnum": 53
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "851eb4a9-7381-4ea2-91b0-7a3a082d9b19",
+        "sceneEnum": 53
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "89555335-1d6b-4d3f-9b76-93835e3d9f9e",
+        "sceneEnum": 53
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "7a2273b9-99e3-4830-9458-7e9a2c46bdb7",
+        "sceneEnum": 53
+      },
+      {
+        "thisStat": 0,
+        "HP": 120.0,
+        "GUID": "",
+        "sceneEnum": 53
+      }
+    ],
+    "S0402_CrawlingColzaNest": [
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "",
+        "sceneEnum": 54
+      }
+    ],
+    "S0403_DarkTunnel": [
+      {
+        "thisStat": 0,
+        "HP": 120.0,
+        "GUID": "155c7f8e-cfbb-4b6c-9191-a33a44f3e466",
+        "sceneEnum": 55
+      },
+      {
+        "thisStat": 0,
+        "HP": 120.0,
+        "GUID": "33cbafbe-29d9-4487-88b9-91d9ff013d0f",
+        "sceneEnum": 55
+      },
+      {
+        "thisStat": 0,
+        "HP": 120.0,
+        "GUID": "685340c7-b064-4a65-9caf-71f857c5edb8",
+        "sceneEnum": 55
+      }
+    ],
+    "S0404_DarkTunnel": [
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "cddd0af0-8099-462e-8158-e84ab85fa35c",
+        "sceneEnum": 56
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "8b4893db-5648-4efe-a2ce-beec8e577970",
+        "sceneEnum": 56
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "a214fe3d-828b-4ede-b276-de2aac776a84",
+        "sceneEnum": 56
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "f7632ccc-de92-4260-8cf7-834e37bd7eb5",
+        "sceneEnum": 56
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "c42da88c-31d0-4529-a16b-eb317fa96d64",
+        "sceneEnum": 56
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "10a8ece7-63c5-4e6a-8c03-0335653adcbd",
+        "sceneEnum": 56
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "585dca9d-38f4-4068-b207-0ff42437430d",
+        "sceneEnum": 56
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "d055285b-ccb9-4926-beaa-fc0e707081c7",
+        "sceneEnum": 56
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "287ac1b5-e8d1-471e-b5c3-c6a951ced398",
+        "sceneEnum": 56
+      },
+      {
+        "thisStat": 0,
+        "HP": 120.0,
+        "GUID": "",
+        "sceneEnum": 56
+      }
+    ],
+    "S0405_DarkTunnel": [],
+    "S0406_DarkTunnel": [
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "edb6f8bb-ca58-4959-9d38-9d6cb3fa68f6",
+        "sceneEnum": 58
+      },
+      {
+        "thisStat": 0,
+        "HP": 120.0,
+        "GUID": "",
+        "sceneEnum": 58
+      }
+    ],
+    "S0407_DarkTunnel": [],
+    "S0408_PlagueFlowerBed": [
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "",
+        "sceneEnum": 60
+      }
+    ],
+    "S0501_CampofthePilgrimsofPeace": [
+      {
+        "thisStat": 0,
+        "HP": 240.0,
+        "GUID": "463f8fd9-20a5-473f-8198-56b80fb07f58",
+        "sceneEnum": 61
+      }
+    ],
+    "S0502_CampofthePilgrimsofPeace": [
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "eed4aa6a-05c8-4b2f-9229-387e7232bc4c",
+        "sceneEnum": 62
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "65102704-b049-4e45-92b4-2e5364b589b0",
+        "sceneEnum": 62
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "e64991f7-b286-44d0-bb0b-0ac09b6cace4",
+        "sceneEnum": 62
+      }
+    ],
+    "S0503_CampofthePilgrimsofPeace": [
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "f9bda8a6-a123-456c-9929-087d282ad5df",
+        "sceneEnum": 63
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "ceec90df-14ab-41f0-9fc8-8a8acef1f26f",
+        "sceneEnum": 63
+      }
+    ],
+    "S0504_CampofthePilgrimsofPeace": [],
+    "S0505_CampofthePilgrimsofPeace": [],
+    "S0506_CampofthePilgrimsofPeace": [],
+    "S0507_CampofthePilgrimsofPeace": [
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "55168b22-aafb-4bdc-899e-3ca33a4a8bab",
+        "sceneEnum": 67
+      }
+    ],
+    "S0508_CampofthePilgrimsofPeace": [],
+    "S0509_CampofthePilgrimsofPeace": [],
+    "S0510_CampofthePilgrimsofPeace": [
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "ce0cb59f-fa91-4d23-88d2-daef69e72f66",
+        "sceneEnum": 70
+      }
+    ],
+    "S0511_CampofthePilgrimsofPeace": [
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "c43aeb64-c0ba-48e9-beae-86dca1faa4e0",
+        "sceneEnum": 71
+      }
+    ],
+    "S0512_UndergroundPrison": [
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "1cf034f3-67c3-47fe-bfcd-062b1ecd1a86",
+        "sceneEnum": 72
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "62fcd1dc-65f3-48be-91ef-55a59813bddb",
+        "sceneEnum": 72
+      }
+    ],
+    "S0513_DirtySewer": [
+      {
+        "thisStat": 0,
+        "HP": 120.0,
+        "GUID": "e998b628-660b-4967-b82a-2fcc04aff3fa",
+        "sceneEnum": 73
+      },
+      {
+        "thisStat": 0,
+        "HP": 120.0,
+        "GUID": "f32dbc1c-f82d-4257-917b-e14f4b3cc2f7",
+        "sceneEnum": 73
+      },
+      {
+        "thisStat": 0,
+        "HP": 120.0,
+        "GUID": "1f2be11d-3920-40b4-bf4a-ef9c17995ef5",
+        "sceneEnum": 73
+      },
+      {
+        "thisStat": 0,
+        "HP": 120.0,
+        "GUID": "23cb1c8e-e0cf-4227-86a1-02a6e755ca26",
+        "sceneEnum": 73
+      }
+    ],
+    "S0514_CampofthePilgrimsofPeace": [
+      {
+        "thisStat": 0,
+        "HP": 240.0,
+        "GUID": "c8d52261-4fcc-4a64-9fcc-a241d5b34b1e",
+        "sceneEnum": 74
+      },
+      {
+        "thisStat": 0,
+        "HP": 240.0,
+        "GUID": "deda1dae-ec1b-4b3b-85b7-df39732f2c5e",
+        "sceneEnum": 74
+      }
+    ],
+    "S0515_CampofthePilgrimsofPeace": [
+      {
+        "thisStat": 0,
+        "HP": 240.0,
+        "GUID": "cedaea6c-bfec-47fc-b339-3d3e71ea21ad",
+        "sceneEnum": 75
+      },
+      {
+        "thisStat": 0,
+        "HP": 240.0,
+        "GUID": "08370687-2562-4e98-a9dd-455eadd69a46",
+        "sceneEnum": 75
+      },
+      {
+        "thisStat": 0,
+        "HP": 240.0,
+        "GUID": "4eb51391-9e32-439a-9c4e-347679dbf94a",
+        "sceneEnum": 75
+      },
+      {
+        "thisStat": 0,
+        "HP": 240.0,
+        "GUID": "fab11dae-a7eb-49d4-ba5c-0ee99db8a761",
+        "sceneEnum": 75
+      }
+    ],
+    "S0516_CampofthePilgrimsofPeace": [],
+    "S0517_CampofthePilgrimsofPeace": [],
+    "S0518_CampofthePilgrimsofPeace": [],
+    "S0519_BanditToilets": [],
+    "S0520_DirtySewer": [
+      {
+        "thisStat": 0,
+        "HP": 120.0,
+        "GUID": "e5fa603f-a828-4dc5-a30c-55122acab676",
+        "sceneEnum": 80
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "5151646a-8d16-4aa6-9c68-f485d5a1cb04",
+        "sceneEnum": 80
+      },
+      {
+        "thisStat": 0,
+        "HP": 120.0,
+        "GUID": "9e9db157-09ba-4f6a-9f0b-e28f7d4637d0",
+        "sceneEnum": 80
+      },
+      {
+        "thisStat": 0,
+        "HP": 120.0,
+        "GUID": "8eb2608a-d634-4b54-8c5c-508741eaf0f9",
+        "sceneEnum": 80
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "b5523c92-a356-4bf4-b0ea-5e7f8ab60239",
+        "sceneEnum": 80
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "ff55aeab-6633-47af-bb77-9b26b690ec07",
+        "sceneEnum": 80
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "",
+        "sceneEnum": 80
+      }
+    ],
+    "S0521_CrawlingColzaNest": [
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "e610eea6-0f5c-44b3-aad7-ff03110a57cb",
+        "sceneEnum": 81
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "e80bb456-9ba1-4934-b5fb-66704ac4ef1e",
+        "sceneEnum": 81
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "abca233e-021a-4828-a248-6d48d71e8b87",
+        "sceneEnum": 81
+      },
+      {
+        "thisStat": 0,
+        "HP": 120.0,
+        "GUID": "43971364-4589-42da-9f33-06ec419c3754",
+        "sceneEnum": 81
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "277f1d08-d12d-45bf-a5a2-bcd8a67b4ed7",
+        "sceneEnum": 81
+      },
+      {
+        "thisStat": 0,
+        "HP": 120.0,
+        "GUID": "e59085bb-4f9a-4a89-ab7c-cde310cb21bc",
+        "sceneEnum": 81
+      },
+      {
+        "thisStat": 0,
+        "HP": 120.0,
+        "GUID": "eec7df30-b8d1-4588-9e63-14aa031a42b0",
+        "sceneEnum": 81
+      },
+      {
+        "thisStat": 0,
+        "HP": 0.0,
+        "GUID": "",
+        "sceneEnum": 81
+      }
+    ],
+    "S0522_CampofthePilgrimsofPeace": [],
+    "S0523_ChurchRuin": [
+      {
+        "thisStat": 0,
+        "HP": 40.0,
+        "GUID": "6eee663f-356b-449d-89f5-3dc9e87ba8c1",
+        "sceneEnum": 83
+      }
+    ],
+    "S0524_ChurchBasement": [],
+    "S0525_ThePeasantpath": [],
+    "S0601_TheAbandonedFairegrounds": [
+      {
+        "thisStat": 0,
+        "HP": 200.0,
+        "GUID": "18f68467-d7ee-4eed-a674-7a3e33240d42",
+        "sceneEnum": 86
+      },
+      {
+        "thisStat": 0,
+        "HP": 200.0,
+        "GUID": "86f632f7-3441-41f2-8cf6-57182b0565c9",
+        "sceneEnum": 86
+      },
+      {
+        "thisStat": 0,
+        "HP": 200.0,
+        "GUID": "08cf0fb3-6e19-4fe0-8c11-b871bd10b34e",
+        "sceneEnum": 86
+      },
+      {
+        "thisStat": 0,
+        "HP": 200.0,
+        "GUID": "79c50050-3c1a-4c60-b985-95ef45bfe556",
+        "sceneEnum": 86
+      },
+      {
+        "thisStat": 0,
+        "HP": 200.0,
+        "GUID": "9bfd9063-ff7a-455e-9413-644dd74d532e",
+        "sceneEnum": 86
+      },
+      {
+        "thisStat": 0,
+        "HP": 200.0,
+        "GUID": "53ddb6ff-5974-4c6d-9a59-d3638dc0bdf6",
+        "sceneEnum": 86
+      },
+      {
+        "thisStat": 0,
+        "HP": 200.0,
+        "GUID": "4d4b97c3-d789-4ede-b6c8-61a8630e221a",
+        "sceneEnum": 86
+      },
+      {
+        "thisStat": 0,
+        "HP": 200.0,
+        "GUID": "223f9c09-13df-400d-a7b4-d34d143a29c4",
+        "sceneEnum": 86
+      },
+      {
+        "thisStat": 0,
+        "HP": 120.0,
+        "GUID": "70d2f939-db12-42d7-9022-7287161d3e75",
+        "sceneEnum": 86
+      },
+      {
+        "thisStat": 0,
+        "HP": 120.0,
+        "GUID": "425022e1-4c2a-4794-ad96-bf12a91fbe1e",
+        "sceneEnum": 86
+      }
+    ],
+    "S0602_FlyNest": [],
+    "S0603_TheAbandonedFairegrounds": []
+  },
+  "InParasiteEnemyGUID": [],
+  "SceneObjectDataDict": {
+    "S0000_CautionScene": [],
+    "S0001_Main": [],
+    "S0100_Seminary": [],
+    "S0101_SeminaryGarden": [
+      {
+        "objectState": 3,
+        "GUID": "b937ba11-58cf-47f5-ad76-96d84b9deff7"
+      },
+      {
+        "objectState": 3,
+        "GUID": "c678a35c-b919-421a-a4fa-416a4fab7622"
+      },
+      {
+        "objectState": 0,
+        "GUID": ""
+      }
+    ],
+    "S0200_VillageSewer": [
+      {
+        "objectState": 0,
+        "GUID": "bb669c9e-b567-44b7-aa61-bc3e1af1cf92"
+      },
+      {
+        "objectState": 3,
+        "GUID": "8cbae991-ff40-4d5a-86ee-c5924bcdba83"
+      },
+      {
+        "objectState": 3,
+        "GUID": "2e55ca4f-6cba-4734-bcd1-dec5724e0053"
+      },
+      {
+        "objectState": 0,
+        "GUID": "48b862aa-ecd9-4ab0-be6f-ff8a96760d32"
+      },
+      {
+        "objectState": 0,
+        "GUID": "d88a4a12-8006-4292-b247-3edf770d2704"
+      },
+      {
+        "objectState": 3,
+        "GUID": "421d9298-c51a-4181-838e-99a28a886831"
+      },
+      {
+        "objectState": 3,
+        "GUID": "e5265202-cd06-4682-ab86-3340174300e4"
+      }
+    ],
+    "S0201_VillageSewer": [
+      {
+        "objectState": 0,
+        "GUID": "bb669c9e-b567-44b7-aa61-bc3e1af1cf92"
+      },
+      {
+        "objectState": 0,
+        "GUID": "62b1a444-07a0-4afe-97f4-161d65e05242"
+      },
+      {
+        "objectState": 0,
+        "GUID": "db0ba342-ec47-4e00-ac2d-b9a7bd4690cd"
+      },
+      {
+        "objectState": 0,
+        "GUID": "76fa4f36-6ee6-4e07-b7b2-357c473bb5e5"
+      },
+      {
+        "objectState": 3,
+        "GUID": "a4bea4dc-3102-4b30-b3a2-a0c9378eaddd"
+      },
+      {
+        "objectState": 0,
+        "GUID": "11ae139f-207c-4419-8a92-ddfde680d8af"
+      },
+      {
+        "objectState": 0,
+        "GUID": "0391bd1d-45a4-4861-bfc8-be5dba8a3003"
+      }
+    ],
+    "S0202_VillageSewer": [
+      {
+        "objectState": 3,
+        "GUID": "533d6609-3d46-4606-98b9-32973627da6e"
+      },
+      {
+        "objectState": 5,
+        "GUID": "67607b08-7efb-47c4-a502-3cf7f05a4f5d"
+      },
+      {
+        "objectState": 0,
+        "GUID": "cd9e3eff-ae95-4b5d-8af5-c6e85bb995ec"
+      },
+      {
+        "objectState": 0,
+        "GUID": "866312c0-55a9-43ea-a554-c4fa018feb49"
+      },
+      {
+        "objectState": 0,
+        "GUID": "4e7e27fa-d0dc-4ee1-8e0a-0f48aed84d63"
+      },
+      {
+        "objectState": 0,
+        "GUID": "48b862aa-ecd9-4ab0-be6f-ff8a96760d32"
+      },
+      {
+        "objectState": 0,
+        "GUID": "f668ce6a-9526-424b-a7ff-775005c7b2fd"
+      },
+      {
+        "objectState": 0,
+        "GUID": "fac43c01-72ee-46ca-b72d-356cf0143f6a"
+      },
+      {
+        "objectState": 0,
+        "GUID": "56925254-c481-4023-b56e-93bb3b717eba"
+      },
+      {
+        "objectState": 3,
+        "GUID": "36510567-609d-4f52-bb54-6fff60a3786d"
+      },
+      {
+        "objectState": 3,
+        "GUID": "bd475a3c-fbb0-44ec-8fea-24ef96f1df93"
+      },
+      {
+        "objectState": 3,
+        "GUID": "2f2da6f2-3067-4b1e-809f-4771f16e1db0"
+      }
+    ],
+    "S0203_VillageSewer": [
+      {
+        "objectState": 3,
+        "GUID": "63c9a73b-0d1a-453c-83ca-e21673f8f4f9"
+      },
+      {
+        "objectState": 3,
+        "GUID": "589fa104-d51f-4a20-9b74-59a4a64d2462"
+      },
+      {
+        "objectState": 0,
+        "GUID": "0391bd1d-45a4-4861-bfc8-be5dba8a3003"
+      },
+      {
+        "objectState": 0,
+        "GUID": "792cf5a5-60e1-4250-b096-6845bb4ab84c"
+      }
+    ],
+    "S0204_VillageSewer": [],
+    "S0205_VillageSewer": [
+      {
+        "objectState": 3,
+        "GUID": "0e815912-0321-4667-8fab-491846aa11c5"
+      },
+      {
+        "objectState": 3,
+        "GUID": "76e5bf63-4617-4b6b-81f3-4bee481af93d"
+      },
+      {
+        "objectState": 0,
+        "GUID": "863584cf-97e1-49e7-9dc5-9af1c22b03bf"
+      },
+      {
+        "objectState": 0,
+        "GUID": "48b862aa-ecd9-4ab0-be6f-ff8a96760d32"
+      }
+    ],
+    "S0206_VillageSewer": [
+      {
+        "objectState": 3,
+        "GUID": "0a2b0792-fdbe-4e80-bbcc-a642101fab48"
+      },
+      {
+        "objectState": 0,
+        "GUID": "11ae139f-207c-4419-8a92-ddfde680d8af"
+      },
+      {
+        "objectState": 0,
+        "GUID": "792cf5a5-60e1-4250-b096-6845bb4ab84c"
+      }
+    ],
+    "S0207_VillageSewer": [
+      {
+        "objectState": 3,
+        "GUID": "b402287f-fd36-4664-9070-0764cd4bcc17"
+      },
+      {
+        "objectState": 3,
+        "GUID": "9621a114-326a-4453-9d76-8e6343b9224b"
+      },
+      {
+        "objectState": 0,
+        "GUID": "11ae139f-207c-4419-8a92-ddfde680d8af"
+      },
+      {
+        "objectState": 0,
+        "GUID": "fac43c01-72ee-46ca-b72d-356cf0143f6a"
+      }
+    ],
+    "S0208_VillageSewer": [
+      {
+        "objectState": 7,
+        "GUID": "52d3cbc1-edcc-4ddd-9449-7a61eb488e4a"
+      },
+      {
+        "objectState": 3,
+        "GUID": "0f0339b3-37a1-405e-aa69-97804003699a"
+      },
+      {
+        "objectState": 3,
+        "GUID": "09a0ae80-8c05-481e-9c6f-976bb748c923"
+      },
+      {
+        "objectState": 0,
+        "GUID": "35d12ae7-da64-4963-836c-002398448d14"
+      },
+      {
+        "objectState": 0,
+        "GUID": "b85fa899-3778-427d-b3cc-ef9fa2d26740"
+      },
+      {
+        "objectState": 0,
+        "GUID": "082eb109-0b48-407b-98a1-db904db04298"
+      },
+      {
+        "objectState": 0,
+        "GUID": "bd99f421-52fc-4077-86e3-2a74248f2d5b"
+      },
+      {
+        "objectState": 0,
+        "GUID": "37800d2b-6f30-45ae-b579-a978ba00134e"
+      }
+    ],
+    "S0209_VillageSewer": [
+      {
+        "objectState": 3,
+        "GUID": "cea9f0e8-ebdf-4f01-a0c1-21fe74c4e478"
+      },
+      {
+        "objectState": 5,
+        "GUID": "cfb0bf7e-c517-4dab-9947-5d77384c78f1"
+      },
+      {
+        "objectState": 0,
+        "GUID": "9beeb7fa-c189-4f9b-be1f-f644ad7d74e3"
+      },
+      {
+        "objectState": 0,
+        "GUID": "fac43c01-72ee-46ca-b72d-356cf0143f6a"
+      },
+      {
+        "objectState": 0,
+        "GUID": "4e7e27fa-d0dc-4ee1-8e0a-0f48aed84d63"
+      },
+      {
+        "objectState": 3,
+        "GUID": "127873e5-eda5-45e3-b0b7-fb3562ba423f"
+      }
+    ],
+    "S0210_VillageSewerElevator": [
+      {
+        "objectState": 3,
+        "GUID": "b23e5abf-fdd6-450f-82f2-933934ac1cd6"
+      },
+      {
+        "objectState": 0,
+        "GUID": "4e7e27fa-d0dc-4ee1-8e0a-0f48aed84d63"
+      },
+      {
+        "objectState": 0,
+        "GUID": "d47c670a-210c-471f-89f0-be1f271e797e"
+      },
+      {
+        "objectState": 4,
+        "GUID": "6b09839b-5c38-4fd0-a51b-ad5d8ecd5d99"
+      }
+    ],
+    "S0211_VillageSewer": [
+      {
+        "objectState": 3,
+        "GUID": "02b9a3ab-8612-4d9a-88e1-df007eb6cfa3"
+      },
+      {
+        "objectState": 0,
+        "GUID": "4e7e27fa-d0dc-4ee1-8e0a-0f48aed84d63"
+      }
+    ],
+    "S0212_VillageSewer": [
+      {
+        "objectState": 3,
+        "GUID": "3201884f-4ec5-4c1b-86db-5ceb119c6a5b"
+      },
+      {
+        "objectState": 0,
+        "GUID": "4e7e27fa-d0dc-4ee1-8e0a-0f48aed84d63"
+      }
+    ],
+    "S0213_TentaclesNest": [
+      {
+        "objectState": 3,
+        "GUID": "ffbfa43a-f9d6-46a4-be6a-291a5178fad3"
+      },
+      {
+        "objectState": 0,
+        "GUID": "4e7e27fa-d0dc-4ee1-8e0a-0f48aed84d63"
+      }
+    ],
+    "S9998_TrialEnd": [],
+    "S0103_VillageSewerEntrance": [
+      {
+        "objectState": 0,
+        "GUID": "b19a9bff-df53-4483-b635-dd5bdb218520"
+      },
+      {
+        "objectState": 0,
+        "GUID": "c4634b3c-cf2c-46d0-b63c-626c53811fd6"
+      }
+    ],
+    "S0104_VillageWineCellar": [
+      {
+        "objectState": 7,
+        "GUID": "dd5f953a-e9a2-4859-8448-834963e08a91"
+      },
+      {
+        "objectState": 0,
+        "GUID": "b1cc19e5-5587-4e95-ad6f-5598f86fceb4"
+      },
+      {
+        "objectState": 0,
+        "GUID": "cbd5bd4f-5658-41b0-9f0f-06920e56f001"
+      },
+      {
+        "objectState": 0,
+        "GUID": "7dd269b7-0f7f-4a01-84fa-6ff4d38272cf"
+      },
+      {
+        "objectState": 10,
+        "GUID": "51b4cbf6-81ac-4cf6-9bf5-c250b224d3e8"
+      }
+    ],
+    "S0105_VillageWineCellar": [
+      {
+        "objectState": 3,
+        "GUID": "808771b6-a08f-4b15-870f-637515f432b4"
+      },
+      {
+        "objectState": 3,
+        "GUID": "afe9e03f-68ff-4c53-a666-21765e8ef7b9"
+      },
+      {
+        "objectState": 0,
+        "GUID": "8afba60f-12e7-4e52-abe1-e4fe25d07ac5"
+      }
+    ],
+    "S0106_BlackBerryTown": [
+      {
+        "objectState": 3,
+        "GUID": "80002237-9cde-4755-b6df-315ed79b5372"
+      },
+      {
+        "objectState": 3,
+        "GUID": "3187f86a-21ec-4e3a-bed5-de8d5687bd7f"
+      },
+      {
+        "objectState": 3,
+        "GUID": "7c406191-1df5-4660-b5ca-89e69cf1bb1d"
+      },
+      {
+        "objectState": 3,
+        "GUID": "75d2b5c6-0a4b-4ce7-b03b-4367ef3cb035"
+      },
+      {
+        "objectState": 3,
+        "GUID": "0a1ea3ae-560a-4391-8d8f-c49eadd79c87"
+      },
+      {
+        "objectState": 3,
+        "GUID": "405ea330-125a-418b-b1d0-c79850396c16"
+      },
+      {
+        "objectState": 0,
+        "GUID": "a27bb87c-3efd-46b0-a1eb-61e016d78759"
+      },
+      {
+        "objectState": 0,
+        "GUID": "5ee6912e-6eda-484c-b170-6f076b1f3f57"
+      },
+      {
+        "objectState": 0,
+        "GUID": "7f50d611-ad37-4a26-9dc0-a399295cea44"
+      },
+      {
+        "objectState": 0,
+        "GUID": "705c00f1-576f-4e24-b5a2-bb40897d77ec"
+      },
+      {
+        "objectState": 0,
+        "GUID": "31898900-0002-4e44-b1bf-6541c6ce43f4"
+      },
+      {
+        "objectState": 0,
+        "GUID": "8e698901-f3ac-408f-98ac-f761b6df0771"
+      },
+      {
+        "objectState": 0,
+        "GUID": "c735ba48-65aa-4fdf-a467-d9bce67f0f67"
+      },
+      {
+        "objectState": 0,
+        "GUID": "93a18ab4-cd82-4cbc-905d-00e18021be2c"
+      },
+      {
+        "objectState": 0,
+        "GUID": "a25770c2-ff31-4d81-828f-49b5eb12c91c"
+      },
+      {
+        "objectState": 0,
+        "GUID": "e0614606-1e65-4f25-95c0-21652127c445"
+      },
+      {
+        "objectState": 0,
+        "GUID": "5264480f-b00a-4c80-9a57-3fc5ba4b264e"
+      },
+      {
+        "objectState": 0,
+        "GUID": "e4a82262-a5e7-42d5-b489-ba156b6f2aae"
+      },
+      {
+        "objectState": 0,
+        "GUID": "f5b8e200-08b1-4ef3-b7e7-0623c6328345"
+      },
+      {
+        "objectState": 0,
+        "GUID": "45211db3-1d45-44ab-a19e-740e1b34d878"
+      },
+      {
+        "objectState": 0,
+        "GUID": "51f4ebc8-8717-4854-980a-9ca34f0a7047"
+      },
+      {
+        "objectState": 0,
+        "GUID": "86a89a61-9b4c-4363-943a-5f31f1789913"
+      }
+    ],
+    "S0107_TownShelter": [
+      {
+        "objectState": 3,
+        "GUID": "d6ec2099-e6c7-4c2d-a3bf-58d6e89d25c3"
+      },
+      {
+        "objectState": 3,
+        "GUID": "0cd1bde0-fd03-4a5c-bda4-83ff4f68e3ff"
+      },
+      {
+        "objectState": 3,
+        "GUID": "9c833a9a-3b79-4ce1-8b7e-57ef6af80a7e"
+      },
+      {
+        "objectState": 0,
+        "GUID": "71431e18-6375-436f-8902-2a6deceed4bf"
+      },
+      {
+        "objectState": 0,
+        "GUID": "7098ef6b-6d34-4a54-8e2a-86fd7397b175"
+      },
+      {
+        "objectState": 0,
+        "GUID": "90b5dc6d-52b5-4969-aa8c-135604a4e5e9"
+      },
+      {
+        "objectState": 0,
+        "GUID": "e65c6018-0404-4181-bb3c-41e2bc09a5e8"
+      },
+      {
+        "objectState": 0,
+        "GUID": "846b31a0-0dc6-4e5e-b21e-628f30ba184d"
+      },
+      {
+        "objectState": 0,
+        "GUID": "faf95c73-9f2a-4ca1-9583-2311e13c1531"
+      },
+      {
+        "objectState": 0,
+        "GUID": "f53bf40f-b8b8-49fe-a3ec-9a9a86f2f466"
+      }
+    ],
+    "S0108_AlchemistSpire": [
+      {
+        "objectState": 0,
+        "GUID": "fdf2e6b5-7150-4eaf-8224-b903f69b7b00"
+      },
+      {
+        "objectState": 0,
+        "GUID": "cfe7841c-4d28-422c-a669-13bd76c57358"
+      },
+      {
+        "objectState": 0,
+        "GUID": "86bdc0f6-c903-4513-9dc2-3717c832cc46"
+      }
+    ],
+    "S0109_AbandonedBasement": [
+      {
+        "objectState": 0,
+        "GUID": "adb50a06-a5b9-4d3f-a9d5-35a1278d5273"
+      },
+      {
+        "objectState": 5,
+        "GUID": "7d88a7b1-f5ef-40e8-96fb-95e29ae5d9f0"
+      },
+      {
+        "objectState": 0,
+        "GUID": "565f47c1-503d-4fb4-8362-047f81e6c7f2"
+      },
+      {
+        "objectState": 0,
+        "GUID": "4c90c7f5-e7c7-435b-8437-dd06207ec982"
+      },
+      {
+        "objectState": 0,
+        "GUID": "98c31ba4-f4ca-4761-b75d-1dde7173112a"
+      },
+      {
+        "objectState": 4,
+        "GUID": "2f2187b0-1e9f-438b-bdbf-3f898f74502b"
+      }
+    ],
+    "S0110_AlleyofAbandonedRemains": [
+      {
+        "objectState": 6,
+        "GUID": "64b90167-668c-47c3-811e-fc3cd2cb9eb4"
+      },
+      {
+        "objectState": 3,
+        "GUID": "4e76041b-20ec-4a84-a7e0-869caad81e50"
+      },
+      {
+        "objectState": 0,
+        "GUID": "af4531f8-f274-4950-9f41-e114c5a99949"
+      },
+      {
+        "objectState": 0,
+        "GUID": "11ae139f-207c-4419-8a92-ddfde680d8af"
+      },
+      {
+        "objectState": 3,
+        "GUID": "d301cb7f-8ac7-401b-839d-3a15018dee8a"
+      }
+    ],
+    "S0111_AlleyofAbandonedRemains": [
+      {
+        "objectState": 3,
+        "GUID": "d364591c-f59a-4f6b-b6dc-fe1e736e69dc"
+      },
+      {
+        "objectState": 5,
+        "GUID": "a62be35a-914d-4bd4-b4c4-9fe2f319a21b"
+      },
+      {
+        "objectState": 3,
+        "GUID": "6ef8506c-a21e-4225-abfd-a88eeb638ae2"
+      },
+      {
+        "objectState": 0,
+        "GUID": "88ccb1ea-bdd5-42d6-9338-f26c0d84ef73"
+      },
+      {
+        "objectState": 3,
+        "GUID": "256be9bb-8af5-4a9d-8ce1-da36bd9b6bb1"
+      },
+      {
+        "objectState": 0,
+        "GUID": "34a8c0f0-5f4b-46e1-a812-455a959e75de"
+      },
+      {
+        "objectState": 0,
+        "GUID": "5c06657d-4029-4895-9eca-6d7013e3d596"
+      },
+      {
+        "objectState": 0,
+        "GUID": "9c097350-6ae0-4ebc-87e2-93fd8e8e4cc1"
+      }
+    ],
+    "S0112_AlleyofAbandonedRemains": [
+      {
+        "objectState": 10,
+        "GUID": "32e7bc07-f897-4f5f-8009-d4eed1311644"
+      },
+      {
+        "objectState": 0,
+        "GUID": "cd9e3eff-ae95-4b5d-8af5-c6e85bb995ec"
+      },
+      {
+        "objectState": 0,
+        "GUID": "88ccb1ea-bdd5-42d6-9338-f26c0d84ef73"
+      },
+      {
+        "objectState": 3,
+        "GUID": "e564275d-3a67-4d30-b378-3665069ee803"
+      },
+      {
+        "objectState": 0,
+        "GUID": "11ae139f-207c-4419-8a92-ddfde680d8af"
+      },
+      {
+        "objectState": 0,
+        "GUID": "34a57b86-dc60-4ef6-a501-9846f8fc739c"
+      },
+      {
+        "objectState": 0,
+        "GUID": "76f8c562-358c-4132-8833-11563691a573"
+      },
+      {
+        "objectState": 0,
+        "GUID": "553afebb-b28c-4188-a510-00196e53e007"
+      },
+      {
+        "objectState": 3,
+        "GUID": "d1583e63-c70c-4123-b316-4b5032a99a7f"
+      }
+    ],
+    "S0113_QuarantineZone": [
+      {
+        "objectState": 3,
+        "GUID": "c313c508-a4a7-4dfb-9b8b-c0c033f983ce"
+      },
+      {
+        "objectState": 3,
+        "GUID": "c3c339c2-468d-4acd-9808-962cc9cb3436"
+      },
+      {
+        "objectState": 0,
+        "GUID": "01a40f67-1477-41e9-b994-945d2fbb0641"
+      },
+      {
+        "objectState": 0,
+        "GUID": "cde3e0c4-5ffa-4901-842d-882bbf17c923"
+      },
+      {
+        "objectState": 0,
+        "GUID": "4610cb77-c8ca-4cd9-9e14-123299b62e46"
+      },
+      {
+        "objectState": 0,
+        "GUID": ""
+      }
+    ],
+    "S0114_QuarantineZone": [
+      {
+        "objectState": 3,
+        "GUID": "a8856d04-45b5-4788-97ae-69a530fdfee8"
+      },
+      {
+        "objectState": 0,
+        "GUID": "0d44a5b0-1cdd-489a-9cdd-0dfcb4a8e270"
+      },
+      {
+        "objectState": 0,
+        "GUID": "81e89e8e-8bc3-4517-94c7-114818192e29"
+      }
+    ],
+    "S0115_QuarantineZone": [
+      {
+        "objectState": 7,
+        "GUID": "53326766-c4a7-464f-b9a9-8843738b44ff"
+      },
+      {
+        "objectState": 6,
+        "GUID": "49b12906-e794-4521-8e7a-b1f3bc4e0f2c"
+      },
+      {
+        "objectState": 0,
+        "GUID": "60239cd6-b8e6-4f3b-874b-0c54fa697e84"
+      },
+      {
+        "objectState": 0,
+        "GUID": "f9832af3-9f68-4852-95db-5e1031272c01"
+      },
+      {
+        "objectState": 3,
+        "GUID": "935eb710-7516-4d43-a6ad-0d00a2f05d0a"
+      },
+      {
+        "objectState": 0,
+        "GUID": "2d36ccfa-d837-4d7e-a674-adc052917ded"
+      }
+    ],
+    "S0116_HiddenCompartment": [],
+    "S0117_QuarantineZone": [
+      {
+        "objectState": 0,
+        "GUID": "a3e1c0a8-3ee6-46a6-a3b8-dbf257338a5d"
+      },
+      {
+        "objectState": 0,
+        "GUID": "d7e8b53d-31e7-4df4-aa8f-3c968a86dcb1"
+      },
+      {
+        "objectState": 0,
+        "GUID": "e7e19927-8fde-4c82-9804-2dd19bbf3900"
+      },
+      {
+        "objectState": 0,
+        "GUID": "025ec403-5bbd-434c-a073-5696274c22c6"
+      }
+    ],
+    "S0118_SteamHotSpring": [
+      {
+        "objectState": 8,
+        "GUID": "a99f57f9-a2a5-4cf0-b365-f4b35c2df16a"
+      },
+      {
+        "objectState": 0,
+        "GUID": "23f1f207-f5c6-4364-80c8-5fe69c9053cb"
+      },
+      {
+        "objectState": 0,
+        "GUID": "3e9db8a0-25e3-49db-8473-24af1ea309f3"
+      },
+      {
+        "objectState": 0,
+        "GUID": "e1c38774-8c02-482b-b537-d9fc7d90b5c7"
+      },
+      {
+        "objectState": 0,
+        "GUID": "7545b981-a5f2-47ff-adec-07313817432b"
+      },
+      {
+        "objectState": 3,
+        "GUID": "df06eb0f-32a3-418b-a066-391f0e296693"
+      },
+      {
+        "objectState": 0,
+        "GUID": "06b3aa71-3fb6-4e74-b196-6fc264c37e60"
+      }
+    ],
+    "S0119_PurificationRoom": [
+      {
+        "objectState": 7,
+        "GUID": "550271eb-5442-4950-a7dd-0c7867354209"
+      },
+      {
+        "objectState": 3,
+        "GUID": "faf137ea-50a7-4ff1-b0ea-57ba7ec310f7"
+      },
+      {
+        "objectState": 0,
+        "GUID": "8873e1de-b146-4e1b-9277-d67d41db8b9b"
+      }
+    ],
+    "S0120_PenisWormNest": [
+      {
+        "objectState": 3,
+        "GUID": "59db913f-0b8a-49ab-bcc1-0450e029cbf5"
+      },
+      {
+        "objectState": 0,
+        "GUID": "4f23c59a-2b17-4653-a331-11a1d9e43809"
+      }
+    ],
+    "S0121_QuarantineZone": [
+      {
+        "objectState": 3,
+        "GUID": "874e6e75-eb5e-4fc5-8a1d-a88efaff5af0"
+      },
+      {
+        "objectState": 0,
+        "GUID": "dc72a458-4bdc-4673-a4cb-02ea380f7cd9"
+      }
+    ],
+    "S0122_QuarantineZone": [
+      {
+        "objectState": 14,
+        "GUID": "bc314d83-d0d0-424a-9706-fffc0fadfe8b"
+      },
+      {
+        "objectState": 5,
+        "GUID": "2ff394de-ee31-4468-a1fd-9c1a0f6a1e24"
+      },
+      {
+        "objectState": 0,
+        "GUID": "9ada43ec-f27a-407f-97a4-d8299de48d47"
+      },
+      {
+        "objectState": 0,
+        "GUID": "c1d73fbd-dfc6-465e-bc0f-161005072d27"
+      },
+      {
+        "objectState": 0,
+        "GUID": "e219478a-1a5d-4420-95d7-21e0b465bf5e"
+      },
+      {
+        "objectState": 3,
+        "GUID": "111a2d36-f7f8-4297-8e2a-2d4fd63bc890"
+      }
+    ],
+    "S0301_QuarantineZone": [
+      {
+        "objectState": 14,
+        "GUID": "c4eb1e2b-7d18-4e69-8d3a-6aee6321049a"
+      },
+      {
+        "objectState": 0,
+        "GUID": "2e510d3d-fd35-4264-a4f6-52e06c03900c"
+      },
+      {
+        "objectState": 0,
+        "GUID": "ef4532e4-cbad-4b16-9f3d-06dc790fc63a"
+      },
+      {
+        "objectState": 4,
+        "GUID": "28c8b3bf-84dc-4f91-ba16-ba5dcb673017"
+      },
+      {
+        "objectState": 4,
+        "GUID": "499a2fb5-6fd0-46ad-95d0-e73a13aaa38c"
+      }
+    ],
+    "S0302_ZinniaRoad": [
+      {
+        "objectState": 0,
+        "GUID": "0ea92360-a116-4738-80f1-cf7b180ca805"
+      },
+      {
+        "objectState": 0,
+        "GUID": "8524575a-599d-417c-bef7-671e148ebc75"
+      },
+      {
+        "objectState": 0,
+        "GUID": "f3e95550-f332-4723-99e5-418e9c26e1b0"
+      },
+      {
+        "objectState": 0,
+        "GUID": "1c04bac1-5ef8-4054-9a26-de3740b51cb2"
+      },
+      {
+        "objectState": 0,
+        "GUID": "befbc043-1102-4ba5-9655-cd4b1fe9379e"
+      },
+      {
+        "objectState": 0,
+        "GUID": "cae13720-a961-40ad-a1c8-f8b0faac3538"
+      },
+      {
+        "objectState": 4,
+        "GUID": "436280ea-1dab-40b3-9632-d3eff358144c"
+      }
+    ],
+    "S0303_RoadSideCaveRuin": [
+      {
+        "objectState": 3,
+        "GUID": "ed18657d-f111-4641-8b31-c5d77679f4cc"
+      },
+      {
+        "objectState": 3,
+        "GUID": "ae714236-5a3a-4c5a-88a0-56cd0f571bb8"
+      },
+      {
+        "objectState": 0,
+        "GUID": "421d872b-895c-4c32-98a4-e0084130ac2c"
+      },
+      {
+        "objectState": 0,
+        "GUID": "caa144e5-82c8-499f-a96a-68e7f0d2657e"
+      },
+      {
+        "objectState": 0,
+        "GUID": "2ec1475f-b1e9-426d-811f-f39ec01b0b5c"
+      },
+      {
+        "objectState": 0,
+        "GUID": "0dffa31d-7f8e-4142-abeb-90c2898bf28c"
+      },
+      {
+        "objectState": 0,
+        "GUID": "805477f1-30df-4a56-9a12-aac4191594e3"
+      }
+    ],
+    "S0304_RoadSideCaveRuin": [
+      {
+        "objectState": 0,
+        "GUID": "efc6946d-13a2-48fb-b82b-ea04022aa144"
+      },
+      {
+        "objectState": 0,
+        "GUID": "a5b8fddf-2468-426f-8234-20511777dec7"
+      }
+    ],
+    "S0305_VoretoadNest": [
+      {
+        "objectState": 3,
+        "GUID": "2b8f337d-3c46-40dd-8118-15bdfa5bc8b1"
+      },
+      {
+        "objectState": 3,
+        "GUID": "2b844f6a-b684-42b1-871f-4f173c0e769f"
+      },
+      {
+        "objectState": 3,
+        "GUID": "9bf39421-86bb-4dd0-8931-c89cef74acc2"
+      },
+      {
+        "objectState": 0,
+        "GUID": "69fe4190-df41-4185-9f58-083f0365c0b2"
+      },
+      {
+        "objectState": 0,
+        "GUID": "252fa7ea-193a-48d4-9f4b-9c8e6ae3476f"
+      },
+      {
+        "objectState": 0,
+        "GUID": "8d0e9626-b790-45dd-beeb-43528bb1f3e4"
+      },
+      {
+        "objectState": 0,
+        "GUID": "d4b0f578-e8ea-490f-b681-a8621485ccce"
+      }
+    ],
+    "S9997_MentalTraining": [],
+    "S0306_ZinniaRoad": [
+      {
+        "objectState": 3,
+        "GUID": "18ab3b60-35d8-4bf4-9a98-8d2281fcd320"
+      },
+      {
+        "objectState": 0,
+        "GUID": "0630b468-a9f3-4e20-b508-5d8f978d5b4a"
+      },
+      {
+        "objectState": 3,
+        "GUID": "21f94536-0437-4682-8af1-83029988fb7d"
+      },
+      {
+        "objectState": 3,
+        "GUID": "b8c1d1c3-c53c-4c0d-8b2b-904f34ecd2e4"
+      },
+      {
+        "objectState": 3,
+        "GUID": "802b8900-f5fa-4280-943d-a1fb2594894b"
+      },
+      {
+        "objectState": 0,
+        "GUID": "5c65e3ca-0060-4695-ad48-a5f86f2fec10"
+      },
+      {
+        "objectState": 0,
+        "GUID": "c883c6a6-ac05-4068-ab67-f9b793366314"
+      },
+      {
+        "objectState": 0,
+        "GUID": "4de278ae-a48f-4fe7-93a1-0c7a1ab998de"
+      },
+      {
+        "objectState": 0,
+        "GUID": "a6a27e61-d3e5-43c9-9541-797bbce95fc4"
+      },
+      {
+        "objectState": 0,
+        "GUID": "e89f80f4-d2dd-4de7-bb49-4c4eb4470925"
+      },
+      {
+        "objectState": 0,
+        "GUID": "5544d0bb-3f48-4fd1-aa84-3a38f5cd6ea4"
+      },
+      {
+        "objectState": 0,
+        "GUID": "8e3c3660-6eba-4042-87ab-ee7c151389bf"
+      },
+      {
+        "objectState": 0,
+        "GUID": "f856805c-f0ab-4475-a5d1-620a478ca5c0"
+      }
+    ],
+    "S0307_ZinniaRoad": [
+      {
+        "objectState": 3,
+        "GUID": "fbd13051-9609-45b8-ba24-72358fcddf32"
+      },
+      {
+        "objectState": 3,
+        "GUID": "2edb5b88-c27f-4102-8f8d-bb07e91337a6"
+      },
+      {
+        "objectState": 0,
+        "GUID": "82db6c3b-4302-48ba-9d62-a2b764af73e7"
+      },
+      {
+        "objectState": 0,
+        "GUID": "efbd9b38-1ae4-45bd-a86c-af41867c485c"
+      },
+      {
+        "objectState": 0,
+        "GUID": "33491e2a-b6ff-449b-9943-24a9f8f79590"
+      },
+      {
+        "objectState": 0,
+        "GUID": "e4a82262-a5e7-42d5-b489-ba156b6f2aae"
+      },
+      {
+        "objectState": 3,
+        "GUID": "205b476e-efeb-4df6-8061-dc5f261a3757"
+      }
+    ],
+    "S0308_RoadSideCaveRuin": [
+      {
+        "objectState": 14,
+        "GUID": "c4eb1e2b-7d18-4e69-8d3a-6aee6321049a"
+      },
+      {
+        "objectState": 0,
+        "GUID": "6fe6a123-9fd2-45e9-86d3-8694053f9178"
+      },
+      {
+        "objectState": 0,
+        "GUID": "f6b5e84b-b72c-4437-b3ee-78b016957bb3"
+      },
+      {
+        "objectState": 0,
+        "GUID": "91ca8a67-3993-4f0d-927a-9e20c9781765"
+      },
+      {
+        "objectState": 0,
+        "GUID": "ccaecdec-a34e-4b83-ba48-b00f7e7ea942"
+      },
+      {
+        "objectState": 0,
+        "GUID": "0f01e7ee-a3e8-477a-826a-625930cc12b2"
+      },
+      {
+        "objectState": 4,
+        "GUID": "1f4fcd12-0c2c-4633-b9e4-84775f7a9133"
+      },
+      {
+        "objectState": 4,
+        "GUID": "499a2fb5-6fd0-46ad-95d0-e73a13aaa38c"
+      },
+      {
+        "objectState": 4,
+        "GUID": "28c8b3bf-84dc-4f91-ba16-ba5dcb673017"
+      },
+      {
+        "objectState": 0,
+        "GUID": ""
+      },
+      {
+        "objectState": 3,
+        "GUID": "520d8228-d529-40cf-a234-f9fb91321bad"
+      },
+      {
+        "objectState": 0,
+        "GUID": "03b4cb0c-cff3-46d6-a178-e603af206362"
+      }
+    ],
+    "S0309_PenisWormNest": [],
+    "S0310_TentaclesNest": [
+      {
+        "objectState": 3,
+        "GUID": "ae5fcb91-6d1d-4977-b996-76abaed9a274"
+      },
+      {
+        "objectState": 3,
+        "GUID": "fa23b60a-a71b-49d8-a847-05b06b8b8584"
+      },
+      {
+        "objectState": 0,
+        "GUID": "90254a34-ba35-4d47-bcc5-43896be5899a"
+      }
+    ],
+    "S0311_RoadSideHouse": [
+      {
+        "objectState": 3,
+        "GUID": "a194bf81-1918-4601-949c-294bc196b6da"
+      },
+      {
+        "objectState": 3,
+        "GUID": "9f8e3346-08d2-4b0f-8615-59c20f5ac3e5"
+      },
+      {
+        "objectState": 0,
+        "GUID": "860b9894-c7bf-48e5-8e1d-8aadb632acc9"
+      }
+    ],
+    "S0312_RoadSideHouse": [
+      {
+        "objectState": 4,
+        "GUID": ""
+      },
+      {
+        "objectState": 3,
+        "GUID": "4681bc07-b0e4-4518-ad5d-a5bc99a2b95c"
+      },
+      {
+        "objectState": 0,
+        "GUID": "2e78be69-c7e3-43f2-8838-3cfee31a2ba2"
+      }
+    ],
+    "S0214_VillageSewer": [
+      {
+        "objectState": 4,
+        "GUID": ""
+      },
+      {
+        "objectState": 3,
+        "GUID": "eaeb5358-eb83-4f6e-89af-32e5146b3162"
+      },
+      {
+        "objectState": 3,
+        "GUID": "9ffabbd4-cf7e-4f85-9957-2020319501f7"
+      },
+      {
+        "objectState": 3,
+        "GUID": "640ae894-472a-4cdc-85e6-70633888cee8"
+      },
+      {
+        "objectState": 3,
+        "GUID": "5010cae0-dee5-4317-9e21-ab4ca2bdc3de"
+      },
+      {
+        "objectState": 0,
+        "GUID": "5a158877-efbc-4c60-81b5-3a55d74d58ca"
+      },
+      {
+        "objectState": 5,
+        "GUID": "8e184729-1f6b-4925-88eb-8547b587c449"
+      }
+    ],
+    "S0401_DarkTunnel": [
+      {
+        "objectState": 3,
+        "GUID": "2702988d-e7cd-48d1-8662-42492e5c5ef2"
+      },
+      {
+        "objectState": 3,
+        "GUID": "6a2c5b55-ea31-4b1d-9a2f-452df1e7162c"
+      },
+      {
+        "objectState": 3,
+        "GUID": "eb55db23-54f4-40a1-aa04-19b2b88407ea"
+      },
+      {
+        "objectState": 0,
+        "GUID": ""
+      },
+      {
+        "objectState": 0,
+        "GUID": "18c8ead7-ab6d-46dc-9aee-7c47351727ea"
+      },
+      {
+        "objectState": 0,
+        "GUID": "4a377fbc-106a-458e-8309-a0a2ab5f5495"
+      },
+      {
+        "objectState": 0,
+        "GUID": "7b7c79d0-619b-455c-9ea2-6dbd754208fe"
+      },
+      {
+        "objectState": 5,
+        "GUID": "882a8b9e-1de7-4166-976f-9fc36fc958ac"
+      }
+    ],
+    "S0402_CrawlingColzaNest": [
+      {
+        "objectState": 3,
+        "GUID": "c3521701-5fed-4c91-ac26-235ddcf43795"
+      },
+      {
+        "objectState": 0,
+        "GUID": "6045a361-6af2-42e8-8941-c23c52f8a21d"
+      }
+    ],
+    "S0403_DarkTunnel": [
+      {
+        "objectState": 3,
+        "GUID": "683661c8-b21a-49f5-b49e-3d1119073e10"
+      },
+      {
+        "objectState": 0,
+        "GUID": "f0bd3fb9-4260-4a4d-a201-61ccc3bb6654"
+      },
+      {
+        "objectState": 0,
+        "GUID": "eeb0d520-c8cb-495c-abf7-93590d3c86a9"
+      },
+      {
+        "objectState": 0,
+        "GUID": "a2a1b407-e5ac-48de-bce3-30dd154df6ac"
+      },
+      {
+        "objectState": 0,
+        "GUID": "33491e2a-b6ff-449b-9943-24a9f8f79590"
+      },
+      {
+        "objectState": 0,
+        "GUID": "281e5991-8ec7-4a52-b738-94688e6d731e"
+      }
+    ],
+    "S0404_DarkTunnel": [
+      {
+        "objectState": 4,
+        "GUID": "c9072da0-8a76-4497-affd-17b897b793ad"
+      },
+      {
+        "objectState": 3,
+        "GUID": ""
+      },
+      {
+        "objectState": 0,
+        "GUID": "216174f0-9a16-42b2-a4db-cc727f8d8a1e"
+      },
+      {
+        "objectState": 0,
+        "GUID": "604fb54a-e057-46c9-9cf7-61c25a604b3a"
+      },
+      {
+        "objectState": 0,
+        "GUID": "1c6d8c93-40fe-4b79-8948-df69e8a25dc6"
+      },
+      {
+        "objectState": 0,
+        "GUID": "b1792656-d518-45ff-a4a4-faae87452e6a"
+      },
+      {
+        "objectState": 0,
+        "GUID": "8687a343-7ecc-46d9-9a8d-c3962f9ff0b1"
+      }
+    ],
+    "S0405_DarkTunnel": [],
+    "S0406_DarkTunnel": [
+      {
+        "objectState": 3,
+        "GUID": "0120c0f7-676b-401a-8064-605f56f3fe0e"
+      },
+      {
+        "objectState": 0,
+        "GUID": "4ef52098-34c1-47f9-b526-bd33b5ab630b"
+      },
+      {
+        "objectState": 0,
+        "GUID": "7b7c79d0-619b-455c-9ea2-6dbd754208fe"
+      },
+      {
+        "objectState": 0,
+        "GUID": "b833ac9c-73b4-4efe-a335-37427adc44c2"
+      },
+      {
+        "objectState": 4,
+        "GUID": "41b388a3-eb0d-4a01-8329-bd6cc3f58518"
+      }
+    ],
+    "S0407_DarkTunnel": [
+      {
+        "objectState": 0,
+        "GUID": "984c80fc-5056-4d3a-8a5a-adb86a83689f"
+      },
+      {
+        "objectState": 0,
+        "GUID": "41eb222f-ac08-4d54-9bd5-06ef50852f53"
+      },
+      {
+        "objectState": 0,
+        "GUID": "1e3b5543-f4f1-4ebf-9c3f-99fc0aa1a593"
+      },
+      {
+        "objectState": 3,
+        "GUID": "bc8e4565-eac3-46fc-bced-c025dcb3cc39"
+      }
+    ],
+    "S0408_PlagueFlowerBed": [
+      {
+        "objectState": 6,
+        "GUID": "96d4a232-c119-45b7-a7a4-57aa68e2d4a9"
+      },
+      {
+        "objectState": 0,
+        "GUID": "0bae6c21-dc0b-4d96-a7a5-27cdaaabdbe6"
+      },
+      {
+        "objectState": 0,
+        "GUID": "e461b607-71f1-46e3-ad20-8b2e71c38a16"
+      },
+      {
+        "objectState": 3,
+        "GUID": "27627023-0c13-4c6f-87de-a382919c687e"
+      }
+    ],
+    "S0501_CampofthePilgrimsofPeace": [
+      {
+        "objectState": 3,
+        "GUID": "23b86e0c-2a2e-4f6a-9a64-489fb18f2421"
+      },
+      {
+        "objectState": 0,
+        "GUID": "1b46b543-d180-47da-88e4-1497f7d1903b"
+      },
+      {
+        "objectState": 0,
+        "GUID": "e28ed1aa-ea9a-44c7-864d-a89d0434a7eb"
+      },
+      {
+        "objectState": 0,
+        "GUID": "8179b836-d7fa-43ff-a07b-462b490bb7b4"
+      },
+      {
+        "objectState": 0,
+        "GUID": "56b1b1bb-1392-4958-92d7-febfae422aab"
+      }
+    ],
+    "S0502_CampofthePilgrimsofPeace": [
+      {
+        "objectState": 0,
+        "GUID": "d1ec65cf-d2d5-42c0-8d04-5a9b614539c9"
+      },
+      {
+        "objectState": 0,
+        "GUID": "a911a942-3aec-4bee-8742-f4dbc733d509"
+      },
+      {
+        "objectState": 0,
+        "GUID": "5c0866a8-6b83-4502-98ea-317966413353"
+      },
+      {
+        "objectState": 0,
+        "GUID": "09b4ab0b-e982-4878-9bec-d379e33e16f7"
+      },
+      {
+        "objectState": 0,
+        "GUID": "96cc2840-3879-4a98-a837-58e6f4319a9a"
+      }
+    ],
+    "S0503_CampofthePilgrimsofPeace": [
+      {
+        "objectState": 3,
+        "GUID": "2bfdaaf8-b9cb-4f68-8437-9fa0c114e095"
+      },
+      {
+        "objectState": 0,
+        "GUID": "c86f3c6c-ed32-4e5a-b6ce-9df9e494802a"
+      },
+      {
+        "objectState": 0,
+        "GUID": "19a9aa05-1fe9-4141-afb4-78929068e675"
+      }
+    ],
+    "S0504_CampofthePilgrimsofPeace": [],
+    "S0505_CampofthePilgrimsofPeace": [],
+    "S0506_CampofthePilgrimsofPeace": [],
+    "S0507_CampofthePilgrimsofPeace": [
+      {
+        "objectState": 0,
+        "GUID": "6855e9a8-8e0f-424c-8ed3-a35413242534"
+      },
+      {
+        "objectState": 0,
+        "GUID": "ad94570a-039d-4f08-bd23-06f8090703a2"
+      },
+      {
+        "objectState": 0,
+        "GUID": "d22f0715-f7ba-48ce-96e7-d7932efdf4f3"
+      }
+    ],
+    "S0508_CampofthePilgrimsofPeace": [
+      {
+        "objectState": 3,
+        "GUID": "0c6c3a1e-133f-4fd4-a943-f35f516ce3d9"
+      },
+      {
+        "objectState": 0,
+        "GUID": "3ff5e84c-030f-46ca-9da6-b52101c47c69"
+      },
+      {
+        "objectState": 0,
+        "GUID": "c5299468-680b-46a1-8124-e3056592e526"
+      }
+    ],
+    "S0509_CampofthePilgrimsofPeace": [
+      {
+        "objectState": 0,
+        "GUID": "40acf091-c83e-4763-9f21-b5a4ffae447d"
+      },
+      {
+        "objectState": 0,
+        "GUID": "cd696013-a30b-40c0-a952-ef6374cc47b7"
+      }
+    ],
+    "S0510_CampofthePilgrimsofPeace": [
+      {
+        "objectState": 3,
+        "GUID": "8a864e5f-5f75-45b7-803e-73f6b6f84f63"
+      },
+      {
+        "objectState": 0,
+        "GUID": "4f8e34ed-ba4a-44fa-9350-0a15203f42e2"
+      },
+      {
+        "objectState": 0,
+        "GUID": "956db133-1ffc-4fc0-8c2b-9853eed8c0d1"
+      },
+      {
+        "objectState": 0,
+        "GUID": "caa63ad0-4ff8-4109-9d14-d80fc4cabf39"
+      },
+      {
+        "objectState": 0,
+        "GUID": "bc8d9628-05ad-48c3-b4ed-1abb8651adcb"
+      }
+    ],
+    "S0511_CampofthePilgrimsofPeace": [
+      {
+        "objectState": 3,
+        "GUID": "8c160adf-a929-4de7-8f14-d6e81e514e56"
+      },
+      {
+        "objectState": 0,
+        "GUID": "feab41af-e12d-44ac-a744-f5941f1ee6f1"
+      },
+      {
+        "objectState": 0,
+        "GUID": "062da15f-1699-41b5-a8ea-b899c8cceb3f"
+      }
+    ],
+    "S0512_UndergroundPrison": [
+      {
+        "objectState": 0,
+        "GUID": "c67724eb-a1d2-49a3-8171-3a2e80aafb12"
+      },
+      {
+        "objectState": 0,
+        "GUID": "31c84d34-550a-4a95-a61d-b5b206317c67"
+      },
+      {
+        "objectState": 0,
+        "GUID": "13d4d839-e4b1-49c5-b32c-559a3367bb24"
+      },
+      {
+        "objectState": 0,
+        "GUID": "3285796f-adf9-4fa0-96d8-2053744539c6"
+      }
+    ],
+    "S0513_DirtySewer": [
+      {
+        "objectState": 3,
+        "GUID": "f399375c-d20e-4e8d-afec-b655cdc638ed"
+      },
+      {
+        "objectState": 0,
+        "GUID": "4cd98457-f4f2-4ca5-9f15-916dd7be737e"
+      }
+    ],
+    "S0514_CampofthePilgrimsofPeace": [
+      {
+        "objectState": 0,
+        "GUID": "261089c5-0a3c-4189-a13c-fdefa8f87121"
+      },
+      {
+        "objectState": 0,
+        "GUID": "752e5117-8d29-4e4f-95f6-b02c3a0161c6"
+      },
+      {
+        "objectState": 0,
+        "GUID": "2a2d0be7-0497-4d54-874b-22afe5a20043"
+      }
+    ],
+    "S0515_CampofthePilgrimsofPeace": [
+      {
+        "objectState": 3,
+        "GUID": "9a15dbd2-ef61-4532-b151-8c1ebd1599ef"
+      },
+      {
+        "objectState": 0,
+        "GUID": "45db520c-0b07-4408-bf8a-bbd531145f17"
+      },
+      {
+        "objectState": 0,
+        "GUID": "4573f3b0-acf8-48f9-83ee-ebd7a7e51795"
+      },
+      {
+        "objectState": 0,
+        "GUID": "d83ad523-1557-465f-9fba-59bc7af04955"
+      }
+    ],
+    "S0516_CampofthePilgrimsofPeace": [
+      {
+        "objectState": 0,
+        "GUID": "26847893-4b1d-4c46-9c8e-680c3afeba79"
+      },
+      {
+        "objectState": 0,
+        "GUID": "81fadcee-530f-4634-aa6a-45522238e9dd"
+      }
+    ],
+    "S0517_CampofthePilgrimsofPeace": [
+      {
+        "objectState": 0,
+        "GUID": "15c02864-30b5-4174-9298-e6480b7cac97"
+      },
+      {
+        "objectState": 0,
+        "GUID": "12e487a4-8abc-42b4-882c-08b40d7d125f"
+      }
+    ],
+    "S0518_CampofthePilgrimsofPeace": [
+      {
+        "objectState": 0,
+        "GUID": "925b187e-be7b-4728-ab9a-be68fae44f73"
+      },
+      {
+        "objectState": 0,
+        "GUID": "089c45ea-2865-4143-90d5-9706d77503e0"
+      },
+      {
+        "objectState": 0,
+        "GUID": "6f7ac3f2-9dae-4f10-930e-cb70b165e39f"
+      }
+    ],
+    "S0519_BanditToilets": [
+      {
+        "objectState": 0,
+        "GUID": "412d7102-3510-42b9-86a5-114e29879dd7"
+      },
+      {
+        "objectState": 0,
+        "GUID": "ca0b6e5c-348e-4bb0-a550-da80888b5b19"
+      }
+    ],
+    "S0520_DirtySewer": [
+      {
+        "objectState": 0,
+        "GUID": "05037bfc-40fb-492f-81a9-8e6071c8fd2b"
+      },
+      {
+        "objectState": 0,
+        "GUID": "361dcd32-7165-4045-a58e-2302027dd1bc"
+      },
+      {
+        "objectState": 0,
+        "GUID": "4ca4e447-62b5-4fc2-a2d3-38cba6239e87"
+      }
+    ],
+    "S0521_CrawlingColzaNest": [
+      {
+        "objectState": 0,
+        "GUID": "3aed1c38-1e61-4ef0-8e98-596901ffec31"
+      }
+    ],
+    "S0522_CampofthePilgrimsofPeace": [
+      {
+        "objectState": 0,
+        "GUID": "5a10cc30-e704-4046-a043-fe7d1948f091"
+      },
+      {
+        "objectState": 0,
+        "GUID": "d414029f-8bb7-4942-a03a-1ac787082a25"
+      },
+      {
+        "objectState": 0,
+        "GUID": "eb35cb12-b378-4641-9b67-e153da5f133d"
+      },
+      {
+        "objectState": 3,
+        "GUID": "b0b0f1b6-7f4f-40a9-bcc2-7a320f42ed2e"
+      }
+    ],
+    "S0523_ChurchRuin": [
+      {
+        "objectState": 0,
+        "GUID": "75a77577-b34d-41fe-b302-677137b748f7"
+      },
+      {
+        "objectState": 0,
+        "GUID": "2bcb9027-4bc1-4a88-b3c6-8f7f9fe2de49"
+      },
+      {
+        "objectState": 3,
+        "GUID": "2660e276-a05b-4bc1-823f-e304ab84a6a3"
+      },
+      {
+        "objectState": 0,
+        "GUID": "20e32c96-e531-4b31-b8fc-066754fead77"
+      }
+    ],
+    "S0524_ChurchBasement": [
+      {
+        "objectState": 0,
+        "GUID": "a06fc9b0-5ed9-4a38-b7b5-563327e50e21"
+      },
+      {
+        "objectState": 3,
+        "GUID": "7d4959f1-7bc5-439f-9f26-87369ce7dbc0"
+      },
+      {
+        "objectState": 3,
+        "GUID": ""
+      }
+    ],
+    "S0525_ThePeasantpath": [
+      {
+        "objectState": 0,
+        "GUID": "77896916-7dd2-432d-ab54-df289abf8cea"
+      },
+      {
+        "objectState": 3,
+        "GUID": "ba727b7a-414f-45e4-9d3f-0e77d7683048"
+      },
+      {
+        "objectState": 0,
+        "GUID": "d414029f-8bb7-4942-a03a-1ac787082a25"
+      },
+      {
+        "objectState": 3,
+        "GUID": "596e80ed-8d59-4018-ad92-7ceaab5017ee"
+      }
+    ],
+    "S0601_TheAbandonedFairegrounds": [
+      {
+        "objectState": 0,
+        "GUID": "7f03b079-ee9d-4d45-9456-4cf029df52fe"
+      },
+      {
+        "objectState": 0,
+        "GUID": "4a1eb3bc-b33e-4832-9f1c-eba1bf47f602"
+      },
+      {
+        "objectState": 0,
+        "GUID": "50452c82-a958-4f1d-99c5-5c3fafab4955"
+      },
+      {
+        "objectState": 0,
+        "GUID": "91ca8a67-3993-4f0d-927a-9e20c9781765"
+      },
+      {
+        "objectState": 4,
+        "GUID": "37402e22-6d18-4906-a0f4-27f4be20b430"
+      },
+      {
+        "objectState": 0,
+        "GUID": "f8493efc-8009-4611-9d8b-dfb4ad8117b6"
+      }
+    ],
+    "S0602_FlyNest": [],
+    "S0603_TheAbandonedFairegrounds": []
+  },
+  "CurrentScene": "S0106_BlackBerryTown",
+  "myFinding": {
+    "OrderPaper": true,
+    "BlackberryWine": true,
+    "AssistantNotes1": false,
+    "AssistantNotes2": false,
+    "AssistantNotes3": false,
+    "AssistantNotes4": false,
+    "AssistantNotes5": false,
+    "AssistantNotes6": false,
+    "AssistantNotes7": false,
+    "TentacleReport": true,
+    "ProtyasNote": false,
+    "MerchantsNote": true,
+    "SapphyraNote1": true,
+    "NoneNameNote1": false,
+    "NoneNameNote2": true,
+    "NoneNameNote3": true,
+    "NoneNameNote4": true,
+    "AspenNote": true,
+    "SapphyraNote2": true,
+    "NoneNameNote5": true,
+    "NoneNameNote6": true,
+    "WantedNote": true,
+    "NoneNameNote7": true,
+    "UnknownDiary": true,
+    "DarkCaveNote1": true,
+    "DarkCaveNote2": true,
+    "BanditNote": true,
+    "HEARTLAMPNOTE": true,
+    "WARNINGNote1": true,
+    "Flyer1": true,
+    "WANTEDLORDPYRITE": true,
+    "Book1": false
+  },
+  "myStatus": {
+    "Virgin": true,
+    "Pregnant": false,
+    "Orgasm": false,
+    "RepressedLust": false,
+    "ReleasedLust": false,
+    "SensitiveNipples": false,
+    "UnableToRun": false,
+    "HornyForSemen": true,
+    "BirthControl": false,
+    "TentaclePantie": false,
+    "BreastEngorgement": false,
+    "VagProtect": false,
+    "TentacleBra": false,
+    "TentacleMother": false,
+    "MilkPump": false,
+    "SteamParry": false,
+    "ClothProtection": false,
+    "Mimicock": false,
+    "NippleRing": false,
+    "Cursed": false,
+    "VisionObstruction": false,
+    "Lust": false,
+    "AnalRestraint": false,
+    "LustAssimilation": false,
+    "Slowgrow": false,
+    "ArmsRes": false,
+    "Refreshed": false
+  },
+  "onCountDebuff": {},
+  "onCountSpeed": {},
+  "myRelic": {
+    "PlagueDoctorRing": true,
+    "Robe": true,
+    "WorkerRing": true,
+    "WeirdMark": false,
+    "MilkPump": false,
+    "SwordMasterRing": true,
+    "WeaverGirlsRing": false,
+    "PenisMark": true,
+    "CursedNippleRing": false,
+    "SteamJumpDevice": true,
+    "CursedCollar": false,
+    "BrokenWaistLantern": false,
+    "WaistLantern": true,
+    "VibratingAnalHook": false,
+    "NippleClamp": false
+  },
+  "EquipRelic": [
+    8,
+    1,
+    14
+  ],
+  "myNippleRings": {
+    "None": false,
+    "Bells": false,
+    "RhombusCrystal": true
+  },
+  "EquipNippleRing": null,
+  "PlayTimeNormalized": "2:32:48",
+  "PlayTime": 9168,
+  "startPlayTimer": true,
+  "saveTimeNormalized": "2026/09/27 07:22:22",
+  "screenshotData": "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",
+  "myLibrary": {
+    "HeartLantern": true,
+    "PenisWorm": true,
+    "PenisWorm0": true,
+    "Tentacles": true,
+    "Sapphyra": true,
+    "Protya": true,
+    "Baneberis": true,
+    "NDog": true,
+    "TentacleBall": true,
+    "NZombie": true,
+    "Voretoad": true,
+    "VoretoadS": false,
+    "VoretoadM": true,
+    "TentacleCeilling": false,
+    "CrawlingColza": true,
+    "Lustbloom": true,
+    "Sinflower": true,
+    "BanditA": true,
+    "BanditB": true,
+    "Priest": true,
+    "Mimic": true,
+    "Framboise": true,
+    "Fly": false
+  },
+  "lanternDict": {
+    "Lantern_0106_BlackBerryTown": true,
+    "Lantern_0202_VillageSewer": true,
+    "Lantern_0118_SteamHotSpring": true,
+    "Lantern_9999_TestLantern": false,
+    "Lantern_0306_RinniaRoad": true,
+    "Lantern_0407_NightshadeCaves": true,
+    "Lantern_0501_CampofthePilgrimsofPeace": true,
+    "Lantern_0601": true
+  },
+  "MapRevealData": {
+    "370e4e9b-4904-4d95-a13e-aa5040ab8c62": false,
+    "921675cf-3de6-4e0c-a2a0-e7db81e94a10": true,
+    "ac519879-b51b-4ba3-9c4c-c2bef613f466": true,
+    "83ceedfe-343d-46f8-bda7-82e792d08e56": true,
+    "f35284d4-4446-4d6a-bdc0-08f6064e55ed": true,
+    "efb7bbcb-242f-4b35-af70-1631860df55f": true,
+    "9d710013-bf68-465d-a70e-6c2bca5a22bc": true,
+    "d67c27a2-a162-4a26-885e-563e62f9ba61": true,
+    "42812daf-c304-4552-98dd-347fdad03146": true,
+    "9211cb1c-1003-4a38-ab90-dc1ab7125dda": true,
+    "6b5187f9-343b-480f-9d5f-77cfe74f6501": true,
+    "81d9f7ba-c46d-405a-8bbe-4f0010899464": true,
+    "26ac59c5-e1fb-432b-9405-520251dffe8e": true,
+    "258a5ba0-eb2c-45d9-865d-0eaecee5024e": true,
+    "15199747-4fb5-49ca-9bc1-ed17ab1408a4": true,
+    "0dfb43b5-8200-4916-b882-3a669427c21b": true,
+    "8bb6da5d-c5ed-4220-8e9a-8689dfe3ba90": true,
+    "fd750a78-8fea-4a83-bdf4-631e39f583b8": true,
+    "07e92f8b-4181-4286-9c19-bd87576ab17c": true,
+    "548226ae-4625-4378-9dcc-cc94b1881fcc": true,
+    "87d1d34f-910b-4c2f-bcb0-183904e5ced9": true,
+    "0e9d6b11-070a-487c-aed1-71813839bcd5": true,
+    "7b6e3f06-6264-4f1d-a8df-915267fefa28": true,
+    "0d106a6e-58da-4a35-a9ab-fc5d27885ff7": true,
+    "1c70addb-7e5c-416f-8897-68ebb35e85f0": true,
+    "cc3ab47c-993b-430c-a971-a058b1a51bcf": true,
+    "d8833a36-8b17-4b2e-b778-52ee76790365": true,
+    "58126a73-d0a4-4828-85d0-1fe28c26b197": true,
+    "b23e43b9-d4c2-4985-8849-6e026341e417": true,
+    "07c2b2da-3240-4c75-a265-76e9b9c01931": true,
+    "6aaba27d-e878-4660-9171-e761b0aea5a3": true,
+    "a65b5fb5-2805-426c-b51c-5673716b3b2f": true,
+    "df2e5948-477d-4953-b16f-197b2f6dcd00": true,
+    "53a209ed-69d5-46d6-bcde-e56bfc0517d4": true,
+    "45b3727b-9030-431b-8311-e27b8b77be66": true,
+    "daa197fe-544a-4f85-a01d-57cca728703a": true,
+    "8c7723ce-fe06-4286-8177-18b29e5f208e": true,
+    "7b6d836b-3892-4edb-a27a-384f57c48200": true,
+    "b5990780-ff1e-45fd-88dd-6de56b8cf6b1": true,
+    "a69d1dc0-c021-4980-b03d-c180341a466d": true,
+    "ce1e5a6c-7fbb-47bf-be48-0a51aacef650": true,
+    "1fc208c8-17b7-4019-af43-a7238e2d8adb": true,
+    "72438f76-5572-49cb-b4bb-8e224d1abf12": true,
+    "a88f0048-4281-424c-865e-22338314c503": true,
+    "a0ab807e-ac98-4e08-9f64-78f41f84b4e7": true,
+    "d8fdd805-25e2-459a-bfb5-8e1bcdb214dd": true,
+    "9be56a81-0421-443a-b3e9-d6ad9aca483d": true,
+    "f421d8c4-1c39-4d17-be38-d7faed835f13": true,
+    "0abf5c9c-50c1-47f3-97d9-8571c0ec4a91": true,
+    "8776bd73-8dca-4b0c-93ba-cfe0d5442b33": true,
+    "7dc0b259-0fb3-4c0a-a7bf-ef3fee8877d1": true,
+    "9156199c-6a3d-435c-9d36-40edc7420a22": false,
+    "2fec48aa-185b-4ae6-9bc4-aea6ae32bae0": true,
+    "3e15b97b-2295-4e32-a5cd-c19aaee57eef": true,
+    "ecee607a-af7a-4236-8ac8-c3a9c7cb08dc": true,
+    "28dc0008-b4f7-4816-81cc-186f972d2558": true,
+    "d65884a4-01f6-4a75-b03d-4a0d0ed171d9": true,
+    "46283ea3-1e76-4391-927c-a780ba973f2d": true,
+    "e02cfa7c-52e7-445c-b7b9-14f9e54e5040": true,
+    "edcf8300-255d-4ca2-a250-bdebbbd44875": false,
+    "88c563a2-2ef1-4808-ae23-07d1f9fd6002": false,
+    "40ef55fe-c102-4752-9b54-b0d62204e9e4": false,
+    "f734eb0f-c705-4be5-90ad-e6b44360af5e": true,
+    "e9b46a2d-cb54-48dd-aa16-37422750dfd5": true,
+    "14242332-7695-4437-836e-be11817729f6": true,
+    "50080984-7d4a-4937-a54b-ff40dd6bf801": true,
+    "376625ad-3536-457a-9a97-60dae2145101": true,
+    "f3bc4df1-3ee7-4db6-b3e9-ce074096bef7": true,
+    "34851faa-b038-4390-b088-9904d3fe4e98": true,
+    "da6ed23c-ee42-4935-ab25-9360b780fbd9": true,
+    "45f530cf-2bfd-47cb-9c4a-21381944eaa3": true,
+    "70832480-5f3d-4af2-bfe0-c0024ebb1bee": true,
+    "7a5a8763-466f-42fd-8888-e5aba1dc85e1": true,
+    "2e463601-de39-4a9c-a92d-075048118098": true,
+    "4f92cd86-ae28-4386-8c37-15643c9a99b6": true,
+    "9158c3db-0e7a-4277-a543-75edd1b5a43b": true,
+    "58c482ef-48d8-466d-804e-8717358db49c": true,
+    "898d3cf4-e50f-4744-bdb5-18add6b3aa18": true,
+    "31a3c661-3088-41bb-9808-d6062eea37ab": true,
+    "549da0ad-4b10-48f0-ae83-dde810ce71a4": true,
+    "6f98bcfb-4b8a-437c-a1aa-c8fb9ca3440f": true,
+    "c95b5846-4e2d-4606-aba4-f037b2b8034d": true,
+    "13506576-706a-4071-a1ff-ba63d3b06dfa": false,
+    "4e8817ed-4560-4982-ae17-8f5ad7ed6642": false
+  },
+  "seeCGState": {
+    "WhiteTentacles": 0,
+    "PenisWorm": 0,
+    "Tentacles": 0,
+    "NDog": 0,
+    "ZirconiaV": 1,
+    "BathingWithProtya": 1,
+    "NZombie": 0,
+    "Voretoad": 0,
+    "VoretoadS": 0,
+    "VoretoadM": 0,
+    "MimicockSapphyra": 0,
+    "MimicockProtya": 0,
+    "BathingWithSapphyra": 1,
+    "CrawlingColza": 0,
+    "LustBloom": 0,
+    "Sinflower": 0,
+    "BanditsToilet": 0,
+    "BanditsMilk": 0,
+    "ThePriest": 0,
+    "Mimic": 0
+  },
+  "plotTimeLine": 2,
+  "theNPCDiaState": {
+    "Sapphyra": 3,
+    "Protya": 3,
+    "Baneberis": 2,
+    "talkAboutNZombie": false,
+    "talkAboutVoretoad": true,
+    "talkAboutCrawlingColza": false,
+    "Framboise": 3
+  },
+  "theQuestState": {
+    "ResearchFinding": 1,
+    "TentacleBra": 0,
+    "Mimicock": 0,
+    "CursedDevice": 0,
+    "WaistLamp": 2,
+    "FirstTriggerLust": 0,
+    "CureSinflower": 1,
+    "ArmsRestraint": 0,
+    "NoKillBandit": 1
+  },
+  "normalSwitch": {
+    "HintSkill": true,
+    "S0202Switch": true,
+    "S0208UnlockDoor": true,
+    "S0209Switch": true,
+    "S0210ElevatorIsUp": false,
+    "S0104UnlockFloorDoor": true,
+    "S0106UnlockDoor": false,
+    "S0109Switch": true,
+    "S0109ElevatorIsUp": true,
+    "S0110UnlockFloorDoor": true,
+    "S0111Switch": true,
+    "S0112ChainBroke": true,
+    "S0118SteamHotSpringisOn": true,
+    "S0118TriggerHotSpring": true,
+    "S0115PaintingDoor": true,
+    "S0119ShowerCurtain": true,
+    "S0119ZombieBrokeShowerCurtain": true,
+    "S0122OpenSwitch": true,
+    "S0302ShortCut": true,
+    "S0306ShortCut": true,
+    "SeenTentacleWall": true,
+    "S0308TentacleWall": false,
+    "triggeredJumpDeviceEvent": false,
+    "TentaclePantieWithCollar": false,
+    "GriseNPCGift": true,
+    "TalkToBandit1": true,
+    "S0406Switch": false,
+    "S0406ElevatorIsUp": false,
+    "S0408BossGate": true,
+    "InjuredNPC_Blue": true,
+    "InjuredNPC_Yellow": true,
+    "InjuredNPC_Green": true,
+    "InjuredNPC_Red": true,
+    "SapphyraIsBack": false,
+    "talkAboutSapphyraMissing_Baneberis": true,
+    "talkAboutSapphyraMissing_Protya": true,
+    "talkAboutSapphyraMissing_Traveler": true,
+    "talkAboutSapphyraMissing_RudeBandit": true,
+    "talkAboutResArms_Baneberis": false,
+    "S0523BossGate": true,
+    "DefeatPriest": true,
+    "S0522PreBossPlot": true,
+    "S0523PreBossPlot": true,
+    "S0522ShortCut": true
+  },
+  "normalVar": {
+    "S0104SwitchState": 2,
+    "S0112SwitchState": 2,
+    "S0118SteamHotSpring": 4,
+    "S0122CageState": 7,
+    "S0301PlatformState": 6,
+    "MimicockNPCState": 0,
+    "S0407BackToBlackBerryDaleDia": 2
+  },
+  "nPCShops": {
+    "ShopDict": {
+      "SapphyraShop00": {
+        "RepairHolyPowder": -1,
+        "HomewardBell": -1
+      },
+      "Baneberis00": {
+        "BirthControlPilula": -1,
+        "Slowgrow": -1
+      }
+    }
+  }
+}

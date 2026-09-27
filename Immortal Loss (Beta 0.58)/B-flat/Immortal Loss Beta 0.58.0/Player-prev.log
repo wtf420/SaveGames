@@ -1,0 +1,784 @@
+Mono path[0] = 'E:/OwO/ImmortalLoss Beta0.58.0(UC)/ImmortalLoss_Data/Managed'
+Mono config path = 'E:/OwO/ImmortalLoss Beta0.58.0(UC)/MonoBleedingEdge/etc'
+Input System module state changed to: Initialized.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+Initialize engine version: 2022.3.62f2 (7670c08855a9)
+[Subsystems] Discovering subsystems at path E:/OwO/ImmortalLoss Beta0.58.0(UC)/ImmortalLoss_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon RX 7700 XT (ID=0x747e)
+    Vendor:   ATI
+    VRAM:     12081 MB
+    Driver:   32.0.31041.1004
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.075 seconds
+- Finished resetting the current domain, in  0.001 seconds
+D3D11 device created for Microsoft Media Foundation video decoding.
+<RI> Initializing input.
+Using Windows.Gaming.Input
+<RI> Input initialized.
+<RI> Initialized touch support.
+The referenced script (MeshTrail) on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object 'Spine Mecanim GameObject (Standby)') is missing!
+A scripted object (probably MeshTrail?) has a different serialization layout when loading. (Read 32 bytes but expected 40 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+Odin Serializer ArchitectureInfo initialization with defaults (all unaligned read/writes disabled).
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+UnloadTime: 0.635400 ms
+Odin Serializer detected whitelisted runtime platform WindowsPlayer and memory read test succeeded; enabling all unaligned memory read/writes.
+PCHCheck is True
+Immortal Loss Beta 0.58.0, GameVersion is : Beta0.58.0, PCH is True.
+startLoadJsonTime = 2.092279
+endLoadJsoneTime = 2.456096
+Loading Duation is = 0.363817
+Ignoring device: Keyboard
+Ignoring device: Mouse
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+The referenced script (MeshTrail) on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object 'Spine Mecanim GameObject (Standby)') is missing!
+***InitialOffset_PlayerAnimator = (0.30, 0.81, 0.00)
+Start Loading DataBaseManager
+System.Collections.Generic.List`1[Skill_SO]
+System.Collections.Generic.Dictionary`2[Skill,UnityEngine.Sprite]
+Done Loading DataBaseManager : MenuSprite.
+Done Loading DataBaseManager : LanternSprite.
+Done Loading DataBaseManager : transitionTagSceneDict.
+Done Loading DataBaseManager : dropItemColorDict.
+Done Loading DataBaseManager : KeyBinding.
+Done Loading DataBaseManager : AllGamePadBinding.
+All Done Loading DataBaseManager.
+GameManager Initialization Completed.
+GameManager 初始化完成，可以開始使用了
+defaultConfigPath = true, playerConfigPath = true
+Input RestorGameData
+IE_FadeOut START
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+UnloadTime: 1.527100 ms
+There can be only one active Event System.
+PCHCheck is True
+Immortal Loss Beta 0.58.0, GameVersion is : Beta0.58.0, PCH is True.
+startLoadJsonTime = 5.370348
+endLoadJsoneTime = 5.507856
+Loading Duation is = 0.1375074
+GameManager Initialization Completed.
+Start TitleOrder
+Wait DelayAllow
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 23280.
+Total: 28.838900 ms (FindLiveObjects: 1.067200 ms CreateObjectMapping: 0.541000 ms MarkObjects: 27.180700 ms  DeleteObjects: 0.049500 ms)
+
+waitForPress = False
+waitForPress = True
+IE_FadeOut START
+***IsRestraintArms False
+CurrentEnviromentLight missing, skip.
+Adding new library: Framboise
+Adding new library: Fly
+Unloading 9 Unused Serialized files (Serialized files now loaded: 0)
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+UnloadTime: 1.451600 ms
+PCHCheck is True
+Immortal Loss Beta 0.58.0, GameVersion is : Beta0.58.0, PCH is True.
+startLoadJsonTime = 16.46641
+endLoadJsoneTime = 16.60555
+Loading Duation is = 0.1391392
+***T0108_ExitDoorOnEnable
+***NPC_BaneberisOnEnable
+***LockDoorTempOnEnable
+GameManager Initialization Completed.
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 48330.
+Total: 32.265100 ms (FindLiveObjects: 2.138300 ms CreateObjectMapping: 1.026000 ms MarkObjects: 28.661100 ms  DeleteObjects: 0.439200 ms)
+
+***IsRestraintArms False
+Adding new library: Framboise
+Adding new library: Fly
+**************5
+CloseMenu
+IE_FadeOut START
+***IsRestraintArms False
+The referenced script (SetChains) on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object 'ChainJoint') is missing!
+Unloading 16 Unused Serialized files (Serialized files now loaded: 0)
+***T0108_ExitDoorOnDisable
+***LockDoorTempOnDisable
+***NPC_BaneberisOnDisable
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+UnloadTime: 2.173500 ms
+PCHCheck is True
+Immortal Loss Beta 0.58.0, GameVersion is : Beta0.58.0, PCH is True.
+startLoadJsonTime = 38.66388
+endLoadJsoneTime = 38.80087
+Loading Duation is = 0.1369934
+***T06001_EndROnEnable
+***T06001_EndRUOnEnable
+***S0601_LanternOnEnable
+***TreasureChestOnEnable
+***ItemOnEnable
+***Item (2)OnEnable
+***Item (1)OnEnable
+GameManager Initialization Completed.
+Unloading 5200 unused Assets to reduce memory usage. Loaded Objects now: 50483.
+Total: 35.676100 ms (FindLiveObjects: 2.535500 ms CreateObjectMapping: 1.190900 ms MarkObjects: 28.258900 ms  DeleteObjects: 3.690500 ms)
+
+***IsRestraintArms False
+***ItemOnDisable
+***Item (2)OnDisable
+***Item (1)OnDisable
+**************5
+CloseMenu
+CloseMenu
+IE_FadeOut START
+***IsRestraintArms False
+[AudioManager] SE_TentaclePantie_LongLoop 已在播放中，跳過重複請求。
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+***S0601_LanternOnDisable
+***TreasureChestOnDisable
+***T06001_EndROnDisable
+***T06001_EndRUOnDisable
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+UnloadTime: 2.467600 ms
+PCHCheck is True
+Immortal Loss Beta 0.58.0, GameVersion is : Beta0.58.0, PCH is True.
+startLoadJsonTime = 103.2079
+endLoadJsoneTime = 103.3455
+Loading Duation is = 0.137619
+***NPC_Villager_BlueOnEnable
+***NPC_Villager_RedOnEnable
+***NPC_Villager_GreyOnEnable
+***NPC_BanditOnEnable
+***T0106_HouseDoor2F_LOnEnable
+***T0106_LeftEndOnEnable
+***T0106_LeftDoorOnEnable
+***T0106_AchHouseOnEnable
+***T0106_HouseDoor2F_ROnEnable
+***T0106_HouseDoor3F_MidOnEnable
+***T0106_HouseDoor1F_LOnEnable
+***T0106_RightEndOnEnable
+***Lantern_0106_BlackBerryTownOnEnable
+***NPC_SapphyraOnEnable
+***NPC_Sapphyra_PseudoOnEnable
+***NPC_FramboiseOnEnable
+***ObtainItem_TearDropOnEnable
+***ObtainDiscovery_SapphyraNote2OnEnable
+***ObtainDiscovery_Tentacle reportOnEnable
+***ObtainDiscovery_WantedLORDOnEnable
+***ObtainDiscovery_Flyer1OnEnable
+***ObtainDiscovery_NoneNameNote6OnEnable
+GameManager Initialization Completed.
+***NPC_BanditOnDisable
+***NPC_SapphyraOnDisable
+Unloading 5469 unused Assets to reduce memory usage. Loaded Objects now: 82265.
+Total: 53.061400 ms (FindLiveObjects: 4.174900 ms CreateObjectMapping: 2.834500 ms MarkObjects: 42.155300 ms  DeleteObjects: 3.896400 ms)
+
+***IsRestraintArms False
+[AudioManager] SE_TentaclePantie_LongLoop 已在播放中，跳過重複請求。
+[AudioManager] SE_TentaclePantie_LongLoop 已在播放中，跳過重複請求。
+***ObtainItem_TearDropOnDisable
+***ObtainDiscovery_SapphyraNote2OnDisable
+***ObtainDiscovery_Tentacle reportOnDisable
+***ObtainDiscovery_WantedLORDOnDisable
+***ObtainDiscovery_Flyer1OnDisable
+***ObtainDiscovery_NoneNameNote6OnDisable
+**************5
+ℹ️ 傳入的 FirstArriveBlackBerryDale 小於或等於目前的 FirstArriveZinniaStreet，不更新
+Open NPC Function
+Wait for walking
+isInTimeLineDash
+Wait for turning
+Wait for IE_FadeIn
+CanExecuteCancel True
+CanExecuteCancel False
+Deb org
+Eff org
+LedgeDetected!     is Wall
+***GameManager.Instance.playerAnimation.ClimbPoint.position (2321.83, 234.27, 0.00)
+IE_FadeOut START
+Unloading 9 Unused Serialized files (Serialized files now loaded: 0)
+***NPC_Sapphyra_PseudoOnDisable
+***Lantern_0106_BlackBerryTownOnDisable
+***NPC_Villager_GreyOnDisable
+***NPC_FramboiseOnDisable
+***T0106_LeftDoorOnDisable
+***T0106_HouseDoor1F_LOnDisable
+***T0106_HouseDoor2F_LOnDisable
+***T0106_HouseDoor2F_ROnDisable
+***T0106_HouseDoor3F_MidOnDisable
+***T0106_RightEndOnDisable
+***T0106_LeftEndOnDisable
+***T0106_AchHouseOnDisable
+***NPC_Villager_RedOnDisable
+***NPC_Villager_BlueOnDisable
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+UnloadTime: 1.705900 ms
+PCHCheck is True
+Immortal Loss Beta 0.58.0, GameVersion is : Beta0.58.0, PCH is True.
+startLoadJsonTime = 147.6074
+endLoadJsoneTime = 147.7469
+Loading Duation is = 0.1395416
+***T0108_ExitDoorOnEnable
+***NPC_BaneberisOnEnable
+***LockDoorTempOnEnable
+GameManager Initialization Completed.
+T0108_ExitDoor
+T0108_ExitDoor (TransitionSetting)
+Transfer to T0108_ExitDoor , location is: (2297.00, 239.00, 0.00)
+Unloading 37588 unused Assets to reduce memory usage. Loaded Objects now: 48805.
+Total: 63.662400 ms (FindLiveObjects: 3.881700 ms CreateObjectMapping: 2.914300 ms MarkObjects: 28.505600 ms  DeleteObjects: 28.360500 ms)
+
+***IsRestraintArms False
+[AudioManager] SE_TentaclePantie_LongLoop 已在播放中，跳過重複請求。
+[AudioManager] SE_TentaclePantie_LongLoop 已在播放中，跳過重複請求。
+Open NPC Function
+Wait for walking
+isInTimeLineDash
+Wait for turning
+Wait for IE_FadeIn
+[AudioManager] SE_TentaclePantie_LongLoop 已在播放中，跳過重複請求。
+[AudioManager] SE_TentaclePantie_LongLoop 已在播放中，跳過重複請求。
+[AudioManager] SE_TentaclePantie_LongLoop 已在播放中，跳過重複請求。
+[AudioManager] SE_TentaclePantie_LongLoop 已在播放中，跳過重複請求。
+[AudioManager] SE_TentaclePantie_LongLoop 已在播放中，跳過重複請求。
+[AudioManager] SE_TentaclePantie_LongLoop 已在播放中，跳過重複請求。
+CanExecuteCancel True
+CanExecuteCancel False
+CanExecuteCancel True
+CloseMenu
+IE_FadeOut START
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+***NPC_BaneberisOnDisable
+***T0108_ExitDoorOnDisable
+***LockDoorTempOnDisable
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+UnloadTime: 0.686800 ms
+PCHCheck is True
+Immortal Loss Beta 0.58.0, GameVersion is : Beta0.58.0, PCH is True.
+startLoadJsonTime = 187.485
+endLoadJsoneTime = 187.6223
+Loading Duation is = 0.1372986
+***NPC_Villager_BlueOnEnable
+***NPC_Villager_RedOnEnable
+***NPC_Villager_GreyOnEnable
+***NPC_BanditOnEnable
+***T0106_HouseDoor2F_LOnEnable
+***T0106_LeftEndOnEnable
+***T0106_LeftDoorOnEnable
+***T0106_AchHouseOnEnable
+***T0106_HouseDoor2F_ROnEnable
+***T0106_HouseDoor3F_MidOnEnable
+***T0106_HouseDoor1F_LOnEnable
+***T0106_RightEndOnEnable
+***Lantern_0106_BlackBerryTownOnEnable
+***NPC_SapphyraOnEnable
+***NPC_Sapphyra_PseudoOnEnable
+***NPC_FramboiseOnEnable
+***ObtainItem_TearDropOnEnable
+***ObtainDiscovery_SapphyraNote2OnEnable
+***ObtainDiscovery_Tentacle reportOnEnable
+***ObtainDiscovery_WantedLORDOnEnable
+***ObtainDiscovery_Flyer1OnEnable
+***ObtainDiscovery_NoneNameNote6OnEnable
+GameManager Initialization Completed.
+***NPC_BanditOnDisable
+***NPC_SapphyraOnDisable
+Lantern_0106_BlackBerryTown
+Lantern_0106_BlackBerryTown (TransitionSetting)
+Transfer to Lantern_0106_BlackBerryTown , location is: (2165.40, 173.47, 0.00)
+Unloading 4796 unused Assets to reduce memory usage. Loaded Objects now: 82406.
+Total: 38.392400 ms (FindLiveObjects: 3.902400 ms CreateObjectMapping: 2.516000 ms MarkObjects: 28.441800 ms  DeleteObjects: 3.531800 ms)
+
+***IsRestraintArms False
+[AudioManager] SE_TentaclePantie_LongLoop 已在播放中，跳過重複請求。
+[AudioManager] SE_TentaclePantie_LongLoop 已在播放中，跳過重複請求。
+***ObtainItem_TearDropOnDisable
+***ObtainDiscovery_SapphyraNote2OnDisable
+***ObtainDiscovery_Tentacle reportOnDisable
+***ObtainDiscovery_WantedLORDOnDisable
+***ObtainDiscovery_Flyer1OnDisable
+***ObtainDiscovery_NoneNameNote6OnDisable
+ℹ️ 傳入的 FirstArriveBlackBerryDale 小於或等於目前的 FirstArriveZinniaStreet，不更新
+IE_FadeOut START
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+***NPC_Villager_RedOnDisable
+***Lantern_0106_BlackBerryTownOnDisable
+***NPC_Sapphyra_PseudoOnDisable
+***NPC_Villager_BlueOnDisable
+***T0106_LeftDoorOnDisable
+***T0106_HouseDoor1F_LOnDisable
+***T0106_HouseDoor2F_LOnDisable
+***T0106_HouseDoor2F_ROnDisable
+***T0106_HouseDoor3F_MidOnDisable
+***T0106_RightEndOnDisable
+***T0106_LeftEndOnDisable
+***T0106_AchHouseOnDisable
+***NPC_Villager_GreyOnDisable
+***NPC_FramboiseOnDisable
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+UnloadTime: 1.191100 ms
+PCHCheck is True
+Immortal Loss Beta 0.58.0, GameVersion is : Beta0.58.0, PCH is True.
+startLoadJsonTime = 191.2551
+endLoadJsoneTime = 191.3939
+Loading Duation is = 0.1388855
+GameManager Initialization Completed.
+Unloading 57383 unused Assets to reduce memory usage. Loaded Objects now: 23805.
+Total: 81.716000 ms (FindLiveObjects: 3.537500 ms CreateObjectMapping: 2.309100 ms MarkObjects: 27.442000 ms  DeleteObjects: 48.426900 ms)
+
+GameManager 初始化完成，可以開始使用了
+defaultConfigPath = true, playerConfigPath = true
+Input RestorGameData
+IE_FadeOut START
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+UnloadTime: 0.686600 ms
+PCHCheck is True
+Immortal Loss Beta 0.58.0, GameVersion is : Beta0.58.0, PCH is True.
+startLoadJsonTime = 194.0898
+endLoadJsoneTime = 194.2283
+Loading Duation is = 0.1385651
+GameManager Initialization Completed.
+Start TitleOrder
+Wait DelayAllow
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 24021.
+Total: 29.505000 ms (FindLiveObjects: 1.473700 ms CreateObjectMapping: 0.333300 ms MarkObjects: 27.647000 ms  DeleteObjects: 0.050700 ms)
+
+waitForPress = False
+waitForPress = True
+Gallery
+CanExecuteCancel True
+IE_FadeOut START
+***IsRestraintArms False
+CurrentEnviromentLight missing, skip.
+The referenced script (SetChains) on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object 'ChainJoint') is missing!
+Unloading 15 Unused Serialized files (Serialized files now loaded: 0)
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+UnloadTime: 0.748500 ms
+PCHCheck is True
+Immortal Loss Beta 0.58.0, GameVersion is : Beta0.58.0, PCH is True.
+startLoadJsonTime = 224.3165
+endLoadJsoneTime = 224.4628
+Loading Duation is = 0.1462555
+***T06001_EndROnEnable
+***T06001_EndRUOnEnable
+***S0601_LanternOnEnable
+***TreasureChestOnEnable
+***ItemOnEnable
+***Item (2)OnEnable
+***Item (1)OnEnable
+GameManager Initialization Completed.
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 50688.
+Total: 31.822500 ms (FindLiveObjects: 2.206500 ms CreateObjectMapping: 0.989200 ms MarkObjects: 28.530700 ms  DeleteObjects: 0.095700 ms)
+
+***IsRestraintArms False
+***ItemOnDisable
+***Item (2)OnDisable
+***Item (1)OnDisable
+**************5
+Open NPC Function
+Wait for walking
+isInTimeLineStandBy
+Have Open this lantern.
+Wait for walking
+Wait for turning
+isInTimeLineStandBy
+Wait for IE_FadeIn
+IE_FadeOut START
+Unloading 15 Unused Serialized files (Serialized files now loaded: 0)
+***T06001_EndROnDisable
+***T06001_EndRUOnDisable
+***S0601_LanternOnDisable
+***TreasureChestOnDisable
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+UnloadTime: 1.830300 ms
+PCHCheck is True
+Immortal Loss Beta 0.58.0, GameVersion is : Beta0.58.0, PCH is True.
+startLoadJsonTime = 234.8564
+endLoadJsoneTime = 234.9928
+Loading Duation is = 0.1363983
+***T0501_DoorDOnEnable
+***T0501_EndROnEnable
+***T0501_EndLOnEnable
+***Lantern_0501_CampofthePilgrimsofPeaceOnEnable
+***ItemOnEnable
+GameManager Initialization Completed.
+Lantern_0501_CampofthePilgrimsofPeace
+Lantern_0501_CampofthePilgrimsofPeace (TransitionSetting)
+Transfer to Lantern_0501_CampofthePilgrimsofPeace , location is: (5226.70, 16.70, 0.00)
+Unloading 5458 unused Assets to reduce memory usage. Loaded Objects now: 45956.
+Total: 36.260800 ms (FindLiveObjects: 2.270000 ms CreateObjectMapping: 1.109300 ms MarkObjects: 28.929500 ms  DeleteObjects: 3.951700 ms)
+
+***IsRestraintArms False
+***ItemOnDisable
+LedgeDetected!     is Wall
+***GameManager.Instance.playerAnimation.ClimbPoint.position (5224.03, 42.24, 0.00)
+IE_FadeOut START
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+***Lantern_0501_CampofthePilgrimsofPeaceOnDisable
+***T0501_DoorDOnDisable
+***T0501_EndLOnDisable
+***T0501_EndROnDisable
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+UnloadTime: 1.117500 ms
+PCHCheck is True
+Immortal Loss Beta 0.58.0, GameVersion is : Beta0.58.0, PCH is True.
+startLoadJsonTime = 245.4729
+endLoadJsoneTime = 245.6096
+Loading Duation is = 0.1367188
+***MovingRope_TriggeAtEndOnEnable
+***MovingRope_TriggeAtEndOnEnable
+***MovingRope_TriggeAtStartOnEnable
+***MovingRope_TriggeAtStartOnEnable
+***NPC_BanditOnEnable
+***T0307_DoorDOnEnable
+***T0307_EndROnEnable
+***T0307_EndLOnEnable
+***TriggerEventOnEnable
+***FindingOnEnable
+***WARNINGNote1OnEnable
+GameManager Initialization Completed.
+T0307_EndR
+T0307_EndR (TransitionSetting)
+Transfer to T0307_EndR , location is: (5144.00, 40.28, 0.00)
+Unloading 888 unused Assets to reduce memory usage. Loaded Objects now: 55268.
+Total: 33.930000 ms (FindLiveObjects: 2.412100 ms CreateObjectMapping: 1.358800 ms MarkObjects: 29.468600 ms  DeleteObjects: 0.690200 ms)
+
+***IsRestraintArms False
+***FindingOnDisable
+***WARNINGNote1OnDisable
+***TriggerEventOnDisable
+ℹ️ 傳入的 FirstArriveZinniaStreet 小於或等於目前的 FirstArriveZinniaStreet，不更新
+NormalCageStartMoving
+UnControlOnRope
+NormalCageOnReachLeftEnd
+NormalCageOnStopMoving
+EndUnControlOnRope
+NormalCageStartMoving
+UnControlOnRope
+沒有可用的 SE AudioSource 供播放。
+沒有可用的 SE AudioSource 供播放。
+NormalCageOnReachLeftEnd
+NormalCageOnStopMoving
+EndUnControlOnRope
+_noExe not run this interation.
+_noExe not run this interation.
+Quit Game
+***NPC_BanditOnDisable
+Player OnDestroy
+***T0307_DoorDOnDisable
+***T0307_EndLOnDisable
+***T0307_EndROnDisable
+***MovingRope_TriggeAtStartOnDisable
+***MovingRope_TriggeAtEndOnDisable
+***MovingRope_TriggeAtStartOnDisable
+***MovingRope_TriggeAtEndOnDisable
+Input System module state changed to: ShutdownInProgress.
+Input System polling thread exited.
+Input System module state changed to: Shutdown.
+Memory Statistics:
+[ALLOC_TEMP_TLS] TLS Allocator
+  StackAllocators : 
+    [ALLOC_TEMP_MAIN]
+      Peak usage frame count: [8.0 KB-16.0 KB]: 20997 frames, [16.0 KB-32.0 KB]: 12836 frames, [32.0 KB-64.0 KB]: 13052 frames, [64.0 KB-128.0 KB]: 2 frames, [256.0 KB-0.5 MB]: 11 frames, [0.5 MB-1.0 MB]: 2 frames, [1.0 MB-2.0 MB]: 4 frames, [2.0 MB-4.0 MB]: 15 frames, [4.0 MB-8.0 MB]: 10 frames
+      Initial Block Size 4.0 MB
+      Current Block Size 8.0 MB
+      Peak Allocated Bytes 7.9 MB
+      Overflow Count 12267
+    [ALLOC_TEMP_Loading.AsyncRead]
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 252 B
+      Overflow Count 0
+    [ALLOC_TEMP_Loading.PreloadManager]
+      Initial Block Size 256.0 KB
+      Current Block Size 0.5 MB
+      Peak Allocated Bytes 496.9 KB
+      Overflow Count 205556
+    [ALLOC_TEMP_Background Job.Worker 8]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 6]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 28.9 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 0]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 16 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 10]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 9]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 5]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 28.9 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 14]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 6]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 4]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 28.9 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 3]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 30.3 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 12]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_EnlightenWorker] x 12
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 15]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 1]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 2]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 7]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_UnityGfxDeviceWorker]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 12.6 KB
+      Overflow Count 0
+    [ALLOC_TEMP_AssetGarbageCollectorHelper] x 11
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 138 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 5]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 9]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 0 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 13]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 8]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 16 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 7]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 10.4 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 1]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 43.7 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 2]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 43.6 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 3]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 11]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 10]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 0]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_HIDInput]
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 10.8 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 4]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_BatchDeleteObjects]
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+[ALLOC_DEFAULT] Dual Thread Allocator
+  Peak main deferred allocation count 812050
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 4.0 MB
+      Failed Allocations. Bucket layout:
+        16B: 10 Subsections = 10240 buckets. Failed count: 6753492
+        32B: 32 Subsections = 16384 buckets. Failed count: 3797325
+        48B: 48 Subsections = 16384 buckets. Failed count: 2405198
+        64B: 57 Subsections = 14592 buckets. Failed count: 4214822
+        80B: 35 Subsections = 7168 buckets. Failed count: 1714
+        96B: 21 Subsections = 3584 buckets. Failed count: 519031
+        112B: 19 Subsections = 2779 buckets. Failed count: 33672
+        128B: 34 Subsections = 4352 buckets. Failed count: 40335
+    [ALLOC_DEFAULT_MAIN]
+      Peak usage frame count: [128.0 MB-256.0 MB]: 2255 frames, [256.0 MB-0.50 GB]: 44672 frames, [0.50 GB-1.00 GB]: 2 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 15
+      Peak Allocated memory 0.53 GB
+      Peak Large allocation bytes 393.2 MB
+    [ALLOC_DEFAULT_THREAD]
+      Peak usage frame count: [128.0 MB-256.0 MB]: 46929 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 18
+      Peak Allocated memory 254.6 MB
+      Peak Large allocation bytes 117.7 MB
+[ALLOC_TEMP_JOB_1_FRAME]
+  Initial Block Size 2.0 MB
+  Used Block Count 0
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_TEMP_JOB_2_FRAMES]
+  Initial Block Size 2.0 MB
+  Used Block Count 0
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_TEMP_JOB_4_FRAMES (JobTemp)]
+  Initial Block Size 2.0 MB
+  Used Block Count 1
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_TEMP_JOB_ASYNC (Background)]
+  Initial Block Size 1.0 MB
+  Used Block Count 1
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_GFX] Dual Thread Allocator
+  Peak main deferred allocation count 85
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 4.0 MB
+      Failed Allocations. Bucket layout:
+        16B: 10 Subsections = 10240 buckets. Failed count: 6753492
+        32B: 32 Subsections = 16384 buckets. Failed count: 3797325
+        48B: 48 Subsections = 16384 buckets. Failed count: 2405198
+        64B: 57 Subsections = 14592 buckets. Failed count: 4214822
+        80B: 35 Subsections = 7168 buckets. Failed count: 1714
+        96B: 21 Subsections = 3584 buckets. Failed count: 519031
+        112B: 19 Subsections = 2779 buckets. Failed count: 33672
+        128B: 34 Subsections = 4352 buckets. Failed count: 40335
+    [ALLOC_GFX_MAIN]
+      Peak usage frame count: [1.0 MB-2.0 MB]: 1079 frames, [2.0 MB-4.0 MB]: 31237 frames, [4.0 MB-8.0 MB]: 2 frames, [8.0 MB-16.0 MB]: 2824 frames, [16.0 MB-32.0 MB]: 11786 frames, [32.0 MB-64.0 MB]: 1 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 4
+      Peak Allocated memory 34.9 MB
+      Peak Large allocation bytes 0 B
+    [ALLOC_GFX_THREAD]
+      Peak usage frame count: [256.0 KB-0.5 MB]: 2074 frames, [0.5 MB-1.0 MB]: 2 frames, [1.0 MB-2.0 MB]: 2 frames, [2.0 MB-4.0 MB]: 5717 frames, [4.0 MB-8.0 MB]: 16147 frames, [8.0 MB-16.0 MB]: 14563 frames, [16.0 MB-32.0 MB]: 6 frames, [32.0 MB-64.0 MB]: 8418 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 3
+      Peak Allocated memory 61.5 MB
+      Peak Large allocation bytes 32.5 MB
+[ALLOC_CACHEOBJECTS] Dual Thread Allocator
+  Peak main deferred allocation count 829
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 4.0 MB
+      Failed Allocations. Bucket layout:
+        16B: 10 Subsections = 10240 buckets. Failed count: 6753492
+        32B: 32 Subsections = 16384 buckets. Failed count: 3797325
+        48B: 48 Subsections = 16384 buckets. Failed count: 2405198
+        64B: 57 Subsections = 14592 buckets. Failed count: 4214822
+        80B: 35 Subsections = 7168 buckets. Failed count: 1714
+        96B: 21 Subsections = 3584 buckets. Failed count: 519031
+        112B: 19 Subsections = 2779 buckets. Failed count: 33672
+        128B: 34 Subsections = 4352 buckets. Failed count: 40335
+    [ALLOC_CACHEOBJECTS_MAIN]
+      Peak usage frame count: [8.0 MB-16.0 MB]: 46928 frames, [16.0 MB-32.0 MB]: 1 frames
+      Requested Block Size 4.0 MB
+      Peak Block count 4
+      Peak Allocated memory 17.5 MB
+      Peak Large allocation bytes 6.3 MB
+    [ALLOC_CACHEOBJECTS_THREAD]
+      Peak usage frame count: [8.0 MB-16.0 MB]: 2071 frames, [16.0 MB-32.0 MB]: 29399 frames, [32.0 MB-64.0 MB]: 15459 frames
+      Requested Block Size 4.0 MB
+      Peak Block count 14
+      Peak Allocated memory 51.5 MB
+      Peak Large allocation bytes 12.0 MB
+[ALLOC_TYPETREE] Dual Thread Allocator
+  Peak main deferred allocation count 0
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 4.0 MB
+      Failed Allocations. Bucket layout:
+        16B: 10 Subsections = 10240 buckets. Failed count: 6753492
+        32B: 32 Subsections = 16384 buckets. Failed count: 3797325
+        48B: 48 Subsections = 16384 buckets. Failed count: 2405198
+        64B: 57 Subsections = 14592 buckets. Failed count: 4214822
+        80B: 35 Subsections = 7168 buckets. Failed count: 1714
+        96B: 21 Subsections = 3584 buckets. Failed count: 519031
+        112B: 19 Subsections = 2779 buckets. Failed count: 33672
+        128B: 34 Subsections = 4352 buckets. Failed count: 40335
+    [ALLOC_TYPETREE_MAIN]
+      Peak usage frame count: [32.0 KB-64.0 KB]: 46929 frames
+      Requested Block Size 2.0 MB
+      Peak Block count 1
+      Peak Allocated memory 48.7 KB
+      Peak Large allocation bytes 0 B
+    [ALLOC_TYPETREE_THREAD]
+      Peak usage frame count: [16.0 KB-32.0 KB]: 46929 frames
+      Requested Block Size 2.0 MB
+      Peak Block count 1
+      Peak Allocated memory 28.6 KB
+      Peak Large allocation bytes 0 B

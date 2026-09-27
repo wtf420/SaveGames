@@ -1,0 +1,118 @@
+{
+	"MAIN4-4" : {
+		"__type" : "bool",
+		"value" : true
+	},
+	"BASE4-3" : {
+		"__type" : "bool",
+		"value" : true
+	},
+	"MAIN4-3" : {
+		"__type" : "bool",
+		"value" : true
+	},
+	"BASE4-2" : {
+		"__type" : "bool",
+		"value" : true
+	},
+	"MAIN4-2" : {
+		"__type" : "bool",
+		"value" : true
+	},
+	"BASE4-1" : {
+		"__type" : "bool",
+		"value" : true
+	},
+	"MAIN4-1" : {
+		"__type" : "bool",
+		"value" : true
+	},
+	"BASE3-6" : {
+		"__type" : "bool",
+		"value" : true
+	},
+	"MAIN3-6" : {
+		"__type" : "bool",
+		"value" : true
+	},
+	"MAIN3-5" : {
+		"__type" : "bool",
+		"value" : true
+	},
+	"BASE3-3" : {
+		"__type" : "bool",
+		"value" : true
+	},
+	"MAIN3-3" : {
+		"__type" : "bool",
+		"value" : true
+	},
+	"BASE3-1" : {
+		"__type" : "bool",
+		"value" : true
+	},
+	"MAIN3-1" : {
+		"__type" : "bool",
+		"value" : true
+	},
+	"BASE2-6" : {
+		"__type" : "bool",
+		"value" : true
+	},
+	"BASE2-4" : {
+		"__type" : "bool",
+		"value" : true
+	},
+	"BASE2-3" : {
+		"__type" : "bool",
+		"value" : true
+	},
+	"BASE2-1" : {
+		"__type" : "bool",
+		"value" : true
+	},
+	"MAIN2-1" : {
+		"__type" : "bool",
+		"value" : true
+	},
+	"BASE1-6" : {
+		"__type" : "bool",
+		"value" : true
+	},
+	"MAIN1-5" : {
+		"__type" : "bool",
+		"value" : true
+	},
+	"BASE1-4" : {
+		"__type" : "bool",
+		"value" : true
+	},
+	"MAIN1-4" : {
+		"__type" : "bool",
+		"value" : true
+	},
+	"BASE1-3" : {
+		"__type" : "bool",
+		"value" : true
+	},
+	"MAIN1-3" : {
+		"__type" : "bool",
+		"value" : true
+	},
+	"BASE1-2" : {
+		"__type" : "bool",
+		"value" : true
+	},
+	"MAIN1-2" : {
+		"__type" : "bool",
+		"value" : true
+	},
+	"BASE1-1" : {
+		"__type" : "bool",
+		"value" : true
+	},
+	"MAIN1-1" : {
+		"__type" : "bool",
+		"value" : true
+	}
+}

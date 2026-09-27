@@ -1,0 +1,18 @@
+{
+	"Language" : {
+		"__type" : "Language,Assembly-CSharp",
+		"value" : 0
+	},
+	"VSync" : {
+		"__type" : "bool",
+		"value" : true
+	},
+	"BGM" : {
+		"__type" : "float",
+		"value" : 0.480487764
+	},
+	"SFX" : {
+		"__type" : "float",
+		"value" : 0.486991882
+	}
+}

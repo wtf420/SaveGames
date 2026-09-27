@@ -1,0 +1,14 @@
+{
+	"EatGarlicCount" : {
+		"__type" : "int",
+		"value" : 3
+	},
+	"Lucky" : {
+		"__type" : "int",
+		"value" : 1
+	},
+	"HunterRank" : {
+		"__type" : "int",
+		"value" : 1
+	}
+}

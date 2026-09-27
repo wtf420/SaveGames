@@ -1,0 +1,19 @@
+{
+  "language": 0,
+  "BindingData": "",
+  "MainVolume": 0.5,
+  "BGMVolumeFraction": 0.5,
+  "SEVolumeFraction": 0.5,
+  "NB_Pantie": 2,
+  "NB_Bra": 2,
+  "NB_PantyHose": 2,
+  "ScreenBlink": true,
+  "FarView": true,
+  "AutoHideFBD": true,
+  "HeartEye": true,
+  "HardCore": true,
+  "SingleHand": false,
+  "AlwaysShowXSection": true,
+  "isWASD": false,
+  "OPInBG": false
+}

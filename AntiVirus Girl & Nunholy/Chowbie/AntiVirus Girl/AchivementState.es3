@@ -1,0 +1,26 @@
+{
+	"CentinelVersion4" : {
+		"__type" : "QuestState,Assembly-CSharp",
+		"value" : 0
+	},
+	"CentinelVersion3" : {
+		"__type" : "QuestState,Assembly-CSharp",
+		"value" : 0
+	},
+	"RefundModule" : {
+		"__type" : "QuestState,Assembly-CSharp",
+		"value" : 0
+	},
+	"FatalError" : {
+		"__type" : "QuestState,Assembly-CSharp",
+		"value" : 0
+	},
+	"CentinelVersion2" : {
+		"__type" : "QuestState,Assembly-CSharp",
+		"value" : 0
+	},
+	"TutorialClear" : {
+		"__type" : "QuestState,Assembly-CSharp",
+		"value" : 0
+	}
+}

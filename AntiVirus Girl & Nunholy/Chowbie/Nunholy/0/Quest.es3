@@ -1,0 +1,14 @@
+{
+	"TradeCount" : {
+		"__type" : "QuestState,Assembly-CSharp",
+		"value" : 0
+	},
+	"KnightKillCount" : {
+		"__type" : "QuestState,Assembly-CSharp",
+		"value" : 2
+	},
+	"RoomClear" : {
+		"__type" : "QuestState,Assembly-CSharp",
+		"value" : 2
+	}
+}

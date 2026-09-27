@@ -1,0 +1,14 @@
+{
+	"BGM" : {
+		"__type" : "float",
+		"value" : 0.4999999
+	},
+	"SFX" : {
+		"__type" : "float",
+		"value" : -6.025486
+	},
+	"Language" : {
+		"__type" : "Language,Assembly-CSharp",
+		"value" : 0
+	}
+}

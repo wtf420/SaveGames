@@ -1,0 +1,32 @@
+{
+	"PendingUnlockPopups" : {
+		"__type" : "System.Collections.Generic.HashSet`1[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],System.Core",
+		"value" : [
+			
+		]
+	},
+	"unlockedFeatureIDs" : {
+		"__type" : "System.Collections.Generic.HashSet`1[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],System.Core",
+		"value" : [
+			"MalwareLab","Version2","Version3","Version4"
+		]
+	},
+	"unlockedBotIDs" : {
+		"__type" : "System.Collections.Generic.HashSet`1[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],System.Core",
+		"value" : [
+			
+		]
+	},
+	"unlockedModuleIDs" : {
+		"__type" : "System.Collections.Generic.HashSet`1[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],System.Core",
+		"value" : [
+			"TowerII","Sniper","Cleaner","Repeater","Scanner","Resistor","Cooler","SniperII","RepeaterII","CleanerII"
+		]
+	},
+	"unlockedWeaponIDs" : {
+		"__type" : "System.Collections.Generic.HashSet`1[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],System.Core",
+		"value" : [
+			"N_SMG","N_Shotgun","N_Flamethrower","N_Sniper","Fix_Breaker","N_RocketLauncher","Fix_Keeper"
+		]
+	}
+}

@@ -1,0 +1,19 @@
+{
+  "language": 0,
+  "BindingData": "{\"bindings\":[{\"action\":\"Player/Move\",\"id\":\"8a1c15cd-ea91-4649-97c7-85dd94f2265a\",\"path\":\"<Keyboard>/a\",\"interactions\":\"null\",\"processors\":\"null\"},{\"action\":\"Player/Move\",\"id\":\"fa3ecb68-9337-4511-92eb-86610c7df102\",\"path\":\"<Keyboard>/d\",\"interactions\":\"null\",\"processors\":\"null\"},{\"action\":\"Player/Move\",\"id\":\"8ec5c351-0ee6-400b-a607-4bb9076e3186\",\"path\":\"<Keyboard>/s\",\"interactions\":\"null\",\"processors\":\"null\"},{\"action\":\"Player/Move\",\"id\":\"f999e022-a15a-449e-bb84-b0b580d67a08\",\"path\":\"<Keyboard>/w\",\"interactions\":\"null\",\"processors\":\"null\"}]}",
+  "MainVolume": 0.200000018,
+  "BGMVolumeFraction": 0.5,
+  "SEVolumeFraction": 0.5,
+  "NB_Pantie": 2,
+  "NB_Bra": 2,
+  "NB_PantyHose": 2,
+  "ScreenBlink": true,
+  "FarView": true,
+  "AutoHideFBD": true,
+  "HeartEye": true,
+  "HardCore": true,
+  "SingleHand": true,
+  "AlwaysShowXSection": true,
+  "isWASD": true,
+  "OPInBG": false
+}

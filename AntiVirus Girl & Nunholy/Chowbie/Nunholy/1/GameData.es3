@@ -1,0 +1,62 @@
+{
+	"Silver" : {
+		"__type" : "int",
+		"value" : 26
+	},
+	"BloodChange" : {
+		"__type" : "int",
+		"value" : 2
+	},
+	"RoomClear" : {
+		"__type" : "int",
+		"value" : 4
+	},
+	"MaidAffinity" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"TradeCount" : {
+		"__type" : "int",
+		"value" : 1
+	},
+	"Ruby" : {
+		"__type" : "int",
+		"value" : 1
+	},
+	"BloodAbsorb" : {
+		"__type" : "int",
+		"value" : 1
+	},
+	"Skill" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"Sane_Skill_Holy" : {
+		"__type" : "int",
+		"value" : 1
+	},
+	"SubWeapon" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"Sane_SW_Melee" : {
+		"__type" : "int",
+		"value" : 1
+	},
+	"MainWeapon" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"Sane_MW_Holy" : {
+		"__type" : "int",
+		"value" : 1
+	},
+	"LastPlayedTime" : {
+		"__type" : "string",
+		"value" : "2026.09.11 23:49"
+	},
+	"Character" : {
+		"__type" : "Character,Assembly-CSharp",
+		"value" : 1
+	}
+}
